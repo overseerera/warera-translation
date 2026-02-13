@@ -1975,7 +1975,7 @@ msgstr "Член Совета для удаления"
 
 #: src/components/_layout/LoadingScreenContent.tsx:19
 msgid "countries"
-msgstr "страны"
+msgstr "стран"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:95
 msgid "Countries"
@@ -6017,7 +6017,7 @@ msgstr "Используется для улучшения компаний, в�
 
 #: src/components/_layout/LoadingScreenContent.tsx:22
 msgid "user"
-msgstr "игрок"
+msgstr "игрока"
 
 #: src/pages/user/[userId]/bans.tsx:144
 msgid "User Actions"
@@ -6708,7 +6708,7 @@ msgstr "Ваши данные сохранены."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:85
 msgid "Your inventory holds all your items. Let's see what you've got!"
-msgstr "Ваш инвентарь содержит все Ваши предметы. Давай посмотрим что у вас есть!"
+msgstr "Ваш инвентарь содержит все Ваши предметы. Давай посмотрим, что у вас есть!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:48
 msgid "Your luck is just warming up, don't quit"
