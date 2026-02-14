@@ -11,6 +11,7 @@ en/messages.po   # English (source locale)
 es/messages.po   # Spanish
 fr/messages.po   # French
 it/messages.po   # Italian
+lv/messages.po   # Latvian
 pl/messages.po   # Polish
 pt/messages.po   # Portuguese
 ro/messages.po   # Romanian
