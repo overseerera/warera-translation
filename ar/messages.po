@@ -282,7 +282,7 @@ msgstr "حوّل <0/> <1>{0}</1> إلى <2/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:164
 msgid "<0/> is attacking <1/>"
-msgstr ""
+msgstr "<0/> يهاجم <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1035
 msgid "<0/> is attacking <1/> in <2/>"
@@ -298,7 +298,7 @@ msgstr "<0/> في حالة إفلاس. سيتم إلغاء كافة التحال
 
 #: src/components/_political/event/event.frontConfig.tsx:155
 msgid "<0/> is revolting <1/>"
-msgstr ""
+msgstr "<0/> يثور ضد <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1050
 msgid "<0/> is revolting in <1/> against your country"
@@ -3438,7 +3438,7 @@ msgstr "آخر الهدايا"
 #: src/components/_user/auth/ConnectFromModal.tsx:317
 #: src/components/_user/auth/ConnectFromModal.tsx:336
 msgid "Last used"
-msgstr ""
+msgstr "آخر استخدام"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:192
 msgid "Last used:"
