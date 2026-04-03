@@ -7204,7 +7204,7 @@ msgstr "Korisničko ime uklonjeno"
 msgid "Users"
 msgstr "Korisnici"
 
-#: src/components/_layout/LayoutUserMenu.tsx:243
+#: src/components/_layout/LayoutUserMenu.tsx:244
 msgid "Users online"
 msgstr ""
 
