@@ -170,12 +170,12 @@ msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> meow <1>{0}</1> meow.{1}"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:382
+#: src/components/_political/law/law.frontConfig.tsx:383
 msgid "<0/> buys <1/> for <2>{0}</2>"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:393
+#: src/components/_political/law/law.frontConfig.tsx:394
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> meow meow meow <1/> meow <2>{0}</2>"
 
@@ -504,11 +504,6 @@ msgstr "<0>{0}/{1}</0> Meow"
 #: src/components/_economy/workOffer/WorkersLimit.tsx:24
 msgid "<0>{0}/{1}</0> Workers"
 msgstr "<0>{0}/{1}</0> Meow"
-
-#. placeholder {0}: law.data.amount
-#: src/components/_political/law/law.frontConfig.tsx:347
-msgid "<0>{0}</0> → <1/>"
-msgstr ""
 
 #. placeholder {0}: sideBonus.muHqBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:111
@@ -1144,7 +1139,7 @@ msgstr ""
 msgid "Accept an alliance with <0/> increasing your citizens damages by <1>{0}</1> when fighting for them by and reciprocally"
 msgstr "Meow meow meow meow <0/> meow meow meow’ meow meow <1>{0}</1> meow meow meow meow, meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:378
+#: src/components/_political/law/law.frontConfig.tsx:379
 msgid "Accept or reject a region buy offer"
 msgstr "Meow meow meow meow meow meow meow"
 
@@ -1847,7 +1842,7 @@ msgid "Bunker"
 msgstr "Meow"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:410
+#: src/components/_political/law/law.frontConfig.tsx:411
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
 msgstr ""
 
@@ -2003,13 +1998,13 @@ msgstr "Meow meow"
 msgid "Change tax"
 msgstr "Meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:484
+#: src/components/_political/law/law.frontConfig.tsx:485
 msgid "Change the country color scheme"
 msgstr "Meow meow meow meow meow"
 
 #. placeholder {0}: law.data.scheme
 #. placeholder {1}: law.data.mapAccent
-#: src/components/_political/law/law.frontConfig.tsx:490
+#: src/components/_political/law/law.frontConfig.tsx:491
 msgid "Change the country color scheme to <0>{0}</0> with a <1>{1}</1> map accent"
 msgstr "Meow meow meow meow meow meow <0>{0}</0> meow meow <1>{1}</1> meow meow"
 
@@ -3319,15 +3314,15 @@ msgstr "Meow meow meow meow meow <0/>"
 msgid "Finance a resistance battle in an occupied region of your country"
 msgstr "Meow meow meow meow meow meow meow meow meow meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:553
+#: src/components/_political/law/law.frontConfig.tsx:554
 msgid "Finance a resistance to liberate an occupied region"
 msgstr "Meow meow meow meow meow meow meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:566
+#: src/components/_political/law/law.frontConfig.tsx:567
 msgid "Finance a revolt to liberate <0/>"
 msgstr "Meow meow meow meow meow <0/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:552
+#: src/components/_political/law/law.frontConfig.tsx:553
 #: src/components/_political/law/lawNames.tsx:38
 msgid "Finance foreign resistance"
 msgstr "Meow meow meow"
@@ -3336,7 +3331,7 @@ msgstr "Meow meow meow"
 msgid "Finance local resistance"
 msgstr "Meow meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:557
+#: src/components/_political/law/law.frontConfig.tsx:558
 msgid "Finance resistance in <0/>"
 msgstr ""
 
@@ -4099,15 +4094,15 @@ msgstr "Meow meow meow meow!"
 msgid "Level up!"
 msgstr "Meow meow!"
 
-#: src/components/_political/law/law.frontConfig.tsx:437
+#: src/components/_political/law/law.frontConfig.tsx:438
 msgid "Liberate <0/>"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:446
+#: src/components/_political/law/law.frontConfig.tsx:447
 msgid "Liberate <0/> and return it to its original country"
 msgstr "Meow <0/> meow meow meow meow meow meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:432
+#: src/components/_political/law/law.frontConfig.tsx:433
 #: src/components/_political/law/lawNames.tsx:32
 msgid "Liberate a region"
 msgstr "Meow meow meow"
@@ -4870,7 +4865,7 @@ msgstr "Meow meow meow"
 msgid "No ground ranking yet."
 msgstr "Meow meow meow meow."
 
-#: src/components/_political/law/LawList.tsx:72
+#: src/components/_political/law/LawList.tsx:65
 msgid "No laws yet"
 msgstr "Meow meow meow"
 
@@ -5574,16 +5569,16 @@ msgid "Propose peace to another country"
 msgstr "Meow meow meow meow meow"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:421
+#: src/components/_political/law/law.frontConfig.tsx:422
 msgid "Propose to buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Meow meow meow <0/> meow <1/> meow <2>{0}</2>"
 
-#: src/components/_political/law/law.frontConfig.tsx:405
+#: src/components/_political/law/law.frontConfig.tsx:406
 #: src/components/_political/law/lawNames.tsx:31
 msgid "Propose to buy a region"
 msgstr "Meow meow meow meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:406
+#: src/components/_political/law/law.frontConfig.tsx:407
 msgid "Propose to buy a region from another country"
 msgstr "Meow meow meow meow meow meow meow meow"
 
@@ -5773,7 +5768,7 @@ msgstr "Meow <0>{0}</0> meow meow"
 msgid "Region"
 msgstr "Meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:377
+#: src/components/_political/law/law.frontConfig.tsx:378
 #: src/components/_political/law/lawNames.tsx:30
 msgid "Region buy offer"
 msgstr "Meow meow meow"
@@ -5878,7 +5873,7 @@ msgstr "Meow meow meow"
 msgid "Remove Description"
 msgstr "Meow Meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:367
+#: src/components/_political/law/law.frontConfig.tsx:368
 #: src/components/_political/law/lawNames.tsx:29
 msgid "Remove enemy"
 msgstr "Meow meow"
@@ -5999,7 +5994,7 @@ msgstr "Meow meow meow"
 msgid "Restore your health!"
 msgstr "Meow meow meow!"
 
-#: src/components/_political/law/law.frontConfig.tsx:433
+#: src/components/_political/law/law.frontConfig.tsx:434
 msgid "Return a region to its original country"
 msgstr "Meow meow meow meow meow meow meow"
 
@@ -6244,7 +6239,7 @@ msgid "sells"
 msgstr "meow"
 
 #. placeholder {0}: law.data.amount
-#: src/components/_political/law/law.frontConfig.tsx:357
+#: src/components/_political/law/law.frontConfig.tsx:358
 msgid "Send <0>{0}</0> to <1/>"
 msgstr "Meow <0>{0}</0> meow <1/>"
 
@@ -6288,11 +6283,11 @@ msgstr "Meow meow <0>meow</0>"
 msgid "Set a referrer"
 msgstr "Meow meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:457
+#: src/components/_political/law/law.frontConfig.tsx:458
 msgid "Set a welcome article for your country"
 msgstr "Meow meow meow meow meow meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:462
+#: src/components/_political/law/law.frontConfig.tsx:463
 msgid "Set a welcome article for your country<0/>"
 msgstr "Meow meow meow meow meow meow meow<0/>"
 
@@ -6300,13 +6295,13 @@ msgstr "Meow meow meow meow meow meow meow<0/>"
 msgid "Set bounty"
 msgstr "Meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:483
+#: src/components/_political/law/law.frontConfig.tsx:484
 #: src/components/_political/law/lawNames.tsx:34
 msgid "Set country color"
 msgstr "Meow meow meow"
 
 #. placeholder {0}: law.data.scheme
-#: src/components/_political/law/law.frontConfig.tsx:475
+#: src/components/_political/law/law.frontConfig.tsx:476
 msgid "Set country color to <0>{0}</0> "
 msgstr ""
 
@@ -6326,17 +6321,17 @@ msgstr "Meow meow meow"
 msgid "Set Profile Picture"
 msgstr "Meow Meow Meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:529
+#: src/components/_political/law/law.frontConfig.tsx:530
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
 msgstr "Meow meow meow"
 
 #. placeholder {0}: ts[law.data.itemCode]
-#: src/components/_political/law/law.frontConfig.tsx:535
+#: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set the country's specialized item to <0>{0}</0>.<1/>The country strategic resources <2>Production Bonus</2> will be available for local companies producing this item."
 msgstr "Meow meow meow'meow meow meow meow <0>{0}</0>.<1/>Meow meow meow meow <2>Meow Meow</2> meow meow meow meow meow meow meow meow meow."
 
-#: src/components/_political/law/law.frontConfig.tsx:530
+#: src/components/_political/law/law.frontConfig.tsx:531
 msgid "Set the country's specialized production item"
 msgstr "Meow meow meow'meow meow meow meow"
 
@@ -6344,7 +6339,7 @@ msgstr "Meow meow meow'meow meow meow meow"
 msgid "Set Username"
 msgstr "Meow Meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:456
+#: src/components/_political/law/law.frontConfig.tsx:457
 #: src/components/_political/law/lawNames.tsx:33
 msgid "Set welcome article"
 msgstr "Meow meow meow"
@@ -7156,6 +7151,10 @@ msgstr "Meow Meow"
 msgid "Transfer to company (optional)"
 msgstr "Meow meow meow (meow)"
 
+#: src/components/_political/law/law.frontConfig.tsx:347
+msgid "Transfer<0/> to <1/>"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:209
 msgid "Translator"
 msgstr "Meow"
@@ -7238,8 +7237,8 @@ msgstr "Meow Meow"
 msgid "Unselect all"
 msgstr "Meow meow"
 
-#: src/components/_political/law/law.frontConfig.tsx:368
-#: src/components/_political/law/law.frontConfig.tsx:370
+#: src/components/_political/law/law.frontConfig.tsx:369
+#: src/components/_political/law/law.frontConfig.tsx:371
 msgid "Unset the sworn enemy country"
 msgstr "Meow meow meow meow meow"
 
@@ -7712,7 +7711,7 @@ msgid "Wow congratulations! Anyway have you considered buying premium?"
 msgstr "Meow meow! Meow meow meow meow meow meow?"
 
 #: src/components/_political/law/LawFormModal.tsx:168
-#: src/components/_political/law/LawList.tsx:58
+#: src/components/_political/law/LawList.tsx:51
 msgid "Write a law"
 msgstr "Meow meow meow"
 
@@ -7757,10 +7756,6 @@ msgstr "Meow meow meow meow meow meow meow meow. Meow meow."
 #: src/pages/user/[userId]/companies.tsx:64
 msgid "You are jobless"
 msgstr "Meow meow meow"
-
-#: src/components/_political/law/LawList.tsx:48
-msgid "You are not a congress member of this country"
-msgstr "Meow meow meow meow meow meow meow meow meow"
 
 #: src/components/_political/partyMotion/PartyMotionList.tsx:44
 msgid "You are not a council member of this party"

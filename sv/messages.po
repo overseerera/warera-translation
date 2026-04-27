@@ -170,12 +170,12 @@ msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> med <1>{0}</1> i lön.{1}"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:382
+#: src/components/_political/law/law.frontConfig.tsx:383
 msgid "<0/> buys <1/> for <2>{0}</2>"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:393
+#: src/components/_political/law/law.frontConfig.tsx:394
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> köper din region <1/> för <2>{0}</2>"
 
@@ -504,11 +504,6 @@ msgstr "<0>{0}/{1}</0> Företag"
 #: src/components/_economy/workOffer/WorkersLimit.tsx:24
 msgid "<0>{0}/{1}</0> Workers"
 msgstr "<0>{0}/{1}</0> anställda"
-
-#. placeholder {0}: law.data.amount
-#: src/components/_political/law/law.frontConfig.tsx:347
-msgid "<0>{0}</0> → <1/>"
-msgstr ""
 
 #. placeholder {0}: sideBonus.muHqBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:111
@@ -1144,7 +1139,7 @@ msgstr ""
 msgid "Accept an alliance with <0/> increasing your citizens damages by <1>{0}</1> when fighting for them by and reciprocally"
 msgstr "Acceptera allians med <0/>, vilket ökar dina medborgares skada med <1>{0}</1> när de strider för dem, och vice versa"
 
-#: src/components/_political/law/law.frontConfig.tsx:378
+#: src/components/_political/law/law.frontConfig.tsx:379
 msgid "Accept or reject a region buy offer"
 msgstr "Acceptera eller avslå ett köperbjudande för regionen"
 
@@ -1847,7 +1842,7 @@ msgid "Bunker"
 msgstr "Bunker"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:410
+#: src/components/_political/law/law.frontConfig.tsx:411
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
 msgstr ""
 
@@ -2003,13 +1998,13 @@ msgstr "Ändra produktion"
 msgid "Change tax"
 msgstr "Ändra skatt"
 
-#: src/components/_political/law/law.frontConfig.tsx:484
+#: src/components/_political/law/law.frontConfig.tsx:485
 msgid "Change the country color scheme"
 msgstr "Ändra nationell färgprofil"
 
 #. placeholder {0}: law.data.scheme
 #. placeholder {1}: law.data.mapAccent
-#: src/components/_political/law/law.frontConfig.tsx:490
+#: src/components/_political/law/law.frontConfig.tsx:491
 msgid "Change the country color scheme to <0>{0}</0> with a <1>{1}</1> map accent"
 msgstr ""
 
@@ -3319,15 +3314,15 @@ msgstr "Finansiera en motståndsstrid i <0/>"
 msgid "Finance a resistance battle in an occupied region of your country"
 msgstr "Finansiera en motståndsstrid i en ockuperad region i ditt land"
 
-#: src/components/_political/law/law.frontConfig.tsx:553
+#: src/components/_political/law/law.frontConfig.tsx:554
 msgid "Finance a resistance to liberate an occupied region"
 msgstr "Finansiera ett motstånd för att befria en ockuperad region"
 
-#: src/components/_political/law/law.frontConfig.tsx:566
+#: src/components/_political/law/law.frontConfig.tsx:567
 msgid "Finance a revolt to liberate <0/>"
 msgstr "Finansiera en revolt för att befria <0/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:552
+#: src/components/_political/law/law.frontConfig.tsx:553
 #: src/components/_political/law/lawNames.tsx:38
 msgid "Finance foreign resistance"
 msgstr "Finansiera utländskt motstånd"
@@ -3336,7 +3331,7 @@ msgstr "Finansiera utländskt motstånd"
 msgid "Finance local resistance"
 msgstr "Finansiera lokalt motstånd"
 
-#: src/components/_political/law/law.frontConfig.tsx:557
+#: src/components/_political/law/law.frontConfig.tsx:558
 msgid "Finance resistance in <0/>"
 msgstr ""
 
@@ -4099,15 +4094,15 @@ msgstr "Uppgradera dina färdigheter!"
 msgid "Level up!"
 msgstr "Ny nivå!"
 
-#: src/components/_political/law/law.frontConfig.tsx:437
+#: src/components/_political/law/law.frontConfig.tsx:438
 msgid "Liberate <0/>"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:446
+#: src/components/_political/law/law.frontConfig.tsx:447
 msgid "Liberate <0/> and return it to its original country"
 msgstr "Befria <0/> och återlämna regionen till sitt ursprungliga land"
 
-#: src/components/_political/law/law.frontConfig.tsx:432
+#: src/components/_political/law/law.frontConfig.tsx:433
 #: src/components/_political/law/lawNames.tsx:32
 msgid "Liberate a region"
 msgstr "Befria en region"
@@ -4870,7 +4865,7 @@ msgstr "Inga donationer ännu"
 msgid "No ground ranking yet."
 msgstr "Ingen terrängranking ännu."
 
-#: src/components/_political/law/LawList.tsx:72
+#: src/components/_political/law/LawList.tsx:65
 msgid "No laws yet"
 msgstr "Inga lagar ännu"
 
@@ -5574,16 +5569,16 @@ msgid "Propose peace to another country"
 msgstr "Föreslå fred med ett annat land"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:421
+#: src/components/_political/law/law.frontConfig.tsx:422
 msgid "Propose to buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Erbjud att köpa <0/> från <1/> för <2>{0}</2>"
 
-#: src/components/_political/law/law.frontConfig.tsx:405
+#: src/components/_political/law/law.frontConfig.tsx:406
 #: src/components/_political/law/lawNames.tsx:31
 msgid "Propose to buy a region"
 msgstr "Föreslå köp av en region"
 
-#: src/components/_political/law/law.frontConfig.tsx:406
+#: src/components/_political/law/law.frontConfig.tsx:407
 msgid "Propose to buy a region from another country"
 msgstr "Erbjud att köpa en region från ett annat land"
 
@@ -5773,7 +5768,7 @@ msgstr "Återställer <0>{0}</0> vid konsumtion"
 msgid "Region"
 msgstr "Region"
 
-#: src/components/_political/law/law.frontConfig.tsx:377
+#: src/components/_political/law/law.frontConfig.tsx:378
 #: src/components/_political/law/lawNames.tsx:30
 msgid "Region buy offer"
 msgstr "Köperbjudande för region"
@@ -5878,7 +5873,7 @@ msgstr "Avlägsna rådsmedlem"
 msgid "Remove Description"
 msgstr "Ta bort beskrivning"
 
-#: src/components/_political/law/law.frontConfig.tsx:367
+#: src/components/_political/law/law.frontConfig.tsx:368
 #: src/components/_political/law/lawNames.tsx:29
 msgid "Remove enemy"
 msgstr "Ta bort fiende"
@@ -5999,7 +5994,7 @@ msgstr "Svar på meddelande"
 msgid "Restore your health!"
 msgstr "Återställ din hälsa!"
 
-#: src/components/_political/law/law.frontConfig.tsx:433
+#: src/components/_political/law/law.frontConfig.tsx:434
 msgid "Return a region to its original country"
 msgstr "Återlämna en region till dess ursprungliga land"
 
@@ -6244,7 +6239,7 @@ msgid "sells"
 msgstr "säljer"
 
 #. placeholder {0}: law.data.amount
-#: src/components/_political/law/law.frontConfig.tsx:357
+#: src/components/_political/law/law.frontConfig.tsx:358
 msgid "Send <0>{0}</0> to <1/>"
 msgstr "Skicka <0>{0}</0> till <1/>"
 
@@ -6288,11 +6283,11 @@ msgstr "Ange en <0>beskrivning</0>"
 msgid "Set a referrer"
 msgstr "Ange en referent"
 
-#: src/components/_political/law/law.frontConfig.tsx:457
+#: src/components/_political/law/law.frontConfig.tsx:458
 msgid "Set a welcome article for your country"
 msgstr "Ange en välkomstartikel för ditt land"
 
-#: src/components/_political/law/law.frontConfig.tsx:462
+#: src/components/_political/law/law.frontConfig.tsx:463
 msgid "Set a welcome article for your country<0/>"
 msgstr "Ange en välkomstartikel för ditt land<0/>"
 
@@ -6300,13 +6295,13 @@ msgstr "Ange en välkomstartikel för ditt land<0/>"
 msgid "Set bounty"
 msgstr "Sätt belöning"
 
-#: src/components/_political/law/law.frontConfig.tsx:483
+#: src/components/_political/law/law.frontConfig.tsx:484
 #: src/components/_political/law/lawNames.tsx:34
 msgid "Set country color"
 msgstr "Välj landsfärg"
 
 #. placeholder {0}: law.data.scheme
-#: src/components/_political/law/law.frontConfig.tsx:475
+#: src/components/_political/law/law.frontConfig.tsx:476
 msgid "Set country color to <0>{0}</0> "
 msgstr ""
 
@@ -6326,17 +6321,17 @@ msgstr "Välj partiideologi"
 msgid "Set Profile Picture"
 msgstr "Välj profilbild"
 
-#: src/components/_political/law/law.frontConfig.tsx:529
+#: src/components/_political/law/law.frontConfig.tsx:530
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
 msgstr "Välj specialiseringsföremål"
 
 #. placeholder {0}: ts[law.data.itemCode]
-#: src/components/_political/law/law.frontConfig.tsx:535
+#: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set the country's specialized item to <0>{0}</0>.<1/>The country strategic resources <2>Production Bonus</2> will be available for local companies producing this item."
 msgstr "Sätt landets specialiserade föremål till <0>{0}</0>.<1/>Landets strategiska resursers <2>Produktionsbonus</2> kommer att vara tillgänglig för lokala företag som producerar detta föremål."
 
-#: src/components/_political/law/law.frontConfig.tsx:530
+#: src/components/_political/law/law.frontConfig.tsx:531
 msgid "Set the country's specialized production item"
 msgstr "Ställ in landets specialiserade produktionsföremål"
 
@@ -6344,7 +6339,7 @@ msgstr "Ställ in landets specialiserade produktionsföremål"
 msgid "Set Username"
 msgstr "Välj användarnamn"
 
-#: src/components/_political/law/law.frontConfig.tsx:456
+#: src/components/_political/law/law.frontConfig.tsx:457
 #: src/components/_political/law/lawNames.tsx:33
 msgid "Set welcome article"
 msgstr "Välj välkomstartikel"
@@ -7156,6 +7151,10 @@ msgstr "Överför ägarskap"
 msgid "Transfer to company (optional)"
 msgstr "Flytta till företag (valfritt)"
 
+#: src/components/_political/law/law.frontConfig.tsx:347
+msgid "Transfer<0/> to <1/>"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:209
 msgid "Translator"
 msgstr "Översättare"
@@ -7238,8 +7237,8 @@ msgstr "Bidragsgivare till oroligheter"
 msgid "Unselect all"
 msgstr "Avmarkera alla"
 
-#: src/components/_political/law/law.frontConfig.tsx:368
-#: src/components/_political/law/law.frontConfig.tsx:370
+#: src/components/_political/law/law.frontConfig.tsx:369
+#: src/components/_political/law/law.frontConfig.tsx:371
 msgid "Unset the sworn enemy country"
 msgstr "Ta bort svuren fiende-status för landet"
 
@@ -7712,7 +7711,7 @@ msgid "Wow congratulations! Anyway have you considered buying premium?"
 msgstr "Wow, grattis! Har du förresten övervägt att köpa premium?"
 
 #: src/components/_political/law/LawFormModal.tsx:168
-#: src/components/_political/law/LawList.tsx:58
+#: src/components/_political/law/LawList.tsx:51
 msgid "Write a law"
 msgstr "Skriv en lag"
 
@@ -7757,10 +7756,6 @@ msgstr "Du är redan vicepresident i ett annat land. Avgå först."
 #: src/pages/user/[userId]/companies.tsx:64
 msgid "You are jobless"
 msgstr "Du är arbetslös"
-
-#: src/components/_political/law/LawList.tsx:48
-msgid "You are not a congress member of this country"
-msgstr "Du är inte riksdagsledamot i detta land"
 
 #: src/components/_political/partyMotion/PartyMotionList.tsx:44
 msgid "You are not a council member of this party"

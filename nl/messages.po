@@ -170,12 +170,12 @@ msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> bij <1>{0}</1> loon.{1}"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:382
+#: src/components/_political/law/law.frontConfig.tsx:383
 msgid "<0/> buys <1/> for <2>{0}</2>"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:393
+#: src/components/_political/law/law.frontConfig.tsx:394
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> koopt je regio <1/> voor <2>{0}</2>"
 
@@ -504,11 +504,6 @@ msgstr "<0>{0}/{1}</0> Bedrijven"
 #: src/components/_economy/workOffer/WorkersLimit.tsx:24
 msgid "<0>{0}/{1}</0> Workers"
 msgstr "<0>{0}/{1}</0> Werknemers"
-
-#. placeholder {0}: law.data.amount
-#: src/components/_political/law/law.frontConfig.tsx:347
-msgid "<0>{0}</0> → <1/>"
-msgstr ""
 
 #. placeholder {0}: sideBonus.muHqBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:111
@@ -1144,7 +1139,7 @@ msgstr ""
 msgid "Accept an alliance with <0/> increasing your citizens damages by <1>{0}</1> when fighting for them by and reciprocally"
 msgstr "Accepteer een alliantie met <0/> waarbij de schade die je burgers doen met <1>{0}</1> verhoogt als je voor hen vecht, en wederzijds"
 
-#: src/components/_political/law/law.frontConfig.tsx:378
+#: src/components/_political/law/law.frontConfig.tsx:379
 msgid "Accept or reject a region buy offer"
 msgstr "Accepteer of wijs een aankoop van regio af"
 
@@ -1847,7 +1842,7 @@ msgid "Bunker"
 msgstr "Bunker"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:410
+#: src/components/_political/law/law.frontConfig.tsx:411
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
 msgstr ""
 
@@ -2003,13 +1998,13 @@ msgstr "Productie wijzigen"
 msgid "Change tax"
 msgstr "Wijzig belasting"
 
-#: src/components/_political/law/law.frontConfig.tsx:484
+#: src/components/_political/law/law.frontConfig.tsx:485
 msgid "Change the country color scheme"
 msgstr "Verander het kleurenschema van het land"
 
 #. placeholder {0}: law.data.scheme
 #. placeholder {1}: law.data.mapAccent
-#: src/components/_political/law/law.frontConfig.tsx:490
+#: src/components/_political/law/law.frontConfig.tsx:491
 msgid "Change the country color scheme to <0>{0}</0> with a <1>{1}</1> map accent"
 msgstr "Verander het kleurenschema van het land naar <0>{0}</0> met een <1>{1}</1> kaartaccent"
 
@@ -3319,15 +3314,15 @@ msgstr "Een verzetsstrijd financieren in <0/>"
 msgid "Finance a resistance battle in an occupied region of your country"
 msgstr "Financier een verzetsgevecht in een bezet gebied van je land"
 
-#: src/components/_political/law/law.frontConfig.tsx:553
+#: src/components/_political/law/law.frontConfig.tsx:554
 msgid "Finance a resistance to liberate an occupied region"
 msgstr "Financier een verzet om een bezet gebied te bevrijden"
 
-#: src/components/_political/law/law.frontConfig.tsx:566
+#: src/components/_political/law/law.frontConfig.tsx:567
 msgid "Finance a revolt to liberate <0/>"
 msgstr "Financier een opstand om <0/> te bevrijden"
 
-#: src/components/_political/law/law.frontConfig.tsx:552
+#: src/components/_political/law/law.frontConfig.tsx:553
 #: src/components/_political/law/lawNames.tsx:38
 msgid "Finance foreign resistance"
 msgstr "Financier een buitenlandse weerstand"
@@ -3336,7 +3331,7 @@ msgstr "Financier een buitenlandse weerstand"
 msgid "Finance local resistance"
 msgstr "Financier een lokaal verzet"
 
-#: src/components/_political/law/law.frontConfig.tsx:557
+#: src/components/_political/law/law.frontConfig.tsx:558
 msgid "Finance resistance in <0/>"
 msgstr ""
 
@@ -4099,15 +4094,15 @@ msgstr "Verhoog je vaardigheden!"
 msgid "Level up!"
 msgstr "Level omhoog!"
 
-#: src/components/_political/law/law.frontConfig.tsx:437
+#: src/components/_political/law/law.frontConfig.tsx:438
 msgid "Liberate <0/>"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:446
+#: src/components/_political/law/law.frontConfig.tsx:447
 msgid "Liberate <0/> and return it to its original country"
 msgstr "Bevrijd <0/> en geef het terug aan het oorspronkelijke land"
 
-#: src/components/_political/law/law.frontConfig.tsx:432
+#: src/components/_political/law/law.frontConfig.tsx:433
 #: src/components/_political/law/lawNames.tsx:32
 msgid "Liberate a region"
 msgstr "Bevrijd een regio"
@@ -4870,7 +4865,7 @@ msgstr "Nog geen donaties"
 msgid "No ground ranking yet."
 msgstr "Nog geen grondranglijst."
 
-#: src/components/_political/law/LawList.tsx:72
+#: src/components/_political/law/LawList.tsx:65
 msgid "No laws yet"
 msgstr "Nog geen wetten"
 
@@ -5574,16 +5569,16 @@ msgid "Propose peace to another country"
 msgstr "Vrede voorstellen aan een ander land"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:421
+#: src/components/_political/law/law.frontConfig.tsx:422
 msgid "Propose to buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Stel voor om <0/> te kopen van <1/> voor <2>{0}</2>"
 
-#: src/components/_political/law/law.frontConfig.tsx:405
+#: src/components/_political/law/law.frontConfig.tsx:406
 #: src/components/_political/law/lawNames.tsx:31
 msgid "Propose to buy a region"
 msgstr "Stel voor om een regio te kopen"
 
-#: src/components/_political/law/law.frontConfig.tsx:406
+#: src/components/_political/law/law.frontConfig.tsx:407
 msgid "Propose to buy a region from another country"
 msgstr "Stel voor om een regio van een ander land te kopen"
 
@@ -5773,7 +5768,7 @@ msgstr "Regeneert <0>{0}</0> wanneer geconsumeerd"
 msgid "Region"
 msgstr "Regio"
 
-#: src/components/_political/law/law.frontConfig.tsx:377
+#: src/components/_political/law/law.frontConfig.tsx:378
 #: src/components/_political/law/lawNames.tsx:30
 msgid "Region buy offer"
 msgstr "Koopaanbod regio"
@@ -5878,7 +5873,7 @@ msgstr "Verwijder raadslid"
 msgid "Remove Description"
 msgstr "Beschrijving verwijderen"
 
-#: src/components/_political/law/law.frontConfig.tsx:367
+#: src/components/_political/law/law.frontConfig.tsx:368
 #: src/components/_political/law/lawNames.tsx:29
 msgid "Remove enemy"
 msgstr "Verwijder vijand"
@@ -5999,7 +5994,7 @@ msgstr "Reactie op bericht"
 msgid "Restore your health!"
 msgstr "Herstel je gezondheid!"
 
-#: src/components/_political/law/law.frontConfig.tsx:433
+#: src/components/_political/law/law.frontConfig.tsx:434
 msgid "Return a region to its original country"
 msgstr "Geef een regio terug aan het oorspronkelijke land"
 
@@ -6244,7 +6239,7 @@ msgid "sells"
 msgstr "verkoopt"
 
 #. placeholder {0}: law.data.amount
-#: src/components/_political/law/law.frontConfig.tsx:357
+#: src/components/_political/law/law.frontConfig.tsx:358
 msgid "Send <0>{0}</0> to <1/>"
 msgstr "Stuur <0>{0}</0> naar <1/>"
 
@@ -6288,11 +6283,11 @@ msgstr "Stel een <0>beschrijving</0> in"
 msgid "Set a referrer"
 msgstr "Stel een werver in"
 
-#: src/components/_political/law/law.frontConfig.tsx:457
+#: src/components/_political/law/law.frontConfig.tsx:458
 msgid "Set a welcome article for your country"
 msgstr "Stel een welkomstartikel voor je land in"
 
-#: src/components/_political/law/law.frontConfig.tsx:462
+#: src/components/_political/law/law.frontConfig.tsx:463
 msgid "Set a welcome article for your country<0/>"
 msgstr "Stel een welkomstartikel in voor je land<0/>"
 
@@ -6300,13 +6295,13 @@ msgstr "Stel een welkomstartikel in voor je land<0/>"
 msgid "Set bounty"
 msgstr "Beloning instellen"
 
-#: src/components/_political/law/law.frontConfig.tsx:483
+#: src/components/_political/law/law.frontConfig.tsx:484
 #: src/components/_political/law/lawNames.tsx:34
 msgid "Set country color"
 msgstr "Stel landkleur in"
 
 #. placeholder {0}: law.data.scheme
-#: src/components/_political/law/law.frontConfig.tsx:475
+#: src/components/_political/law/law.frontConfig.tsx:476
 msgid "Set country color to <0>{0}</0> "
 msgstr ""
 
@@ -6326,17 +6321,17 @@ msgstr "Stel partijethiek vast"
 msgid "Set Profile Picture"
 msgstr "Stel profielfoto in"
 
-#: src/components/_political/law/law.frontConfig.tsx:529
+#: src/components/_political/law/law.frontConfig.tsx:530
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
 msgstr "Stel specialisatie in"
 
 #. placeholder {0}: ts[law.data.itemCode]
-#: src/components/_political/law/law.frontConfig.tsx:535
+#: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set the country's specialized item to <0>{0}</0>.<1/>The country strategic resources <2>Production Bonus</2> will be available for local companies producing this item."
 msgstr "Stel het gespecialiseerde item van het land in op <0>{0}</0>,<1/>De strategische middelen van het land <2>Productiebonus</2> zullen beschikbaar zijn voor lokale bedrijven die dit product produceren."
 
-#: src/components/_political/law/law.frontConfig.tsx:530
+#: src/components/_political/law/law.frontConfig.tsx:531
 msgid "Set the country's specialized production item"
 msgstr "Stel het gespecialiseerde productieproduct van het land in"
 
@@ -6344,7 +6339,7 @@ msgstr "Stel het gespecialiseerde productieproduct van het land in"
 msgid "Set Username"
 msgstr "Gebruikersnaam instellen"
 
-#: src/components/_political/law/law.frontConfig.tsx:456
+#: src/components/_political/law/law.frontConfig.tsx:457
 #: src/components/_political/law/lawNames.tsx:33
 msgid "Set welcome article"
 msgstr "Stel welkomstartikel in"
@@ -7156,6 +7151,10 @@ msgstr "Eigendom overdragen"
 msgid "Transfer to company (optional)"
 msgstr "Overplaatsing naar bedrijf (optioneel)"
 
+#: src/components/_political/law/law.frontConfig.tsx:347
+msgid "Transfer<0/> to <1/>"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:209
 msgid "Translator"
 msgstr "Vertaler"
@@ -7238,8 +7237,8 @@ msgstr "Onrust bijdragers"
 msgid "Unselect all"
 msgstr "Deselecteer alles"
 
-#: src/components/_political/law/law.frontConfig.tsx:368
-#: src/components/_political/law/law.frontConfig.tsx:370
+#: src/components/_political/law/law.frontConfig.tsx:369
+#: src/components/_political/law/law.frontConfig.tsx:371
 msgid "Unset the sworn enemy country"
 msgstr "Maak het gezworen vijandig land ongedaan"
 
@@ -7712,7 +7711,7 @@ msgid "Wow congratulations! Anyway have you considered buying premium?"
 msgstr "Wauw, gefeliciteerd! Heb je overwogen om premium te kopen?"
 
 #: src/components/_political/law/LawFormModal.tsx:168
-#: src/components/_political/law/LawList.tsx:58
+#: src/components/_political/law/LawList.tsx:51
 msgid "Write a law"
 msgstr "Schrijf een wet"
 
@@ -7757,10 +7756,6 @@ msgstr "Je bent al vicepresident van een ander land. Neem eerst ontslag."
 #: src/pages/user/[userId]/companies.tsx:64
 msgid "You are jobless"
 msgstr "Je bent werkloos"
-
-#: src/components/_political/law/LawList.tsx:48
-msgid "You are not a congress member of this country"
-msgstr "Je bent geen congreslid van dit land"
 
 #: src/components/_political/partyMotion/PartyMotionList.tsx:44
 msgid "You are not a council member of this party"
