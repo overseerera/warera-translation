@@ -1762,7 +1762,7 @@ msgstr "أحذية"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:139
 msgid "Bounty"
-msgstr ""
+msgstr "مكافاة"
 
 #: src/components/_military/battle/BattleSystem.tsx:844
 #: src/components/_military/battle/BattleSystem.tsx:854
@@ -4406,7 +4406,7 @@ msgstr "عقود المرتزقة معطلة حالياً."
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:125
 msgid "Mercenary earnings"
-msgstr ""
+msgstr "ارباح المرتزقة"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:15
 msgid "Mercenary Reputation"
