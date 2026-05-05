@@ -105,7 +105,7 @@ msgstr "{0} meow meow meow ${1}/meow"
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:508
 msgid "{0} proposed a new law <0/>"
-msgstr ""
+msgstr "{0} meow meow meow meow <0/>"
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:55
@@ -200,26 +200,26 @@ msgstr "<0/> meow <1>{0}</1> meow.{1}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1821
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
-msgstr ""
+msgstr "<0/> meow meow {assetLabel} meow meow meow meow <1/>!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1828
 msgid "<0/> bought your {assetLabel}!"
-msgstr ""
+msgstr "<0/> meow meow {assetLabel}!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1475
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
-msgstr ""
+msgstr "<0/> meow meow meow{0} meow meow meow meow <1/>!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1483
 msgid "<0/> bought your banner{0}!"
-msgstr ""
+msgstr "<0/> meow meow meow{0}!"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:380
 msgid "<0/> buys <1/> for <2>{0}</2>"
-msgstr ""
+msgstr "<0/> meow <1/> meow <2>{0}</2>"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:391
@@ -266,7 +266,7 @@ msgstr "<0/> meow <1/> meow <2>{0}</2>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:150
 msgid "<0/> ended <1/>"
-msgstr ""
+msgstr "<0/> meow <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:142
 msgid "<0/> financed a resistance war for <1/> in <2/>"
@@ -440,7 +440,7 @@ msgstr "<0/> Meow meow meow <1/>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:124
 msgid "<0/> proposed a new law: <1/>"
-msgstr ""
+msgstr "<0/> meow meow meow meow: <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:740
 msgid "<0/> published a new article"
@@ -462,7 +462,7 @@ msgstr "<0/> meow meow meow meow {0}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:141
 msgid "<0/> started, vote for your favorite candidate"
-msgstr ""
+msgstr "<0/> meow, meow meow meow meow meow"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:805
 msgid "<0/> subscribed to you on your article <1/>"
@@ -482,7 +482,7 @@ msgstr "<0/> meow <1/> meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:91
 msgid "<0/> wants peace"
-msgstr ""
+msgstr "<0/> meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:101
 msgid "<0/> wants to make peace with your country"
@@ -1239,7 +1239,7 @@ msgstr "Meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:289
 msgid "Accept alliance with <0/>"
-msgstr ""
+msgstr "Meow meow meow <0/>"
 
 #. placeholder {0}: gameConfig?.battle.allianceDamagesBonusPercent
 #: src/components/_political/law/law.frontConfig.tsx:300
@@ -1862,7 +1862,7 @@ msgstr "Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:8
 msgid "Birthday Hat for 1st year of Beta"
-msgstr ""
+msgstr "Meow Meow meow 1meow meow meow Meow"
 
 #: src/components/_user/user/UserDropdown.tsx:278
 msgid "Block (hide content)"
@@ -1888,7 +1888,7 @@ msgstr "Meow"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:103
 msgid "Bounty"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_military/battle/BattleSystem.tsx:846
 #: src/components/_military/battle/BattleSystem.tsx:856
@@ -1910,7 +1910,7 @@ msgstr "Meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:320
 msgid "Break alliance with <0/>"
-msgstr ""
+msgstr "Meow meow meow <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:316
 msgid "Break an alliance with another country"
@@ -1974,12 +1974,12 @@ msgstr "Meow"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:69
 msgid "Buy <0/>"
-msgstr ""
+msgstr "Meow <0/>"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:408
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
-msgstr ""
+msgstr "Meow <0/> meow <1/> meow <2>{0}</2>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:168
 msgid "Buy for <0>{count}</0> money on market"
@@ -2057,7 +2057,7 @@ msgstr "Meow meow Meow"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:133
 msgid "Candidacy is open for <0/>"
-msgstr ""
+msgstr "Meow meow meow meow <0/>"
 
 #: src/components/_political/election/CandidateFormModal.tsx:86
 msgid "Candidate"
@@ -2126,7 +2126,7 @@ msgstr "Meow meow meow meow meow.<0/>Meow meow meow, meow meow meow meow."
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:62
 msgid "Change {0} tax to <0/>"
-msgstr ""
+msgstr "Meow {0} meow meow <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:58
 msgid "Change a country tax"
@@ -2874,7 +2874,7 @@ msgstr "Meow <0/> meow meow meow, meow meow meow meow meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:215
 msgid "Define <0/> as enemy"
-msgstr ""
+msgstr "Meow <0/> meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:211
 msgid "Define a country as an enemy to get bonus against"
@@ -3502,7 +3502,7 @@ msgstr "Meow meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:555
 msgid "Finance resistance in <0/>"
-msgstr ""
+msgstr "Meow meow meow <0/>"
 
 #: src/pages/companies.tsx:59
 #: src/pages/user/[userId]/companies.tsx:73
@@ -3926,7 +3926,7 @@ msgstr "Meow meow meow meow meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:187
 msgid "Impeach <0/>"
-msgstr ""
+msgstr "Meow <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:181
 #: src/components/_political/law/lawNames.tsx:22
@@ -4289,7 +4289,7 @@ msgstr "Meow meow!"
 
 #: src/components/_political/law/law.frontConfig.tsx:435
 msgid "Liberate <0/>"
-msgstr ""
+msgstr "Meow <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:444
 msgid "Liberate <0/> and return it to its original country"
@@ -4584,7 +4584,7 @@ msgstr "Meow meow meow meow meow."
 
 #: src/components/_military/battle/LootSummaryCard.tsx:89
 msgid "Mercenary earnings"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:15
 msgid "Mercenary Reputation"
@@ -4862,7 +4862,7 @@ msgstr "Meow meow meow?"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:173
 msgid "Net benefit:"
@@ -5752,7 +5752,7 @@ msgstr "Meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:260
 msgid "Propose alliance to <0/>"
-msgstr ""
+msgstr "Meow meow meow <0/>"
 
 #. placeholder {0}: gameConfig?.battle.allianceDamagesBonusPercent
 #: src/components/_political/law/law.frontConfig.tsx:269
@@ -6152,7 +6152,7 @@ msgstr "Meow meow 20% meow 0 meow meow (meow 1 meow)."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:26
 msgid "Reputation purchased!"
-msgstr ""
+msgstr "Meow meow!"
 
 #: src/components/_user/user/UserDropdown.tsx:335
 msgid "Request Phone Verification"
@@ -6528,7 +6528,7 @@ msgstr "Meow meow meow"
 #. placeholder {0}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:473
 msgid "Set country color to <0>{0}</0> "
-msgstr ""
+msgstr "Meow meow meow meow <0>{0}</0>"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:88
 msgid "Set new party ethics configuration:"
@@ -7382,7 +7382,7 @@ msgstr "Meow meow meow (meow)"
 
 #: src/components/_political/law/law.frontConfig.tsx:344
 msgid "Transfer<0/> to <1/>"
-msgstr ""
+msgstr "Meow<0/> meow <1/>"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:209
 msgid "Translator"
@@ -8431,7 +8431,7 @@ msgstr "Meow meow meow meow"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
-msgstr ""
+msgstr "Meow meow <0/> meow meow meow meow meow meow meow. Meow meow meow meow meow (1 meow meow)"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
