@@ -15,23 +15,23 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:55
 msgid "  a. Trading equipment"
-msgstr ""
+msgstr "a. Handel med utrustning"
 
 #: src/components/_common/GameRules.tsx:57
 msgid "  b. Working for each other"
-msgstr ""
+msgstr "b. Ömsesidigt arbete"
 
 #: src/components/_common/GameRules.tsx:129
 msgid " - Funneling assets without proper exchange"
-msgstr ""
+msgstr "- Överföring av tillgångar utan skälig motprestation"
 
 #: src/components/_common/GameRules.tsx:127
 msgid " - Gear merging schemes *"
-msgstr ""
+msgstr "- Systematiska materielupplägg *"
 
 #: src/components/_common/GameRules.tsx:117
 msgid " - Low-wage labor (lower than 0.7x and above 1.3x the normal salary)"
-msgstr ""
+msgstr " - Oskälig lönesättning (lägre än 0.7x eller högre än 1.3x av normallön)"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:412
@@ -40,15 +40,15 @@ msgstr " - Orsak: {0}"
 
 #: src/components/_common/GameRules.tsx:133
 msgid " - Repeated donations of resources or money to a military unit or country."
-msgstr ""
+msgstr " - Upprepade bidrag av resurser eller kapital till ett militärt förband eller en stat."
 
 #: src/components/_common/GameRules.tsx:131
 msgid " - Repeatedly tipping articles"
-msgstr ""
+msgstr " - Systematiskt dricksgivande till artiklar"
 
 #: src/components/_common/GameRules.tsx:123
 msgid " - Using outside market standards or manipulated trade prices"
-msgstr ""
+msgstr " - Användning av externa marknadsnormer eller manipulerade handelspriser"
 
 #: src/components/_user/premium/PremiumActions.tsx:71
 msgid " Gift a sub"
@@ -105,7 +105,7 @@ msgstr "{0} bjöd över dig med ${1}/K"
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:508
 msgid "{0} proposed a new law <0/>"
-msgstr ""
+msgstr "{0} föreslog en ny lag <0/>"
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:55
@@ -173,7 +173,7 @@ msgstr "{score}/{0} Ronder"
 
 #: src/components/_common/GameRules.tsx:153
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
-msgstr ""
+msgstr "* Ett systematiskt materielupplägg innebär inköp av utrustning med mycket låg hållbarhet till ett relativt högt pris, sammanslagning av dessa och därefter vidareförsäljning av resultatet till ett lågt pris.""
 
 #: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
@@ -200,26 +200,26 @@ msgstr "<0/> med <1>{0}</1> i lön.{1}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1826
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
-msgstr ""
+msgstr "<0/> köpte {assetLabel} av dig som gåva till <1/>!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1833
 msgid "<0/> bought your {assetLabel}!"
-msgstr ""
+msgstr "<0/> köpte {assetLabel} av dig!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1480
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
-msgstr ""
+msgstr "<0/> köpte banner{0} som gåva till <1/>!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1488
 msgid "<0/> bought your banner{0}!"
-msgstr ""
+msgstr "<0/> köpte banner{0}!"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:380
 msgid "<0/> buys <1/> for <2>{0}</2>"
-msgstr ""
+msgstr "<0/> köper <1/> för <2>{0}</2>"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:391
@@ -262,11 +262,11 @@ msgstr "<0/> donerade <1>{0}</1> till <2/>"
 #. placeholder {0}: ts[data.caseCode]
 #: src/components/_political/message/systemMessage.frontConfig.tsx:112
 msgid "<0/> dropped <1/> from <2>{0}</2>"
-msgstr ""
+msgstr "<0/> tog bort <1/> från <2>{0}</2>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:150
 msgid "<0/> ended <1/>"
-msgstr ""
+msgstr "<0/> avslutade <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:142
 msgid "<0/> financed a resistance war for <1/> in <2/>"
@@ -312,7 +312,7 @@ msgstr "<0/> har skapats och startar inom kort."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:211
 msgid "<0/> has been elected president of <1/>"
-msgstr "<0/> har valts till president i <1/>"
+msgstr "<0/> har valts till statsminister i <1/>"
 
 #. placeholder {0}: data.amount
 #: src/components/_political/event/event.frontConfig.tsx:210
@@ -440,7 +440,7 @@ msgstr "<0/> Prioritet upphör om <1/>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:124
 msgid "<0/> proposed a new law: <1/>"
-msgstr ""
+msgstr "<0/> föreslog en ny lag: <1/>""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:740
 msgid "<0/> published a new article"
@@ -462,7 +462,7 @@ msgstr "<0/> svarade på ditt meddelande {0}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:141
 msgid "<0/> started, vote for your favorite candidate"
-msgstr ""
+msgstr "<0/> har inletts, rösta på din kandidat"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:805
 msgid "<0/> subscribed to you on your article <1/>"
@@ -482,7 +482,7 @@ msgstr "Krig: <0/> mot <1/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:91
 msgid "<0/> wants peace"
-msgstr ""
+msgstr "<0/> vill ha fred"
 
 #: src/components/_political/law/law.frontConfig.tsx:101
 msgid "<0/> wants to make peace with your country"
@@ -490,7 +490,7 @@ msgstr "<0/> vill sluta fred med ditt land"
 
 #: src/components/_political/event/event.frontConfig.tsx:191
 msgid "<0/> was elected president of <1/>"
-msgstr "<0/> valdes till president i <1/>"
+msgstr "<0/> valdes till statsminister i <1/>"
 
 #. placeholder {0}: ts[data.governmentRole]
 #: src/components/_user/notification/notification.frontConfig.tsx:524
@@ -514,7 +514,7 @@ msgstr "<0/> vann striden ({0}-{1})"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:335
 msgid "<0/> won the primary election in <1/> and can now run for president!"
-msgstr "<0/> vann primärvalet i <1/> och kan nu kandidera till president."
+msgstr "<0/> vann primärvalet i <1/> och kan nu kandidera till statsminister."
 
 #. placeholder {0}: data.roundNumber
 #: src/components/_user/notification/notification.frontConfig.tsx:623
@@ -536,7 +536,7 @@ msgstr "<0/><1>Försvagning</1> upphör <2/>"
 
 #: src/components/_user/user/UserHeader.tsx:351
 msgid "<0/>Last connection was <1><2/></1>"
-msgstr "<0/>Senaste anslutning: <1><2/></1>"
+msgstr "<0/>Senast ansluten: <1><2/></1>"
 
 #: src/pages/war/[warId]/index.tsx:55
 msgid "<0/>Priority ends in <1/>"
@@ -754,7 +754,7 @@ msgstr "<0>Fylls med <1>produktionspoäng</1> genom anställdas arbete och autom
 #. placeholder {5}: gameConfig?.unrest.contributionCooldownAfterRevolutionHours
 #: src/components/_political/unrest/UnrestBar.tsx:25
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can <3>increase</3> or <4>decrease</4> unrest by spending <5>{0}</5> or <6>{1}</6> to change the bar by <7>{2}</7>.<8/><9/>When the bar is full, any party can vote via motion to start a <10>Civil war</10> (cost: <11>development × 10</11>, cooldown: {3}h). The battle takes place in the capital region, and <12>only citizens</12> can fight.<13/><14/>If revolutionaries win:<15/>- Government is impeached<16/>- Borders are opened for {4} days<17/>- Presidential elections begin<18/><19/>After a revolution, contributions are disabled for {5}h."
-msgstr ""
+msgstr "<0>Oroligheter</0> representerar inre spänningar i landet.<1/><2/>Medborgare kan <3>öka</3> eller <4>minska</4> oroligheterna genom att spendera <5>{0}</5> eller <6>{1}</6> för att ändra mätaren med <7>{2}</7>.<8/><9/>När mätaren är full kan vilket parti som helst väcka en motion om att inleda ett <10>inbördeskrig</10> (kostnad: <11>utveckling × 10</11>, väntetid: {3} h). Striden äger rum i huvudstadsregionen och <12>endast medborgare</12> kan delta.<13/><14/>Om revolutionärerna vinner:<15/>- Regeringen avsätts<16/>- Gränserna hålls öppna i {4} dagar<17/>- Statministerval inleds<18/><19/>Efter en revolution är bidrag inaktiverade i {5} h."
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
@@ -766,11 +766,11 @@ msgstr "1 legendariskt föremål säkrat, 5 återstår för full utrustning. For
 
 #: src/components/_common/GameRules.tsx:182
 msgid "1. English is the only allowed language in World/Global chat"
-msgstr ""
+msgstr "1. Engelska är det enda tillåtna språket i världs- och globalchatten"
 
 #: src/components/_common/GameRules.tsx:28
 msgid "1. One-Account Policy"
-msgstr ""
+msgstr "1. Policy of endast ett konto"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:137
 msgid "1★ Admiral"
@@ -814,7 +814,7 @@ msgstr "1★ General"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:12
 msgid "1★ Initiate"
-msgstr "1★ Rekryt"
+msgstr "1★ Novis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:87
 msgid "1★ Lieutenant"
@@ -886,11 +886,11 @@ msgstr "1★ Fanjunkare"
 
 #: src/components/_common/GameRules.tsx:46
 msgid "2. IP and Device Sharing"
-msgstr ""
+msgstr "2. IP- och enhetsdelning"
 
 #: src/components/_common/GameRules.tsx:187
 msgid "2. The report tool must be used fairly"
-msgstr ""
+msgstr "2. Rapporteringsverktyget ska användas på ett skäligt sätt"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:138
 msgid "2★ Admiral"
@@ -934,7 +934,7 @@ msgstr "2★ General"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:13
 msgid "2★ Initiate"
-msgstr "2★ Rekryt"
+msgstr "2★ Novis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:88
 msgid "2★ Lieutenant"
@@ -1006,11 +1006,11 @@ msgstr "2★ Fanjunkare"
 
 #: src/components/_common/GameRules.tsx:70
 msgid "3. Bots and Automation"
-msgstr ""
+msgstr "3. Bottar och automatisering"
 
 #: src/components/_common/GameRules.tsx:190
 msgid "3. The following content, directly or implied, is strictly prohibited:"
-msgstr ""
+msgstr "3. Följande innehåll, vare sig direkt eller antytt, är strängt förbjudet:"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:139
 msgid "3★ Admiral"
@@ -1054,7 +1054,7 @@ msgstr "3★ General"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:14
 msgid "3★ Initiate"
-msgstr "3★ Rekryt"
+msgstr "3★ Novis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:89
 msgid "3★ Lieutenant"
@@ -1126,11 +1126,11 @@ msgstr "3★ Fanjunkare"
 
 #: src/components/_common/GameRules.tsx:90
 msgid "4. Bug Exploits"
-msgstr ""
+msgstr "4. Utnyttjande av programfel"
 
 #: src/components/_common/GameRules.tsx:256
 msgid "4. Community Behavior rules apply to every possible place within the game where people can write text and post content, as well as everywhere within the War Era Discord server"
-msgstr ""
+msgstr "4. Reglerna för uppförande gäller samtliga utrymmen i spelet där text eller innehåll kan publiceras, samt på War Eras Discord-server i sin helhet"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:152
 msgid "4★ General"
@@ -1142,11 +1142,11 @@ msgstr "4★ Generallöjtnant"
 
 #: src/components/_common/GameRules.tsx:108
 msgid "5. Boosting and Exploitation"
-msgstr ""
+msgstr "5. Boosting och otillbörligt utnyttjande"
 
 #: src/components/_common/GameRules.tsx:263
 msgid "5. Prohibited content will be removed, and offenders will be muted and/or banned for increasing periods of time, depending on the level and/or frequency of abuse. Highly problematic individuals with a heavy history of abuse will be permanently muted or banned."
-msgstr ""
+msgstr "5. Förbjudet innehåll avlägsnas och överträdare tystas eller stängs av under progressivt längre tidsperioder baserat på överträdelsens art och frekvens. Vid upprepade och allvarliga fall tillämpas permanent avstängning."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:153
 msgid "5★ General"
@@ -1158,11 +1158,11 @@ msgstr "5★ Generallöjtnant"
 
 #: src/components/_common/GameRules.tsx:163
 msgid "6. Taking Over and Misuse of State/Military unit assets"
-msgstr ""
+msgstr "6. Olovligt övertagande och missbruk av statliga eller militära tillgångar"
 
 #: src/components/_common/GameRules.tsx:178
 msgid "7. Community Behavior"
-msgstr ""
+msgstr "7. Regler för uppförande"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
@@ -1211,7 +1211,7 @@ msgstr "En verifieringskod har skickats till {phoneNumber}"
 
 #: src/components/_common/GameRules.tsx:197
 msgid "a. Insults, slurs and targeted harassment"
-msgstr ""
+msgstr "a. Förolämpningar, nedsättande uttryck och riktade trakasserier"
 
 #: src/components/_political/law/Law.tsx:170
 #: src/components/_political/partyMotion/PartyMotion.tsx:169
@@ -1239,7 +1239,7 @@ msgstr "Acceptera allians"
 
 #: src/components/_political/law/law.frontConfig.tsx:289
 msgid "Accept alliance with <0/>"
-msgstr ""
+msgstr "Accepterade allians med <0/>"
 
 #. placeholder {0}: gameConfig?.battle.allianceDamagesBonusPercent
 #: src/components/_political/law/law.frontConfig.tsx:300
@@ -1279,7 +1279,7 @@ msgstr "Konto"
 
 #: src/components/_common/GameRules.tsx:111
 msgid "Accounts created solely to benefit a player, group, military unit or country are not permitted. Exploited accounts can take many forms. This includes, but is not limited to:"
-msgstr ""
+msgstr "Konton som skapats uteslutande i syfte att gynna en enskild spelare, grupp, ett militärt förband eller en stat är ej tillåtna. Otillbörligt utnyttjande av konton kan anta många former. Detta inkluderar, men är inte begränsat till:"
 
 #: src/pages/country/[countryId]/government.tsx:69
 msgid "Actions"
@@ -1433,7 +1433,7 @@ msgstr "Alla ägda utseenden"
 
 #: src/components/_common/GameRules.tsx:59
 msgid "All transactions must stay fair and balanced."
-msgstr ""
+msgstr "Samtliga transaktioner ska vara skäliga och balanserade."
 
 #: src/components/_economy/transaction/TransactionList.tsx:70
 msgid "All types"
@@ -1521,7 +1521,7 @@ msgstr "Animerad <0>GIF</0> som profilbild"
 
 #: src/components/_common/GameRules.tsx:61
 msgid "Any attempts to bypass these rules can result in the removal of sharing status, fines and temporary or permanent bans."
-msgstr ""
+msgstr "Varje försök att kringgå dessa regler kan medföra indragning av delningsstatus, böter samt tillfälliga eller permanenta avstängningar."
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:40
 msgid "API token created"
@@ -1590,7 +1590,7 @@ msgstr "Är du säker på att du vill avgå ur regeringen?"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:134
 msgid "Are you sure you want to place this bid?"
-msgstr ""
+msgstr "Är du säker på att du vill avge detta bud?"
 
 #: src/components/_military/mu/MuMemberList.tsx:147
 msgid "Are you sure you want to promote this member to commander?"
@@ -1728,7 +1728,7 @@ msgstr "Profilbild borttagen"
 
 #: src/components/_common/GameRules.tsx:200
 msgid "b. Revealing personal information or doxxing (such as names or addresses), without explicit consent"
-msgstr ""
+msgstr "b. Röjande av personuppgifter exempelvis namn eller adresser utan uttryckligt samtycke"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:170
 msgid "Baby Boomer"
@@ -1874,7 +1874,7 @@ msgstr "Bud"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:8
 msgid "Birthday Hat for 1st year of Beta"
-msgstr ""
+msgstr "Födelsedagshatt för betaversionens första år"
 
 #: src/components/_user/user/UserDropdown.tsx:278
 msgid "Block (hide content)"
@@ -1900,7 +1900,7 @@ msgstr "Kängor"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:103
 msgid "Bounty"
-msgstr ""
+msgstr "Prissumma"
 
 #: src/components/_military/battle/BattleSystem.tsx:850
 #: src/components/_military/battle/BattleSystem.tsx:860
@@ -1922,7 +1922,7 @@ msgstr "Bryt allians"
 
 #: src/components/_political/law/law.frontConfig.tsx:320
 msgid "Break alliance with <0/>"
-msgstr ""
+msgstr "Bryt allians med <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:316
 msgid "Break an alliance with another country"
@@ -1986,12 +1986,12 @@ msgstr "Bunker"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:69
 msgid "Buy <0/>"
-msgstr ""
+msgstr "Köp <0/>"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:408
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
-msgstr ""
+msgstr "Köp <0/> av <1/> för <2>{0}</2>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:168
 msgid "Buy for <0>{count}</0> money on market"
@@ -2021,7 +2021,7 @@ msgstr "Per sida"
 
 #: src/components/_common/GameRules.tsx:206
 msgid "c. Sexual, explicit or suggestive remarks, comments, images or content"
-msgstr ""
+msgstr "c. Sexuella, explicita eller anspelande yttranden, kommentarer, bilder eller innehåll"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:26
 msgid "Cadet"
@@ -2069,7 +2069,7 @@ msgstr "Avbrutet av administratör"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:133
 msgid "Candidacy is open for <0/>"
-msgstr ""
+msgstr "Kandidatur till <0/> är öppen"
 
 #: src/components/_political/election/CandidateFormModal.tsx:86
 msgid "Candidate"
@@ -2077,7 +2077,7 @@ msgstr "Kandidat"
 
 #: src/components/_political/party/party.frontConfig.tsx:262
 msgid "Cannot have a vice president or ministers."
-msgstr "Kan ej tillsätta vicepresident eller ministrar."
+msgstr "Kan ej tillsätta vice statsminister eller ministrar."
 
 #: src/components/_political/party/party.frontConfig.tsx:134
 msgid "Cannot have allies."
@@ -2125,11 +2125,11 @@ msgstr "Katapult"
 
 #: src/components/_user/user/skills.frontConfig.tsx:152
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
-msgstr ""
+msgstr "Chans per träff till omedelbart byte:<0/>Varje <1>1 %</1> ger <2>1 %</2> samt <3>0,01 %</3> chans att plundra lådor per träff."
 
 #: src/components/_user/user/skills.frontConfig.tsx:138
 msgid "Chance to dodge all incoming damage when fighting in battles.<0/>Dodging also prevents equipment durability from being consumed."
-msgstr "Chans att undvika all inkommande skada i strid. <0/>Lyckat undvikande förhindrar även slitage på utrustning."
+msgstr "Chans att undvika all inkommande skada i strid. <0/>Lyckad undanmanöver förhindrar även slitage på utrustning."
 
 #: src/components/_user/user/skills.frontConfig.tsx:124
 msgid "Chance to hit the target.<0/>Misses cannot crit, and deal half damage."
@@ -2138,7 +2138,7 @@ msgstr "Chans att träffa målet. <0/>Missar kan inte bli kritiska och ger halv 
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:62
 msgid "Change {0} tax to <0/>"
-msgstr ""
+msgstr "Ändra {0} skatt till <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:58
 msgid "Change a country tax"
@@ -2166,7 +2166,7 @@ msgstr "Ändra nationell färgprofil"
 #. placeholder {1}: law.data.mapAccent
 #: src/components/_political/law/law.frontConfig.tsx:488
 msgid "Change the country color scheme to <0>{0}</0> with a <1>{1}</1> map accent"
-msgstr ""
+msgstr "Ändra landets färgschema till <0>{0}</0> med en <1>{1}</1> kartaccent"
 
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:73
@@ -2413,7 +2413,7 @@ msgstr "Gratulerar! Du har valts till ny ledare för <0/>."
 #. placeholder {0}: data.countryName
 #: src/components/_user/notification/notification.frontConfig.tsx:193
 msgid "Congratulations! You have been elected as the new president of {0}"
-msgstr "Gratulerar! Du har valts till ny president i {0}."
+msgstr "Gratulerar! Du har valts till ny statsminister i {0}."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:307
 msgid "Congratulations! You have been elected to the council of <0/>"
@@ -2422,7 +2422,7 @@ msgstr "Gratulerar! Du har valts in i rådet för <0/>."
 #. placeholder {0}: militaryRankingConfig[data.rank].percentDamages
 #: src/components/_user/notification/notification.frontConfig.tsx:1215
 msgid "Congratulations! You have been promoted to <0/> with an attack bonus of <1>{0}</1>"
-msgstr ""
+msgstr "Grattis! Du har befordrats till <0/> med en anfallsbonus på <1>{0}</1>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1404
 msgid "Congratulations! You won the giveaway and received cases!"
@@ -2612,11 +2612,11 @@ msgstr "Nationella ordrar"
 #. placeholder {0}: data.partialPayout
 #: src/components/_user/notification/notification.frontConfig.tsx:1572
 msgid "Country paid <0>{0}</0> for damages done."
-msgstr "Landet betalade <0>{0}</0> för åsamkad skada."
+msgstr "Landet betalade <0>{0}</0> för utdelad skada."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:51
 msgid "Country President"
-msgstr "Landets president"
+msgstr "Landets Statsminister"
 
 #: src/pages/country/[countryId]/index.tsx:434
 msgid "Country production bonus"
@@ -2628,7 +2628,7 @@ msgstr "Nationell turneringsvinnare"
 
 #: src/pages/country/[countryId]/wars.tsx:29
 msgid "Country wars"
-msgstr "Nationella krig"
+msgstr "Nationens krig"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:186
 #: src/pages/user/[userId]/inventory.tsx:40
@@ -2724,7 +2724,7 @@ msgstr "Anpassat typsnitt för användarnamn"
 
 #: src/components/_common/GameRules.tsx:212
 msgid "d. Any form of discrimination, racism, xenophobia, antisemitism, homophobia, transphobia and hate speech"
-msgstr ""
+msgstr "d. Varje form av diskriminering, rasism, främlingsfientlighet, antisemitism, homofobi, transfobi och hatretorik"
 
 #: src/components/_user/mission/MissionsList.tsx:190
 msgid "Daily"
@@ -2790,35 +2790,35 @@ msgstr "Mörkare karta"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:122
 msgid "Deal <0>{count}</0> for allies or your country"
-msgstr "Dela ut <0>{count}</0> skada till stöd för allierade eller ditt land"
+msgstr "Åsamka <0>{count}</0> skada till stöd för allierade eller ditt land"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:102
 msgid "Deal <0>{count}</0> in battles"
-msgstr "Dela ut <0>{count}</0> skada i strider"
+msgstr "Åsamka <0>{count}</0> skada i strider"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:112
 msgid "Deal <0>{count}</0> on country/mu orders"
-msgstr "Dela ut <0>{count}</0> skada på nationella/förbandets order"
+msgstr "Åsamka <0>{count}</0> skada på nationel/förbandets order"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:94
 msgid "Deal damage in battles to increase your military rank and unlock attack bonuses."
-msgstr "Dela ut skada i strider för att höja din militära grad och låsa upp anfallsbonusar."
+msgstr "Åsamka skada i strider för att höja din militära grad och låsa upp anfallsbonusar."
 
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:118
 msgid "Deal damage in battles with your MU members to level up each month and earn rewards. Resets on the 1st of each month."
-msgstr "Dela ut skada i strider tillsammans med dina förbandsmedlemmar för att stiga i nivå varje månad och tjäna belöningar. Återställs den första varje månad."
+msgstr "Åsamka skada i strider tillsammans med dina förbandsmedlemmar för att stiga i nivå varje månad och tjäna belöningar. Återställs den första varje månad."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:100
 msgid "Deal Damages"
-msgstr "Dela ut skada"
+msgstr "Åsamka skada"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:120
 msgid "Deal Damages for Allies or Country"
-msgstr "Dela ut skada för allierade eller land"
+msgstr "Tillfoga skada för allierade eller land"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:110
 msgid "Deal Damages on Orders"
-msgstr "Dela ut skada på order"
+msgstr "Tillfoga skada enligt gällande stridsorder"
 
 #: src/utils/translations.tsx:59
 msgid "Deals a fucking big lot of damages"
@@ -2894,7 +2894,7 @@ msgstr "Ange <0/> som fiende, vilket ökar skadan vid strid mot dem"
 
 #: src/components/_political/law/law.frontConfig.tsx:215
 msgid "Define <0/> as enemy"
-msgstr ""
+msgstr "Utse <0/> till fiende"
 
 #: src/components/_political/law/law.frontConfig.tsx:211
 msgid "Define a country as an enemy to get bonus against"
@@ -3095,7 +3095,7 @@ msgstr "Donationer"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:101
 msgid "Dormitories"
-msgstr "Sovsalar"
+msgstr "Logement"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:155
 msgid "Dragon"
@@ -3103,7 +3103,7 @@ msgstr "Drake"
 
 #: src/components/_common/GameRules.tsx:218
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
-msgstr ""
+msgstr "e. Innehåll rörande pågående krig och väpnade konflikter i den verkliga världen (i synnerhet det rysk-ukrainska kriget och den israelisk-palestinska konflikten)"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:130
 msgid "Eat"
@@ -3298,7 +3298,7 @@ msgstr "Ideologier"
 
 #: src/pages/party/[partyId]/index.tsx:51
 msgid "Ethics are bonuses from the party, applied when the president is a member of this party."
-msgstr "Ideologier är bonusar från partiet som tillämpas när presidenten är medlem i detta parti."
+msgstr "Ideologier är bonusar från partiet som tillämpas när statsministern är medlem i detta parti."
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:83
 msgid "Ethics motions"
@@ -3326,35 +3326,27 @@ msgstr "Utgått"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:66
 msgid "Expired: battle ended"
-msgstr ""
+msgstr "Utgått: striden har avslutats"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:64
 msgid "Expired: no bids"
-msgstr ""
+msgstr "Utgått: inga bud"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:68
 msgid "Expired: round ended"
-msgstr ""
-
-#: src/pages/region/[regionId]/index.tsx:79
-msgid "Expires in"
-msgstr "Går ut om"
-
-#: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:217
-msgid "Exploit Finder"
-msgstr "Felutnyttjare"
+msgstr "Utgått: omgången har avslutats"
 
 #: src/components/_common/GameRules.tsx:146
 msgid "Exploited accounts will be permanently banned and the boosted account will receive a temporary ban, fine, or permanent ban if repeated."
-msgstr ""
+msgstr "Konton som utnyttjats otillbörligt stängs av permanent, och kontot som gynnats erhåller en tillfällig avstängning, böter eller permanent avstängning vid upprepning."
 
 #: src/components/_common/GameRules.tsx:93
 msgid "Exploiting or ignoring bugs for personal gain is forbidden. All players are expected to report any discovered bugs and avoid taking advantage of them."
-msgstr ""
+msgstr "Att utnyttja eller ignorera programfel för personlig vinning är förbjudet. Samtliga spelare förväntas rapportera upptäckta programfel och undvika att dra nytta av dem."
 
 #: src/components/_common/GameRules.tsx:225
 msgid "f. Glorification/apology of hateful ideologies such as nazism, neo-nazism, fascism, terrorism and terrorist groups and movements (considered as such by the United Nations, the European Union or France), genocide denial, war crimes, or crimes against humanity, Putinism and communism"
-msgstr ""
+msgstr "f. Förhärligande eller försvarande av hatiska ideologier såsom nazism, neonazism, fascism, terrorism samt terroristgrupper och -rörelser (definierade som sådana av Förenta Nationerna, Europeiska Unionen eller Frankrike), förnekelse av folkmord, krigsförbrytelser eller brott mot mänskligheten, putinism och kommunism"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:92
 msgid "Failed to copy"
@@ -3522,7 +3514,7 @@ msgstr "Finansiera lokalt motstånd"
 
 #: src/components/_political/law/law.frontConfig.tsx:555
 msgid "Finance resistance in <0/>"
-msgstr ""
+msgstr "Finansiera motstånd i <0/>"
 
 #: src/pages/companies.tsx:59
 #: src/pages/user/[userId]/companies.tsx:73
@@ -3605,7 +3597,7 @@ msgstr "Kul fakta: Huset vinner alltid"
 
 #: src/components/_common/GameRules.tsx:234
 msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
-msgstr ""
+msgstr "g. Användning av profiler (bild, beskrivning, namn) kopplade till ovannämnda ideologier och rörelser, liksom till politiska figurer med anknytning till pågående krig och väpnade konflikter i den verkliga världen. Humoristiska namn, beskrivningar och bilder tolereras, med undantag för allt innehåll kopplat till nazism och neonazism."
 
 #: src/components/_user/user/Level.tsx:91
 msgid "Gain <0>Xp</0> by finishing your missions!"
@@ -3836,11 +3828,11 @@ msgstr "Pistol 88"
 
 #: src/components/_common/GameRules.tsx:243
 msgid "h. Glorification, promotion or encouragement of rule-breaking or cheating"
-msgstr ""
+msgstr "h. Förhärligande, främjande eller uppmuntran till regelbrott eller fusk"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:239
 msgid "Hamster Tank"
-msgstr "Hamsterbur"
+msgstr "Hamsterstridsvagn"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
@@ -3882,7 +3874,7 @@ msgstr "Hjälp spelet att växa"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:157
 msgid "High Commander"
-msgstr "Högste Befälhavare"
+msgstr "Huvudbefälhavare"
 
 #: src/components/_military/battle/BattlesHeader.tsx:31
 msgid "History"
@@ -3926,7 +3918,7 @@ msgstr "Jag hörde att man får bättre tur om man har premium :3"
 
 #: src/components/_common/GameRules.tsx:249
 msgid "i. Promotion of other games, products, or services"
-msgstr ""
+msgstr "i. Reklam för andra spel, produkter eller tjänster"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:81
 msgid "I'm proud of you"
@@ -3950,7 +3942,7 @@ msgstr "Tänk att du slösade ett klick på den här"
 
 #: src/components/_political/law/law.frontConfig.tsx:187
 msgid "Impeach <0/>"
-msgstr ""
+msgstr "Väck riksrättsåtal mot <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:181
 #: src/components/_political/law/lawNames.tsx:22
@@ -3964,12 +3956,12 @@ msgstr "Avsätt partiledare"
 #: src/components/_political/law/law.frontConfig.tsx:173
 #: src/components/_political/law/lawNames.tsx:20
 msgid "Impeach president"
-msgstr "Avsätt presidenten"
+msgstr "Väck riksrättsåtal mot statsministern"
 
 #: src/components/_political/law/law.frontConfig.tsx:174
 #: src/components/_political/law/law.frontConfig.tsx:176
 msgid "Impeach the current president"
-msgstr "Avsätt den nuvarande presidenten"
+msgstr "Avsätt den nuvarande statsministern"
 
 #: src/components/_political/party/party.frontConfig.tsx:234
 msgid "Imperialism vs Republicanism"
@@ -4044,11 +4036,11 @@ msgstr "Ursprunglig bebyggelse"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:11
 msgid "Initiate"
-msgstr "Rekryt"
+msgstr "Novis"
 
 #: src/components/_common/GameRules.tsx:37
 msgid "Intentional or repeated violations of this policy will result in a permanent ban."
-msgstr ""
+msgstr "Uppsåtliga eller upprepade överträdelser av denna policy leder till permanent avstängning."
 
 #: src/components/_layout/LayoutMenu.tsx:125
 #: src/components/_user/user/MyAvatar.tsx:35
@@ -4098,7 +4090,7 @@ msgstr "Föremål"
 
 #: src/components/_common/GameRules.tsx:252
 msgid "j. Spam and repeated messages"
-msgstr ""
+msgstr "j. Spam och upprepade meddelanden"
 
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
@@ -4152,7 +4144,7 @@ msgstr "Bara en till..."
 
 #: src/components/_common/GameRules.tsx:274
 msgid "Just because something isn't explicitly stated in the rules does not mean you can abuse it. Attempts to bypass rules or exploit loopholes will still be punished."
-msgstr ""
+msgstr "Att något inte uttryckligen anges i reglerna innebär inte att det är tillåtet att missbruka. Försök att kringgå regelverket eller utnyttja kryphål kommer fortfarande att bestraffas."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:50
 msgid "Just one more… what could go wrong?"
@@ -4313,7 +4305,7 @@ msgstr "Ny nivå!"
 
 #: src/components/_political/law/law.frontConfig.tsx:435
 msgid "Liberate <0/>"
-msgstr ""
+msgstr "Befria <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:444
 msgid "Liberate <0/> and return it to its original country"
@@ -4589,7 +4581,7 @@ msgstr "Medlemmar"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2077
 msgid "Mentioned in message"
-msgstr "Nämns i meddelande"
+msgstr "Omnämnd i meddelande"
 
 #: src/pages/country/[countryId]/auctions.tsx:25
 #: src/pages/country/[countryId]/index.tsx:392
@@ -4608,7 +4600,7 @@ msgstr "Legoknektskontrakt är för närvarande deaktiverade."
 
 #: src/components/_military/battle/LootSummaryCard.tsx:89
 msgid "Mercenary earnings"
-msgstr ""
+msgstr "Legoknektsintäkter"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:15
 msgid "Mercenary Reputation"
@@ -4886,7 +4878,7 @@ msgstr "Behöver du ett jobb?"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
-msgstr ""
+msgstr "Negativt legoknektsrykte"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:173
 msgid "Net benefit:"
@@ -4971,7 +4963,7 @@ msgstr "Ny partiledare"
 #: src/components/_political/event/EventList.tsx:66
 #: src/components/_user/notification/notification.frontConfig.tsx:1955
 msgid "New president"
-msgstr "Ny president"
+msgstr "Ny statsminister"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1986
 msgid "New referred user"
@@ -5194,7 +5186,7 @@ msgstr "Normal"
 
 #: src/components/_common/GameRules.tsx:140
 msgid "Not all forms of helping are treated as boosting or exploiting; the intent will be assessed in line with the list provided above."
-msgstr ""
+msgstr "Alla former av hjälp betraktas inte som boostning eller otillbörligt utnyttjande; uppsåtet kommer att bedömas i enlighet med listan ovan."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:40
 msgid "Not bad!"
@@ -5268,7 +5260,7 @@ msgstr "Endast förbandsägare/befälhavare kan registrera sitt förband"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:148
 msgid "Only presidents can register their country"
-msgstr "Endast presidenter kan registrera sitt land"
+msgstr "Endast statsministrar kan registrera sitt land"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:55
 msgid "Only supporters can see their spending and income breakdown."
@@ -5565,11 +5557,11 @@ msgstr "Plantera ett träd i datacentret"
 
 #: src/components/_common/GameRules.tsx:31
 msgid "Players are limited to a single account. Creating multiple accounts or using someone else's account for any reason is strictly prohibited."
-msgstr ""
+msgstr "Spelare är begränsade till ett enda konto. Det är strängt förbjudet att skapa flera konton eller att använda någon annans konto, oavsett anledning."
 
 #: src/components/_common/GameRules.tsx:49
 msgid "Players can share an IP address if they have been registered as a \"Family Group\". This status must be requested in advance to an admin on our Discord. Group members are prohibited from:"
-msgstr ""
+msgstr "Spelare kan dela IP-adress om de har registrerats som en ”familjegrupp”. Denna status måste begäras i förväg hos en administratör på vår Discord. Gruppmedlemmar är förbjudna från att:"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:93
 #: src/components/_user/auth/ConnectFromModal.tsx:113
@@ -5596,7 +5588,7 @@ msgstr "Politiska förslag"
 
 #: src/components/_common/GameRules.tsx:166
 msgid "Political Take Overs (PTOs) are permitted, but misusing it to extract a country's resources for personal/another country's gain, to damage the country or to intentionally distort market conditions is a punishable offense, which will include fines, bans, and removal from government roles. This goes for Military Units as well."
-msgstr ""
+msgstr "Politiska maktövertaganden (PTO:er) är tillåtna, men att missbruka dessa för att tömma ett lands resurser för personlig eller ett annat lands vinning, skada landet eller avsiktligt snedvrida marknadsvillkor är en straffbar överträdelse. Påföljder inkluderar böter, avstängning och entledigande från regeringsposter. Detta gäller även för militära förband."
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:156
 msgid "Politics & Government"
@@ -5645,19 +5637,19 @@ msgstr "Premium har börjat ge effekt"
 
 #: src/components/_political/government/Government.tsx:64
 msgid "President"
-msgstr "President"
+msgstr "Statsminister"
 
 #: src/components/_political/election/election.frontConfig.tsx:23
 msgid "Presidential election"
-msgstr "Presidentval"
+msgstr "Statsministerval"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:133
 msgid "Presidential election candidacy is now open in <0/>"
-msgstr "Kandidatur till presidentvalet är nu öppen i <0/>"
+msgstr "Kandidatur till statsministervalet är nu öppen i <0/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:173
 msgid "Presidential election has ended in <0/>. Check the results!"
-msgstr "Presidentvalet i <0/> har avslutats. Se resultatet."
+msgstr "Statsministervalet i <0/> har avslutats. Se resultatet."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:153
 msgid "Presidential election voting is now open in <0/>"
@@ -5665,7 +5657,7 @@ msgstr "Röstning i presidentvalet är nu öppen i <0/>"
 
 #: src/pages/country/[countryId]/elections.tsx:56
 msgid "Presidential elections"
-msgstr "Presidentval"
+msgstr "Statsministerval"
 
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
@@ -5776,7 +5768,7 @@ msgstr "Föreslå allians"
 
 #: src/components/_political/law/law.frontConfig.tsx:260
 msgid "Propose alliance to <0/>"
-msgstr ""
+msgstr "Föreslå allians med <0/>"
 
 #. placeholder {0}: gameConfig?.battle.allianceDamagesBonusPercent
 #: src/components/_political/law/law.frontConfig.tsx:269
@@ -5833,7 +5825,7 @@ msgstr "Erbjudanden"
 
 #: src/components/_common/GameRules.tsx:286
 msgid "Punishments, along with their reasoning, are visible on user profiles. Players may appeal through the official Discord server, where detailed explanations and evidence will be provided. Rule violations can be reported with supporting evidence."
-msgstr ""
+msgstr "Bestraffningar, jämte motivering, är synliga på användarprofiler. Spelare kan överklaga via den officiella Discord-servern, där detaljerade förklaringar och bevis tillhandahålls. Regelöverträdelser kan rapporteras med stödjande bevisning."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
@@ -5850,7 +5842,7 @@ msgstr "Snabbskrotning"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:45
 msgid "Quick equip best items of any tier"
-msgstr ""
+msgstr "Snabbutrusta de bästa föremålen oavsett nivå"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
@@ -6112,7 +6104,7 @@ msgstr "Ta bort profilbild"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:116
 msgid "Remove bounty"
-msgstr ""
+msgstr "Ta bort prissumma"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:31
 msgid "Remove council member"
@@ -6180,7 +6172,7 @@ msgstr "Ryktet minskar med 20% mot 0 varje vecka (minst 1 poäng)."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:26
 msgid "Reputation purchased!"
-msgstr ""
+msgstr "Rykte köpt!"
 
 #: src/components/_user/user/UserDropdown.tsx:335
 msgid "Request Phone Verification"
@@ -6560,7 +6552,7 @@ msgstr "Välj landsfärg"
 #. placeholder {0}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:473
 msgid "Set country color to <0>{0}</0> "
-msgstr ""
+msgstr "Ändra landets färg till <0>{0}</0> "
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:88
 msgid "Set new party ethics configuration:"
@@ -6784,7 +6776,7 @@ msgstr "Starta partiets primärval omedelbart"
 #: src/components/_political/law/law.frontConfig.tsx:158
 #: src/components/_political/law/law.frontConfig.tsx:160
 msgid "Start a presidential election, now"
-msgstr "Starta presidentval omedelbart"
+msgstr "Starta statsministerval omedelbart"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:113
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:115
@@ -6799,7 +6791,7 @@ msgstr "Starta riksdagsval"
 #: src/components/_political/law/law.frontConfig.tsx:157
 #: src/components/_political/law/lawNames.tsx:17
 msgid "Start presidential election"
-msgstr "Starta presidentval"
+msgstr "Starta statsministerval"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:112
 msgid "Start revolution"
@@ -6816,7 +6808,7 @@ msgstr "Startade<0/><1/>"
 
 #: src/components/_user/mission/MissionsList.tsx:215
 msgid "Starting"
-msgstr "Startar"
+msgstr "Inledande"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:31
 msgid "Starting from the bottom..."
@@ -6841,7 +6833,7 @@ msgstr "Statistik"
 
 #: src/components/_layout/LayoutUserMenu.tsx:194
 msgid "Stats regenerate every hour"
-msgstr "Statistik återhämtas varje timme"
+msgstr "Förmågorna återhämtas varje timme"
 
 #: src/pages/war/[warId]/index.tsx:40
 msgid "Status"
@@ -6947,7 +6939,7 @@ msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
-msgstr "Högste Befälhavare"
+msgstr "Överbefälhavare"
 
 #: src/pages/country/[countryId]/index.tsx:234
 msgid "Sworn enemy"
@@ -7091,11 +7083,11 @@ msgstr "Universum är skyldig dig något stort"
 
 #: src/components/_common/GameRules.tsx:73
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
-msgstr ""
+msgstr "Användning av botar, skript eller någon form av automatisering för att skaffa sig fördelar gentemot andra spelare är strängt förbjudet. Detta inkluderar, men är inte begränsat till, webbskrapning och skapande av skript som kringgår spelets avsedda funktionalitet eller begränsningar."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:135
 msgid "This action will submit your MU bid for this contract."
-msgstr ""
+msgstr "Denna åtgärd skickar in ditt Förbandsbud för detta kontrakt."
 
 #: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
@@ -7107,7 +7099,7 @@ msgstr "Detta företag är inaktivt eftersom ägaren har nått företagsgränsen
 
 #: src/pages/country/[countryId]/index.tsx:125
 msgid "This country has no president or active congress member, you can take control of it."
-msgstr "Detta land saknar president eller aktiv riksdagsledamot; du kan ta kontroll över det."
+msgstr "Detta land saknar statsminister eller aktiv riksdagsledamot; du kan ta kontroll över det."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:42
 msgid "This equipment is green and so is grass"
@@ -7422,7 +7414,7 @@ msgstr "Flytta till företag (valfritt)"
 
 #: src/components/_political/law/law.frontConfig.tsx:344
 msgid "Transfer<0/> to <1/>"
-msgstr ""
+msgstr "Överför<0/> till <1/>"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:209
 msgid "Translator"
@@ -7745,7 +7737,7 @@ msgstr "Alla hjärtans dag-stridsvagn"
 
 #: src/components/_common/GameRules.tsx:99
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
-msgstr ""
+msgstr "Värdefulla bidrag belönas med utmärkelsen ”Felletare”."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -7775,7 +7767,7 @@ msgstr "Viceamiral"
 #: src/components/_political/government/Government.tsx:73
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:65
 msgid "Vice President"
-msgstr "Vicepresident"
+msgstr "Vice Statsminister"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:60
 msgid "View details"
@@ -7918,7 +7910,7 @@ msgstr "När din <0>hälsa</0> tar slut, öppna denna meny för att återställa
 
 #: src/components/_common/GameRules.tsx:80
 msgid "While data collection and display tools that use the official public API are allowed, for any other development or data access, please contact the staff team directly."
-msgstr ""
+msgstr "Verktyg för datainsamling och datavisning som använder det officiella publika API:et är tillåtna, men för all annan utveckling eller dataåtkomst ber vi dig kontakta teamet direkt."
 
 #: src/pages/companies.tsx:102
 msgid "Whole Production"
@@ -8002,7 +7994,7 @@ msgstr "Wtf, är det här möjligt?"
 
 #: src/components/_common/GameRules.tsx:283
 msgid "X. Punishments and Appeals"
-msgstr ""
+msgstr "X. Straff och överklaganden"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:44
 msgid "XP"
@@ -8027,11 +8019,11 @@ msgstr "Du är redan riksdagsledamot i ett annat land. Avgå först."
 
 #: src/pages/country/[countryId]/index.tsx:111
 msgid "You are already president of another country. Resign first."
-msgstr "Du är redan president i ett annat land. Avgå först."
+msgstr "Du är redan statsminister i ett annat land. Avgå först."
 
 #: src/pages/country/[countryId]/index.tsx:113
 msgid "You are already vice president of another country. Resign first."
-msgstr "Du är redan vicepresident i ett annat land. Avgå först."
+msgstr "Du är redan vice statsminister i ett annat land. Avgå först."
 
 #: src/pages/companies.tsx:45
 #: src/pages/user/[userId]/companies.tsx:64
@@ -8287,7 +8279,7 @@ msgstr "Du valdes till riksdagsledamot i ditt land"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:52
 msgid "You were elected as president of your country"
-msgstr "Du valdes till president för ditt land"
+msgstr "Du valdes till statsminister för ditt land"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:46
 msgid "You were here at the beginning of War Era"
@@ -8299,7 +8291,7 @@ msgstr "Du nominerades till regeringsledamot i ett land"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:67
 msgid "You were nominated as vice president of your country"
-msgstr "Du nominerades till vicepresident för ditt land"
+msgstr "Du nominerades till vice statsminister för ditt land"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:21
 msgid "You were so close"
@@ -8471,7 +8463,7 @@ msgstr "Ditt förbandsnamn"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
-msgstr ""
+msgstr "Dit Förband har <0/> i rykte och kan inte lägga bud på legoknektskontrakt. Betala för att köpa tillbaka rykte (en gång per dag)."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
