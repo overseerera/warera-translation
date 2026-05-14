@@ -138,22 +138,6 @@ msgstr "{0}% inkomstskatt dras från anställdas löner."
 msgid "{0}% of invested"
 msgstr "{0}% av investerat belopp"
 
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr "{battleIcon}Strid om {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr "{battleIcon}Motstånd för {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr "{battleIcon}Revolution {score}"
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon}Turneringsstrid för {tournamentName} {score}"
-
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} slutförda"
@@ -759,6 +743,10 @@ msgstr "<0>Oroligheter</0> representerar inre spänningar i landet.<1/><2/>Medbo
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Ditt konto kräver ytterligare verifiering. Verifiera ditt telefonnummer snarast för att fortsätta använda kontot obehindrat. Overifierade konton får begränsad åtkomst efter 48 timmar och kan stängas av permanent efter 5 dagar.</0><1>Telefonnummer är krypterade och inte synliga för administratörer.</1>"
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1543,7 +1531,7 @@ msgstr "API-tokens"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API-tokens tillåter externa applikationer att ansluta för din räkning. Använd din token i <0>X-API-Key</0>-headern. Varje token är begränsad till 200 anrop per minut."
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "App-mönster"
 
@@ -1701,6 +1689,7 @@ msgstr "Autentiseringen misslyckades. Försök igen."
 msgid "Auto approval"
 msgstr "Automatiskt godkännande"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1815,6 +1804,10 @@ msgstr "Strid"
 msgid "Battle ended"
 msgstr "Strid avslutad"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr "Stridshjälte"
@@ -1843,11 +1836,11 @@ msgstr "Stridsorder"
 msgid "Battles"
 msgstr "Strider"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "Visa strider i nederkant"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "Visa strider på kartan"
 
@@ -1864,6 +1857,7 @@ msgstr "Vunna strider"
 msgid "Become a Candidate"
 msgstr "Kandidera"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1887,6 +1881,10 @@ msgstr "Blockera (dölj innehåll)"
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
 msgstr "Blå stav"
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
+msgstr ""
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2304,7 +2302,7 @@ msgstr "Klicka för att välja lag"
 msgid "Click to select motion"
 msgstr "Klicka för att välja förslag"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "Klimat"
 
@@ -2512,7 +2510,7 @@ msgstr "Förbrukas vid deltagande i strid"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Konsumtion ökar din <0>anfallsförmåga</0> i {0}h.<1/> Därefter minskar den med samma belopp i {1}h"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "Kontextuella gränser"
 
@@ -2788,7 +2786,7 @@ msgstr "Svartkonst"
 msgid "Dark Era Pack"
 msgstr "Svartkonstpaketet"
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "Mörkare karta"
 
@@ -2955,7 +2953,7 @@ msgstr "Fyndigheten av <0>{0}</0> har tömts i <1/>"
 msgid "Deposit resource"
 msgstr "Fyndighetsresurs"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "Fyndigheter"
 
@@ -2990,7 +2988,7 @@ msgstr "Beskrivningen har uppdaterats."
 msgid "Destruct"
 msgstr "Riv"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "Bebyggelse"
 
@@ -3014,10 +3012,6 @@ msgstr "Diplomatisk"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "Deaktivera företag"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "Inaktivera karttransparens"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3267,6 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Entreprenörskap"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3570,7 +3565,7 @@ msgstr "Avskedad från regeringen"
 msgid "Fish"
 msgstr "Fisk"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "Flaggor"
 
@@ -3578,11 +3573,11 @@ msgstr "Flaggor"
 msgid "Flail"
 msgstr "Stridsslaga"
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "Typsnitt"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "Teckenstorlek"
 
@@ -3701,7 +3696,7 @@ msgstr "Utlottning vunnen!"
 msgid "Gives <0>{0}</0>"
 msgstr "Ger <0>{0}</0>"
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "Jordglobskarta (experimentell)"
 
@@ -3746,7 +3741,7 @@ msgstr "Regeringslön"
 msgid "Grain"
 msgstr "Spannmål"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "Gradnät"
 
@@ -4194,7 +4189,7 @@ msgstr "Knivar kan inte laddas med ammunition"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Få <0>{count}</0> fullträffar"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Språk"
@@ -4368,7 +4363,7 @@ msgstr "Gräns för livsmedelskonsumtion"
 msgid "Limited:"
 msgstr "Begränsad:"
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "Linje"
 
@@ -4474,13 +4469,14 @@ msgstr "Arbetsledning"
 msgid "map"
 msgstr "karta"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "Kartaccent"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "Kartinställningar"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5335,7 +5331,7 @@ msgstr "Öppna din låda!"
 msgid "Operative"
 msgstr "Kustjägare"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "Alternativ"
 
@@ -5586,7 +5582,7 @@ msgstr "Vänligen slutför CAPTCHA-verifieringen."
 msgid "Please select a region"
 msgstr "Vänligen välj en region"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "Politiskt"
 
@@ -6238,6 +6234,10 @@ msgstr "Motstånd"
 msgid "Resistance Contributors"
 msgstr "Motståndets stöttepelare"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr ""
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6266,6 +6266,10 @@ msgstr "Återkalla API-token?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Revolt startad!"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6362,7 +6366,7 @@ msgstr "Vunna ronder"
 msgid "Rounds Won"
 msgstr "Vunna ronder"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Regler"
@@ -6737,11 +6741,7 @@ msgstr "Socialt & Meddelanden"
 msgid "Some of your companies are disabled."
 msgstr "Vissa av dina företag är inaktiverade."
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "Ljud"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "Ljudeffekter"
 
@@ -6749,7 +6749,7 @@ msgstr "Ljudeffekter"
 msgid "Specialist"
 msgstr "Specialist"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "Specialisering"
 
@@ -6876,7 +6876,7 @@ msgstr "Strategisk"
 msgid "Strategic resource"
 msgstr "Strategisk resurs"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "Strategiska resurser"
 
@@ -7017,7 +7017,7 @@ msgstr "Villkor"
 msgid "Terms of Service"
 msgstr "Användarvillkor"
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "Textur"
 
@@ -7360,6 +7360,10 @@ msgstr "Totalt:"
 msgid "Tournament"
 msgstr "Turnering"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Turnering skapad"
@@ -7451,6 +7455,10 @@ msgstr "Guider"
 #: src/pages/user/[userId]/settings.tsx:33
 msgid "Tutorials reseted"
 msgstr "Guiderna har återställts"
+
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -7991,6 +7999,7 @@ msgstr "Anställda"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Att arbeta för andra är ett bra sätt att tjäna valuta när man börjar."
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

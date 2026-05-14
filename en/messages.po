@@ -138,22 +138,6 @@ msgstr "{0}% income tax will be deducted from your workers' wages."
 msgid "{0}% of invested"
 msgstr "{0}% of invested"
 
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr "{battleIcon}Battle for {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr "{battleIcon}Resistance for {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr "{battleIcon}Revolution {score}"
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon}Tournament battle for {tournamentName} {score}"
-
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} completed"
@@ -759,6 +743,10 @@ msgstr "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizen
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
+msgstr "= consumes more power"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1543,7 +1531,7 @@ msgstr "API Tokens"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "App pattern"
 
@@ -1701,6 +1689,7 @@ msgstr "Authentication failed. Please try again."
 msgid "Auto approval"
 msgstr "Auto approval"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr "Auto-equip when item breaks"
@@ -1815,6 +1804,10 @@ msgstr "Battle"
 msgid "Battle ended"
 msgstr "Battle ended"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr "Battle for {regionName} {score}"
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr "Battle Hero"
@@ -1843,11 +1836,11 @@ msgstr "Battle Orders"
 msgid "Battles"
 msgstr "Battles"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "Battles on layout"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "Battles on map"
 
@@ -1864,6 +1857,7 @@ msgstr "Battles Won"
 msgid "Become a Candidate"
 msgstr "Become a Candidate"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr "Best"
@@ -1887,6 +1881,10 @@ msgstr "Block (hide content)"
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
 msgstr "Blue Staff"
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
+msgstr "Blur"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2304,7 +2302,7 @@ msgstr "Click to select law"
 msgid "Click to select motion"
 msgstr "Click to select motion"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "Climate"
 
@@ -2512,7 +2510,7 @@ msgstr "Consumed when fighting in battles"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "Contextual borders"
 
@@ -2788,7 +2786,7 @@ msgstr "Dark Era"
 msgid "Dark Era Pack"
 msgstr "Dark Era Pack"
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "Dark map"
 
@@ -2955,7 +2953,7 @@ msgstr "Deposit of <0>{0}</0> has been depleted in <1/>"
 msgid "Deposit resource"
 msgstr "Deposit resource"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "Deposit resources"
 
@@ -2990,7 +2988,7 @@ msgstr "Description updated!"
 msgid "Destruct"
 msgstr "Destruct"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "Development"
 
@@ -3014,10 +3012,6 @@ msgstr "Diplomatic"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "Disable company"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "Disable transparency"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3267,6 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Entrepreneurship"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3570,7 +3565,7 @@ msgstr "Fired from government"
 msgid "Fish"
 msgstr "Fish"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "Flags"
 
@@ -3578,11 +3573,11 @@ msgstr "Flags"
 msgid "Flail"
 msgstr "Flail"
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "Font"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "Font size"
 
@@ -3701,7 +3696,7 @@ msgstr "Giveaway Won!"
 msgid "Gives <0>{0}</0>"
 msgstr "Gives <0>{0}</0>"
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "Globe (experimental)"
 
@@ -3746,7 +3741,7 @@ msgstr "Government wage"
 msgid "Grain"
 msgstr "Grain"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "Graticule"
 
@@ -4194,7 +4189,7 @@ msgstr "Knives do not accept ammo"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Land <0>{count}</0> critical hits"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Language"
@@ -4368,7 +4363,7 @@ msgstr "Limit of food consumption"
 msgid "Limited:"
 msgstr "Limited:"
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "Line"
 
@@ -4474,13 +4469,14 @@ msgstr "Management"
 msgid "map"
 msgstr "map"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr "Map"
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "Map Accent"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "Map options"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5335,7 +5331,7 @@ msgstr "Open your case!"
 msgid "Operative"
 msgstr "Operative"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "Options"
 
@@ -5586,7 +5582,7 @@ msgstr "Please complete the CAPTCHA."
 msgid "Please select a region"
 msgstr "Please select a region"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "Political"
 
@@ -6238,6 +6234,10 @@ msgstr "Resistance"
 msgid "Resistance Contributors"
 msgstr "Resistance Contributors"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr "Resistance for {regionName} {score}"
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6266,6 +6266,10 @@ msgstr "Revoke API token?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Revolt started!"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr "Revolution {score}"
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6362,7 +6366,7 @@ msgstr "Rounds won"
 msgid "Rounds Won"
 msgstr "Rounds Won"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Rules"
@@ -6737,11 +6741,7 @@ msgstr "Social & Messages"
 msgid "Some of your companies are disabled."
 msgstr "Some of your companies are disabled."
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "Sound"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "Sound effects"
 
@@ -6749,7 +6749,7 @@ msgstr "Sound effects"
 msgid "Specialist"
 msgstr "Specialist"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "Specialization"
 
@@ -6876,7 +6876,7 @@ msgstr "Strategic"
 msgid "Strategic resource"
 msgstr "Strategic resource"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "Strategic resources"
 
@@ -7017,7 +7017,7 @@ msgstr "Terms"
 msgid "Terms of Service"
 msgstr "Terms of Service"
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "Texture"
 
@@ -7360,6 +7360,10 @@ msgstr "Total:"
 msgid "Tournament"
 msgstr "Tournament"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr "Tournament battle for {tournamentName} {score}"
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Tournament Created"
@@ -7451,6 +7455,10 @@ msgstr "Tutorials"
 #: src/pages/user/[userId]/settings.tsx:33
 msgid "Tutorials reseted"
 msgstr "Tutorials have been reset"
+
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr "UI"
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -7991,6 +7999,7 @@ msgstr "Workers"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Working for others is a great way to earn money when starting out."
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr "Worst"

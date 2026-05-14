@@ -138,22 +138,6 @@ msgstr "{0}% inkomstenbelasting wordt afgetrokken van de lonen van je werknemers
 msgid "{0}% of invested"
 msgstr "{0}% van geïnvesteerde hoeveelheid"
 
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr "{battleIcon}Gevecht om {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr "{battleIcon}Verzet voor {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr "{battleIcon}Revolutie {score}"
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon}Toernooigevecht voor {tournamentName} {score}"
-
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} voltooid"
@@ -759,6 +743,10 @@ msgstr "<0>Onrust</0> vertegenwoordigt de interne spanning in het land.<1/><2/>B
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Je account vereist aanvullende verificatie. Verifieer je telefoonnummer zo snel mogelijk om je account normaal te blijven gebruiken. Niet-geverifieerde accounts krijgen na 48 uur beperkte toegang en kunnen na 5 dagen permanent worden opgeschort.</0><1>Telefoonnummers worden versleuteld en zijn niet zichtbaar voor enige beheerder.</1>"
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1543,7 +1531,7 @@ msgstr "API-tokens"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API-tokens stellen externe applicaties in staat om namens jou toegang te krijgen tot de API. Gebruik het token in de header <0>X-API-Key</0>. Elke token heeft een limiet van 200 verzoeken per minuut."
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "App-patroon"
 
@@ -1701,6 +1689,7 @@ msgstr "Authenticatie mislukt. Probeer het opnieuw."
 msgid "Auto approval"
 msgstr "Automatische goedkeuring"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1815,6 +1804,10 @@ msgstr "Gevecht"
 msgid "Battle ended"
 msgstr "Gevecht beëindigd"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr "Gevechtsheld"
@@ -1843,11 +1836,11 @@ msgstr "Gevechtsbevelen"
 msgid "Battles"
 msgstr "Gevechten"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "Gevechten op de indeling"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "Gevechten op de kaart"
 
@@ -1864,6 +1857,7 @@ msgstr "Gewonnen Gevechten"
 msgid "Become a Candidate"
 msgstr "Word kandidaat"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1887,6 +1881,10 @@ msgstr "Blokkeren (inhoud verbergen)"
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
 msgstr "Blauwe staf"
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
+msgstr ""
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2304,7 +2302,7 @@ msgstr "Klik om een wet te selecteren"
 msgid "Click to select motion"
 msgstr "Klik om een motie te selecteren"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "Klimaat"
 
@@ -2512,7 +2510,7 @@ msgstr "Gebruikt tijdens gevechten"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Het consumeren ervan verhoogt je <0>Aanval</0> voor {0}u.<1/> Verlaag dan dezelfde hoeveelheid voor {1} uur"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "Contextuele grenzen"
 
@@ -2788,7 +2786,7 @@ msgstr "Dark Era"
 msgid "Dark Era Pack"
 msgstr "Dark Era Pakket"
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "Donkere kaart"
 
@@ -2955,7 +2953,7 @@ msgstr "Grondstofbron van <0>{0}</0> is uitgeput in <1/>"
 msgid "Deposit resource"
 msgstr "Grondstofbron"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "Grondstofbronnen"
 
@@ -2990,7 +2988,7 @@ msgstr "Beschrijving bijgewerkt!"
 msgid "Destruct"
 msgstr "Vernietig"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "Ontwikkeling"
 
@@ -3014,10 +3012,6 @@ msgstr "Diplomatiek"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "Schakel het bedrijf uit"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "Transparantie uitschakelen"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3267,6 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Ondernemerschap"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3570,7 +3565,7 @@ msgstr "Ontslagen uit de regering"
 msgid "Fish"
 msgstr "Vis"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "Vlaggen"
 
@@ -3578,11 +3573,11 @@ msgstr "Vlaggen"
 msgid "Flail"
 msgstr "Strijdvlegel"
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "Font"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "Lettergrootte"
 
@@ -3701,7 +3696,7 @@ msgstr "Weggeefactie gewonnen!"
 msgid "Gives <0>{0}</0>"
 msgstr "Geeft <0>{0}</0>"
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "Wereldbol (experimenteel)"
 
@@ -3746,7 +3741,7 @@ msgstr "Regeringsloon"
 msgid "Grain"
 msgstr "Graan"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "Graticule"
 
@@ -4194,7 +4189,7 @@ msgstr "Messen accepteren geen munitie"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Land <0>{count}</0> kritieke treffers"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Taal"
@@ -4368,7 +4363,7 @@ msgstr "Limiet van voedselconsumptie"
 msgid "Limited:"
 msgstr "Beperkt:"
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "Lijn"
 
@@ -4474,13 +4469,14 @@ msgstr "Beheer"
 msgid "map"
 msgstr "Kaart"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "Kaartaccent"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "Kaartopties"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5335,7 +5331,7 @@ msgstr "Open je kist!"
 msgid "Operative"
 msgstr "Operatief"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "Opties"
 
@@ -5586,7 +5582,7 @@ msgstr "Voltooi de CAPTCHA alsjeblieft."
 msgid "Please select a region"
 msgstr "Selecteer alsjeblieft een regio"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "Politiek"
 
@@ -6238,6 +6234,10 @@ msgstr "Verzet"
 msgid "Resistance Contributors"
 msgstr "Bijdragers aan het verzet"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr ""
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6266,6 +6266,10 @@ msgstr "API-token intrekken?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Opstand begonnen!"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6362,7 +6366,7 @@ msgstr "Gewonnen rondes"
 msgid "Rounds Won"
 msgstr "Gewonnen rondes"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Regels"
@@ -6737,11 +6741,7 @@ msgstr "Sociaal & Berichten"
 msgid "Some of your companies are disabled."
 msgstr "Sommige van je bedrijven zijn uitgeschakeld."
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "Geluid"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "Geluidseffecten"
 
@@ -6749,7 +6749,7 @@ msgstr "Geluidseffecten"
 msgid "Specialist"
 msgstr "Specialist"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "Specialisatie"
 
@@ -6876,7 +6876,7 @@ msgstr "Strategisch"
 msgid "Strategic resource"
 msgstr "Strategische bron"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "Strategische middelen"
 
@@ -7017,7 +7017,7 @@ msgstr "Voorwaarden"
 msgid "Terms of Service"
 msgstr "Servicevoorwaarden"
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "Structuur"
 
@@ -7360,6 +7360,10 @@ msgstr "Totaal:"
 msgid "Tournament"
 msgstr "Toernooi"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Toernooi opgericht"
@@ -7451,6 +7455,10 @@ msgstr "Uitleg"
 #: src/pages/user/[userId]/settings.tsx:33
 msgid "Tutorials reseted"
 msgstr "Uitleg gereset"
+
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -7991,6 +7999,7 @@ msgstr "Werknemers"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Werken voor anderen is een geweldige manier om geld te verdienen als je begint."
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

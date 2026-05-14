@@ -138,22 +138,6 @@ msgstr "İşçilerinizin maaşlarından %{0} gelir vergisi kesilecektir."
 msgid "{0}% of invested"
 msgstr "Yatırımın %{0} kadarı"
 
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon}{tournamentName} turnuvasını kazanmak için {score}"
-
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} tamamlandı"
@@ -759,6 +743,10 @@ msgstr "<0>Huzursuzluk</0>, ülkedeki iç gerilimi temsil eder.<1/><2/>Vatandaş
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Hesabınız ek doğrulama gerektiriyor. Hesabınızı normal şekilde kullanmaya devam etmek için lütfen telefon numaranızı en kısa sürede doğrulayın. Doğrulanmamış hesaplar 48 saat sonra kısıtlı erişime sahip olacak ve 5 gün sonra kalıcı olarak askıya alınabilecektir.</0><1>Telefon numaraları şifrelenir ve hiçbir yöneticiye görünmez.</1>"
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1543,7 +1531,7 @@ msgstr "API Token'ları"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API tokenleri harici uygulamaların sizin adınıza API'ye erişmesine izin verir. Tokenı <0>X-API-Key</0> başlığında kullanın. Her jetonun dakikada 200 istek limiti vardır."
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "Uygulama deseni"
 
@@ -1701,6 +1689,7 @@ msgstr "Kimlik doğrulama başarısız. Lütfen tekrar deneyin."
 msgid "Auto approval"
 msgstr "Otomatik onay"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1815,6 +1804,10 @@ msgstr "Cephe"
 msgid "Battle ended"
 msgstr "Cephe sona erdi"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr "Savaş Kahramanı"
@@ -1843,11 +1836,11 @@ msgstr "Savaş Emirleri"
 msgid "Battles"
 msgstr "Cepheler"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "Arayüzde savaşları göster"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "Haritada cepheleri göster"
 
@@ -1864,6 +1857,7 @@ msgstr "Galip Gelinen Cepheler"
 msgid "Become a Candidate"
 msgstr "Aday Ol"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1887,6 +1881,10 @@ msgstr "Engelle (yazdığı herşeyi gizle)"
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
 msgstr "Mavi Asa"
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
+msgstr ""
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2304,7 +2302,7 @@ msgstr "Yasa tasarısı seçmek için tıkla"
 msgid "Click to select motion"
 msgstr "Önerge seçmek için tıkla"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "İklim"
 
@@ -2512,7 +2510,7 @@ msgstr "Savaşlarda dövüşürken tüketilir"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Tüketmek {0}s boyunca <0>Saldırı</0> gücünü artırır.<1/> Sonra {1}s boyunca aynı miktarda azalır"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "Değişken sınırlar"
 
@@ -2788,7 +2786,7 @@ msgstr "Karanlık Çağ"
 msgid "Dark Era Pack"
 msgstr "Karanlık Çağ Paketi"
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "Koyu harita modu"
 
@@ -2955,7 +2953,7 @@ msgstr "<1/> bölgesindeki <0>{0}</0> yatağı tükendi"
 msgid "Deposit resource"
 msgstr "Yatak kaynağı"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "Kaynak yatakları"
 
@@ -2990,7 +2988,7 @@ msgstr "Açıklama güncellendi!"
 msgid "Destruct"
 msgstr "İmha Et"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "Gelişim"
 
@@ -3014,10 +3012,6 @@ msgstr "Diplomatik"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "Şirketi devre dışı bırak"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "Saydamlığı devre dışı bırak"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3267,6 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Girişimcilik"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3570,7 +3565,7 @@ msgstr "Hükümetten kovuldu"
 msgid "Fish"
 msgstr "Balık"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "Bayraklar"
 
@@ -3578,11 +3573,11 @@ msgstr "Bayraklar"
 msgid "Flail"
 msgstr "Topuzlu Gürz"
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "Yazı tipi"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "Yazı boyutu"
 
@@ -3701,7 +3696,7 @@ msgstr "Çekiliş Kazanıldı!"
 msgid "Gives <0>{0}</0>"
 msgstr "<0>{0}</0> verir"
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "Küre (deneysel)"
 
@@ -3746,7 +3741,7 @@ msgstr "Hükümet maaşı"
 msgid "Grain"
 msgstr "Tahıl"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "Paralel ve meridyenler"
 
@@ -4194,7 +4189,7 @@ msgstr "Bıçaklar ile mermi kullanılamaz"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "<0>{count}</0> kritik vuruş yap"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Dil"
@@ -4368,7 +4363,7 @@ msgstr "Yiyecek tüketim limiti"
 msgid "Limited:"
 msgstr "Sınırlı:"
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "Çizgi"
 
@@ -4474,13 +4469,14 @@ msgstr "Yönetim"
 msgid "map"
 msgstr "harita"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "Harita Aksanı"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "Harita seçenekleri"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5335,7 +5331,7 @@ msgstr "Kasanı aç!"
 msgid "Operative"
 msgstr "Operatif"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "Seçenekler"
 
@@ -5586,7 +5582,7 @@ msgstr "Lütfen CAPTCHA'yı tamamlayın."
 msgid "Please select a region"
 msgstr "Lütfen bir bölge seç"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "Politik"
 
@@ -6238,6 +6234,10 @@ msgstr "Direniş"
 msgid "Resistance Contributors"
 msgstr "Huzursuzluğa Katkıda Bulunanlar"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr ""
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6266,6 +6266,10 @@ msgstr "API tokenı iptal edilsin mi?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "İsyan başladı!"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6362,7 +6366,7 @@ msgstr "Kazanılan turlar"
 msgid "Rounds Won"
 msgstr "Kazanılan Turlar"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Kurallar"
@@ -6737,11 +6741,7 @@ msgstr "Sosyal ve Mesajlar"
 msgid "Some of your companies are disabled."
 msgstr "Bazı şirketlerin devre dışı."
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "Ses"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "Ses efektleri"
 
@@ -6749,7 +6749,7 @@ msgstr "Ses efektleri"
 msgid "Specialist"
 msgstr "Uzman"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "Uzmanlık"
 
@@ -6876,7 +6876,7 @@ msgstr "Stratejik"
 msgid "Strategic resource"
 msgstr "Stratejik kaynak"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "Stratejik kaynaklar"
 
@@ -7017,7 +7017,7 @@ msgstr "Şartlar"
 msgid "Terms of Service"
 msgstr "Hizmet Şartları"
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "Doku"
 
@@ -7360,6 +7360,10 @@ msgstr "Toplam:"
 msgid "Tournament"
 msgstr "Turnuva"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Turnuva Oluşturuldu"
@@ -7451,6 +7455,10 @@ msgstr "Eğitimler"
 #: src/pages/user/[userId]/settings.tsx:33
 msgid "Tutorials reseted"
 msgstr "Eğitimler sıfırlandı"
+
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -7991,6 +7999,7 @@ msgstr "İşçiler"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Başlarken başkaları için çalışmak para kazanmanın harika bir yoludur."
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

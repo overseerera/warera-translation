@@ -138,22 +138,6 @@ msgstr "會從你給員工的薪資中扣除 {0}% 所得稅"
 msgid "{0}% of invested"
 msgstr "投資的 {0}%"
 
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon} 錦標賽戰鬥 {tournamentName} {score}"
-
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} 已完成"
@@ -758,6 +742,10 @@ msgstr "<0>動盪值</0>代表了國家內部緊張度。<1/><2/>公民可以透
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
+msgstr ""
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
 msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
@@ -1543,7 +1531,7 @@ msgstr "API Tokens"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API token 允許外部應用程式使用你的身分存取。請在 <0>X-API-Key</0> Header 中使用你的 token 。每個 token 的請求速率上限為每分鐘 200 次"
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "App 背景"
 
@@ -1701,6 +1689,7 @@ msgstr ""
 msgid "Auto approval"
 msgstr "自動批准"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1815,6 +1804,10 @@ msgstr "戰鬥"
 msgid "Battle ended"
 msgstr "戰鬥已結束"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr ""
@@ -1843,11 +1836,11 @@ msgstr ""
 msgid "Battles"
 msgstr "戰鬥"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "顯示戰鬥列表"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "顯示戰鬥在地圖上"
 
@@ -1864,6 +1857,7 @@ msgstr "戰鬥獲勝"
 msgid "Become a Candidate"
 msgstr "成為一位參選人"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1886,6 +1880,10 @@ msgstr "黑名單 (隱藏內容)"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
+msgstr ""
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
 msgstr ""
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
@@ -2304,7 +2302,7 @@ msgstr "點擊以選擇法案"
 msgid "Click to select motion"
 msgstr "點擊以選擇提案"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "氣候"
 
@@ -2512,7 +2510,7 @@ msgstr "戰鬥中會消耗"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "使用它將會增加你的<0>攻擊力</0> {0} 小時。然後減少相同的攻擊力 {1} 小時。"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "現況國界"
 
@@ -2788,7 +2786,7 @@ msgstr ""
 msgid "Dark Era Pack"
 msgstr ""
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "暗黑地圖"
 
@@ -2955,7 +2953,7 @@ msgstr "在 <1/> 的 <0>{0}</0> 礦藏已被耗盡"
 msgid "Deposit resource"
 msgstr "礦藏資源"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "礦藏資源"
 
@@ -2990,7 +2988,7 @@ msgstr "說明已更新！"
 msgid "Destruct"
 msgstr "拆除"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "發展度"
 
@@ -3014,10 +3012,6 @@ msgstr "親外主義"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "停用公司"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "停用透明"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3267,6 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "創業能力"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3570,7 +3565,7 @@ msgstr "從政府被開除"
 msgid "Fish"
 msgstr "魚"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "旗幟"
 
@@ -3578,11 +3573,11 @@ msgstr "旗幟"
 msgid "Flail"
 msgstr ""
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "字體"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "字體大小"
 
@@ -3701,7 +3696,7 @@ msgstr "贏得了抽獎！"
 msgid "Gives <0>{0}</0>"
 msgstr "給予 <0>{0}</0>"
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "球體 (試驗性)"
 
@@ -3746,7 +3741,7 @@ msgstr ""
 msgid "Grain"
 msgstr "穀物"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "經緯格線"
 
@@ -4194,7 +4189,7 @@ msgstr "小刀不使用子彈"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "造成 <0>{count}</0> 次暴擊傷害"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "語言"
@@ -4368,7 +4363,7 @@ msgstr "食物使用上限"
 msgid "Limited:"
 msgstr ""
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "線條"
 
@@ -4474,13 +4469,14 @@ msgstr "管理"
 msgid "map"
 msgstr "地圖"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "地圖深淺"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "地圖選項"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5335,7 +5331,7 @@ msgstr "打開你的箱子！"
 msgid "Operative"
 msgstr "作戰兵"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "選項"
 
@@ -5586,7 +5582,7 @@ msgstr "請完成 CAPTCHA"
 msgid "Please select a region"
 msgstr "請選擇一個地區"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "政治"
 
@@ -6238,6 +6234,10 @@ msgstr "抵抗度"
 msgid "Resistance Contributors"
 msgstr "抵抗度貢獻者"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr ""
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6266,6 +6266,10 @@ msgstr "廢除 API token?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "叛亂開始！"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6362,7 +6366,7 @@ msgstr "回合獲勝"
 msgid "Rounds Won"
 msgstr "回合獲勝"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "規則"
@@ -6737,11 +6741,7 @@ msgstr ""
 msgid "Some of your companies are disabled."
 msgstr "你有一些公司被停用。"
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "聲音"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "音效"
 
@@ -6749,7 +6749,7 @@ msgstr "音效"
 msgid "Specialist"
 msgstr "專長兵"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "特產"
 
@@ -6876,7 +6876,7 @@ msgstr "戰略"
 msgid "Strategic resource"
 msgstr "戰略資源"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "戰略資源"
 
@@ -7017,7 +7017,7 @@ msgstr "期限"
 msgid "Terms of Service"
 msgstr "服務條款"
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "質感"
 
@@ -7360,6 +7360,10 @@ msgstr "總和："
 msgid "Tournament"
 msgstr "錦標賽"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "錦標賽已創建"
@@ -7451,6 +7455,10 @@ msgstr "教學"
 #: src/pages/user/[userId]/settings.tsx:33
 msgid "Tutorials reseted"
 msgstr "重置教學"
+
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -7991,6 +7999,7 @@ msgstr "員工"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "在新手時期為他人工作是個賺錢的好方法"
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

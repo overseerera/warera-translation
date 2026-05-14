@@ -138,22 +138,6 @@ msgstr "{0}% ienākuma nodoklis tiks atskaitīts no jūsu strādnieku algām."
 msgid "{0}% of invested"
 msgstr "{0}% no ieguldītā"
 
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr "{battleIcon}Kauja par {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr "{battleIcon}Sacelšanās kauja par {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr "{battleIcon}Revolūcija {score}"
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon}Turnīra kauja {tournamentName} {score}"
-
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} pabeigti"
@@ -759,6 +743,10 @@ msgstr "<0>Nemieri</0> atspoguļo iekšējo spriedzi valstī.<1/><2/>Pilsoņi va
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Tavam profilam ir nepieciešama papildu verifikācija. Lūdzu verificējies ar savu tālruņa numuru pēc iespējas ātrāk, lai varētu turpināt lietot savu profilu. Neverificētiem profilem tiks ierobežota piekļuve pēc 48 stundām, savukārt pēc 5 dienām profils var tikt nobloķēts.</0><1>Tālruņa numuri ir šifrēti un nav redzami nevienam administratoram.</1>"
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1543,7 +1531,7 @@ msgstr "API Žetons"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API žetoni ļauj ārējām lietotnēm piekļūt API tavā vārdā. Lieto žetonu <0>X-API-Key</0> vaicājuma galvenē. Katram žetonam ir ierobežojums 200 pieprasījumu minūtē."
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "Kartes fons"
 
@@ -1701,6 +1689,7 @@ msgstr "Autentifikācija neizdevās. Lūdzu mēģini vēlreiz."
 msgid "Auto approval"
 msgstr "Automātiskā apstiprināšana"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1815,6 +1804,10 @@ msgstr "Kauja"
 msgid "Battle ended"
 msgstr "Kauja beidzās"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr "Kaujas Varonis"
@@ -1843,11 +1836,11 @@ msgstr "Kaujas Rīkojumi"
 msgid "Battles"
 msgstr "Kaujas"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "Kauju panelis"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "Kauju lodziņi kartē"
 
@@ -1864,6 +1857,7 @@ msgstr "Kaujas uzvarētas"
 msgid "Become a Candidate"
 msgstr "Kandidēt"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1887,6 +1881,10 @@ msgstr "Bloķēt (noslēpt saturu)"
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
 msgstr "Zilā Nūja"
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
+msgstr ""
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2304,7 +2302,7 @@ msgstr "Nospied, lai izvēlētos likumu"
 msgid "Click to select motion"
 msgstr "Nospied, lai izvēlētos priekšlikumu"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "Klimats"
 
@@ -2512,7 +2510,7 @@ msgstr "Tiek patērētas piedaloties kaujās"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Tās lietošana palielina tavu <0>Uzbrukumu</0> par 60% uz {0}h.<1/> Pēc tam tas tiek samazināts par tik pat uz {1}h"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "Izceltas robežas"
 
@@ -2788,7 +2786,7 @@ msgstr "Tumšā Ēra"
 msgid "Dark Era Pack"
 msgstr "Tumšās Ēras Komplekts"
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "Tumšā karte"
 
@@ -2955,7 +2953,7 @@ msgstr "<0>{0}</0> atradne ir izsmelta <1/>"
 msgid "Deposit resource"
 msgstr "Resursu atradne"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "Resursu atradnes"
 
@@ -2990,7 +2988,7 @@ msgstr "Apraksts atjaunots!"
 msgid "Destruct"
 msgstr "Nojaukt"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "Attīstība"
 
@@ -3014,10 +3012,6 @@ msgstr "Diplomātija"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "Izslēgt uzņēmumu"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "Izslēgt logu caurspīdību"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3267,6 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Uzņēmējdarbība"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3570,7 +3565,7 @@ msgstr "Atlaists no valdības"
 msgid "Fish"
 msgstr "Zivs"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "Karogi"
 
@@ -3578,11 +3573,11 @@ msgstr "Karogi"
 msgid "Flail"
 msgstr "Vāle"
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "Fonts"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "Teksta izmērs"
 
@@ -3701,7 +3696,7 @@ msgstr "Izloze laimēta!"
 msgid "Gives <0>{0}</0>"
 msgstr "Dod <0>{0}</0>"
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "Globuss (eksperimentāls)"
 
@@ -3746,7 +3741,7 @@ msgstr "Valdības alga"
 msgid "Grain"
 msgstr "Labība"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "Koordinātu tīkls"
 
@@ -4194,7 +4189,7 @@ msgstr "Ar nažiem nevar šaut"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Iebliez <0>{count}</0> kritiskos triecienus"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Valoda"
@@ -4368,7 +4363,7 @@ msgstr "Ēšanas limits"
 msgid "Limited:"
 msgstr "Limits:"
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "Līnijas"
 
@@ -4474,13 +4469,14 @@ msgstr "Priekšniecība"
 msgid "map"
 msgstr "karti"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "Krāsas Tonis"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "Kartes iestatījumi"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5335,7 +5331,7 @@ msgstr "Atver savu kasti!"
 msgid "Operative"
 msgstr "Štāba Virsseržants"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "Iestatījumi"
 
@@ -5586,7 +5582,7 @@ msgstr "Lūdzu izpildi CAPTCHA."
 msgid "Please select a region"
 msgstr "Lūdzu izvēlies reģionu"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "Politiskā"
 
@@ -6238,6 +6234,10 @@ msgstr "Pretošanās"
 msgid "Resistance Contributors"
 msgstr "Dumpinieki"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr ""
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6266,6 +6266,10 @@ msgstr "Atsaukt API žetonu?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Sākās sacelšanās!"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6362,7 +6366,7 @@ msgstr "Raundi uzvarēti"
 msgid "Rounds Won"
 msgstr "Raundi uzvarēti"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Noteikumi"
@@ -6737,11 +6741,7 @@ msgstr "Sociālie un Ziņas"
 msgid "Some of your companies are disabled."
 msgstr "Daži no taviem uzņēmumiem ir izslēgti."
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "Skaņa"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "Skaņas efekti"
 
@@ -6749,7 +6749,7 @@ msgstr "Skaņas efekti"
 msgid "Specialist"
 msgstr "Speciālists"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "Specializācija"
 
@@ -6876,7 +6876,7 @@ msgstr "Stratēģiskais"
 msgid "Strategic resource"
 msgstr "Stratēģiskais resurss"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "Stratēģiskie resursi"
 
@@ -7017,7 +7017,7 @@ msgstr "Lietošanas noteikumi"
 msgid "Terms of Service"
 msgstr "Lietošanas noteikumi"
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "Tekstūra"
 
@@ -7360,6 +7360,10 @@ msgstr "Kopā:"
 msgid "Tournament"
 msgstr "Turnīrs"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Turnīrs izveidots"
@@ -7451,6 +7455,10 @@ msgstr "Pamācības"
 #: src/pages/user/[userId]/settings.tsx:33
 msgid "Tutorials reseted"
 msgstr "Pamācības atiestatītas"
+
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -7991,6 +7999,7 @@ msgstr "Strādnieki"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Strādāšana pie citiem ir labs veids kā sākt pelnīt naudu."
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

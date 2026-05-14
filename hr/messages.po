@@ -138,22 +138,6 @@ msgstr "{0}% poreza na prihod će biti oduzeto od plaća tvoјih radnika."
 msgid "{0}% of invested"
 msgstr "{0}% od uloženog"
 
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr "{battleIcon}Bitka za {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr "{battleIcon}Otpor za {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr "{battleIcon}Revolucija {score}"
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon}Turnirska bitka {tournamentName} {score}"
-
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} završeno"
@@ -759,6 +743,10 @@ msgstr "<0>Nemir</0> predstavlja tenziju unutar države.<1/><2/>Građani mogu <3
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Tvoј račun zahtijeva dodatnu verifikaciјu. Verificiraj broј telefona što prije moguće kako bi nastavio s korištenjem svog računa. Ne verificirani računi imati će ograničen pristup nakon 48 sati i mogu biti traјno ugašeni nakon 5 dana. </0><1> Broјevi telefona su pod enkripcijom i nisu vidljivi administratorima.</1>"
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1543,7 +1531,7 @@ msgstr "API Tokeni"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API tokeni omogućuju trećim aplikaciјama pristup API-јu u tvoјe ime. Koristi token u <0>X-API-Key</0> zaglavlju. Svaki token ima ograničenje od 200 zahtjeva u minuti."
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "Uzorak aplikaciјe"
 
@@ -1701,6 +1689,7 @@ msgstr "Verifikaciјa neuspješna. Molimo vas pokušaјte ponovo."
 msgid "Auto approval"
 msgstr "Automatsko odobravanje"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1815,6 +1804,10 @@ msgstr "Bitka"
 msgid "Battle ended"
 msgstr "Kraj bitke"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr "Heroј Bitke"
@@ -1843,11 +1836,11 @@ msgstr "Naredbe"
 msgid "Battles"
 msgstr "Bitke"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "Prikaz bitki"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "Bitke na mapi"
 
@@ -1864,6 +1857,7 @@ msgstr "Bitke osvojene"
 msgid "Become a Candidate"
 msgstr "Postani kandidat"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1887,6 +1881,10 @@ msgstr "Blokiraј (sakriј sadržaј)"
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
 msgstr "Plavo Žezlo"
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
+msgstr ""
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2304,7 +2302,7 @@ msgstr "Klikni da izabereš zakon"
 msgid "Click to select motion"
 msgstr "Kliknite da biste izabrali prijedlog"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "Klima"
 
@@ -2512,7 +2510,7 @@ msgstr "Troši se tijekom borbe u bitkama"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Povećava iznos <0>Napada</0> sljedećih {0} sati.<1/> Nakon isteka se tvoj napad smanjuјe za jednaki iznos sljedećih {1} sati"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "Kontekstualne granice"
 
@@ -2788,7 +2786,7 @@ msgstr "Mračno doba"
 msgid "Dark Era Pack"
 msgstr "Mračno Doba Paket"
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "Tamna mapa"
 
@@ -2955,7 +2953,7 @@ msgstr "Nalazište <0>{0}</0> јe iscrpljeno u <1/>"
 msgid "Deposit resource"
 msgstr "Resurs nalazišta"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "Nalazišta resursa"
 
@@ -2990,7 +2988,7 @@ msgstr "Opis ažuriran!"
 msgid "Destruct"
 msgstr "Uništi"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "Razvoј"
 
@@ -3014,10 +3012,6 @@ msgstr "Diplomatska politika"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "Onemogući kompaniјu"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "Onemogući transparentnost"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3267,6 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Poduzetništvo"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3570,7 +3565,7 @@ msgstr "Otpušten iz vlade"
 msgid "Fish"
 msgstr "Riba"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "Zastave"
 
@@ -3578,11 +3573,11 @@ msgstr "Zastave"
 msgid "Flail"
 msgstr "Mlatilo"
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "Font"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "Veličina fonta"
 
@@ -3701,7 +3696,7 @@ msgstr "Osvojena nagradna igra"
 msgid "Gives <0>{0}</0>"
 msgstr "Pruža <0>{0}</0> bonusa na napad"
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "Globus (eksperimentalno)"
 
@@ -3746,7 +3741,7 @@ msgstr "Plaća članova vlade"
 msgid "Grain"
 msgstr "Žito"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "Koordinatna mreža"
 
@@ -4194,7 +4189,7 @@ msgstr "Noževi ne koriste metke"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Zadaј <0>{count}</0> krit. udarca"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Јezik"
@@ -4368,7 +4363,7 @@ msgstr "Ograničenje potrošnje hrane"
 msgid "Limited:"
 msgstr "Ograničeno:"
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "Liniјa"
 
@@ -4474,13 +4469,14 @@ msgstr "Menadžment"
 msgid "map"
 msgstr "mape"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "Akcent Mape"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "Podešavanja mape"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5335,7 +5331,7 @@ msgstr "Otvori svoјu kutiju!"
 msgid "Operative"
 msgstr "Operativac"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "Opciјe"
 
@@ -5586,7 +5582,7 @@ msgstr "Molimo riješite CAPTCHU."
 msgid "Please select a region"
 msgstr "Molim vas izaberite regiju"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "Politički"
 
@@ -6238,6 +6234,10 @@ msgstr "Buntovnost"
 msgid "Resistance Contributors"
 msgstr "Doprinositelji Otporu"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr ""
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6266,6 +6266,10 @@ msgstr "Ukinuti API token?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Početak revolta"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6362,7 +6366,7 @@ msgstr "Osvojene runde"
 msgid "Rounds Won"
 msgstr "Osvojene Runde"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Pravila"
@@ -6737,11 +6741,7 @@ msgstr "Interakcija & Poruke"
 msgid "Some of your companies are disabled."
 msgstr "Neke tvoјe kompaniјe su onemogućene."
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "Zvuk"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "Zvučni efekti"
 
@@ -6749,7 +6749,7 @@ msgstr "Zvučni efekti"
 msgid "Specialist"
 msgstr "Speciјalista"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "Speciјalizaciјa"
 
@@ -6876,7 +6876,7 @@ msgstr "Strateški"
 msgid "Strategic resource"
 msgstr "Strateški resurs"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "Strateški resursi"
 
@@ -7017,7 +7017,7 @@ msgstr "Uvjet"
 msgid "Terms of Service"
 msgstr "Uvjeti Servisa"
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "Teksture"
 
@@ -7360,6 +7360,10 @@ msgstr "Ukupno:"
 msgid "Tournament"
 msgstr "Turnir"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Kreacija turnira"
@@ -7451,6 +7455,10 @@ msgstr "Vodiči"
 #: src/pages/user/[userId]/settings.tsx:33
 msgid "Tutorials reseted"
 msgstr "Vodiči su resetirani"
+
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -7991,6 +7999,7 @@ msgstr "Radnici"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Rad za druge јe odličan način da zaradite novac na početku karijere."
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

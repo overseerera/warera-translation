@@ -136,22 +136,6 @@ msgstr "{0}% impozit pe venit va fi reținut din salariile muncitorilor tăi."
 msgid "{0}% of invested"
 msgstr "{0}% din investiție"
 
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr "{battleIcon}Luptă pentru {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr "{battleIcon}Revoltă pentru {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr "{battleIcon}Revoluție {score}"
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon}Luptă de turneu pentru {tournamentName} {score}"
-
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} completate"
@@ -757,6 +741,10 @@ msgstr "<0>Tensiunea</0> se referă la tensiunea internă politică din țară.<
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Contul tău necesită verificări adiționale. Te rugăm să îți verifici numărul de telefon mobil cât mai curând pentru a putea să îți păstrezi accesul. Conturile neverificate vor fi restricționate din a executa anumite acțiuni dupa 48 de ore, și pot fi suspendate după 5 zile.</0><1>Numărul tău de telefon este criptat și nu este vizibil niciunui administrator.</1>"
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1541,7 +1529,7 @@ msgstr "Tokeni API"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "Tokenii API permit aplicațiilor externe să acceseze API-ul în numele tău. Folosește tokenul în headerul <0>X-API-Key</0>. Fiecare token are o limită de 200 de cereri (requests) pe minut."
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "Textură"
 
@@ -1699,6 +1687,7 @@ msgstr "Autentificarea a eșuat. Te rugăm să încerci din nou."
 msgid "Auto approval"
 msgstr "Aprobare automată"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1813,6 +1802,10 @@ msgstr "Luptă"
 msgid "Battle ended"
 msgstr "Bătălia s-a încheiat"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr "Eroul Luptei"
@@ -1841,11 +1834,11 @@ msgstr "Ordine de luptă"
 msgid "Battles"
 msgstr "Lupte"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "Listă lupte"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "Lupte pe hartă"
 
@@ -1862,6 +1855,7 @@ msgstr "Lupte câștigate"
 msgid "Become a Candidate"
 msgstr "Deveniți candidat"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1884,6 +1878,10 @@ msgstr "Blochează (ascunde conținut)"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
+msgstr ""
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
 msgstr ""
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
@@ -2302,7 +2300,7 @@ msgstr "Click pentru a selecta o lege"
 msgid "Click to select motion"
 msgstr "Click pentru a selecta o moțiune"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "Climă"
 
@@ -2510,7 +2508,7 @@ msgstr "Consumată când te lupți"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Consumul îți crește <0>Atacul</0> pentru {0} ore.<1/> Apoi îl scade pentru {1} ore"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "Granițe contextuale"
 
@@ -2786,7 +2784,7 @@ msgstr "Dark Era"
 msgid "Dark Era Pack"
 msgstr "Pachet Dark Era"
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "Hartă întunecată"
 
@@ -2953,7 +2951,7 @@ msgstr "Zăcământul de <0>{0}</0> din <1/> a fost epuizat."
 msgid "Deposit resource"
 msgstr "Resursă de zăcământ"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "Zăcăminte resurse"
 
@@ -2988,7 +2986,7 @@ msgstr "Descriere actualizată!"
 msgid "Destruct"
 msgstr "Demolează"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "Dezvoltare"
 
@@ -3012,10 +3010,6 @@ msgstr "Diplomatic"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "Dezactivează companie"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "Dezactivează transparența"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3265,6 +3259,7 @@ msgid "Entrepreneurship"
 msgstr "Antreprenoriat"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3568,7 +3563,7 @@ msgstr "Demis din guvern"
 msgid "Fish"
 msgstr "Pește"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "Steaguri"
 
@@ -3576,11 +3571,11 @@ msgstr "Steaguri"
 msgid "Flail"
 msgstr ""
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "Font"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "Mărimea fontului"
 
@@ -3699,7 +3694,7 @@ msgstr "Ai câștigat tombola!"
 msgid "Gives <0>{0}</0>"
 msgstr "Oferă <0>{0}</0>"
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "Glob (experimental)"
 
@@ -3744,7 +3739,7 @@ msgstr "Salariu guvern"
 msgid "Grain"
 msgstr "Cereale"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "Referință"
 
@@ -4192,7 +4187,7 @@ msgstr "Cuțitele nu acceptă muniție"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Dă <0>{count}</0> lovituri critice"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Limbă"
@@ -4366,7 +4361,7 @@ msgstr "Limită pentru consum alimentar"
 msgid "Limited:"
 msgstr "Limitat:"
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "Linii"
 
@@ -4472,13 +4467,14 @@ msgstr "Management"
 msgid "map"
 msgstr "harta"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "Tentă"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "Opțiuni hartă"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5333,7 +5329,7 @@ msgstr "Deschide cutia!"
 msgid "Operative"
 msgstr "Agent"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "Opțiuni"
 
@@ -5584,7 +5580,7 @@ msgstr "Completează testul CAPTCHA."
 msgid "Please select a region"
 msgstr "Selectează o regiune"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "Politic"
 
@@ -6236,6 +6232,10 @@ msgstr "Rezistență"
 msgid "Resistance Contributors"
 msgstr "Contribuții rezistență"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr ""
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6264,6 +6264,10 @@ msgstr "Revoci tokenul API?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Revolta a început!"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6360,7 +6364,7 @@ msgstr "Runde câștigate"
 msgid "Rounds Won"
 msgstr "Runde câștigate"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Reguli"
@@ -6735,11 +6739,7 @@ msgstr "Social & Mesaje"
 msgid "Some of your companies are disabled."
 msgstr "Ai companii dezactivate."
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "Sunet"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "Efecte sonore"
 
@@ -6747,7 +6747,7 @@ msgstr "Efecte sonore"
 msgid "Specialist"
 msgstr "Specialist"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "Specializare"
 
@@ -6874,7 +6874,7 @@ msgstr "Strategic"
 msgid "Strategic resource"
 msgstr "Resursă strategică"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "Resurse strategice"
 
@@ -7015,7 +7015,7 @@ msgstr "Termeni"
 msgid "Terms of Service"
 msgstr "Termeni de Utilizare"
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "Puncte"
 
@@ -7358,6 +7358,10 @@ msgstr "Total:"
 msgid "Tournament"
 msgstr "Turneu"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Turneu Creat"
@@ -7449,6 +7453,10 @@ msgstr "Tutoriale"
 #: src/pages/user/[userId]/settings.tsx:33
 msgid "Tutorials reseted"
 msgstr "Tutoriale resetate"
+
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -7989,6 +7997,7 @@ msgstr "Angajați"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Munca pentru alții e o cale bună de a câștiga niște bani la început."
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

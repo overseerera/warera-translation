@@ -138,22 +138,6 @@ msgstr "{0}% подоходного налога будет вычтено из 
 msgid "{0}% of invested"
 msgstr "{0}% инвестиций"
 
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr ""
-
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} выполнено"
@@ -758,6 +742,10 @@ msgstr ""
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
+msgstr ""
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
 msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
@@ -1543,7 +1531,7 @@ msgstr "API токены"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API токены открывают внешним приложениям доступ к API с вашей стороны. Используйте токен в заголовке <0>X-API-Key</0>. Каждый токен имеет лимит — 200 запросов в минуту."
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "Узор в приложении"
 
@@ -1701,6 +1689,7 @@ msgstr ""
 msgid "Auto approval"
 msgstr "Авто-одобрение"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1815,6 +1804,10 @@ msgstr "Битва"
 msgid "Battle ended"
 msgstr "Битва окончена"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr ""
@@ -1843,11 +1836,11 @@ msgstr ""
 msgid "Battles"
 msgstr "Битвы"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "Битвы на раскладке"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "Битвы на карте"
 
@@ -1864,6 +1857,7 @@ msgstr "Битвы Выиграны"
 msgid "Become a Candidate"
 msgstr "Выдвинуть кандидатуру"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1886,6 +1880,10 @@ msgstr "Заблокировать (скрыть контент)"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
+msgstr ""
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
 msgstr ""
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
@@ -2304,7 +2302,7 @@ msgstr "Кликните, чтобы выбрать законопроект"
 msgid "Click to select motion"
 msgstr "Кликните, чтобы выбрать постановление"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "Климат"
 
@@ -2512,7 +2510,7 @@ msgstr "Потребляется во время сражения в битве"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Употребление увеличивает Вашу <0>Атаку</0> в течение {0} ч.<1/> После истечения действия, так же уменьшает силу в течение {1} ч"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "Контекстуальные границы"
 
@@ -2788,7 +2786,7 @@ msgstr ""
 msgid "Dark Era Pack"
 msgstr ""
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "Тёмная карта"
 
@@ -2955,7 +2953,7 @@ msgstr ""
 msgid "Deposit resource"
 msgstr "Залежи ресурса"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "Залежи ресурсов"
 
@@ -2990,7 +2988,7 @@ msgstr "Описание обновлено!"
 msgid "Destruct"
 msgstr "Разрушить"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "Развитие"
 
@@ -3014,10 +3012,6 @@ msgstr "Дипломат"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "Выключить компанию"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "Убрать прозрачность"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3267,6 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Предпринимательство"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3570,7 +3565,7 @@ msgstr "Уволен из правительства"
 msgid "Fish"
 msgstr "Рыба"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "Флаги"
 
@@ -3578,11 +3573,11 @@ msgstr "Флаги"
 msgid "Flail"
 msgstr ""
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "Шрифт"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "Размер шрифта"
 
@@ -3701,7 +3696,7 @@ msgstr "Выиграл Розыгрыш!"
 msgid "Gives <0>{0}</0>"
 msgstr ""
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "Глобус (в разработке)"
 
@@ -3746,7 +3741,7 @@ msgstr ""
 msgid "Grain"
 msgstr "Зерно"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "Сетка"
 
@@ -4194,7 +4189,7 @@ msgstr "Ножи нельзя использовать с боеприпасам
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Нанесите критический урон <0>{count}</0> раз"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Язык"
@@ -4368,7 +4363,7 @@ msgstr "Ограничивает потребление еды"
 msgid "Limited:"
 msgstr ""
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "Линии"
 
@@ -4474,13 +4469,14 @@ msgstr "Управление"
 msgid "map"
 msgstr "карта"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "Оттенок на карте"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "Настройки карты"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5335,7 +5331,7 @@ msgstr "Открой свой кейс!"
 msgid "Operative"
 msgstr "Оперативник"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "Опции"
 
@@ -5586,7 +5582,7 @@ msgstr "Пожалуйста, пройдите CAPTCHA."
 msgid "Please select a region"
 msgstr "Пожалуйста, выберите регион"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "Политическая"
 
@@ -6238,6 +6234,10 @@ msgstr "Сопротивление"
 msgid "Resistance Contributors"
 msgstr "Участники сопротивления"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr ""
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6266,6 +6266,10 @@ msgstr "Отозвать API токен?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Восстание началось!"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6362,7 +6366,7 @@ msgstr "Выигранные раунды"
 msgid "Rounds Won"
 msgstr "Выигранные Раунды"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Правила"
@@ -6737,11 +6741,7 @@ msgstr ""
 msgid "Some of your companies are disabled."
 msgstr "Некоторые ваши компании выключены."
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "Звук"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "Звуковые эффекты"
 
@@ -6749,7 +6749,7 @@ msgstr "Звуковые эффекты"
 msgid "Specialist"
 msgstr "Ефрейтор"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "Специализация"
 
@@ -6876,7 +6876,7 @@ msgstr "Стратегический"
 msgid "Strategic resource"
 msgstr "Стратегический ресурс"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "Стратегические ресурсы"
 
@@ -7017,7 +7017,7 @@ msgstr "Сроки"
 msgid "Terms of Service"
 msgstr ""
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "Текстура"
 
@@ -7360,6 +7360,10 @@ msgstr ""
 msgid "Tournament"
 msgstr "Турнир"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Турнир Создан"
@@ -7451,6 +7455,10 @@ msgstr "Обучение"
 #: src/pages/user/[userId]/settings.tsx:33
 msgid "Tutorials reseted"
 msgstr "Обучение сброшено"
+
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -7991,6 +7999,7 @@ msgstr "Работники"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Работа на других — отличный способ заработать деньги на старте."
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

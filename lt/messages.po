@@ -138,22 +138,6 @@ msgstr "Iš jūsų darbuotojų atlyginimų bus išskaičiuotas {0}% pajamų moke
 msgid "{0}% of invested"
 msgstr "{0}% investuotos sumos"
 
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr ""
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon}Turnyro „{tournamentName}“ mūšis {score}"
-
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} įvykdyta"
@@ -759,6 +743,10 @@ msgstr "<0>Neramumai</0> atspindi vidinę įtampą šalyje.<1/><2/>Piliečiai ga
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Jūsų paskyrai reikalingas papildomas patvirtinimas. Kad galėtumėte toliau įprastai naudotis paskyra, kuo greičiau patvirtinkite savo telefono numerį. Nepatvirtintoms paskyroms po 48 valandų bus apribota prieiga, o po 5 dienų jos gali būti visam laikui sustabdytos.</0><1>Telefono numeriai yra šifruojami ir nėra matomi jokiam administratoriui.</1>"
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1543,7 +1531,7 @@ msgstr "API raktai"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API raktai leidžia išorinėms programoms pasiekti API jūsų vardu. Naudokite žetoną <0>X-API-Key</0> antraštėje. Kiekvienam žetonui taikomas 200 užklausų per minutę limitas."
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "Programėlės raštas"
 
@@ -1701,6 +1689,7 @@ msgstr "Nepavyko patvirtinti tapatybės. Bandykite dar kartą."
 msgid "Auto approval"
 msgstr "Automatinis patvirtinimas"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1815,6 +1804,10 @@ msgstr "Mūšis"
 msgid "Battle ended"
 msgstr "Mūšis baigėsi"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr "Mūšio didvyris"
@@ -1843,11 +1836,11 @@ msgstr "Mūšio įsakymai"
 msgid "Battles"
 msgstr "Mūšiai"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "Mūšiai žemėlapyje"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "Mūšiai žemėlapyje"
 
@@ -1864,6 +1857,7 @@ msgstr "Laimėti mūšiai"
 msgid "Become a Candidate"
 msgstr "Tapti kandidatu"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1887,6 +1881,10 @@ msgstr "Blokuoti (slėpti turinį)"
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
 msgstr "Mėlyna lazda"
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
+msgstr ""
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2304,7 +2302,7 @@ msgstr "Spustelėkite, kad pasirinktumėte įstatymą"
 msgid "Click to select motion"
 msgstr "Spustelėkite, kad pasirinktumėte pasiūlymą"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "Klimatas"
 
@@ -2512,7 +2510,7 @@ msgstr "Sunaudojama kovojant mūšiuose"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Pavartojus, tavo <0>ataka</0> padidėja {0}h.<1/> Vėliau tiek pat sumažėja {1}h"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "Kontekstinės ribos"
 
@@ -2788,7 +2786,7 @@ msgstr "Tamsioji era"
 msgid "Dark Era Pack"
 msgstr "Tamsiosios eros rinkinys"
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "Tamsus žemėlapis"
 
@@ -2955,7 +2953,7 @@ msgstr "<1/> išseko <0>{0}</0> telkinys"
 msgid "Deposit resource"
 msgstr "Padėti išteklių"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "Depozito resursai"
 
@@ -2990,7 +2988,7 @@ msgstr "Aprašymas atnaujintas!"
 msgid "Destruct"
 msgstr "Likviduoti"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "Plėtra"
 
@@ -3014,10 +3012,6 @@ msgstr "Diplomatinė"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "Išjungti įmonę"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "Išjungti permatomumą"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3267,6 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Verslumas"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3570,7 +3565,7 @@ msgstr "Atleistas iš valdžios"
 msgid "Fish"
 msgstr "Žuvis"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "Vėliavos"
 
@@ -3578,11 +3573,11 @@ msgstr "Vėliavos"
 msgid "Flail"
 msgstr "Spragilas"
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "Šriftas"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "Šrifto dydis"
 
@@ -3701,7 +3696,7 @@ msgstr "Laimėjote dalybas!"
 msgid "Gives <0>{0}</0>"
 msgstr "Suteikia <0>{0}</0>"
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "Gaublys (eksperimentinis)"
 
@@ -3746,7 +3741,7 @@ msgstr "Vyriausybės atlyginimas"
 msgid "Grain"
 msgstr "Grūdai"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "Koordinačių tinklelis"
 
@@ -4194,7 +4189,7 @@ msgstr "Peiliams nereikia amunicijos"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Suduok <0>{count}</0> kritinių smūgių"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Kalba"
@@ -4368,7 +4363,7 @@ msgstr "Maisto suvartojimo limitas"
 msgid "Limited:"
 msgstr "Ribota:"
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "Linija"
 
@@ -4474,13 +4469,14 @@ msgstr "Vadyba"
 msgid "map"
 msgstr "žemėlapis"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "Žemėlapio akcentas"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "Žemėlapio nustatymai"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5335,7 +5331,7 @@ msgstr "Atidaryk savo dėžę!"
 msgid "Operative"
 msgstr "Operatyvininkas"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "Nustatymai"
 
@@ -5586,7 +5582,7 @@ msgstr "Prašome užpildyti CAPTCHA."
 msgid "Please select a region"
 msgstr "Pasirinkite regioną"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "Politinis"
 
@@ -6238,6 +6234,10 @@ msgstr "Pasipriešinimas"
 msgid "Resistance Contributors"
 msgstr "Pasipriešinimo rėmėjai"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr ""
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6266,6 +6266,10 @@ msgstr "Atšaukti API raktą?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Sukilimas prasidėjo!"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6362,7 +6366,7 @@ msgstr "Laimėti raundai"
 msgid "Rounds Won"
 msgstr "Laimėti raundai"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Taisyklės"
@@ -6737,11 +6741,7 @@ msgstr "Bendravimas ir žinutės"
 msgid "Some of your companies are disabled."
 msgstr "Kai kurios jūsų įmonės yra išjungtos."
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "Garsas"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "Garso efektai"
 
@@ -6749,7 +6749,7 @@ msgstr "Garso efektai"
 msgid "Specialist"
 msgstr "Specialistas"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "Specializacija"
 
@@ -6876,7 +6876,7 @@ msgstr "Strateginis"
 msgid "Strategic resource"
 msgstr "Strateginis išteklius"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "Strateginiai ištekliai"
 
@@ -7017,7 +7017,7 @@ msgstr "Taisyklės"
 msgid "Terms of Service"
 msgstr "Paslaugų teikimo sąlygos"
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "Tekstūra"
 
@@ -7360,6 +7360,10 @@ msgstr "Iš viso:"
 msgid "Tournament"
 msgstr "Turnyras"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Turnyras sukurtas"
@@ -7451,6 +7455,10 @@ msgstr "Pamokos"
 #: src/pages/user/[userId]/settings.tsx:33
 msgid "Tutorials reseted"
 msgstr "Pamokos nustatytos iš naujo"
+
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
@@ -7991,6 +7999,7 @@ msgstr "Darbuotojai"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Dirbti kitiems yra puikus būdas užsidirbti pinigų pradžioje."
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""
