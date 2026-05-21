@@ -763,7 +763,7 @@ msgstr "<0>Tvoј račun zahtijeva dodatnu verifikaciјu. Verificiraj broј telef
 
 #: src/components/_layout/LayoutOptions.tsx:95
 msgid "= consumes more power"
-msgstr "= troši više energije"
+msgstr "= Utječe na performanse igrice"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1713,7 +1713,7 @@ msgstr "Automatsko odobravanje"
 #: src/components/_layout/LayoutOptions.tsx:175
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
-msgstr "Automatska zamjena kad se predmet potrga"
+msgstr "Automatska zamjena istrošene opreme"
 
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
@@ -1881,7 +1881,7 @@ msgstr "Postani kandidat"
 #: src/components/_layout/LayoutOptions.tsx:195
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
-msgstr "Najbolji"
+msgstr "Najboljom opremom"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -1905,7 +1905,7 @@ msgstr "Plavo Žezlo"
 
 #: src/components/_layout/LayoutOptions.tsx:149
 msgid "Blur"
-msgstr "Zamućenje"
+msgstr "Zamućenje UI elemenata"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:242
 msgid "Bone Club"
@@ -8091,7 +8091,7 @@ msgstr "Rad za druge јe odličan način da zaradite novac na početku karijere.
 #: src/components/_layout/LayoutOptions.tsx:207
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
-msgstr "Najgori"
+msgstr "Najlošijom opremom"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
