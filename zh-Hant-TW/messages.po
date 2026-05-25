@@ -2686,6 +2686,7 @@ msgstr "製造 <0>{count}</0> 個物品"
 msgid "Craft Item"
 msgstr "製造物品"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
 msgid "Create"
 msgstr "創建"
@@ -4119,6 +4120,10 @@ msgstr ""
 msgid "Inventory"
 msgstr "倉庫"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:162
+msgid "Invitations"
+msgstr ""
+
 #: src/utils/translations.tsx:53
 msgid "Iron"
 msgstr "鐵"
@@ -4193,6 +4198,10 @@ msgstr "加入這個公司！"
 #: src/components/_other/tour/tuto.frontConfig.tsx:211
 msgid "Join your country chat!"
 msgstr "打開國家聊天室！"
+
+#: src/components/_political/chat/ChatConversationsMenu.tsx:156
+msgid "Joinable"
+msgstr ""
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -8645,6 +8654,7 @@ msgstr "你的每週任務已重置，完成它們以賺取獎勵！"
 msgid "your@email.com"
 msgstr "your@email.com"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "你的"

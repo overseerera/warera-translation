@@ -2686,6 +2686,7 @@ msgstr "Направи <0>{count}</0> предмета"
 msgid "Craft Item"
 msgstr "Направи предмет"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
 msgid "Create"
 msgstr "Креирај"
@@ -4119,6 +4120,10 @@ msgstr "Намерно или поновљено кршење ове полит�
 msgid "Inventory"
 msgstr "Инвентар"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:162
+msgid "Invitations"
+msgstr ""
+
 #: src/utils/translations.tsx:53
 msgid "Iron"
 msgstr "Гвожђе"
@@ -4193,6 +4198,10 @@ msgstr "Запосли се у овој компанији!"
 #: src/components/_other/tour/tuto.frontConfig.tsx:211
 msgid "Join your country chat!"
 msgstr "Придружи се разговору своје земље!"
+
+#: src/components/_political/chat/ChatConversationsMenu.tsx:156
+msgid "Joinable"
+msgstr ""
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -8645,6 +8654,7 @@ msgstr "Твоје недељне мисије су ресетоване! Зав
 msgid "your@email.com"
 msgstr "твој@мејл.com"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Твоје"

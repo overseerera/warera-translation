@@ -2686,6 +2686,7 @@ msgstr ""
 msgid "Craft Item"
 msgstr ""
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
 msgid "Create"
 msgstr ""
@@ -4119,6 +4120,10 @@ msgstr ""
 msgid "Inventory"
 msgstr ""
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:162
+msgid "Invitations"
+msgstr ""
+
 #: src/utils/translations.tsx:53
 msgid "Iron"
 msgstr ""
@@ -4192,6 +4197,10 @@ msgstr "اس کمپنی میں شریک ہوئیں!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:211
 msgid "Join your country chat!"
+msgstr ""
+
+#: src/components/_political/chat/ChatConversationsMenu.tsx:156
+msgid "Joinable"
 msgstr ""
 
 #: src/components/_user/worker/WorkerItem.tsx:150
@@ -8645,6 +8654,7 @@ msgstr "آپ کے ہفتہ وار مشن دوبارہ شروع ہو گئے ہی�
 msgid "your@email.com"
 msgstr "آپکی@gmail.com"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "آپ کا"

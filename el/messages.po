@@ -2686,6 +2686,7 @@ msgstr "Κατασκεύασε <0>{count}</0> αντικείμενα"
 msgid "Craft Item"
 msgstr "Κατασκευή Αντικειμένου"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
 msgid "Create"
 msgstr "Δημιουργία"
@@ -4119,6 +4120,10 @@ msgstr ""
 msgid "Inventory"
 msgstr "Απόθεμα"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:162
+msgid "Invitations"
+msgstr ""
+
 #: src/utils/translations.tsx:53
 msgid "Iron"
 msgstr "Σίδηρος"
@@ -4193,6 +4198,10 @@ msgstr "Ένταξη σε αυτή την εταιρεία!"
 #: src/components/_other/tour/tuto.frontConfig.tsx:211
 msgid "Join your country chat!"
 msgstr "Ένταξη στη συνομιλία της χώρας σου!"
+
+#: src/components/_political/chat/ChatConversationsMenu.tsx:156
+msgid "Joinable"
+msgstr ""
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -8645,6 +8654,7 @@ msgstr "Οι εβδομαδιαίες αποστολές σου επαναφέρ
 msgid "your@email.com"
 msgstr "email@σου.com"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Δικά σου"

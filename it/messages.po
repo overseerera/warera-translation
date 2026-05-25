@@ -2686,6 +2686,7 @@ msgstr "Crea <0>{count}</0> oggetti"
 msgid "Craft Item"
 msgstr "Crea oggetto"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
 msgid "Create"
 msgstr "Crea"
@@ -4119,6 +4120,10 @@ msgstr "Violazioni intenzionali o ripetute di questa politica comporterano ad un
 msgid "Inventory"
 msgstr "Inventario"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:162
+msgid "Invitations"
+msgstr ""
+
 #: src/utils/translations.tsx:53
 msgid "Iron"
 msgstr "Ferro"
@@ -4193,6 +4198,10 @@ msgstr "Unisciti a questa azienda!"
 #: src/components/_other/tour/tuto.frontConfig.tsx:211
 msgid "Join your country chat!"
 msgstr "Unisciti alla chat del tuo paese!"
+
+#: src/components/_political/chat/ChatConversationsMenu.tsx:156
+msgid "Joinable"
+msgstr ""
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -8645,6 +8654,7 @@ msgstr "Le tue missioni settimanali sono state reimpostate! Completale per otten
 msgid "your@email.com"
 msgstr "your@email.com"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Tuo"

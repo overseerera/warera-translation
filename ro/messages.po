@@ -2684,6 +2684,7 @@ msgstr "Fabrică <0>{count}</0> obiecte"
 msgid "Craft Item"
 msgstr "Creează obiect"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
 msgid "Create"
 msgstr "Creează"
@@ -4117,6 +4118,10 @@ msgstr ""
 msgid "Inventory"
 msgstr "Inventar"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:162
+msgid "Invitations"
+msgstr ""
+
 #: src/utils/translations.tsx:53
 msgid "Iron"
 msgstr "Fier"
@@ -4191,6 +4196,10 @@ msgstr "Angajează-te aici!"
 #: src/components/_other/tour/tuto.frontConfig.tsx:211
 msgid "Join your country chat!"
 msgstr "Alătură-te chat-ului țării tale!"
+
+#: src/components/_political/chat/ChatConversationsMenu.tsx:156
+msgid "Joinable"
+msgstr ""
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -8643,6 +8652,7 @@ msgstr "Misiunile tale săptămânale au fost resetate! Completează-le pentru a
 msgid "your@email.com"
 msgstr "adresa_ta@email.com"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Ale tale"

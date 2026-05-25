@@ -2686,6 +2686,7 @@ msgstr "Fabrique <0>{count}</0> équipements"
 msgid "Craft Item"
 msgstr "Fabriquer un équipement"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
 msgid "Create"
 msgstr "Créer"
@@ -4119,6 +4120,10 @@ msgstr "Les violations intentionnelles ou répétées de cette politique entraî
 msgid "Inventory"
 msgstr "Inventaire"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:162
+msgid "Invitations"
+msgstr ""
+
 #: src/utils/translations.tsx:53
 msgid "Iron"
 msgstr "Fer"
@@ -4193,6 +4198,10 @@ msgstr "Rejoins cette entreprise !"
 #: src/components/_other/tour/tuto.frontConfig.tsx:211
 msgid "Join your country chat!"
 msgstr "Rejoins le chat de ton pays !"
+
+#: src/components/_political/chat/ChatConversationsMenu.tsx:156
+msgid "Joinable"
+msgstr ""
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -8645,6 +8654,7 @@ msgstr "Tes missions hebdomadaires ont été réinitialisées ! Complétez-les p
 msgid "your@email.com"
 msgstr "votre@email.com"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Tes"

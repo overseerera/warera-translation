@@ -2686,6 +2686,7 @@ msgstr "Stelle <0>{count}</0> Gegenstände her"
 msgid "Craft Item"
 msgstr "Gegenstand herstellen"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
 msgid "Create"
 msgstr "Erstellen"
@@ -4119,6 +4120,10 @@ msgstr "Absichtliche oder wiederholte Verstöße gegen diese Regel führen zu ei
 msgid "Inventory"
 msgstr "Inventar"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:162
+msgid "Invitations"
+msgstr ""
+
 #: src/utils/translations.tsx:53
 msgid "Iron"
 msgstr "Eisen"
@@ -4193,6 +4198,10 @@ msgstr "Tritt diesem Unternehmen bei!"
 #: src/components/_other/tour/tuto.frontConfig.tsx:211
 msgid "Join your country chat!"
 msgstr "Tritt dem Chat deines Landes bei!"
+
+#: src/components/_political/chat/ChatConversationsMenu.tsx:156
+msgid "Joinable"
+msgstr ""
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -8645,6 +8654,7 @@ msgstr "Deine wöchentlichen Missionen wurden zurückgesetzt! Schließe sie ab, 
 msgid "your@email.com"
 msgstr "deine@email.de"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Deine"

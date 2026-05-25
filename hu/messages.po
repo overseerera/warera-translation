@@ -2686,6 +2686,7 @@ msgstr "Készíts <0>{count}</0> tárgyat"
 msgid "Craft Item"
 msgstr "Tárgy készítése"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
 msgid "Create"
 msgstr "Létrehozás"
@@ -4119,6 +4120,10 @@ msgstr "Ezen szabályzat szándékos vagy ismételt megsértése végleges kitil
 msgid "Inventory"
 msgstr "Készlet"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:162
+msgid "Invitations"
+msgstr ""
+
 #: src/utils/translations.tsx:53
 msgid "Iron"
 msgstr "Vas"
@@ -4193,6 +4198,10 @@ msgstr "Csatlakozz ehhez a vállalathoz!"
 #: src/components/_other/tour/tuto.frontConfig.tsx:211
 msgid "Join your country chat!"
 msgstr "Csatlakozz az országod chatjéhez!"
+
+#: src/components/_political/chat/ChatConversationsMenu.tsx:156
+msgid "Joinable"
+msgstr ""
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -8645,6 +8654,7 @@ msgstr "A heti küldetéseid újraindultak! Teljesítsd őket, hogy jutalmakat s
 msgid "your@email.com"
 msgstr "te@email.hu"
 
+#: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Tieid"
