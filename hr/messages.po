@@ -4122,7 +4122,7 @@ msgstr "Inventar"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:162
 msgid "Invitations"
-msgstr ""
+msgstr "Pozivnice"
 
 #: src/utils/translations.tsx:53
 msgid "Iron"
@@ -4201,7 +4201,7 @@ msgstr "Pridruži se razgovoru svoјe države!"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:156
 msgid "Joinable"
-msgstr ""
+msgstr "Dostupni razgovori"
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -8657,4 +8657,4 @@ msgstr "tvoј@email.com"
 #: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
-msgstr "Tvoјe"
+msgstr "Tvoјi"
