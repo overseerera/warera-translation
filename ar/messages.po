@@ -2646,7 +2646,7 @@ msgstr "مكافأة دخل تطوير الدولة"
 
 #: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
-msgstr ""
+msgstr "تحويل اموال الدولة"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:40
 msgid "Country Orders"
@@ -4122,7 +4122,7 @@ msgstr "المخزون"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:162
 msgid "Invitations"
-msgstr ""
+msgstr "الدعوات"
 
 #: src/utils/translations.tsx:53
 msgid "Iron"
@@ -4201,7 +4201,7 @@ msgstr "انضم إلى دردشة بلدك!"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:156
 msgid "Joinable"
-msgstr ""
+msgstr "تستطيع دخولها"
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
