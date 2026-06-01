@@ -31,7 +31,7 @@ msgstr " - Shema povezivanja opreme *"
 
 #: src/components/_common/GameRules.tsx:117
 msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
-msgstr ""
+msgstr " - Raspon plaća radne snage (treba biti u rasponu od 0.8x do 1.2x normalne plaće)"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:422
