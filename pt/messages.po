@@ -391,7 +391,7 @@ msgstr "<0/> entrou na sua empresa <1/> por um salário de <2>{0}</2>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:42
 msgid "<0/> kicked <1/> from the conversation"
-msgstr "<o/> removeu <1/> da conversa"
+msgstr "<0/> removeu <1/> da conversa"
 
 #. placeholder {0}: data.company && <CompanyNameById companyId={data.company} />
 #: src/components/_user/notification/notification.frontConfig.tsx:426
