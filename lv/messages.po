@@ -7013,7 +7013,7 @@ msgstr "Raunda laupījums"
 
 #: src/components/_military/battle/BattleTimeline.tsx:78
 msgid "Rounds timeline"
-msgstr "Raundu laika skala"
+msgstr "Raundu vēsture"
 
 #: src/components/_military/war/WarItem.tsx:56
 #: src/components/_military/war/WarItem.tsx:90
