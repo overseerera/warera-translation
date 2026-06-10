@@ -461,7 +461,7 @@ msgstr "<0/> te mencionó <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1209
 msgid "<0/> mentioned you in <1/><2/>"
-msgstr "<0/> te mencionó <1/>"
+msgstr "<0/> te mencionó <1/><2/>"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:221
 msgid "<0/> paid fee"
@@ -6791,7 +6791,7 @@ msgstr "Cambiar el nombre de la alianza"
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:127
 msgid "Rename alliance to \"{0}\""
-msgstr "Cambiar el nombre de la alianza a "{0}""
+msgstr "Cambiar el nombre de la alianza a \"{0}\""
 
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:66
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:82
