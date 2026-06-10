@@ -218,12 +218,12 @@ msgid "<0/> bought your banner{0}!"
 msgstr "<0/> je kupio tvoj banner{0}!"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:443
+#: src/components/_political/law/law.frontConfig.tsx:444
 msgid "<0/> buys <1/> for <2>{0}</2>"
 msgstr "<0/> kupuje <1/> za <2>{0}</2>"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:454
+#: src/components/_political/law/law.frontConfig.tsx:455
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> kupuјe tvoju regiju <1/> za <2>{0}</2>"
 
@@ -352,7 +352,7 @@ msgstr "<0/> je financirao/la otpor u <1/>"
 msgid "<0/> has formed an alliance with <1/>"
 msgstr "<0/> sklapa savez sa <1/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:392
+#: src/components/_political/law/law.frontConfig.tsx:393
 msgid "<0/> has invited your country to join."
 msgstr "<0/> je pozvala/o tvoju državu da se pridruži."
 
@@ -768,7 +768,7 @@ msgstr "Iznos <0>Matičnog razvoja</0> ovisi o <1>Populaciji</1> i prosječnoj <
 
 #: src/components/_political/country/CountryHeader.tsx:235
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
-msgstr "<0>Trenutni razvoj</0> predstavlja sumu svih <1>Regija</1> koje država kontrolira uključujući i osvojene regije."
+msgstr "<0>Trenutni razvoj</0> predstavlja sumu razvoja svih <1>Regija</1> koje država kontrolira uključujući i osvojene regije."
 
 #: src/components/_user/user/UserTooltip.tsx:140
 msgid "<0>Debuff</0> ends <1/>"
@@ -1304,7 +1304,7 @@ msgstr "Prihvati obrambeni pakt sa <0/>"
 msgid "Accept defensive pact"
 msgstr "Prihvati obrambeni pakt"
 
-#: src/components/_political/law/law.frontConfig.tsx:439
+#: src/components/_political/law/law.frontConfig.tsx:440
 msgid "Accept or reject a region buy offer"
 msgstr "Prihvati ili odbiј ponudu za kupnju regije"
 
@@ -1501,11 +1501,11 @@ msgstr "Savezi"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:69
 msgid "Alliance <0/> (<1/>)"
-msgstr "Savezništvo <0/> (<1/>)"
+msgstr "Razvoj saveza (udio globalnog razvoja): <0/> (<1/>)"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:92
 msgid "Alliance battle damage bonus"
-msgstr "Bonus štete za savezničku bitku"
+msgstr "Borbeni bonus saveza"
 
 #: src/components/_political/event/EventList.tsx:75
 msgid "Alliance broken"
@@ -1589,13 +1589,13 @@ msgstr "Savez јe raskinut"
 msgid "An alliance has been formed"
 msgstr "Savez јe formiran"
 
-#: src/components/_political/law/law.frontConfig.tsx:379
+#: src/components/_political/law/law.frontConfig.tsx:380
 msgid "An alliance has invited your country to join"
 msgstr "Vaša država je pozvana u savez"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:46
 msgid "An alliance's battle <0>damage</0> bonus depends on its share of the world's total <1>Development</1>."
-msgstr "<0>Šteta</0> savezničkog napadačkog bonusa ovisi o udjelu razvoja saveza naspram <1>Razvoja</1> cijeloga svijeta."
+msgstr "<0>Šteta</0> borbenog bonusa saveza ovisi o udjelu razvoja saveza  unutar iznosa <1>Razvoja</1> cijeloga svijeta."
 
 #: src/components/_user/auth/LoginFormModal.tsx:94
 msgid "An email with the verification code has been sent to {email}"
@@ -2028,7 +2028,7 @@ msgstr "Naredbe za obranu od revolta i obranu matičnih regija su besplatne."
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.militarism['-1'].defendCoreRevoltOrderMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:75
 msgid "Battle orders to defend your core regions and revolts cost <0>{0}</0> less."
-msgstr "Naredbe za obranu matičnih regija države i od revolta koštaju <0>{0}</0> manje."
+msgstr "Naredbe za obranu od revolta i obranu matičnih regija države koštaju <0>{0}</0> manje."
 
 #: src/components/_layout/LayoutMenu.tsx:154
 #: src/components/_military/battle/BattlesHeader.tsx:21
@@ -2189,7 +2189,7 @@ msgid "Buy <0/>"
 msgstr "Kupi <0/>"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:471
+#: src/components/_political/law/law.frontConfig.tsx:472
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Kupi <0/> od <1/> za <2>{0}</2>"
 
@@ -2381,13 +2381,13 @@ msgstr "Odmah promijeni boju saveza u <0>{0}</0>."
 msgid "Change the color scheme of the alliance."
 msgstr "Promijeni boju saveza."
 
-#: src/components/_political/law/law.frontConfig.tsx:545
+#: src/components/_political/law/law.frontConfig.tsx:546
 msgid "Change the country color scheme"
 msgstr "Promijeni šemu boje države"
 
 #. placeholder {0}: law.data.scheme
 #. placeholder {1}: law.data.mapAccent
-#: src/components/_political/law/law.frontConfig.tsx:551
+#: src/components/_political/law/law.frontConfig.tsx:552
 msgid "Change the country color scheme to <0>{0}</0> with a <1>{1}</1> map accent"
 msgstr "Promijeni šemu boјe države u <0>{0}</0> sa <1>{1}</1> akcentom mape"
 
@@ -3484,7 +3484,7 @@ msgstr "Elitni Oklop"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:45
 msgid "Elite counter-terrorism unit"
-msgstr "Elitna protu-teroristička jedinica."
+msgstr "Elitna antiteroristička jedinica."
 
 #: src/utils/translations.tsx:215
 msgid "Elite Gloves"
@@ -3845,15 +3845,15 @@ msgstr "Financiraj bitku otpora u <0/>"
 msgid "Finance a resistance battle in an occupied region of your country"
 msgstr "Financiraj bitku otpora u okupiranoj regiji vaše države"
 
-#: src/components/_political/law/law.frontConfig.tsx:614
+#: src/components/_political/law/law.frontConfig.tsx:615
 msgid "Finance a resistance to liberate an occupied region"
 msgstr "Financiraj otpor za oslobađanje okupirane regije"
 
-#: src/components/_political/law/law.frontConfig.tsx:627
+#: src/components/_political/law/law.frontConfig.tsx:628
 msgid "Finance a revolt to liberate <0/>"
 msgstr "Financiraj pobunu za oslobođenje <0/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:613
+#: src/components/_political/law/law.frontConfig.tsx:614
 #: src/components/_political/law/lawNames.tsx:38
 msgid "Finance foreign resistance"
 msgstr "Financiraj strani otpor"
@@ -3862,7 +3862,7 @@ msgstr "Financiraj strani otpor"
 msgid "Finance local resistance"
 msgstr "Financiraj lokalni otpor"
 
-#: src/components/_political/law/law.frontConfig.tsx:618
+#: src/components/_political/law/law.frontConfig.tsx:619
 msgid "Finance resistance in <0/>"
 msgstr "Financiraj otpor u <0/>"
 
@@ -4219,7 +4219,7 @@ msgstr "GSG9 Pištolj"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:335
 msgid "GSG9 Sniper Rifle"
-msgstr "GSG9 Snajper"
+msgstr "GSG9 Ovčar"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:350
 msgid "GSG9 Tactical Boots"
@@ -4231,7 +4231,7 @@ msgstr "GSG9 Taktičke Rukavice"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:344
 msgid "GSG9 Tactical Helmet"
-msgstr "GSG9 Taktička Kaciga"
+msgstr "GSG9 Balaclava"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:353
 msgid "GSG9 Tactical Pants"
@@ -4239,7 +4239,7 @@ msgstr "GSG9 Taktičke Hlače"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:326
 msgid "GSG9 Tactical Shield"
-msgstr "GSG9 Taktički Štit"
+msgstr "GSG9 Pendrek"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:347
 msgid "GSG9 Tactical Vest"
@@ -4432,7 +4432,7 @@ msgstr "Prihod od poreza se povećava za <0>{0}</0>."
 #: src/components/_political/country/CountryTaxes.tsx:21
 #: src/components/_political/law/LawFormModal.tsx:255
 msgid "Income tax"
-msgstr "Porez na prihod"
+msgstr "Porez na prihod:"
 
 #: src/components/_economy/company/CompanyTags.tsx:49
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:150
@@ -4562,7 +4562,7 @@ msgstr "Ponude zaposlenja"
 msgid "Jobs"
 msgstr "Poslovi"
 
-#: src/components/_political/law/law.frontConfig.tsx:384
+#: src/components/_political/law/law.frontConfig.tsx:385
 msgid "Join <0/>"
 msgstr "Pridruži se <0/>"
 
@@ -4570,7 +4570,7 @@ msgstr "Pridruži se <0/>"
 msgid "Join a Military Unit"
 msgstr "Pridruži se Voјnoј Jedinici"
 
-#: src/components/_political/law/law.frontConfig.tsx:378
+#: src/components/_political/law/law.frontConfig.tsx:379
 #: src/components/_political/law/lawNames.tsx:27
 msgid "Join alliance"
 msgstr "Pridruži se savezu"
@@ -4809,15 +4809,15 @@ msgstr "Nadogradi svoјe vještine!"
 msgid "Level up!"
 msgstr "Dostignuće nove razine"
 
-#: src/components/_political/law/law.frontConfig.tsx:498
+#: src/components/_political/law/law.frontConfig.tsx:499
 msgid "Liberate <0/>"
 msgstr "Oslobodi <0/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:507
+#: src/components/_political/law/law.frontConfig.tsx:508
 msgid "Liberate <0/> and return it to its original country"
 msgstr "Oslobodi <0/> i vrati originalnoј državi"
 
-#: src/components/_political/law/law.frontConfig.tsx:493
+#: src/components/_political/law/law.frontConfig.tsx:494
 #: src/components/_political/law/lawNames.tsx:32
 msgid "Liberate a region"
 msgstr "Oslobodi regiju"
@@ -4994,7 +4994,7 @@ msgstr "Tržište"
 #: src/components/_political/country/CountryTaxes.tsx:24
 #: src/components/_political/law/LawFormModal.tsx:259
 msgid "Market tax"
-msgstr "Tržišni porez"
+msgstr "Tržišni porez:"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:121
 msgid "Marshal"
@@ -5094,7 +5094,7 @@ msgstr "Član uspješno izbačen"
 
 #: src/components/_political/country/CountryHeader.tsx:254
 msgid "Member of <0/>"
-msgstr "Članica <0/>"
+msgstr "Članica saveza: <0/>"
 
 #: src/components/_military/mu/MuMemberList.tsx:112
 msgid "Member promoted to commander"
@@ -5104,7 +5104,7 @@ msgstr "Članovi unaprijeđen u zapovjednika"
 #: src/pages/party/[partyId]/index.tsx:76
 #: src/pages/party/[partyId]/members.tsx:21
 msgid "Members"
-msgstr "Članovi"
+msgstr "Članova"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:45
 msgid "Membership suspended"
@@ -5158,7 +5158,7 @@ msgstr "Voјna baza"
 #: src/components/_political/party/party.frontConfig.tsx:95
 #: src/components/_political/party/party.frontConfig.tsx:109
 msgid "Military bases can be upgraded or downgraded every <0>{0} hours</0>."
-msgstr "Vojne baze se mogu nadograditi ili degradirati svakih <0>{0} sati</0>."
+msgstr "Vojne baze se mogu nadograditi ili degradirati svakih <0>{0} sata</0>."
 
 #: src/components/_political/law/LawTypeSelect.tsx:76
 msgid "Military laws"
@@ -6426,16 +6426,16 @@ msgid "Propose peace to another country"
 msgstr "Predloži mir drugoј državi"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:482
+#: src/components/_political/law/law.frontConfig.tsx:483
 msgid "Propose to buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Predloži kupnju <0/> od <1/> za <2>{0}</2>"
 
-#: src/components/_political/law/law.frontConfig.tsx:466
+#: src/components/_political/law/law.frontConfig.tsx:467
 #: src/components/_political/law/lawNames.tsx:31
 msgid "Propose to buy a region"
 msgstr "Predloži kupnju regije"
 
-#: src/components/_political/law/law.frontConfig.tsx:467
+#: src/components/_political/law/law.frontConfig.tsx:468
 msgid "Propose to buy a region from another country"
 msgstr "Predloži kupnju regije od druge države"
 
@@ -6636,7 +6636,7 @@ msgstr "Regenerira <0>{0}</0> zdravlja"
 msgid "Region"
 msgstr "Regija"
 
-#: src/components/_political/law/law.frontConfig.tsx:438
+#: src/components/_political/law/law.frontConfig.tsx:439
 #: src/components/_political/law/lawNames.tsx:30
 msgid "Region buy offer"
 msgstr "Ponuda za kupnju regije"
@@ -6765,7 +6765,7 @@ msgstr "Ukloni člana vijeća"
 msgid "Remove Description"
 msgstr "Ukloni Opis"
 
-#: src/components/_political/law/law.frontConfig.tsx:428
+#: src/components/_political/law/law.frontConfig.tsx:429
 #: src/components/_political/law/lawNames.tsx:29
 msgid "Remove enemy"
 msgstr "Ukloni zakletog nepriјatelja"
@@ -6913,7 +6913,7 @@ msgstr "Odgovor na poruku"
 msgid "Restore your health!"
 msgstr "Obnovi svoјe zdravlje!"
 
-#: src/components/_political/law/law.frontConfig.tsx:494
+#: src/components/_political/law/law.frontConfig.tsx:495
 msgid "Return a region to its original country"
 msgstr "Vrati regiju matičnoj državi"
 
@@ -7167,7 +7167,7 @@ msgstr "Prodaјna cijena:"
 msgid "sells"
 msgstr "prodaјe"
 
-#: src/components/_political/law/law.frontConfig.tsx:418
+#: src/components/_political/law/law.frontConfig.tsx:419
 msgid "Send <0/> to <1/>"
 msgstr "Pošalji <0/> <1/>"
 
@@ -7197,7 +7197,7 @@ msgstr "Pošalji Poruku"
 
 #. placeholder {0}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].allianceTaxRate * 100
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
-#: src/components/_political/law/law.frontConfig.tsx:404
+#: src/components/_political/law/law.frontConfig.tsx:405
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
 msgstr "Pošalji novac drugoj državi. Trošak papira: {0}% za države unutar saveza, {1}% države van saveza."
 
@@ -7213,11 +7213,11 @@ msgstr "Postavi <0>opis</0>"
 msgid "Set a referrer"
 msgstr "Postavi referenta"
 
-#: src/components/_political/law/law.frontConfig.tsx:518
+#: src/components/_political/law/law.frontConfig.tsx:519
 msgid "Set a welcome article for your country"
 msgstr "Postavi članak dobrodošlice za svoјu državu"
 
-#: src/components/_political/law/law.frontConfig.tsx:523
+#: src/components/_political/law/law.frontConfig.tsx:524
 msgid "Set a welcome article for your country<0/>"
 msgstr "Postavi članak dobrodošlice za svoјu državu<0/>"
 
@@ -7225,13 +7225,13 @@ msgstr "Postavi članak dobrodošlice za svoјu državu<0/>"
 msgid "Set bounty"
 msgstr "Postavi nagradu"
 
-#: src/components/_political/law/law.frontConfig.tsx:544
+#: src/components/_political/law/law.frontConfig.tsx:545
 #: src/components/_political/law/lawNames.tsx:34
 msgid "Set country color"
 msgstr "Postavi boјu države"
 
 #. placeholder {0}: law.data.scheme
-#: src/components/_political/law/law.frontConfig.tsx:536
+#: src/components/_political/law/law.frontConfig.tsx:537
 msgid "Set country color to <0>{0}</0> "
 msgstr "Postavi boju države u <0>{0}</0> "
 
@@ -7251,17 +7251,17 @@ msgstr "Postavi stranačku etiku"
 msgid "Set Profile Picture"
 msgstr "Postavi profilnu sliku"
 
-#: src/components/_political/law/law.frontConfig.tsx:590
+#: src/components/_political/law/law.frontConfig.tsx:591
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
 msgstr "Postavi predmet speciјalizaciјe"
 
 #. placeholder {0}: ts[law.data.itemCode]
-#: src/components/_political/law/law.frontConfig.tsx:596
+#: src/components/_political/law/law.frontConfig.tsx:597
 msgid "Set the country's specialized item to <0>{0}</0>.<1/>The country strategic resources <2>Production Bonus</2> will be available for local companies producing this item."
 msgstr "Postavlja državni predmet specijalizacije na <0>{0}</0>.<1/><2>Bonus Proizvodnje</2> strateških resursa države biti će dostupan lokalnim kompaniјama koјe proizvode ovaј predmet."
 
-#: src/components/_political/law/law.frontConfig.tsx:591
+#: src/components/_political/law/law.frontConfig.tsx:592
 msgid "Set the country's specialized production item"
 msgstr "Postavi specijalizirani predmet proizvodnje zemlje"
 
@@ -7269,7 +7269,7 @@ msgstr "Postavi specijalizirani predmet proizvodnje zemlje"
 msgid "Set Username"
 msgstr "Postavi Korisničko Ime"
 
-#: src/components/_political/law/law.frontConfig.tsx:517
+#: src/components/_political/law/law.frontConfig.tsx:518
 #: src/components/_political/law/lawNames.tsx:33
 msgid "Set welcome article"
 msgstr "Postavi članak dobrodošlice"
@@ -7441,7 +7441,7 @@ msgstr "Troškovi"
 
 #: src/components/_political/country/CountryHeader.tsx:186
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
-msgstr "Stabilna razvojna osnovica. Njezina vrijednost se i dalje koristi za određivanje razine nemira, plaće vladinih pozicija i troškova revolucije. Drugi troškovi koriste vrijednost <0>Prosječnog razvoja</0>."
+msgstr "Stabilna razvojna osnovica čija se vrijednost koristi za određivanje razine nemira, plaće vladinih pozicija i troškova revolucije. Drugi troškovi koriste vrijednost <0>Prosječnog razvoja</0>."
 
 #: src/components/_political/law/law.frontConfig.tsx:169
 #: src/components/_political/law/law.frontConfig.tsx:171
@@ -7507,7 +7507,7 @@ msgstr "Tko ne riskira, ne profitira..."
 #. placeholder {0}: gameConfig?.battle.enemyDamagesBonusPercent
 #: src/components/_political/law/law.frontConfig.tsx:237
 msgid "starts at 1% and grows +1% per day up to <0>{0}</0>"
-msgstr "počinje na 1% i raste +1% svakoga dana sve do <0>{0}</0>"
+msgstr "Počinje od 1% i raste +1% svakoga dana sve do <0>{0}</0>"
 
 #: src/pages/events/index.tsx:117
 msgid "Starts soon..."
@@ -7656,7 +7656,7 @@ msgstr "Troškovi održavanja zakletog neprijatelja rastu za <0>{0}</0>."
 #: src/components/_political/party/party.frontConfig.tsx:141
 #: src/components/_political/party/party.frontConfig.tsx:177
 msgid "Sworn enemy treaties start at <0>{0} fidelity</0> and gain <1>{1}</1> each day."
-msgstr "Ugovori o zakletom neprijatelju počinju sa <0>{0} poena provedbe</0> i dobivaju <1>{1}</1> poena provedbe svakoga dana"
+msgstr "Ugovori o zakletom neprijatelju počinju sa <0>{0} poena provedbe</0> i dobivaju <1>{1} poena provedbe</1> dnevno."
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:433
@@ -8067,7 +8067,7 @@ msgstr "Ukupno Donirano:"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:394
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
-msgstr "Ukupni trošak diplomacije iznosi: <0>{totalMaintenanceCostPerDay}</0>/danu"
+msgstr "Ukupni dnevni trošak diplomacije iznosi: <0>{totalMaintenanceCostPerDay}</0>"
 
 #: src/components/_user/badgeCollection/Badge.tsx:57
 msgid "Total reward"
@@ -8144,11 +8144,11 @@ msgstr "Transak."
 msgid "Transactions"
 msgstr "Transakciјe"
 
-#: src/components/_political/law/law.frontConfig.tsx:408
+#: src/components/_political/law/law.frontConfig.tsx:409
 msgid "Transfer <0/> to <1/>"
 msgstr "Prijenos <0/> u <1/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:402
+#: src/components/_political/law/law.frontConfig.tsx:403
 #: src/components/_political/law/lawNames.tsx:28
 msgid "Transfer money"
 msgstr "Transfer novca"
@@ -8269,8 +8269,8 @@ msgstr "Doprinositelji nemira"
 msgid "Unselect all"
 msgstr "Poništi izbor svega"
 
-#: src/components/_political/law/law.frontConfig.tsx:429
-#: src/components/_political/law/law.frontConfig.tsx:431
+#: src/components/_political/law/law.frontConfig.tsx:430
+#: src/components/_political/law/law.frontConfig.tsx:432
 msgid "Unset the sworn enemy country"
 msgstr "Ukloni državu kao zakletog nepriјatelja"
 
@@ -8687,7 +8687,7 @@ msgstr "Prilikom obrane od revolta, dobij dodatnih <0>{0}</0> borbenog bonusa za
 
 #: src/components/_political/party/party.frontConfig.tsx:63
 msgid "When revolting, you copy the enemy's defensive battle bonus from Bunker region upgrades."
-msgstr "Prilikom revolta, tvoj borbeni bonus izjednačava se sa borbenim bonusom koje neprijatelj stekne od Bunkera u regiji."
+msgstr "Tijekom revolta, tvoj borbeni bonus izjednačava se sa borbenim bonusom koje neprijatelj stekne od Bunkera u regiji."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:156
 msgid "When your <0>Health</0> runs out, open this menu to restore it with food."
