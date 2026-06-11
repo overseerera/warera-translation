@@ -1450,7 +1450,7 @@ msgstr "你国境内所有的古柯叶、谷物、牲畜和鱼类资源点额外
 #: src/components/_political/party/party.frontConfig.tsx:381
 #: src/components/_political/party/party.frontConfig.tsx:395
 msgid "All companies in your borders get <0>+{0}</0> bonus towards ammo or construction specialization good."
-msgstr "你国境内所有生产子弹或建筑特产的公司获得 <0>+{0}</0> 生产加成。"
+msgstr "国境内所有生产弹药或建筑特产的公司获得 <0>+{0}</0> 生产加成。"
 
 #: src/components/_political/event/EventList.tsx:154
 msgid "All event types"
@@ -1552,11 +1552,11 @@ msgstr "Alpha 测试者"
 #: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
-msgstr "子弹"
+msgstr "中型弹药"
 
 #: src/components/_user/user/SkillValue.tsx:136
 msgid "Ammo:"
-msgstr "子弹："
+msgstr "弹药："
 
 #: src/components/_political/law/LawFormModal.tsx:277
 #: src/components/_political/law/LawFormModal.tsx:278
@@ -1725,7 +1725,7 @@ msgstr "确定要将所有权转让给该成员吗？此行为不可回溯。"
 #: src/components/_user/user/skills.frontConfig.tsx:71
 #: src/components/_user/user/skills.frontConfig.tsx:72
 msgid "Armor"
-msgstr "护甲值"
+msgstr "护甲"
 
 #: src/components/_political/law/LawFormModal.tsx:244
 msgid "Article ID"
@@ -4271,7 +4271,7 @@ msgstr "生命值"
 
 #: src/utils/translations.tsx:98
 msgid "Heavy Ammo"
-msgstr "重型子弹"
+msgstr "重型弹药"
 
 #: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:184
@@ -4649,7 +4649,7 @@ msgstr "匕首"
 
 #: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
-msgstr "匕首不使用子弹"
+msgstr "匕首不用弹药"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:262
 msgid "Land <0>{count}</0> critical hits"
@@ -4832,7 +4832,7 @@ msgstr "浅色"
 
 #: src/utils/translations.tsx:92
 msgid "Light Ammo"
-msgstr "轻型子弹"
+msgstr "轻型弹药"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:329
 msgid "Like <0>{count}</0> articles"
