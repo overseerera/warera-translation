@@ -67,11 +67,11 @@ msgstr "- Das Entwicklungseinkommen ist um 50% reduziert: <0>{0}</0>."
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:236
 msgid "(average member development)"
-msgstr ""
+msgstr "(Durchschnittliche Mitgliederentwicklung)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
-msgstr ""
+msgstr "(Durchschnittliche Entwicklung der Mitglieder)"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:226
 msgid "(own development)"
@@ -316,7 +316,7 @@ msgstr "<0/> wurde zum Präsidenten von <1/> gewählt"
 
 #: src/components/_political/event/event.frontConfig.tsx:379
 msgid "<0/> has been excluded from the alliance <1/>"
-msgstr ""
+msgstr "<0/> wurde aus dem Bündnis ausgeschlossen <1/>"
 
 #. placeholder {0}: data.amount
 #: src/components/_political/event/event.frontConfig.tsx:216
@@ -329,7 +329,7 @@ msgstr "<0/> hat das Bündnis mit <1/> gebrochen"
 
 #: src/components/_political/event/event.frontConfig.tsx:407
 msgid "<0/> has broken their defensive pact with <1/>"
-msgstr ""
+msgstr "<0/> hat ihren Verteidigungspakt gebrochen mit <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:103
 msgid "<0/> has conquered <1/> against <2/>"
@@ -353,15 +353,15 @@ msgstr "<0/> ist ein Bündnis mit <1/> eingegangen"
 
 #: src/components/_political/law/law.frontConfig.tsx:392
 msgid "<0/> has invited your country to join."
-msgstr ""
+msgstr "<0/> hat Ihr Land eingeladen, beizutreten."
 
 #: src/components/_political/event/event.frontConfig.tsx:349
 msgid "<0/> has joined the alliance <1/>"
-msgstr ""
+msgstr "<0/> ist der Allianz beigetreten <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:364
 msgid "<0/> has left the alliance <1/>"
-msgstr ""
+msgstr "<0/> hat die Allianz verlassen <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:232
 msgid "<0/> has liberated <1/> and returned it to <2/>"
@@ -369,7 +369,7 @@ msgstr "<0/> hat <1/> befreit und an <2/> zurückgegeben"
 
 #: src/components/_political/event/event.frontConfig.tsx:393
 msgid "<0/> has signed a defensive pact with <1/>"
-msgstr ""
+msgstr "<0/> hat einen Verteidigungspakt unterzeichnet mit <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:952
 msgid "<0/> has started a revolution in <1/>"
@@ -456,7 +456,7 @@ msgstr "<0/> hat Frieden mit <1/> geschlossen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1219
 msgid "<0/> mentioned you <1/>"
-msgstr ""
+msgstr "<0/> hat dich erwähnt <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1210
 msgid "<0/> mentioned you in <1/><2/>"
@@ -472,7 +472,7 @@ msgstr "<0/> Priorität endet in <1/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:296
 msgid "<0/> proposed a mutual defensive pact to your country."
-msgstr ""
+msgstr "<0/> hat Ihrem Land einen gegenseitigen Verteidigungspakt vorgeschlagen."
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:145
 msgid "<0/> proposed a new alliance law: <1/>"
@@ -1301,7 +1301,7 @@ msgstr ""
 #: src/components/_political/law/law.frontConfig.tsx:281
 #: src/components/_political/law/lawNames.tsx:41
 msgid "Accept defensive pact"
-msgstr ""
+msgstr "Verteidigungsbündnis annehmen"
 
 #: src/components/_political/law/law.frontConfig.tsx:439
 msgid "Accept or reject a region buy offer"
@@ -1496,11 +1496,11 @@ msgstr "Alle Typen"
 #: src/components/_layout/map.frontConfig.tsx:32
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:193
 msgid "Alliance"
-msgstr ""
+msgstr "Allianz"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:69
 msgid "Alliance <0/> (<1/>)"
-msgstr ""
+msgstr "Allianz <0/> (<1/>)"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:92
 msgid "Alliance battle damage bonus"
@@ -1606,7 +1606,7 @@ msgstr "Animiertes <0>GIF</0> als Avatar"
 
 #: src/pages/country/[countryId]/government.tsx:148
 msgid "Announcement"
-msgstr ""
+msgstr "Ankündigung"
 
 #: src/components/_political/law/law.frontConfig.tsx:282
 msgid "Another country proposed a defensive pact to yours"
@@ -1703,7 +1703,7 @@ msgstr "Sind Sie sicher, dass Sie alle Verkaufsaufträge entfernen wollen?"
 
 #: src/pages/country/[countryId]/government.tsx:165
 msgid "Are you sure you want to remove this announcement?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie diese Ankündigung entfernen möchten?"
 
 #: src/components/_user/mission/MissionItem.tsx:115
 msgid "Are you sure you want to reroll this mission? Your current progress will be lost."
@@ -1887,7 +1887,7 @@ msgstr "Avatar entfernt"
 #: src/components/_political/alliance/AllianceHeader.tsx:93
 #: src/components/_political/law/LawCostExplanation.tsx:44
 msgid "Average development"
-msgstr ""
+msgstr "Durchschnittliche Entwicklung"
 
 #: src/components/_common/GameRules.tsx:200
 msgid "b. Revealing personal information or doxxing (such as names or addresses), without explicit consent"
@@ -2013,21 +2013,21 @@ msgstr "Schlachtbefehle"
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism['-2'].enemyBattleOrderMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:152
 msgid "Battle orders against your sworn enemy cost <0>{0}</0> less."
-msgstr ""
+msgstr "Kampfbefehle gegen deinen Erzfeind kosten <0>{0}</0> weniger."
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[2].pactBattleOrderMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:224
 msgid "Battle orders supporting a defensive pact partner cost <0>{0}</0> less."
-msgstr ""
+msgstr "Kampfbefehle zur Unterstützung eines Partners in einem Verteidigungsbündnis kosten <0>{0}</0> weniger."
 
 #: src/components/_political/party/party.frontConfig.tsx:60
 msgid "Battle orders to defend your core regions and revolts are free."
-msgstr ""
+msgstr "Kampfbefehle zur Verteidigung deiner Kernregionen sowie Aufstände sind kostenlos."
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.militarism['-1'].defendCoreRevoltOrderMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:75
 msgid "Battle orders to defend your core regions and revolts cost <0>{0}</0> less."
-msgstr ""
+msgstr "Kampfbefehle zur Verteidigung deiner Kernregionen sowie Aufstände kosten <0>{0}</0> weniger."
 
 #: src/components/_layout/LayoutMenu.tsx:154
 #: src/components/_military/battle/BattlesHeader.tsx:21
@@ -2125,7 +2125,7 @@ msgstr "Brot"
 #: src/components/_political/law/law.frontConfig.tsx:306
 #: src/components/_political/law/lawNames.tsx:42
 msgid "Break defensive pact"
-msgstr ""
+msgstr "Verteidigungsbündnis brechen"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:119
 msgid "Break room"
@@ -2133,7 +2133,7 @@ msgstr "Pausenraum"
 
 #: src/components/_political/law/law.frontConfig.tsx:312
 msgid "Break the defensive pact with <0/>"
-msgstr ""
+msgstr "Brich den Verteidigungspakt mit <0/>"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:111
 msgid "Brigadier"
@@ -2350,12 +2350,12 @@ msgstr "Eine Landessteuer ändern"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:19
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:141
 msgid "Change color"
-msgstr ""
+msgstr "Farbe ändern"
 
 #. placeholder {0}: data.newScheme
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:149
 msgid "Change color to <0>{0}</0>"
-msgstr ""
+msgstr "Farbe ändern in <0>{0}</0>"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:67
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:82
@@ -2378,7 +2378,7 @@ msgstr ""
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:142
 msgid "Change the color scheme of the alliance."
-msgstr ""
+msgstr "Ändere das Farbschema der Allianz."
 
 #: src/components/_political/law/law.frontConfig.tsx:545
 msgid "Change the country color scheme"
@@ -2392,7 +2392,7 @@ msgstr "Das Farbschema des Landes auf <0>{0}</0> mit einem <1>{1}</1> Karten-Akz
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:121
 msgid "Change the name of the alliance."
-msgstr ""
+msgstr "Ändere den Namen der Allianz."
 
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:76
@@ -2818,7 +2818,7 @@ msgstr "Landes-Entwicklungseinkommensbonus"
 
 #: src/components/_political/event/EventList.tsx:86
 msgid "Country excluded from alliance"
-msgstr ""
+msgstr "Land von der Allianz ausgeschlossen"
 
 #: src/components/_political/event/EventList.tsx:78
 msgid "Country joined alliance"
@@ -3148,11 +3148,11 @@ msgstr "Verteidiger"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:334
 msgid "Defensive pact"
-msgstr ""
+msgstr "Verteidigungsbündnis"
 
 #: src/components/_political/event/EventList.tsx:94
 msgid "Defensive pact broken"
-msgstr ""
+msgstr "Verteidigungsbündnis gebrochen"
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[1].pactMaintenanceMultiplier, )
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[2].pactMaintenanceMultiplier, )
@@ -3163,7 +3163,7 @@ msgstr ""
 
 #: src/components/_political/event/EventList.tsx:90
 msgid "Defensive pact signed"
-msgstr ""
+msgstr "Verteidigungspakt unterzeichnet"
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:427
@@ -4090,7 +4090,7 @@ msgstr "Regierung"
 
 #: src/components/_political/government/GovernmentAnnouncementModal.tsx:47
 msgid "Government announcement"
-msgstr ""
+msgstr "Regierungsbekanntmachung"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:234
 msgid "Government Member"
