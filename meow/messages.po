@@ -67,15 +67,15 @@ msgstr "- Meow meow meow meow meow 50%:<0>{0}</0>."
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:236
 msgid "(average member development)"
-msgstr ""
+msgstr "(meow meow meow)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
-msgstr ""
+msgstr "(meow meow meow)"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:226
 msgid "(own development)"
-msgstr ""
+msgstr "(meow meow)"
 
 #. placeholder {0}: myCountry?.name
 #: src/components/_military/battle/EndedBattlesList.tsx:81
@@ -197,7 +197,7 @@ msgstr "<0/> meow <1>{0}</1> meow.{1}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:54
 msgid "<0/> banned <1/> from the conversation"
-msgstr ""
+msgstr "<0/> meow <1/> meow meow"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1863
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
@@ -300,7 +300,7 @@ msgstr "<0/> meow meow meow meow \"{skinTitle}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1816
 msgid "<0/> gifted you the skin pack \"{skinPackTitle}\"!"
-msgstr ""
+msgstr "<0/> meow meow meow meow meow \"{skinPackTitle}\"!"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:227
 msgid "<0/> got fee back"
@@ -316,7 +316,7 @@ msgstr "<0/> meow meow meow meow meow <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:379
 msgid "<0/> has been excluded from the alliance <1/>"
-msgstr ""
+msgstr "<0/> meow meow meow meow meow meow <1/>"
 
 #. placeholder {0}: data.amount
 #: src/components/_political/event/event.frontConfig.tsx:216
@@ -329,7 +329,7 @@ msgstr "<0/> meow meow meow meow meow <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:407
 msgid "<0/> has broken their defensive pact with <1/>"
-msgstr ""
+msgstr "<0/> meow meow meow meow meow meow <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:103
 msgid "<0/> has conquered <1/> against <2/>"
@@ -353,15 +353,15 @@ msgstr "<0/> meow meow meow meow meow <1/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:392
 msgid "<0/> has invited your country to join."
-msgstr ""
+msgstr "<0/> meow meow meow meow meow meow."
 
 #: src/components/_political/event/event.frontConfig.tsx:349
 msgid "<0/> has joined the alliance <1/>"
-msgstr ""
+msgstr "<0/> meow meow meow meow <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:364
 msgid "<0/> has left the alliance <1/>"
-msgstr ""
+msgstr "<0/> meow meow meow meow <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:232
 msgid "<0/> has liberated <1/> and returned it to <2/>"
@@ -369,7 +369,7 @@ msgstr "<0/> meow meow <1/> meow meow meow meow <2/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:393
 msgid "<0/> has signed a defensive pact with <1/>"
-msgstr ""
+msgstr "<0/> meow meow meow meow meow meow <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:952
 msgid "<0/> has started a revolution in <1/>"
@@ -448,7 +448,7 @@ msgstr "<0/> meow meow meow <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:821
 msgid "<0/> liked your message in <1/><2/>"
-msgstr ""
+msgstr "<0/> meow meow meow meow <1/><2/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:247
 msgid "<0/> made peace with <1/>"
@@ -456,11 +456,11 @@ msgstr "<0/> meow meow meow <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1219
 msgid "<0/> mentioned you <1/>"
-msgstr ""
+msgstr "<0/> meow meow <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1210
 msgid "<0/> mentioned you in <1/><2/>"
-msgstr ""
+msgstr "<0/> meow meow meow <1/><2/>"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:221
 msgid "<0/> paid fee"
@@ -472,11 +472,11 @@ msgstr "<0/> Meow meow meow <1/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:296
 msgid "<0/> proposed a mutual defensive pact to your country."
-msgstr ""
+msgstr "<0/> meow meow meow meow meow meow meow meow."
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:145
 msgid "<0/> proposed a new alliance law: <1/>"
-msgstr ""
+msgstr "<0/> meow meow meow meow meow: <1/>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:136
 msgid "<0/> proposed a new law: <1/>"
@@ -503,7 +503,7 @@ msgstr "<0/> meow meow meow meow {0}"
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
 #: src/components/_user/notification/notification.frontConfig.tsx:857
 msgid "<0/> responded to your message in <1/>{0}"
-msgstr ""
+msgstr "<0/> meow meow meow meow meow <1/>{0}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:163
 msgid "<0/> started, vote for your favorite candidate"
@@ -623,7 +623,7 @@ msgstr "<0>{0}</0> meow meow meow <1/>"
 #. placeholder {0}: levelConfig.stats.attackBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:49
 msgid "<0>{0}</0> Attack bonus when attacking from this region.<1/>Citizens get the full bonus, allied countries get half."
-msgstr ""
+msgstr "<0>{0}</0> Meow meow meow meow meow meow meow.<1/>Meow meow meow meow, meow meow meow meow."
 
 #. placeholder {0}: sideBonus.regionNotLinkedToCapitalMalusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:209
@@ -643,7 +643,7 @@ msgstr "<0>{0}</0> meow <1/> meow meow meow meow meow <2/> meow"
 #. placeholder {0}: levelConfig.stats.defenseBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:34
 msgid "<0>{0}</0> Defense bonus when defending this region.<1/>Citizens get the full bonus, allied countries get half. Defensive pact partners don't benefit."
-msgstr ""
+msgstr "<0>{0}</0> Meow meow meow meow meow meow.<1/>Meow meow meow meow meow, meow meow meow meow. Meow meow meow meow meow."
 
 #. placeholder {0}: data.acceptanceFeeReturned
 #: src/components/_user/notification/notification.frontConfig.tsx:1615
@@ -653,7 +653,7 @@ msgstr "<0>{0}</0> meow meow meow Meow."
 #. placeholder {0}: sideBonus.countryAlliesBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:83
 msgid "<0>{0}</0> from <1/>"
-msgstr ""
+msgstr "<0>{0}</0> meow <1/>"
 
 #. placeholder {0}: sideBonus.regionAttackBonusPercent
 #. placeholder {0}: sideBonus.regionDefenseBonusPercent
@@ -670,7 +670,7 @@ msgstr "<0>{0}</0> meow <1>Meow</1>"
 #. placeholder {0}: sideBonus.defensivePactBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:122
 msgid "<0>{0}</0> from a defensive pact with <1/>"
-msgstr ""
+msgstr "<0>{0}</0> meow meow meow meow meow <1/>"
 
 #. placeholder {0}: region.ethicDepositBonus
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:134
@@ -685,12 +685,12 @@ msgstr "<0>{0}</0> meow meow meow."
 #. placeholder {0}: sideBonus.pacificationDefenseBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:273
 msgid "<0>{0}</0> from Fanatic Expansionist ethics (Pacification Center)"
-msgstr ""
+msgstr "<0>{0}</0> meow Meow Meow meow (Meow Meow)"
 
 #. placeholder {0}: sideBonus.revoltBunkerCopyBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:263
 msgid "<0>{0}</0> from Fanatic Pacifist ethics (revolt copies enemy bunker)"
-msgstr ""
+msgstr "<0>{0}</0> meow Meow Meow meow (meow meow meow meow)"
 
 #. placeholder {0}: sideBonus.patrioticBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:73
@@ -755,7 +755,7 @@ msgstr "<0>#{key}</0> meow meow meow meow = <1>{value}</1>"
 
 #: src/components/_political/country/CountryHeader.tsx:207
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
-msgstr ""
+msgstr "<0>Meow meow</0> meow meow meow meow <1>Meow meow</1> meow <2>Meow meow</2>."
 
 #: src/components/_user/user/UserTooltip.tsx:131
 msgid "<0>Buff</0> ends <1/>"
@@ -763,11 +763,11 @@ msgstr "<0>Meow</0> meow <1/>"
 
 #: src/components/_political/country/CountryHeader.tsx:171
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
-msgstr ""
+msgstr "<0>Meow meow</0> meow meow meow meow meow meow <1>Meow</1> meow meow <2>Meow</2>. meow meow meow meow meow meow <3>Meow meow</3>."
 
 #: src/components/_political/country/CountryHeader.tsx:235
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
-msgstr ""
+msgstr "<0>Meow meow</0> meow meow meow meow meow meow <1>meow</1> meow meow meow meow, meow meow meow."
 
 #: src/components/_user/user/UserTooltip.tsx:140
 msgid "<0>Debuff</0> ends <1/>"
@@ -814,7 +814,7 @@ msgstr "<0>Meow meow meow meow meow. Meow meow meow meow meow meow meow meow meo
 
 #: src/components/_layout/LayoutOptions.tsx:95
 msgid "= consumes more power"
-msgstr ""
+msgstr "= meow meow meow"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -942,7 +942,7 @@ msgstr "1★ Meow Meow"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:33
 msgid "100% historically accurate"
-msgstr ""
+msgstr "100% meow meow"
 
 #: src/components/_common/GameRules.tsx:46
 msgid "2. IP and Device Sharing"
@@ -1296,12 +1296,12 @@ msgstr "Meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:287
 msgid "Accept a defensive pact with <0/>"
-msgstr ""
+msgstr "Meow meow meow meow meow<0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:281
 #: src/components/_political/law/lawNames.tsx:41
 msgid "Accept defensive pact"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:439
 msgid "Accept or reject a region buy offer"
@@ -1330,8 +1330,7 @@ msgstr "Meow meow"
 #: src/components/_user/user/UserHeader.tsx:167
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:253
-#: src/pages/user/[userId]/account.tsx:32
-#: src/pages/user/[userId]/index.tsx:150
+#: src/pages/user/[userId]/account.tsx:32 src/pages/user/[userId]/index.tsx:150
 msgid "Account"
 msgstr "Meow"
 
@@ -1346,8 +1345,7 @@ msgstr "Meow"
 #: src/components/_military/battle/BattlesHeader.tsx:26
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:134
 #: src/components/_military/mercenaryContract/MercenaryContractList.tsx:85
-#: src/pages/events/index.tsx:94
-#: src/utils/translations.tsx:269
+#: src/pages/events/index.tsx:94 src/utils/translations.tsx:269
 msgid "Active"
 msgstr "Meow"
 
@@ -1487,7 +1485,7 @@ msgstr ""
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism['-2'].treatyMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:161
 msgid "All treaty maintenance costs are increased by <0>{0}</0>."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow <0>{0}</0>."
 
 #: src/components/_economy/transaction/TransactionList.tsx:70
 msgid "All types"
@@ -1496,15 +1494,15 @@ msgstr "Meow meow"
 #: src/components/_layout/map.frontConfig.tsx:32
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:193
 msgid "Alliance"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:69
 msgid "Alliance <0/> (<1/>)"
-msgstr ""
+msgstr "Meow <0/> (<1/>)"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:92
 msgid "Alliance battle damage bonus"
-msgstr ""
+msgstr "Meow meow meow meow"
 
 #: src/components/_political/event/EventList.tsx:75
 msgid "Alliance broken"
@@ -1516,17 +1514,17 @@ msgstr "Meow meow"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:53
 msgid "Alliance law proposed"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_political/allianceLaw/AllianceLawTypeSelect.tsx:57
 #: src/pages/alliance/[allianceId]/laws.tsx:16
 msgid "Alliance laws"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_political/law/LawFormModal.tsx:203
 #: src/components/_political/law/LawFormModal.tsx:204
 msgid "Alliance name"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:100
 #: src/components/_military/battle/ActiveBattlesList.tsx:154
@@ -1549,8 +1547,7 @@ msgstr "Meow meow..."
 msgid "Alpha Tester"
 msgstr "Meow Meow"
 
-#: src/components/_user/UserEquipments.tsx:130
-#: src/utils/translations.tsx:35
+#: src/components/_user/UserEquipments.tsx:130 src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Meow"
 
@@ -1590,11 +1587,11 @@ msgstr "Meow meow meow meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:379
 msgid "An alliance has invited your country to join"
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:46
 msgid "An alliance's battle <0>damage</0> bonus depends on its share of the world's total <1>Development</1>."
-msgstr ""
+msgstr "Meow meow meow <0>meow</0> meow meow meow meow meow meow meow meow meow <1>Meow</1>."
 
 #: src/components/_user/auth/LoginFormModal.tsx:94
 msgid "An email with the verification code has been sent to {email}"
@@ -1606,15 +1603,15 @@ msgstr "Meow <0>Meow</0> meow meow"
 
 #: src/pages/country/[countryId]/government.tsx:148
 msgid "Announcement"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:282
 msgid "Another country proposed a defensive pact to yours"
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:40
 msgid "Anti Terrorist Pack"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_common/GameRules.tsx:61
 msgid "Any attempts to bypass these rules can result in the removal of sharing status, fines and temporary or permanent bans."
@@ -1663,7 +1660,7 @@ msgstr "Meow Meow"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:222
 msgid "Are you sure you want to consume pill?"
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow?"
 
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
@@ -1703,7 +1700,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow?"
 
 #: src/pages/country/[countryId]/government.tsx:165
 msgid "Are you sure you want to remove this announcement?"
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow meow?"
 
 #: src/components/_user/mission/MissionItem.tsx:115
 msgid "Are you sure you want to reroll this mission? Your current progress will be lost."
@@ -1755,23 +1752,23 @@ msgstr "Meow meow <0/>"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:305
 msgid "AT Ammo"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:296
 msgid "AT Armored Tank"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:290
 msgid "AT Assault Rifle"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:299
 msgid "AT Combat Helicopter"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:308
 msgid "AT Heavy Ammo"
-msgstr ""
+msgstr "Meow Meow Meos"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:8
 msgid "At least you tried"
@@ -1779,39 +1776,39 @@ msgstr "Meow meow meow meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:302
 msgid "AT Light Ammo"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:287
 msgid "AT Pistol"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:293
 msgid "AT Sniper Rifle"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:317
 msgid "AT Tactical Boots"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:323
 msgid "AT Tactical Gloves"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:311
 msgid "AT Tactical Helmet"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:320
 msgid "AT Tactical Pants"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:284
 msgid "AT Tactical Shield"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:314
 msgid "AT Tactical Vest"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
@@ -1861,7 +1858,7 @@ msgstr "Meow meow"
 #: src/components/_layout/LayoutOptions.tsx:175
 #: src/components/_user/kits/KitsPopover.tsx:227
 msgid "Auto-equip when item breaks"
-msgstr ""
+msgstr "Meow-meow meow meow meow"
 
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
@@ -1869,7 +1866,7 @@ msgstr "Meow-meow <0>Meow Meow</0> meow meow, meow meow meow meow meow."
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:275
 msgid "Autobuy when empty"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -1887,7 +1884,7 @@ msgstr "Meow meow"
 #: src/components/_political/alliance/AllianceHeader.tsx:93
 #: src/components/_political/law/LawCostExplanation.tsx:44
 msgid "Average development"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_common/GameRules.tsx:200
 msgid "b. Revealing personal information or doxxing (such as names or addresses), without explicit consent"
@@ -1949,7 +1946,7 @@ msgstr "Meow"
 
 #: src/components/_political/law/LawCostExplanation.tsx:38
 msgid "Base cost"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/utils/translations.tsx:203
 msgid "Basic Boots"
@@ -1979,7 +1976,7 @@ msgstr "Meow"
 
 #: src/pages/alliance/[allianceId]/index.tsx:41
 msgid "Battle damage bonus"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_political/event/EventList.tsx:65
 #: src/components/_user/notification/notification.frontConfig.tsx:2026
@@ -1988,7 +1985,7 @@ msgstr "Meow meow"
 
 #: src/components/_military/battle/BattleName.tsx:147
 msgid "Battle for {regionName} {score}"
-msgstr ""
+msgstr "Meow meow {regionName} {score}"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
@@ -2013,27 +2010,26 @@ msgstr "Meow Meow"
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism['-2'].enemyBattleOrderMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:152
 msgid "Battle orders against your sworn enemy cost <0>{0}</0> less."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow <0>{0}</0> meow."
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[2].pactBattleOrderMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:224
 msgid "Battle orders supporting a defensive pact partner cost <0>{0}</0> less."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow <0>{0}</0> meow."
 
 #: src/components/_political/party/party.frontConfig.tsx:60
 msgid "Battle orders to defend your core regions and revolts are free."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow meow meow meow."
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.militarism['-1'].defendCoreRevoltOrderMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:75
 msgid "Battle orders to defend your core regions and revolts cost <0>{0}</0> less."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow meow <0>{0}</0> meow."
 
 #: src/components/_layout/LayoutMenu.tsx:154
 #: src/components/_military/battle/BattlesHeader.tsx:21
 #: src/components/_military/war/WarHeader.tsx:84
-#: src/pages/region/[regionId]/index.tsx:132
-#: src/pages/war/[warId]/index.tsx:75
+#: src/pages/region/[regionId]/index.tsx:132 src/pages/war/[warId]/index.tsx:75
 msgid "Battles"
 msgstr "Meow"
 
@@ -2061,7 +2057,7 @@ msgstr "Meow meow Meow"
 #: src/components/_layout/LayoutOptions.tsx:195
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -2085,11 +2081,11 @@ msgstr "Meow Meow"
 
 #: src/components/_layout/LayoutOptions.tsx:149
 msgid "Blur"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:242
 msgid "Bone Club"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:62
 #: src/components/_political/law/law.frontConfig.tsx:235
@@ -2100,8 +2096,7 @@ msgstr "Meow meow"
 msgid "Boost your production!"
 msgstr "Meow meow meow!"
 
-#: src/components/_user/UserEquipments.tsx:200
-#: src/utils/translations.tsx:202
+#: src/components/_user/UserEquipments.tsx:200 src/utils/translations.tsx:202
 msgid "Boots"
 msgstr "Meow"
 
@@ -2125,7 +2120,7 @@ msgstr "Meow"
 #: src/components/_political/law/law.frontConfig.tsx:306
 #: src/components/_political/law/lawNames.tsx:42
 msgid "Break defensive pact"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:119
 msgid "Break room"
@@ -2133,7 +2128,7 @@ msgstr "Meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:312
 msgid "Break the defensive pact with <0/>"
-msgstr ""
+msgstr "Meow meow meow meow meow <0/>"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:111
 msgid "Brigadier"
@@ -2280,7 +2275,7 @@ msgstr "Meow meow meow meow meow meow meow."
 
 #: src/components/_political/party/party.frontConfig.tsx:426
 msgid "Cannot have any treaty (sworn enemy, defensive pact or alliance)."
-msgstr ""
+msgstr "Meow meow meow meow (meow meow, meow meow meow meow)."
 
 #: src/components/_political/party/party.frontConfig.tsx:67
 msgid "Cannot have sworn enemies."
@@ -2324,7 +2319,7 @@ msgstr "Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:269
 msgid "Cave Bear Headdress"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_user/user/skills.frontConfig.tsx:152
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
@@ -2350,12 +2345,12 @@ msgstr "Meow meow meow meow"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:19
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:141
 msgid "Change color"
-msgstr ""
+msgstr "Meow meow"
 
 #. placeholder {0}: data.newScheme
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:149
 msgid "Change color to <0>{0}</0>"
-msgstr ""
+msgstr "Meow meow meow <0>{0}<0>"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:67
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:82
@@ -2374,11 +2369,11 @@ msgstr "Meow meow"
 #. placeholder {0}: data.newScheme
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:158
 msgid "Change the alliance color scheme to <0>{0}</0> immediately on acceptance."
-msgstr ""
+msgstr "Meow meow meow meow meow meow <0>{0}</0> meow meow meow."
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:142
 msgid "Change the color scheme of the alliance."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow."
 
 #: src/components/_political/law/law.frontConfig.tsx:545
 msgid "Change the country color scheme"
@@ -2392,7 +2387,7 @@ msgstr "Meow meow meow meow meow meow <0>{0}</0> meow meow <1>{1}</1> meow meow"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:121
 msgid "Change the name of the alliance."
-msgstr ""
+msgstr "Meow meow meow meow meow meow."
 
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:76
@@ -2403,8 +2398,7 @@ msgstr "Meow meow meow meow {0} meow"
 msgid "Check your loot!"
 msgstr "Meow meow meow!"
 
-#: src/components/_user/UserEquipments.tsx:166
-#: src/utils/translations.tsx:193
+#: src/components/_user/UserEquipments.tsx:166 src/utils/translations.tsx:193
 msgid "Chest"
 msgstr "Meow"
 
@@ -2426,7 +2420,7 @@ msgstr "Meow meow meow meow meow meow meow <0>Meow</0>! Meow meow meow meow meow
 
 #: src/components/_economy/inventory/CraftModal.tsx:358
 msgid "Choosing a specific item costs ×2 steel:"
-msgstr ""
+msgstr "Meow meow meow meow meow ×2 meow:"
 
 #: src/components/_user/user/UserHeader.tsx:282
 msgid "Citizen since <0><1/></0>"
@@ -2488,7 +2482,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:166
 msgid "Click to consume."
-msgstr ""
+msgstr "Meow meow meow."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
@@ -2513,11 +2507,11 @@ msgstr "Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:266
 msgid "Clovis Point"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:37
 msgid "Cold af"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:106
 msgid "Colonel"
@@ -2548,8 +2542,7 @@ msgstr "Meow"
 #: src/components/_layout/LayoutMenu.tsx:184
 #: src/components/_user/user/MyAvatar.tsx:48
 #: src/components/_user/user/UserHeader.tsx:206
-#: src/components/_user/user/WealthPanel.tsx:42
-#: src/pages/companies.tsx:96
+#: src/components/_user/user/WealthPanel.tsx:42 src/pages/companies.tsx:96
 msgid "Companies"
 msgstr "Meow"
 
@@ -2702,7 +2695,7 @@ msgstr "Meow meow meow meow meow meow meow"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:163
 msgid "Consume items"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
@@ -2712,7 +2705,7 @@ msgstr "Meow meow meow meow meow"
 #. placeholder {1}: staticGameConfig.items.cocain.flatStats?.debuffDurationHours
 #: src/utils/translations.tsx:117
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
-msgstr "Meow meow meow meow <0>Meow</0> meow {0}meow.<1/> Meow meow meow meow meow meow {1}meow"
+msgstr "Meow meow meow meow <0>Meow</0> meow {0} meow.<1/> Meow meow meow meow meow meow {1} meow"
 
 #: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
@@ -2774,7 +2767,7 @@ msgstr "Meow meow meow meow. Meow meow'meow meow meow meow meow meow meow! Meow 
 #: src/components/_political/alliance/AllianceHeader.tsx:90
 #: src/components/_political/government/Government.tsx:206
 msgid "Core development"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/pages/country/[countryId]/regions.tsx:28
 msgid "Core regions"
@@ -2794,7 +2787,7 @@ msgstr "Meow meow meow meow"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:41
 msgid "Counter-strike the enemy"
-msgstr ""
+msgstr "Meow-meow meow meow"
 
 #: src/components/_layout/LoadingScreenContent.tsx:19
 msgid "countries"
@@ -2818,19 +2811,19 @@ msgstr "Meow meow meow meow"
 
 #: src/components/_political/event/EventList.tsx:86
 msgid "Country excluded from alliance"
-msgstr ""
+msgstr "Meow meow meow meow"
 
 #: src/components/_political/event/EventList.tsx:78
 msgid "Country joined alliance"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_political/event/EventList.tsx:82
 msgid "Country left alliance"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:62
 msgid "Country Orders"
@@ -2851,7 +2844,7 @@ msgstr "Meow meow meow"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:141
 msgid "Country to invite"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:181
 msgid "Country Tournament Winner"
@@ -2887,7 +2880,7 @@ msgstr "Meow meow Meow"
 #. placeholder {1}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:342
 msgid "Create a new alliance named <0>{0}</0> with <1>{1}</1> color scheme."
-msgstr ""
+msgstr "Meow meow meow meow meow <0>{0}</0> meow <1>{1}</1> meow meow."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:356
 msgid "Create a new company"
@@ -2901,12 +2894,12 @@ msgstr "Meow meow meow"
 #: src/components/_political/law/law.frontConfig.tsx:331
 #: src/components/_political/law/lawNames.tsx:25
 msgid "Create alliance"
-msgstr ""
+msgstr "Meow meow"
 
 #. placeholder {0}: law.data.name
 #: src/components/_political/law/law.frontConfig.tsx:336
 msgid "Create alliance {0}"
-msgstr ""
+msgstr "Meow meow {0}"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:240
 msgid "Create API Token"
@@ -2956,11 +2949,11 @@ msgstr "Meow"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:75
 msgid "Current alliance battle damage bonus → <0/>"
-msgstr ""
+msgstr "Meow meow meow meow meow → <0/>"
 
 #: src/components/_political/alliance/AllianceHeader.tsx:96
 msgid "Current development"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/pages/user/[userId]/index.tsx:163
 msgid "Current Military Unit"
@@ -3148,31 +3141,31 @@ msgstr "Meow"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:334
 msgid "Defensive pact"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_political/event/EventList.tsx:94
 msgid "Defensive pact broken"
-msgstr ""
+msgstr "Meow meow meow"
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[1].pactMaintenanceMultiplier, )
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[2].pactMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:199
 #: src/components/_political/party/party.frontConfig.tsx:215
 msgid "Defensive pact maintenance costs are reduced by <0>{0}</0>."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow <0>{0}</0>."
 
 #: src/components/_political/event/EventList.tsx:90
 msgid "Defensive pact signed"
-msgstr ""
+msgstr "Meow meow meow"
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:427
 msgid "Defensive pact: orders supporting your pact partner cost {orderDiscountPercent}% less <0>{0}</0>"
-msgstr ""
+msgstr "Meow meow: meow meow meow meow meow meow {orderDiscountPercent}% meow <0>{0}</0>"
 
 #: src/components/_political/law/law.frontConfig.tsx:228
 msgid "Define <0/> as an enemy, increasing damages when fighting them"
-msgstr ""
+msgstr "Meow <0/> meow meow meow, meow meow meow meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:218
 msgid "Define <0/> as enemy"
@@ -3195,8 +3188,7 @@ msgstr "Meow meow"
 msgid "Delete contract"
 msgstr "Meow meow"
 
-#: src/pages/index.tsx:146
-#: src/pages/rules.tsx:40
+#: src/pages/index.tsx:146 src/pages/rules.tsx:40
 msgid "Delete your account"
 msgstr "Meow meow meow"
 
@@ -3292,7 +3284,7 @@ msgstr "Meow"
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:173
 msgid "Diplomatic: defensive pact maintenance costs {less}% less <0>{0}</0>."
-msgstr ""
+msgstr "Meow: meow meow meow meow {less}% meow <0>{0}</0>."
 
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
@@ -3304,7 +3296,7 @@ msgstr "Meow"
 
 #: src/components/_political/alliance/AllianceHeader.tsx:73
 msgid "Disbanded <0/>"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:176
 #: src/pages/user/[userId]/inventory.tsx:49
@@ -3326,11 +3318,11 @@ msgstr "Meow"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:20
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:168
 msgid "Dissolve alliance"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:173
 msgid "Dissolve the alliance permanently, removing every member country."
-msgstr ""
+msgstr "Meow meow meow meow, meow meow meow meow."
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:97
 msgid "Distributed"
@@ -3352,15 +3344,15 @@ msgstr "Meow <0>{count}</0> meow"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:55
 msgid "Don't forget to drink water"
-msgstr "Meow'meow meow meow meow meow"
+msgstr "Meow meow meow meow meow"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:125
 msgid "Don't forget to save your skill upgrades."
-msgstr "Meow'meow meow meow meow meow meow meow."
+msgstr "Meow meow meow meow meow meow meow."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:13
 msgid "Don't quit now, your luck is buffering"
-msgstr "Meow'meow meow meow, meow meow meow meow"
+msgstr "Meow meow meow, meow meow meow meow"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:461
 msgid "Donate"
@@ -3483,7 +3475,7 @@ msgstr "Meow Meow"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:45
 msgid "Elite counter-terrorism unit"
-msgstr ""
+msgstr "Meow meow-meow meow"
 
 #: src/utils/translations.tsx:215
 msgid "Elite Gloves"
@@ -3525,11 +3517,11 @@ msgstr "Meow Meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:307
 msgid "End an existing defensive pact with another country"
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:321
 msgid "End the defensive pact with <0/>."
-msgstr ""
+msgstr "Meow meow meow meow meow <0/>."
 
 #: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
@@ -3571,8 +3563,7 @@ msgstr "Meow"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:172
-#: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:71
+#: src/components/_user/user/WealthPanel.tsx:56 src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
 #: src/pages/user/[userId]/inventory.tsx:58
 msgid "Equipment"
@@ -3630,7 +3621,7 @@ msgstr "Meow meow meow"
 #: src/components/_political/party/party.frontConfig.tsx:91
 #: src/components/_political/party/party.frontConfig.tsx:130
 msgid "Expansionist"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:69
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:236
@@ -3704,7 +3695,7 @@ msgstr "Meow Meow"
 
 #: src/components/_political/law/LawEthicEffects.tsx:58
 msgid "Fanatic Agrarian countries cannot pick a specialization — this law cannot be enacted."
-msgstr ""
+msgstr "Meow Meow meow meow meow meow meow — meow meow meow meow meow."
 
 #: src/components/_political/party/party.frontConfig.tsx:211
 msgid "Fanatic Diplomatic"
@@ -3713,16 +3704,16 @@ msgstr "Meow Meow"
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:160
 msgid "Fanatic Diplomatic: defensive pact maintenance costs {less}% less <0>{0}</0>."
-msgstr ""
+msgstr "Meow Meow: meow meow meow meow {less}% meow <0>{0}</0>."
 
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:143
 msgid "Fanatic Diplomatic: sworn enemy maintenance costs {more}% more <0>{0}</0>."
-msgstr ""
+msgstr "Meow Meow: meow meow meow meow {more}% meow <0>{0}</0>."
 
 #: src/components/_political/party/party.frontConfig.tsx:105
 msgid "Fanatic Expansionist"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_political/party/party.frontConfig.tsx:304
 msgid "Fanatic Imperialist"
@@ -3739,11 +3730,11 @@ msgstr "Meow Meow"
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:188
 msgid "Fanatic Isolationist: all treaty maintenance costs {more}% more <0>{0}</0>."
-msgstr ""
+msgstr "Meow Meow: meow meow meow meow {more}% meow <0>{0}</0>."
 
 #: src/components/_political/law/LawEthicEffects.tsx:114
 msgid "Fanatic Isolationist: this sworn enemy starts at {start}% bonus and grows +{perDay}% per day."
-msgstr ""
+msgstr "Meow Meow: meow meow meow meow meow {start}% meow meow meow +{perDay}% meow meow."
 
 #: src/components/_political/party/party.frontConfig.tsx:56
 msgid "Fanatic Pacifist"
@@ -3751,7 +3742,7 @@ msgstr "Meow Meow"
 
 #: src/components/_political/law/LawEthicEffects.tsx:94
 msgid "Fanatic Pacifist countries cannot have sworn enemies — this law cannot be enacted."
-msgstr ""
+msgstr "Meow Meow meow meow meow meow meow — meow meow meow meow meow."
 
 #: src/components/_political/party/party.frontConfig.tsx:251
 msgid "Fanatic Republican"
@@ -3865,8 +3856,7 @@ msgstr "Meow meow meow"
 msgid "Finance resistance in <0/>"
 msgstr "Meow meow meow <0/>"
 
-#: src/pages/companies.tsx:59
-#: src/pages/user/[userId]/companies.tsx:73
+#: src/pages/companies.tsx:59 src/pages/user/[userId]/companies.tsx:73
 msgid "Find a job"
 msgstr "Meow meow meow"
 
@@ -3934,7 +3924,7 @@ msgstr "meow meow meow <0>{0}</0> meow meow <1/>."
 
 #: src/components/_political/law/law.frontConfig.tsx:333
 msgid "Found a new alliance with your country as founding member"
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow meow meow"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:45
 msgid "Founding Father"
@@ -3950,19 +3940,19 @@ msgstr "Meow meow: Meow meow meow meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:278
 msgid "Fur Loincloth"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:281
 msgid "Fur Mittens"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:272
 msgid "Fur Tunic"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_common/GameRules.tsx:234
 msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
@@ -4011,11 +4001,11 @@ msgstr "Meow meow meow"
 
 #: src/components/_user/kits/KitsPopover.tsx:215
 msgid "Get Supporter Plan"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
-msgstr "Meow meow Meow, meow'meow meow meow"
+msgstr "Meow meow Meow, meow meow meow"
 
 #: src/components/_other/shop/SkinPackModal.tsx:98
 msgid "Gift sent! Skin pack unlocked for recipient!"
@@ -4062,8 +4052,7 @@ msgstr "Meow <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Meow (meow)"
 
-#: src/components/_user/UserEquipments.tsx:217
-#: src/utils/translations.tsx:211
+#: src/components/_user/UserEquipments.tsx:217 src/utils/translations.tsx:211
 msgid "Gloves"
 msgstr "Meow"
 
@@ -4090,7 +4079,7 @@ msgstr "Meow"
 
 #: src/components/_political/government/GovernmentAnnouncementModal.tsx:47
 msgid "Government announcement"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:234
 msgid "Government Member"
@@ -4254,7 +4243,7 @@ msgstr ""
 
 #: src/components/_other/shop/skin.frontConfig.tsx:239
 msgid "Hamster Tank"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
@@ -4273,8 +4262,7 @@ msgstr "Meow"
 msgid "Heavy Ammo"
 msgstr "Meow Meow"
 
-#: src/components/_user/UserEquipments.tsx:151
-#: src/utils/translations.tsx:184
+#: src/components/_user/UserEquipments.tsx:151 src/utils/translations.tsx:184
 msgid "Helmet"
 msgstr "Meow"
 
@@ -4344,7 +4332,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:81
 msgid "I'm proud of you"
-msgstr "Meow'meow meow meow meow"
+msgstr "Meow meow meow meow"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:39
 msgid "If negative, pay <0/> for <1/> (once per day)."
@@ -4356,7 +4344,7 @@ msgstr "Meow meow meow meow meow meow meow meow, meow meow meow meow meow. Meow 
 
 #: src/components/_political/party/party.frontConfig.tsx:429
 msgid "If your capital is occupied, national orders give only the regular bonus and the capital automatically revolts at full resistance."
-msgstr ""
+msgstr "Meow meow meow meow meow, meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:51
 msgid "Imagine if you stop right before the Mythic"
@@ -4466,10 +4454,8 @@ msgstr ""
 
 #: src/components/_layout/LayoutMenu.tsx:125
 #: src/components/_user/user/MyAvatar.tsx:35
-#: src/components/_user/user/UserHeader.tsx:159
-#: src/pages/companies.tsx:83
-#: src/pages/country/[countryId]/account.tsx:25
-#: src/pages/market/index.tsx:49
+#: src/components/_user/user/UserHeader.tsx:159 src/pages/companies.tsx:83
+#: src/pages/country/[countryId]/account.tsx:25 src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
@@ -4479,24 +4465,24 @@ msgstr "Meow"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:162
 msgid "Invitations"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:46
 msgid "Invite <0/>"
-msgstr ""
+msgstr "Meow <0/>"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:55
 msgid "Invite <0/> to join the alliance. If accepted, the target country's government must also accept a system law before joining takes effect."
-msgstr ""
+msgstr "Meow <0/> meow meow meow meow. Meow meow, meow meow meow meow meow meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:39
 msgid "Invite a country to join the alliance. A confirmation law is created in the target country."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_political/alliance/alliance.frontConfig.tsx:15
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:37
 msgid "Invite country"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/utils/translations.tsx:53
 msgid "Iron"
@@ -4513,7 +4499,7 @@ msgstr "Meow"
 
 #: src/components/_political/law/LawEthicEffects.tsx:128
 msgid "Isolationist: this sworn enemy starts at {start}% bonus and grows +{perDay}% per day."
-msgstr ""
+msgstr "Meow: meow meow meow meow meow {start}% meow meow meow +{perDay}% meow meow."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:9
 msgid "It only gets better… maybe"
@@ -4539,8 +4525,7 @@ msgstr "Meow"
 msgid "j. Spam and repeated messages"
 msgstr ""
 
-#: src/pages/companies.tsx:32
-#: src/pages/user/[userId]/companies.tsx:56
+#: src/pages/companies.tsx:32 src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
 msgstr "Meow"
 
@@ -4563,7 +4548,7 @@ msgstr "Meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:384
 msgid "Join <0/>"
-msgstr ""
+msgstr "Meow<0/>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:368
 msgid "Join a Military Unit"
@@ -4572,7 +4557,7 @@ msgstr "Meow meow Meow Meow"
 #: src/components/_political/law/law.frontConfig.tsx:378
 #: src/components/_political/law/lawNames.tsx:27
 msgid "Join alliance"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:367
 msgid "Join MU"
@@ -4588,7 +4573,7 @@ msgstr "Meow meow meow meow!"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:156
 msgid "Joinable"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -4628,12 +4613,12 @@ msgstr "Meow"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:73
 msgid "Kick <0/>"
-msgstr ""
+msgstr "Meow <0/>"
 
 #: src/components/_political/alliance/alliance.frontConfig.tsx:16
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:65
 msgid "Kick country"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_military/mu/MuMemberList.tsx:139
 msgid "Kick Member"
@@ -4641,7 +4626,7 @@ msgstr "Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:263
 msgid "Knapped Flints"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/utils/translations.tsx:22
 msgid "Knife"
@@ -4725,7 +4710,7 @@ msgstr "Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:248
 msgid "Leather Sling"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:221
 msgid "Leave"
@@ -4733,16 +4718,16 @@ msgstr "Meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:359
 msgid "Leave <0/>"
-msgstr ""
+msgstr "Meow <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:368
 msgid "Leave <0/>."
-msgstr ""
+msgstr "Meow <0/>."
 
 #: src/components/_political/law/law.frontConfig.tsx:353
 #: src/components/_political/law/lawNames.tsx:26
 msgid "Leave alliance"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_user/worker/WageReductionAlert.tsx:55
 msgid "Leave company?"
@@ -4760,11 +4745,11 @@ msgstr "Meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:354
 msgid "Leave the alliance your country belongs to"
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow"
 
 #: src/components/_political/alliance/AllianceHeader.tsx:80
 msgid "Led by <0/>."
-msgstr ""
+msgstr "Meow meow <0/>."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:78
 msgid "Legend spotted!"
@@ -4798,7 +4783,7 @@ msgstr "Meow {level}"
 #: src/components/_political/election/Election.tsx:132
 #: src/components/_political/election/Election.tsx:224
 msgid "Level too low"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:107
 msgid "Level up your skills!"
@@ -4957,7 +4942,7 @@ msgstr "Meow"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:110
 msgid "Make <0/> the new alliance leader. The leader can edit the alliance avatar and color scheme directly."
-msgstr ""
+msgstr "Meow <0/> meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_user/premium/PremiumActions.tsx:81
 msgid "Manage Subscription"
@@ -4975,7 +4960,7 @@ msgstr "meow"
 #: src/components/_layout/LayoutLeftIcons.tsx:108
 #: src/components/_layout/LayoutOptions.tsx:98
 msgid "Map"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_political/law/LawFormModal.tsx:214
 #: src/components/_political/law/LawFormModal.tsx:292
@@ -5068,7 +5053,7 @@ msgstr "Meow Meow Meow"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:204
 msgid "Meet other players in the chat. Don't be shy, introduce yourself!"
-msgstr "Meow meow meow meow meow meow. Meow'meow meow meow, meow meow!"
+msgstr "Meow meow meow meow meow meow. Meow meow meow, meow meow!"
 
 #: src/pages/party/[partyId]/applications.tsx:39
 msgid "Member Applications"
@@ -5076,11 +5061,11 @@ msgstr "Meow Meow"
 
 #: src/pages/alliance/[allianceId]/index.tsx:68
 msgid "Member countries"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:153
 msgid "Member country to kick"
-msgstr ""
+msgstr "Meow meow meow meos"
 
 #: src/components/_military/mu/MuMemberList.tsx:116
 msgid "Member demoted from commander"
@@ -5092,7 +5077,7 @@ msgstr "Meow meow meow"
 
 #: src/components/_political/country/CountryHeader.tsx:254
 msgid "Member of <0/>"
-msgstr ""
+msgstr "Meow meow <0/>"
 
 #: src/components/_military/mu/MuMemberList.tsx:112
 msgid "Member promoted to commander"
@@ -5106,7 +5091,7 @@ msgstr "Meow"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:46
 msgid "Membership suspended"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2114
 msgid "Mentioned in message"
@@ -5156,7 +5141,7 @@ msgstr "Meow meow"
 #: src/components/_political/party/party.frontConfig.tsx:95
 #: src/components/_political/party/party.frontConfig.tsx:109
 msgid "Military bases can be upgraded or downgraded every <0>{0} hours</0>."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow <0>{0} meow </0>."
 
 #: src/components/_political/law/LawTypeSelect.tsx:76
 msgid "Military laws"
@@ -5400,11 +5385,11 @@ msgstr "Meow"
 
 #: src/components/_political/party/party.frontConfig.tsx:425
 msgid "National battle orders cost double."
-msgstr ""
+msgstr "Meow meow meow meow meow."
 
 #: src/components/_political/party/party.frontConfig.tsx:419
 msgid "National battle orders give <0>double</0> the priority damage bonus (<1>+10%</1> / <2>+20%</2> / <3>+30%</3>)."
-msgstr ""
+msgstr "Meow meow meow meow <0>meow</0> meow meow meow meow (<1>+10%</1> / <2>+20%</2> / <3>+30%</3>)."
 
 #: src/components/_military/battle/BattleSystem.tsx:798
 msgid "National bounty"
@@ -5439,7 +5424,7 @@ msgstr "Meow"
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:172
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:173
 msgid "New alliance name"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:122
 msgid "New API Token Created"
@@ -5473,7 +5458,7 @@ msgstr "Meow meow meow"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:161
 msgid "New leader"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_economy/company/MoveCompanyForm.tsx:77
 msgid "New location"
@@ -5587,15 +5572,15 @@ msgstr "Meow meow meow"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:101
 msgid "No alliance bonus: the allied country's membership is suspended for unpaid alliance maintenance."
-msgstr ""
+msgstr "Meow meow meow: meow meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:96
 msgid "No alliance bonus: your country's membership is suspended for unpaid alliance maintenance."
-msgstr ""
+msgstr "Meow meow meow: meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_political/allianceLaw/AllianceLawList.tsx:50
 msgid "No alliance laws yet"
-msgstr ""
+msgstr "Meow meow meow meow"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:231
 msgid "No API tokens yet. Create one to get started."
@@ -5631,7 +5616,7 @@ msgstr "Meow meow meow meow."
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:393
 msgid "No defensive pact"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_economy/donation/DonationList.tsx:81
 msgid "No donations yet"
@@ -5647,7 +5632,7 @@ msgstr "Meow meow meow"
 
 #: src/pages/alliance/[allianceId]/index.tsx:73
 msgid "No members"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_military/mu/MuMemberList.tsx:180
 msgid "No members in this military unit."
@@ -5737,7 +5722,7 @@ msgstr "Meow"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:100
 msgid "Nominate <0/> as leader"
-msgstr ""
+msgstr "Meow <0/> meow meow"
 
 #: src/components/_political/government/Government.tsx:282
 msgid "Nominate a {title}"
@@ -5745,12 +5730,12 @@ msgstr "Meow meow {title}"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:93
 msgid "Nominate a citizen of a member country as the alliance leader."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_political/alliance/alliance.frontConfig.tsx:17
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:91
 msgid "Nominate leader"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1994
 msgid "Nominated at government"
@@ -5771,7 +5756,7 @@ msgstr "Meow meow!"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:47
 msgid "Not enough paper to pay the daily alliance maintenance. Alliance damage bonuses are disabled for this country until it pays."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:36
 msgid "Not impressive, but not shameful"
@@ -5779,10 +5764,9 @@ msgstr "Meow meow, meow meow meow"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:208
 msgid "Not in any alliance"
-msgstr ""
+msgstr "Meow meow meow meow"
 
-#: src/pages/notifications.tsx:38
-#: src/pages/user/[userId]/settings.tsx:79
+#: src/pages/notifications.tsx:38 src/pages/user/[userId]/settings.tsx:79
 msgid "Notification preferences"
 msgstr "Meow meow"
 
@@ -5853,7 +5837,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_political/party/party.frontConfig.tsx:264
 msgid "Only your core regions generate development income."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow."
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
@@ -5982,7 +5966,7 @@ msgstr "Meow Meow"
 
 #: src/components/_political/party/party.frontConfig.tsx:88
 msgid "Pacifism vs Expansionism"
-msgstr ""
+msgstr "Meow meow Meow"
 
 #: src/components/_political/party/party.frontConfig.tsx:71
 #: src/components/_political/party/party.frontConfig.tsx:86
@@ -5992,20 +5976,19 @@ msgstr "Meow"
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:439
 msgid "Pacifist: orders defending your core regions or revolts cost {orderDiscountPercent}% less <0>{0}</0>"
-msgstr ""
+msgstr "Meow: meow meow meow meow meow meow meow meow {orderDiscountPercent}% meow <0>{0}</0>"
 
 #: src/components/_other/shop/ShopHeader.tsx:29
 msgid "Packs"
 msgstr "Meow"
 
-#: src/components/_user/UserEquipments.tsx:183
-#: src/utils/translations.tsx:220
+#: src/components/_user/UserEquipments.tsx:183 src/utils/translations.tsx:220
 msgid "Pants"
 msgstr "Meow"
 
 #: src/utils/translations.tsx:90
 msgid "Paper"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:222
 msgid "Participate in <0>{count}</0> battles"
@@ -6124,7 +6107,7 @@ msgstr "Meow meow meow, meow meow meow meow meow meow <0/>"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:169
 msgid "Permanently dissolve the alliance."
-msgstr ""
+msgstr "Meow meow meow meow."
 
 #: src/utils/translations.tsx:86
 msgid "Petroleum"
@@ -6208,7 +6191,7 @@ msgstr "Meow Meow"
 #: src/components/_political/government/AnnouncementForm.tsx:17
 #: src/pages/country/[countryId]/government.tsx:177
 msgid "Post announcement"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_user/user/skills.frontConfig.tsx:130
 #: src/components/_user/user/skills.frontConfig.tsx:131
@@ -6217,7 +6200,7 @@ msgstr "Meow"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:32
 msgid "Prehistoric Pack"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/pages/shop/index.tsx:165
 msgid "Premium"
@@ -6284,8 +6267,7 @@ msgstr "Meow meow"
 msgid "Primary Election Ended"
 msgstr "Meow Meow Meow"
 
-#: src/pages/index.tsx:142
-#: src/pages/rules.tsx:36
+#: src/pages/index.tsx:142 src/pages/rules.tsx:36
 msgid "Privacy"
 msgstr "Meow"
 
@@ -6316,7 +6298,7 @@ msgstr "Meow meow <0>{count}</0> meow"
 
 #: src/utils/translations.tsx:91
 msgid "Produced from Wood"
-msgstr ""
+msgstr "Meow meow Meow"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:71
 msgid "Produced item"
@@ -6383,21 +6365,21 @@ msgstr "Meow meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:268
 msgid "Propose a mutual defensive pact with <0/>. Once accepted, defenders of either country get a bonus that starts at 1% and grows +1% per day up to 10%."
-msgstr ""
+msgstr "Meow meow meow meow meow meow <0/>. Meow meow, meow meow meow meow meow meow meow meow meow meow 1% meow meow +1% meow meow meow meow 10%."
 
 #: src/components/_political/law/law.frontConfig.tsx:254
 msgid "Propose a mutual defensive pact with another country to get a growing defensive bonus"
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:125
 #: src/components/_political/allianceLaw/AllianceLawList.tsx:36
 msgid "Propose alliance law"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:252
 #: src/components/_political/law/lawNames.tsx:40
 msgid "Propose defensive pact"
-msgstr ""
+msgstr "Meow meow meow"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:198
 #: src/components/_political/law/LawFormModal.tsx:347
@@ -6463,7 +6445,7 @@ msgstr "Meow meow"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:45
 msgid "Quick equip best items of any tier"
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
@@ -6623,8 +6605,7 @@ msgstr "Meow meow..."
 #. placeholder {0}: staticGameConfig.items.bread.flatStats?.healthRegenPercent
 #. placeholder {0}: staticGameConfig.items.cookedFish.flatStats?.healthRegenPercent
 #. placeholder {0}: staticGameConfig.items.steak.flatStats?.healthRegenPercent
-#: src/utils/translations.tsx:45
-#: src/utils/translations.tsx:61
+#: src/utils/translations.tsx:45 src/utils/translations.tsx:61
 #: src/utils/translations.tsx:74
 msgid "Regens <0>{0}</0> when consumed"
 msgstr "Meow <0>{0}</0> meow meow"
@@ -6653,7 +6634,7 @@ msgstr "Meow meow"
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.imperialism[2].upgradeMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:316
 msgid "Region upgrade maintenance costs are increased by <0>{0}</0>."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow <0>{0}</0>."
 
 #: src/components/_layout/LoadingScreenContent.tsx:20
 msgid "regions"
@@ -6665,7 +6646,7 @@ msgstr "Meow"
 
 #: src/components/_political/party/party.frontConfig.tsx:125
 msgid "Regions you occupy generate double the amount of resistance."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:131
 msgid "Register"
@@ -6718,7 +6699,7 @@ msgstr "Meow <0/> meow meow meow meow meow"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:82
 msgid "Remove <0/> from the alliance immediately on acceptance."
-msgstr ""
+msgstr "Meow <0/> meow meow meow meow meow meow."
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:38
 msgid "Remove <0/> from the party council"
@@ -6726,14 +6707,13 @@ msgstr "Meow <0/> meow meow meow meow"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:66
 msgid "Remove a member country from the alliance."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow."
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:32
 msgid "Remove a member from the party council"
 msgstr "Meow meow meow meow meow meow meow"
 
-#: src/pages/market/index.tsx:178
-#: src/pages/market/index.tsx:240
+#: src/pages/market/index.tsx:178 src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr "Meow meow"
 
@@ -6744,7 +6724,7 @@ msgstr "Meow meow meow meow meow meow meow meow"
 #: src/pages/country/[countryId]/government.tsx:164
 #: src/pages/country/[countryId]/government.tsx:169
 msgid "Remove announcement"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_user/user/UserDropdown.tsx:396
 msgid "Remove Avatar"
@@ -6783,12 +6763,12 @@ msgstr "Meow"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:18
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:120
 msgid "Rename alliance"
-msgstr ""
+msgstr "Meow meow"
 
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:127
 msgid "Rename alliance to \"{0}\""
-msgstr ""
+msgstr "Meow meow meow \"{0}\""
 
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:66
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:82
@@ -6798,7 +6778,7 @@ msgstr "Meow meow"
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:133
 msgid "Rename the alliance to \"{0}\" immediately on acceptance."
-msgstr ""
+msgstr "Meow meow meow meow \"{0}\" meow meow meow."
 
 #: src/components/_political/government/Government.tsx:244
 msgid "Replace"
@@ -6826,7 +6806,7 @@ msgstr "Meow meow"
 
 #: src/components/_user/user/UserHeader.tsx:192
 msgid "Reports"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_political/party/party.frontConfig.tsx:270
 #: src/components/_political/party/party.frontConfig.tsx:285
@@ -6891,7 +6871,7 @@ msgstr "Meow Meow"
 
 #: src/components/_military/battle/BattleName.tsx:152
 msgid "Resistance for {regionName} {score}"
-msgstr ""
+msgstr "Meow meow {regionName} {score}"
 
 #: src/pages/country/[countryId]/index.tsx:226
 #: src/pages/region/[regionId]/index.tsx:49
@@ -6924,7 +6904,7 @@ msgstr "Meow meow!"
 
 #: src/components/_military/battle/BattleName.tsx:157
 msgid "Revolution {score}"
-msgstr ""
+msgstr "Meow {score}"
 
 #: src/components/_political/event/EventList.tsx:97
 msgid "Revolution ended"
@@ -7042,7 +7022,7 @@ msgstr "Meow"
 
 #: src/components/_user/kits/KitsPopover.tsx:201
 msgid "Save your equipment kits"
-msgstr ""
+msgstr "Meow meow meow meow"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:124
 msgid "Save your progress!"
@@ -7166,7 +7146,7 @@ msgstr "meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:418
 msgid "Send <0/> to <1/>"
-msgstr ""
+msgstr "Meow <0/> meow <1/>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:375
 msgid "Send <0>{count}</0> messages"
@@ -7196,7 +7176,7 @@ msgstr "Meow Meow"
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
 #: src/components/_political/law/law.frontConfig.tsx:404
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
-msgstr ""
+msgstr "Meow meow meow meow meow. Meow meow meow meow: {0}% meow meow meow, {1}% meow meow meow."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:51
 msgid "Sergeant"
@@ -7230,7 +7210,7 @@ msgstr "Meow meow meow"
 #. placeholder {0}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set country color to <0>{0}</0> "
-msgstr "Meow meow meow meow <0>{0}</0>"
+msgstr "Meow meow meow meow <0>{0}</0> "
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:88
 msgid "Set new party ethics configuration:"
@@ -7293,7 +7273,7 @@ msgstr "Meow"
 #. placeholder {0}: Math.min(step, remaining)
 #: src/components/_political/party/PartyMembers.tsx:217
 msgid "Show {0} more ({remaining} remaining)"
-msgstr ""
+msgstr "Meow {0} meow ({remaining} meow)"
 
 #. placeholder {0}: auction.bids.length
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
@@ -7394,7 +7374,7 @@ msgstr "Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
@@ -7438,7 +7418,7 @@ msgstr "Meow"
 
 #: src/components/_political/country/CountryHeader.tsx:186
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
-msgstr ""
+msgstr "Meow, meow-meow meow. Meow meow meow meow, meow meow meow meow meow. Meow meow meow <0>Meow meow</0>."
 
 #: src/components/_political/law/law.frontConfig.tsx:169
 #: src/components/_political/law/law.frontConfig.tsx:171
@@ -7504,7 +7484,7 @@ msgstr "Meow meow meow meow..."
 #. placeholder {0}: gameConfig?.battle.enemyDamagesBonusPercent
 #: src/components/_political/law/law.frontConfig.tsx:237
 msgid "starts at 1% and grows +1% per day up to <0>{0}</0>"
-msgstr ""
+msgstr "meow meow 1% meow meow +1% meow meow meow meow<0>{0}</0>"
 
 #: src/pages/events/index.tsx:117
 msgid "Starts soon..."
@@ -7541,7 +7521,7 @@ msgstr "Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:245
 msgid "Stone Maul"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_economy/company/CompanyTags.tsx:107
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:83
@@ -7631,7 +7611,7 @@ msgstr "Meow Meow"
 
 #: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
-msgstr ""
+msgstr "Meow Meow meow meow meow meow meow {maxKits} meow meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
@@ -7644,7 +7624,7 @@ msgstr "Meow meow"
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[2].enemyMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:233
 msgid "Sworn enemy maintenance costs are increased by <0>{0}</0>."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow <0>{0}</0>."
 
 #. placeholder {0}: ethicsBonuses.isolationism['-1'].enemyFidelityStart
 #. placeholder {0}: ethicsBonuses.isolationism['-2'].enemyFidelityStart
@@ -7653,12 +7633,12 @@ msgstr ""
 #: src/components/_political/party/party.frontConfig.tsx:141
 #: src/components/_political/party/party.frontConfig.tsx:177
 msgid "Sworn enemy treaties start at <0>{0} fidelity</0> and gain <1>{1}</1> each day."
-msgstr ""
+msgstr "Meow meow meow meow meow <0>{0} meow</0> meow meow <1>{1}</1> meow meow."
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:433
 msgid "Sworn enemy: orders against your sworn enemy cost {orderDiscountPercent}% less <0>{0}</0>"
-msgstr ""
+msgstr "Meow meow: meow meow meow meow meow meow {orderDiscountPercent}% meow <0>{0}</0>"
 
 #: src/components/_political/event/EventList.tsx:72
 msgid "System revolt"
@@ -7707,8 +7687,7 @@ msgstr "Meow"
 msgid "Terminated"
 msgstr "Meow"
 
-#: src/pages/index.tsx:138
-#: src/pages/rules.tsx:32
+#: src/pages/index.tsx:138 src/pages/rules.tsx:32
 msgid "Terms"
 msgstr "Meow"
 
@@ -7756,7 +7735,7 @@ msgstr "Meow meow meow meow meow. <0>{0}</0> meow meow <1/>."
 
 #: src/components/_political/law/LawCostExplanation.tsx:32
 msgid "The cost is the law's base cost scaled by your country's average development."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_user/user/skills.frontConfig.tsx:59
 msgid "The damage factor increase of critical hits over normal hits"
@@ -7776,7 +7755,7 @@ msgstr "Meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow m
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
-msgstr ""
+msgstr "Meow meow meow meow <0/> meow meow meow <1/> meow meow meow <2>Meow</2>. Meow meow, meow meow meow meow <3/> meow meow meow meow meow meow meow meow, meow meow <4/>."
 
 #. placeholder {0}: Math.round(contract.moneyPool * 10) / 100
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:85
@@ -7826,7 +7805,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow, meow meow meow meow meow m
 
 #: src/components/_political/government/Government.tsx:72
 msgid "This country is Fanatic Imperialist: it cannot have ministers, only a president and vice president. Minister nominations will be rejected."
-msgstr ""
+msgstr "Meow meow meow Meow Meow: meow meow meow meow, meow meow meow meow meow meow. Meow meow meow meow meow."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:42
 msgid "This equipment is green and so is grass"
@@ -7842,7 +7821,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow m
 
 #: src/components/_political/country/CountryHeader.tsx:215
 msgid "This is the value used to calculate most costs: battle orders, alliance, sworn enemy and defensive pact maintenance, laws and upgrade upkeep."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow meow meow: meow meow, meow, meow meow meow meow meow meow, meow meow meow meow."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:27
 msgid "This is your company hub. Here you can produce items and build your empire."
@@ -7879,7 +7858,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:223
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow {cocainBuffHours} meow meow meow meow meow meow {cocainDebuffHours} meow"
 
 #: src/components/_user/user/UserDropdown.tsx:337
 msgid "This will require the user to verify their mobile phone number."
@@ -7984,11 +7963,11 @@ msgstr "Meow"
 
 #: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
-msgstr "Meow (1meow)"
+msgstr "Meow (1 meow)"
 
 #: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
-msgstr "Meow (1meow)"
+msgstr "Meow (7 meow)"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:74
 msgid "Top 1 damage in a battle"
@@ -8043,8 +8022,7 @@ msgstr "meow"
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:139
+#: src/pages/alliance/[allianceId]/index.tsx:59 src/pages/market/index.tsx:139
 #: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "Meow"
@@ -8063,7 +8041,7 @@ msgstr "Meow Meow:"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
-msgstr ""
+msgstr "Meow meow <0>{totalMaintenanceCostPerDay}</0>/meow"
 
 #: src/components/_user/badgeCollection/Badge.tsx:57
 msgid "Total reward"
@@ -8083,7 +8061,7 @@ msgstr "Meow"
 
 #: src/components/_military/battle/BattleName.tsx:160
 msgid "Tournament battle for {tournamentName} {score}"
-msgstr ""
+msgstr "Meow meow meow {tournamentName} {score}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2052
 msgid "Tournament Created"
@@ -8135,14 +8113,13 @@ msgid "Transac."
 msgstr "Meow."
 
 #: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:83
-#: src/pages/user/[userId]/index.tsx:230
+#: src/pages/market/index.tsx:83 src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "Meow"
 
 #: src/components/_political/law/law.frontConfig.tsx:408
 msgid "Transfer <0/> to <1/>"
-msgstr ""
+msgstr "Meow <0/> meow <1/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:402
 #: src/components/_political/law/lawNames.tsx:28
@@ -8179,11 +8156,11 @@ msgstr "Meow meow meow meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:257
 msgid "Tyrannosaurus Rex"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_layout/LayoutOptions.tsx:146
 msgid "UI"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_user/user/UserDropdown.tsx:278
 msgid "Unblock (show content)"
@@ -8195,21 +8172,21 @@ msgstr "Meow meow"
 
 #: src/components/_political/party/party.frontConfig.tsx:415
 msgid "Unethical"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_political/law/LawEthicEffects.tsx:79
 msgid "Unethical countries cannot hold any treaty — this law cannot be enacted."
-msgstr ""
+msgstr "Meow meow meow meow meow meow — meow meow meow meow meow."
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:457
 msgid "Unethical: capital occupied, national orders give only the regular bonus but still cost ×2 <0>{0}</0>"
-msgstr ""
+msgstr "Meow: meow meow, meow meow meow meow meow meow meow meow meow meow ×2 <0>{0}</0>"
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:452
 msgid "Unethical: national orders deal ×2 damage but cost ×2 <0>{0}</0>"
-msgstr ""
+msgstr "Meow: meow meow meow ×2 meow meow meow ×2 <0>{0}</0>"
 
 #: src/pages/region/[regionId]/index.tsx:200
 msgid "Unlinked"
@@ -8247,7 +8224,7 @@ msgstr "Meow <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
-msgstr "Meow. Meow meow'meow meow"
+msgstr "Meow. Meow meow meow"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:122
 msgid "Unregister"
@@ -8323,8 +8300,7 @@ msgstr "Meow meow <0>Meow</0> meow meow meow meow meow meow meow meow meow meow 
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr "Meow meow <0>Meow</0> meow meow meow meow meow meow <1>Meow</1>. Meow meow meow meow meow!"
 
-#: src/utils/translations.tsx:94
-#: src/utils/translations.tsx:100
+#: src/utils/translations.tsx:94 src/utils/translations.tsx:100
 #: src/utils/translations.tsx:105
 msgid "Used for shooting guns. Increases your <0>Attack</0>"
 msgstr "Meow meow meow meow. Meow meow <0>Meow</0>"
@@ -8371,7 +8347,7 @@ msgstr "Meow meow meow Meow"
 
 #: src/utils/translations.tsx:89
 msgid "Used to produce Paper"
-msgstr ""
+msgstr "Meow meow meow Meow"
 
 #: src/utils/translations.tsx:115
 msgid "Used to produce Pills"
@@ -8503,7 +8479,7 @@ msgstr "Meow Meow"
 
 #: src/components/_common/GameRules.tsx:99
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
-msgstr ""
+msgstr "Meow meow meow meow meow meow meow \"Meow Meow\" meow."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -8674,11 +8650,11 @@ msgstr "Meow meow meow meow!"
 #. placeholder {0}: formatPercent( ethicsBonuses.militarism[2].pacificationDefenseBonusPerLevel, )
 #: src/components/_political/party/party.frontConfig.tsx:116
 msgid "When defending a revolt, gain an additional <0>{0}</0> battle bonus per Pacification Center level."
-msgstr ""
+msgstr "Meow meow meow meow, meow meow meow <0>{0}</0> meow meow meow Meow Meow meow."
 
 #: src/components/_political/party/party.frontConfig.tsx:63
 msgid "When revolting, you copy the enemy's defensive battle bonus from Bunker region upgrades."
-msgstr ""
+msgstr "Meow meow, meow meow meow meow meow meow meow meow Meow meow meow."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:156
 msgid "When your <0>Health</0> runs out, open this menu to restore it with food."
@@ -8699,7 +8675,7 @@ msgstr "Meow meow meow meow meow meow meow meow?"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:36
 msgid "Winter Soldier Pack"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:185
 msgid "with bonus"
@@ -8724,15 +8700,15 @@ msgstr "Meow meow"
 
 #: src/utils/translations.tsx:88
 msgid "Wood"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:251
 msgid "Wooden Self Bow"
-msgstr ""
+msgstr "Meow Meow Meow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:254
 msgid "Woolly Mammoth"
-msgstr ""
+msgstr "Meow Meow"
 
 #: src/components/_economy/company/WorkButton.tsx:244
 #: src/components/_user/mission/mission.frontConfig.tsx:76
@@ -8770,12 +8746,12 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow meow."
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:64
 msgid "World <0/>"
-msgstr ""
+msgstr "Meow <0/>"
 
 #: src/components/_layout/LayoutOptions.tsx:207
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
-msgstr ""
+msgstr "Meow"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
@@ -8827,8 +8803,7 @@ msgstr "Meow meow meow meow meow meow meow. Meow meow."
 msgid "You are already vice president of another country. Resign first."
 msgstr "Meow meow meow meow meow meow meow meow. Meow meow."
 
-#: src/pages/companies.tsx:45
-#: src/pages/user/[userId]/companies.tsx:64
+#: src/pages/companies.tsx:45 src/pages/user/[userId]/companies.tsx:64
 msgid "You are jobless"
 msgstr "Meow meow meow"
 
@@ -8989,7 +8964,7 @@ msgstr "Meow meow meow meow!"
 #. placeholder {0}: gameConfig.election.candidateMinLevel
 #: src/components/_political/election/Election.tsx:133
 msgid "You must be at least level {0} to become a candidate."
-msgstr ""
+msgstr "Meow meow meow meow meow meow {0} meow meow meow meow."
 
 #. placeholder {0}: gameConfig.region.resistanceContributionMinLevel
 #. placeholder {0}: gameConfig.unrest.contributionMinLevel
@@ -9001,7 +8976,7 @@ msgstr "Meow meow meow meow meow meow {0} meow meow."
 #. placeholder {0}: gameConfig.election.voteMinLevel
 #: src/components/_political/election/Election.tsx:226
 msgid "You must be at least level {0} to vote."
-msgstr ""
+msgstr "Meow meow meow meow meow meow {0} meow meow."
 
 #: src/components/_user/premium/PremiumActions.tsx:42
 msgid "You must be on web to subscribe"
@@ -9057,7 +9032,7 @@ msgstr "Meow meow meow meow meow meow meow <0/>!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1781
 msgid "You successfully gifted the skin pack \"{skinPackTitle}\" to <0/>!"
-msgstr ""
+msgstr "Meow meow meow meow meow meow \"{skinPackTitle}\" meow <0/>!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:130
 msgid "You survived the big reset"
@@ -9179,7 +9154,7 @@ msgstr "Meow meow meow meow"
 
 #: src/components/_political/government/AnnouncementForm.tsx:23
 msgid "Your announcement to the country..."
-msgstr ""
+msgstr "Meow meow meow meow meow..."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:367
 #: src/components/_user/notification/notification.frontConfig.tsx:1067
@@ -9345,8 +9320,8 @@ msgstr "Meow"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:85
 msgid "Zoom in"
-msgstr ""
+msgstr "Meow meow"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:93
 msgid "Zoom out"
-msgstr ""
+msgstr "Meow meow"
