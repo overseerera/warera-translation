@@ -67,11 +67,11 @@ msgstr "- Il reddito da sviluppo è ridotto del 50%: <0>{0}</0>."
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:236
 msgid "(average member development)"
-msgstr "(media dello sviluppo delle nazioni)"
+msgstr "(media sviluppo per paese)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
-msgstr "(sviluppo medio del paese)"
+msgstr "(sviluppo medio del paese membro)"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:226
 msgid "(own development)"
@@ -653,7 +653,7 @@ msgstr "Commissione <0>{0}</0> restituita all'UM."
 #. placeholder {0}: sideBonus.countryAlliesBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:83
 msgid "<0>{0}</0> from <1/>"
-msgstr "<0>{0}</> da <1/>"
+msgstr "<0>{0}</0> da <1/>"
 
 #. placeholder {0}: sideBonus.regionAttackBonusPercent
 #. placeholder {0}: sideBonus.regionDefenseBonusPercent
@@ -2887,7 +2887,7 @@ msgstr "Crea un'azienda"
 #. placeholder {1}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:342
 msgid "Create a new alliance named <0>{0}</0> with <1>{1}</1> color scheme."
-msgstr "Crea una nuova alleanza chiamata <0>{0}</0> con schema colore <1>{1}</>."
+msgstr "Crea una nuova alleanza chiamata <0>{0}</0> con schema colore <1>{1}</1>."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:356
 msgid "Create a new company"
@@ -7653,7 +7653,7 @@ msgstr "I costi di mantenimento del nemico giurato sono aumentati di <0>{0}</0>.
 #: src/components/_political/party/party.frontConfig.tsx:141
 #: src/components/_political/party/party.frontConfig.tsx:177
 msgid "Sworn enemy treaties start at <0>{0} fidelity</0> and gain <1>{1}</1> each day."
-msgstr ""
+msgstr "I danni bonus al nemico giurato iniziano al <0>{0}%</0> ed aumentano del <1>{1}</1> al giorno."
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:433
