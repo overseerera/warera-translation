@@ -31,7 +31,7 @@ msgstr " - Items durch Zusammenführen und Weiterverkauf missbräuchlich verschi
 
 #: src/components/_common/GameRules.tsx:117
 msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
-msgstr ""
+msgstr " - Niedriglohnarbeit (unter dem 0,8x und über 1,2x des Normallohns)"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:422
@@ -197,7 +197,7 @@ msgstr "<0/> bei <1>{0}</1> Lohn.{1}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:54
 msgid "<0/> banned <1/> from the conversation"
-msgstr ""
+msgstr "<0/> hat <1/> aus der Unterhaltung ausgeschlossen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1863
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
@@ -300,7 +300,7 @@ msgstr "<0/> hat dir den Skin \"{skinTitle}\" geschenkt!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1816
 msgid "<0/> gifted you the skin pack \"{skinPackTitle}\"!"
-msgstr ""
+msgstr "<0/> hat dir das Skin-Paket \"{skinPackTitle}\" geschenkt!"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:227
 msgid "<0/> got fee back"
@@ -476,7 +476,7 @@ msgstr "<0/> hat Ihrem Land einen gegenseitigen Verteidigungspakt vorgeschlagen.
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:145
 msgid "<0/> proposed a new alliance law: <1/>"
-msgstr ""
+msgstr "<0/> hat ein neues Allianz-Gesetz vorgeschlagen: <1/>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:136
 msgid "<0/> proposed a new law: <1/>"
@@ -623,7 +623,7 @@ msgstr "<0>{0}</0> gegen Feind von <1/>"
 #. placeholder {0}: levelConfig.stats.attackBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:49
 msgid "<0>{0}</0> Attack bonus when attacking from this region.<1/>Citizens get the full bonus, allied countries get half."
-msgstr ""
+msgstr "<0>{0}</0> Angriffsbonus wenn aus dieser Region angegriffen wird.<1/>Bürger bekommen den vollen Bonus, verbündete Nationen die Hälfte."
 
 #. placeholder {0}: sideBonus.regionNotLinkedToCapitalMalusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:209
@@ -643,7 +643,7 @@ msgstr "<0>{0}</0> weil <1/> mindestens eine von <2/> Regionen besetzt"
 #. placeholder {0}: levelConfig.stats.defenseBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:34
 msgid "<0>{0}</0> Defense bonus when defending this region.<1/>Citizens get the full bonus, allied countries get half. Defensive pact partners don't benefit."
-msgstr ""
+msgstr "<0>{0}</0> Defensivbonus wenn diese Region verteidigt wird.<1/>Bürger erhalten den vollen Bonus, verbündete Länder erhalten die Hälfte. Verteidigungsbündnispartner profitieren nicht davon."
 
 #. placeholder {0}: data.acceptanceFeeReturned
 #: src/components/_user/notification/notification.frontConfig.tsx:1615
@@ -653,7 +653,7 @@ msgstr "<0>{0}</0> Kaution an die ME zurückgezahlt."
 #. placeholder {0}: sideBonus.countryAlliesBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:83
 msgid "<0>{0}</0> from <1/>"
-msgstr ""
+msgstr "<0>{0}</0> von <1/>"
 
 #. placeholder {0}: sideBonus.regionAttackBonusPercent
 #. placeholder {0}: sideBonus.regionDefenseBonusPercent
@@ -942,7 +942,7 @@ msgstr "1★ Haftoffizier"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:33
 msgid "100% historically accurate"
-msgstr ""
+msgstr "100% historisch korrekt"
 
 #: src/components/_common/GameRules.tsx:46
 msgid "2. IP and Device Sharing"
@@ -1296,7 +1296,7 @@ msgstr "Akzeptieren"
 
 #: src/components/_political/law/law.frontConfig.tsx:287
 msgid "Accept a defensive pact with <0/>"
-msgstr ""
+msgstr "Akzeptiere ein Verteidigungsbündnis mit <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:281
 #: src/components/_political/law/lawNames.tsx:41
@@ -1487,7 +1487,7 @@ msgstr "Alle Transaktionen müssen fair und ausgewogen bleiben."
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism['-2'].treatyMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:161
 msgid "All treaty maintenance costs are increased by <0>{0}</0>."
-msgstr ""
+msgstr "Alle Vertragserhaltungskosten werden um <0>{0}</0> erhöht."
 
 #: src/components/_economy/transaction/TransactionList.tsx:70
 msgid "All types"
@@ -1504,7 +1504,7 @@ msgstr "Allianz <0/> (<1/>)"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:92
 msgid "Alliance battle damage bonus"
-msgstr ""
+msgstr "Allianz Schadensbonus"
 
 #: src/components/_political/event/EventList.tsx:75
 msgid "Alliance broken"
@@ -1516,17 +1516,17 @@ msgstr "Allianz geschlossen"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:53
 msgid "Alliance law proposed"
-msgstr ""
+msgstr "Allianz Gesetz vorgeschlagen"
 
 #: src/components/_political/allianceLaw/AllianceLawTypeSelect.tsx:57
 #: src/pages/alliance/[allianceId]/laws.tsx:16
 msgid "Alliance laws"
-msgstr ""
+msgstr "Gesetze der Allianz"
 
 #: src/components/_political/law/LawFormModal.tsx:203
 #: src/components/_political/law/LawFormModal.tsx:204
 msgid "Alliance name"
-msgstr ""
+msgstr "Name der Allianz"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:100
 #: src/components/_military/battle/ActiveBattlesList.tsx:154
@@ -1590,7 +1590,7 @@ msgstr "Ein Bündnis wurde geschlossen"
 
 #: src/components/_political/law/law.frontConfig.tsx:379
 msgid "An alliance has invited your country to join"
-msgstr ""
+msgstr "Dein Lande wurde eingeladen einer Allianz beizutreten"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:46
 msgid "An alliance's battle <0>damage</0> bonus depends on its share of the world's total <1>Development</1>."
@@ -1610,7 +1610,7 @@ msgstr "Ankündigung"
 
 #: src/components/_political/law/law.frontConfig.tsx:282
 msgid "Another country proposed a defensive pact to yours"
-msgstr ""
+msgstr "Ein anderes Land hat ein Verteidigungsbündnis vorgeschlagen"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:40
 msgid "Anti Terrorist Pack"
@@ -2374,7 +2374,7 @@ msgstr "Steuer ändern"
 #. placeholder {0}: data.newScheme
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:158
 msgid "Change the alliance color scheme to <0>{0}</0> immediately on acceptance."
-msgstr ""
+msgstr "Ändere das Farbschema der Allianz zu <0>{0}</0>, erfolgt unmittelbar nach Annahme."
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:142
 msgid "Change the color scheme of the alliance."
@@ -2426,7 +2426,7 @@ msgstr "Wähle deine Seite und klicke, um <0>Schaden</0> zu verursachen! Schlage
 
 #: src/components/_economy/inventory/CraftModal.tsx:358
 msgid "Choosing a specific item costs ×2 steel:"
-msgstr ""
+msgstr "Auswahl eines spezifischen Ausrüstung kostet ×2 Stahl:"
 
 #: src/components/_user/user/UserHeader.tsx:282
 msgid "Citizen since <0><1/></0>"
@@ -2822,11 +2822,11 @@ msgstr "Land von der Allianz ausgeschlossen"
 
 #: src/components/_political/event/EventList.tsx:78
 msgid "Country joined alliance"
-msgstr ""
+msgstr "Land ist Allianz beigetreten"
 
 #: src/components/_political/event/EventList.tsx:82
 msgid "Country left alliance"
-msgstr ""
+msgstr "Land hat Allianz verlassen"
 
 #: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
@@ -2887,7 +2887,7 @@ msgstr "Unternehmen gründen"
 #. placeholder {1}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:342
 msgid "Create a new alliance named <0>{0}</0> with <1>{1}</1> color scheme."
-msgstr ""
+msgstr "Erstelle eine neue Allianz mit dem Namen <0>{0}</0> und dem Farbschema <1>{1}</1>."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:356
 msgid "Create a new company"
@@ -2901,12 +2901,12 @@ msgstr "Partei gründen"
 #: src/components/_political/law/law.frontConfig.tsx:331
 #: src/components/_political/law/lawNames.tsx:25
 msgid "Create alliance"
-msgstr ""
+msgstr "Erstelle Allianz"
 
 #. placeholder {0}: law.data.name
 #: src/components/_political/law/law.frontConfig.tsx:336
 msgid "Create alliance {0}"
-msgstr ""
+msgstr "Erstelle Allianz {0}"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:240
 msgid "Create API Token"
@@ -3326,11 +3326,11 @@ msgstr "Entlassen"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:20
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:168
 msgid "Dissolve alliance"
-msgstr ""
+msgstr "Allianz auflösen"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:173
 msgid "Dissolve the alliance permanently, removing every member country."
-msgstr ""
+msgstr "Allianz permanent auflösen, entfernt alle Mitgliedsländer."
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:97
 msgid "Distributed"
@@ -3525,11 +3525,11 @@ msgstr "Verzauberte Hose"
 
 #: src/components/_political/law/law.frontConfig.tsx:307
 msgid "End an existing defensive pact with another country"
-msgstr ""
+msgstr "Verteidigungsbündnis mit einem anderen Land auflösen"
 
 #: src/components/_political/law/law.frontConfig.tsx:321
 msgid "End the defensive pact with <0/>."
-msgstr ""
+msgstr "Verteidigungsbündnis mit <0/> auflösen."
 
 #: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
@@ -3722,7 +3722,7 @@ msgstr ""
 
 #: src/components/_political/party/party.frontConfig.tsx:105
 msgid "Fanatic Expansionist"
-msgstr ""
+msgstr "Fanatischer Expansionist"
 
 #: src/components/_political/party/party.frontConfig.tsx:304
 msgid "Fanatic Imperialist"
@@ -3934,7 +3934,7 @@ msgstr "für Unternehmen, die <0>{0}</0> produzieren und in <1/> ansässig sind.
 
 #: src/components/_political/law/law.frontConfig.tsx:333
 msgid "Found a new alliance with your country as founding member"
-msgstr ""
+msgstr "Gründe eine neue Allianz mit deinem Land als Gründungsmitglied"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:45
 msgid "Founding Father"
@@ -4563,7 +4563,7 @@ msgstr "Jobs"
 
 #: src/components/_political/law/law.frontConfig.tsx:384
 msgid "Join <0/>"
-msgstr ""
+msgstr "Tritt <0/> bei"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:368
 msgid "Join a Military Unit"
@@ -4572,7 +4572,7 @@ msgstr "Tritt einer Militäreinheit bei"
 #: src/components/_political/law/law.frontConfig.tsx:378
 #: src/components/_political/law/lawNames.tsx:27
 msgid "Join alliance"
-msgstr ""
+msgstr "Allianz beitreten"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:367
 msgid "Join MU"
@@ -4628,12 +4628,12 @@ msgstr "Entfernen"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:73
 msgid "Kick <0/>"
-msgstr ""
+msgstr "<0/> entfernen"
 
 #: src/components/_political/alliance/alliance.frontConfig.tsx:16
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:65
 msgid "Kick country"
-msgstr ""
+msgstr "Land entfernen"
 
 #: src/components/_military/mu/MuMemberList.tsx:139
 msgid "Kick Member"
@@ -4733,16 +4733,16 @@ msgstr "Verlassen"
 
 #: src/components/_political/law/law.frontConfig.tsx:359
 msgid "Leave <0/>"
-msgstr ""
+msgstr "Verlasse <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:368
 msgid "Leave <0/>."
-msgstr ""
+msgstr "Verlasse <0/>."
 
 #: src/components/_political/law/law.frontConfig.tsx:353
 #: src/components/_political/law/lawNames.tsx:26
 msgid "Leave alliance"
-msgstr ""
+msgstr "Allianz verlassen"
 
 #: src/components/_user/worker/WageReductionAlert.tsx:55
 msgid "Leave company?"
@@ -4760,11 +4760,11 @@ msgstr "Regierung verlassen"
 
 #: src/components/_political/law/law.frontConfig.tsx:354
 msgid "Leave the alliance your country belongs to"
-msgstr ""
+msgstr "Verlasse die Allianz zu der dein Land gehört"
 
 #: src/components/_political/alliance/AllianceHeader.tsx:80
 msgid "Led by <0/>."
-msgstr ""
+msgstr "angeführt von <0/>."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:78
 msgid "Legend spotted!"
@@ -4798,7 +4798,7 @@ msgstr "Level {level}"
 #: src/components/_political/election/Election.tsx:132
 #: src/components/_political/election/Election.tsx:224
 msgid "Level too low"
-msgstr ""
+msgstr "Level zu niedrig"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:107
 msgid "Level up your skills!"
@@ -5076,7 +5076,7 @@ msgstr "Mitgliedsanträge"
 
 #: src/pages/alliance/[allianceId]/index.tsx:68
 msgid "Member countries"
-msgstr ""
+msgstr "Mitgliedsländer"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:153
 msgid "Member country to kick"
@@ -5092,7 +5092,7 @@ msgstr "Mitglied erfolgreich entfernt"
 
 #: src/components/_political/country/CountryHeader.tsx:254
 msgid "Member of <0/>"
-msgstr ""
+msgstr "Mitglied von <0/>"
 
 #: src/components/_military/mu/MuMemberList.tsx:112
 msgid "Member promoted to commander"
@@ -5439,7 +5439,7 @@ msgstr "Neu"
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:172
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:173
 msgid "New alliance name"
-msgstr ""
+msgstr "Neuer Allianzname"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:122
 msgid "New API Token Created"
@@ -5473,7 +5473,7 @@ msgstr "Neues Stellenangebot"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:161
 msgid "New leader"
-msgstr ""
+msgstr "Neuer Anführer"
 
 #: src/components/_economy/company/MoveCompanyForm.tsx:77
 msgid "New location"
@@ -5595,7 +5595,7 @@ msgstr ""
 
 #: src/components/_political/allianceLaw/AllianceLawList.tsx:50
 msgid "No alliance laws yet"
-msgstr ""
+msgstr "Noch keine Allianzgesetze"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:231
 msgid "No API tokens yet. Create one to get started."
@@ -5647,7 +5647,7 @@ msgstr "Noch keine Gesetze"
 
 #: src/pages/alliance/[allianceId]/index.tsx:73
 msgid "No members"
-msgstr ""
+msgstr "Keine Mitglieder"
 
 #: src/components/_military/mu/MuMemberList.tsx:180
 msgid "No members in this military unit."
@@ -5853,7 +5853,7 @@ msgstr "Nur Supporter können ihre Ausgaben- und Einnahmenaufschlüsselung sehen
 
 #: src/components/_political/party/party.frontConfig.tsx:264
 msgid "Only your core regions generate development income."
-msgstr ""
+msgstr "Nur die Kernregionen generieren Entwicklungseinnahmen."
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
@@ -6005,7 +6005,7 @@ msgstr "Hosen"
 
 #: src/utils/translations.tsx:90
 msgid "Paper"
-msgstr ""
+msgstr "Papier"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:222
 msgid "Participate in <0>{count}</0> battles"
@@ -6124,7 +6124,7 @@ msgstr "Die Menschen sind wütend, eine automatische Revolte hat in <0/> begonne
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:169
 msgid "Permanently dissolve the alliance."
-msgstr ""
+msgstr "Allianz permanent auflösen."
 
 #: src/utils/translations.tsx:86
 msgid "Petroleum"
@@ -6316,7 +6316,7 @@ msgstr "Gegenstände <0>{count}</0> Mal produzieren"
 
 #: src/utils/translations.tsx:91
 msgid "Produced from Wood"
-msgstr ""
+msgstr "Hergestellt aus Holz"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:71
 msgid "Produced item"
@@ -6374,7 +6374,7 @@ msgstr "Zum Kommandeur befördert"
 
 #: src/components/_political/law/law.frontConfig.tsx:259
 msgid "Propose a defensive pact with <0/>"
-msgstr ""
+msgstr "Verteidigungsbündnis mit <0/> vorschlagen"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:125
 #: src/components/_political/partyMotion/PartyMotionList.tsx:48
@@ -6726,7 +6726,7 @@ msgstr "<0/> aus dem Parteirat entfernen"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:66
 msgid "Remove a member country from the alliance."
-msgstr ""
+msgstr "Entferne ein Mitgliedsland aus der Allianz"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:32
 msgid "Remove a member from the party council"
@@ -6744,7 +6744,7 @@ msgstr "Ein inaktives Kongressmitglied von seiner Position entfernen"
 #: src/pages/country/[countryId]/government.tsx:164
 #: src/pages/country/[countryId]/government.tsx:169
 msgid "Remove announcement"
-msgstr ""
+msgstr "Anzeige entfernen"
 
 #: src/components/_user/user/UserDropdown.tsx:396
 msgid "Remove Avatar"
@@ -6783,12 +6783,12 @@ msgstr "Umbenennen"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:18
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:120
 msgid "Rename alliance"
-msgstr ""
+msgstr "Allianz umbenennen"
 
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:127
 msgid "Rename alliance to \"{0}\""
-msgstr ""
+msgstr "Allianz in \"{0}\" umbenennen"
 
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:66
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:82
@@ -6798,7 +6798,7 @@ msgstr "Unternehmen umbenennen"
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:133
 msgid "Rename the alliance to \"{0}\" immediately on acceptance."
-msgstr ""
+msgstr "Allianz in \"{0}\" umbenennen, unmittelbar nach Zustimmung"
 
 #: src/components/_political/government/Government.tsx:244
 msgid "Replace"
@@ -7196,7 +7196,7 @@ msgstr "Nachricht senden"
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
 #: src/components/_political/law/law.frontConfig.tsx:404
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
-msgstr ""
+msgstr "Sende Geld an ein anderes Land. Zusätzliche Papiersteuer: {0}% innerhalb deiner Allianz, {1}% außerhalb deiner Allianz."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:51
 msgid "Sergeant"
@@ -7504,7 +7504,7 @@ msgstr "Ganz von unten anfangen..."
 #. placeholder {0}: gameConfig?.battle.enemyDamagesBonusPercent
 #: src/components/_political/law/law.frontConfig.tsx:237
 msgid "starts at 1% and grows +1% per day up to <0>{0}</0>"
-msgstr ""
+msgstr "startet bei 1% und erhält 1% pro Tag bis zu <0>{0}</0>"
 
 #: src/pages/events/index.tsx:117
 msgid "Starts soon..."
@@ -8371,7 +8371,7 @@ msgstr "Wird zur Herstellung von Öl verwendet"
 
 #: src/utils/translations.tsx:89
 msgid "Used to produce Paper"
-msgstr ""
+msgstr "Wird zur Herstellung von Papier verwendet"
 
 #: src/utils/translations.tsx:115
 msgid "Used to produce Pills"
@@ -8724,7 +8724,7 @@ msgstr "Gewonnen von"
 
 #: src/utils/translations.tsx:88
 msgid "Wood"
-msgstr ""
+msgstr "Holz"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:251
 msgid "Wooden Self Bow"
@@ -8770,7 +8770,7 @@ msgstr "Für andere zu arbeiten ist ein guter Weg, um am Anfang Geld zu verdiene
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:64
 msgid "World <0/>"
-msgstr ""
+msgstr "Welt <0/>"
 
 #: src/components/_layout/LayoutOptions.tsx:207
 #: src/components/_user/kits/KitsPopover.tsx:265
@@ -8989,7 +8989,7 @@ msgstr "Du hast deinen Job gekündigt!"
 #. placeholder {0}: gameConfig.election.candidateMinLevel
 #: src/components/_political/election/Election.tsx:133
 msgid "You must be at least level {0} to become a candidate."
-msgstr ""
+msgstr "Du musst mindestens Level {0} erreicht haben um zu kandidieren."
 
 #. placeholder {0}: gameConfig.region.resistanceContributionMinLevel
 #. placeholder {0}: gameConfig.unrest.contributionMinLevel
@@ -9001,7 +9001,7 @@ msgstr "Du musst mindestens Level {0} sein, um beizutragen."
 #. placeholder {0}: gameConfig.election.voteMinLevel
 #: src/components/_political/election/Election.tsx:226
 msgid "You must be at least level {0} to vote."
-msgstr ""
+msgstr "Du musst mindestens Level {0} sein, um abzustimmen."
 
 #: src/components/_user/premium/PremiumActions.tsx:42
 msgid "You must be on web to subscribe"
@@ -9057,7 +9057,7 @@ msgstr "Du hast erfolgreich ein Premium-Abonnement an <0/> verschenkt!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1781
 msgid "You successfully gifted the skin pack \"{skinPackTitle}\" to <0/>!"
-msgstr ""
+msgstr "Du hast erfolgreich das Skin-Paket \"{skinPackTitle}\" an <0/> verschenkt!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:130
 msgid "You survived the big reset"
@@ -9179,7 +9179,7 @@ msgstr "Deine Vorfahren sind stolz"
 
 #: src/components/_political/government/AnnouncementForm.tsx:23
 msgid "Your announcement to the country..."
-msgstr ""
+msgstr "Deine Ankündigung an das Land ..."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:367
 #: src/components/_user/notification/notification.frontConfig.tsx:1067
