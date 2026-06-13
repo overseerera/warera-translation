@@ -2360,7 +2360,7 @@ msgstr "تغيير اللون إلى <0>{0}</0>"
 
 #: src/components/_military/mu/MuSettings.tsx:89
 msgid "Change nationality"
-msgstr ""
+msgstr "تغيير الجنسية"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:67
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:82
@@ -2534,7 +2534,7 @@ msgstr "نظام الألوان"
 
 #: src/components/_layout/LayoutOptions.tsx:167
 msgid "Colorblind mode"
-msgstr ""
+msgstr "وضع عمى الالوان"
 
 #: src/components/_military/mu/MuMemberList.tsx:327
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:155
@@ -2977,7 +2977,7 @@ msgstr "الوحدة العسكرية الحالية"
 
 #: src/components/_military/mu/MuSettings.tsx:63
 msgid "Current nationality"
-msgstr ""
+msgstr "الجنسية الحالية"
 
 #: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
@@ -5233,7 +5233,7 @@ msgstr "وزير الخارجية"
 
 #: src/components/_layout/LayoutOptions.tsx:175
 msgid "Mission tags"
-msgstr ""
+msgstr "علامات المهمة"
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -5429,7 +5429,7 @@ msgstr "مكافأة خاصة للدولة"
 
 #: src/components/_military/mu/MuSettings.tsx:31
 msgid "Nationality updated"
-msgstr ""
+msgstr "تم تحديث الجنسية"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:56
 msgid "Need a job?"
@@ -5521,7 +5521,7 @@ msgstr "اسم جديد"
 
 #: src/components/_military/mu/MuSettings.tsx:76
 msgid "New nationality"
-msgstr ""
+msgstr "الجنسية الجديدة"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "New Party Application"
@@ -5807,7 +5807,7 @@ msgstr "ليس في أي تحالف"
 
 #: src/components/_military/mu/MuSettings.tsx:69
 msgid "Not set"
-msgstr ""
+msgstr "لم يتم اختياره"
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:79
@@ -5881,7 +5881,7 @@ msgstr "يمكن للداعمين فقط رؤية تفاصيل إنفاقهم و
 
 #: src/components/_military/mu/MuSettings.tsx:104
 msgid "Only the owner and commanders can change the nationality."
-msgstr ""
+msgstr "فقط المالك والقادة يستطيعون تغيير الجنسية"
 
 #: src/components/_political/party/party.frontConfig.tsx:264
 msgid "Only your core regions generate development income."
@@ -7121,7 +7121,7 @@ msgstr "شاهد تفاصيل إنفاقك ودخلك"
 
 #: src/components/_military/mu/MuSettings.tsx:79
 msgid "Select a country"
-msgstr ""
+msgstr "اختيار دولة"
 
 #: src/components/_military/mu/MuFormModal.tsx:114
 msgid "Select a location"
@@ -8810,7 +8810,7 @@ msgstr "العالم <0/>"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:359
 msgid "World Cup Ball"
-msgstr ""
+msgstr "كرة كأس العالم"
 
 #: src/components/_layout/LayoutOptions.tsx:222
 #: src/components/_user/kits/KitsPopover.tsx:259
@@ -9318,7 +9318,7 @@ msgstr "اسم وحدتك العسكرية"
 
 #: src/components/_military/mu/MuSettings.tsx:55
 msgid "Your military unit nationality is the country it represents. Changing it costs concrete and can only be done once every {cooldownDays} days."
-msgstr ""
+msgstr "جنسية وحدتك العسكرية هي الدولة التي تمثلها. تغييرها يكلف خرسانة, ولا يمكن القيام بذلك إلا مرة واحدة كل {cooldownDays} أيام"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
