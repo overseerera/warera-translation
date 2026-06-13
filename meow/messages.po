@@ -98,7 +98,7 @@ msgid "{0} days cooldown"
 msgstr "{0} meow meow"
 
 #. placeholder {0}: user.data.leveling.freeReset
-#: src/pages/user/[userId]/skills.tsx:174
+#: src/pages/user/[userId]/skills.tsx:175
 msgid "{0} Free"
 msgstr "{0} Meow"
 
@@ -151,7 +151,7 @@ msgstr "{0}% meow meow meow meow meow meow meow meow' meow."
 msgid "{0}% of invested"
 msgstr "{0}% meow meow"
 
-#: src/components/_user/mission/MissionsList.tsx:172
+#: src/components/_user/mission/MissionsList.tsx:162
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} meow"
 
@@ -594,13 +594,13 @@ msgstr "<0>-{0}%</0> Meow meow meow meow"
 
 #. placeholder {0}: companiesIds?.length ?? 0
 #. placeholder {1}: companiesLimit ?? 99
-#: src/components/_economy/company/CompanyList.tsx:101
+#: src/components/_economy/company/CompanyList.tsx:102
 msgid "<0>{0}/{1}</0> Companies"
 msgstr "<0>{0}/{1}</0> Meow"
 
 #. placeholder {0}: totalWorkersCount.data ?? 0
 #. placeholder {1}: managementLimit ?? 99
-#: src/components/_economy/company/CompanyList.tsx:117
+#: src/components/_economy/company/CompanyList.tsx:118
 #: src/components/_economy/workOffer/WorkersLimit.tsx:24
 msgid "<0>{0}/{1}</0> Workers"
 msgstr "<0>{0}/{1}</0> Meow"
@@ -808,11 +808,11 @@ msgstr "<0>Meow meow <1>Meow Meow</1> meow meow meow meow meow meow meow meow.</
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can <3>increase</3> or <4>decrease</4> unrest by spending <5>{0}</5> or <6>{1}</6> to change the bar by <7>{2}</7>.<8/><9/>When the bar is full, any party can vote via motion to start a <10>Civil war</10> (cost: <11>development × 10</11>, cooldown: {3}h). The battle takes place in the capital region, and <12>only citizens</12> can fight.<13/><14/>If revolutionaries win:<15/>- Government is impeached<16/>- Borders are opened for {4} days<17/>- Presidential elections begin<18/><19/>After a revolution, contributions are disabled for {5}h."
 msgstr "<0>Meow</0> meow meow meow meow meow meow.<1/><2/>Meow meow <3>meow</3> meow <4>meow</4> meow meow meow <5>{0}</5> meow <6>{1}</6> meow meow meow meow meow <7>{2}</7>.<8/><9/>Meow meow meow meow meow, meow meow meow meow meow meow meow meow meow <10>Meow meow</10> (meow: <11>meow meow 10</11>, meow: {3}meow). Meow meow meow meow meow meow meow meow, meow <12>meow meow</12> meow meow.<13/><14/>Meow meow meow:<15/>- Meow meow meow<16/>- Meow meow meow meow {4} meow<17/>- Meow meow meow<18/><19/>Meow meow meow, meow meow meow meow {5}meow."
 
-#: src/components/_user/modals/PhoneVerificationModal.tsx:108
+#: src/components/_user/modals/PhoneVerificationModal.tsx:113
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow 48 meow meow meow meow meow meow meow 5 meow.</0><1>Meow meow meow meow meow meow meow meow meow meow.</1>"
 
-#: src/components/_layout/LayoutOptions.tsx:95
+#: src/components/_layout/LayoutOptions.tsx:97
 msgid "= consumes more power"
 msgstr "= meow meow meow"
 
@@ -1265,7 +1265,7 @@ msgstr "Meow meow meow meow meow <0/>"
 msgid "A strategic resource has been found in this region, it gives its owner a production and development bonus."
 msgstr "Meow meow meow meow meow meow meow meow meow, meow meow meow meow meow meow meow meow meow."
 
-#: src/components/_user/modals/PhoneVerificationModal.tsx:144
+#: src/components/_user/modals/PhoneVerificationModal.tsx:149
 msgid "A verification code has been sent to {phoneNumber}"
 msgstr "Meow meow meow meow meow meow meow {phoneNumber}"
 
@@ -1330,7 +1330,8 @@ msgstr "Meow meow"
 #: src/components/_user/user/UserHeader.tsx:167
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:253
-#: src/pages/user/[userId]/account.tsx:32 src/pages/user/[userId]/index.tsx:150
+#: src/pages/user/[userId]/account.tsx:32
+#: src/pages/user/[userId]/index.tsx:150
 msgid "Account"
 msgstr "Meow"
 
@@ -1345,7 +1346,8 @@ msgstr "Meow"
 #: src/components/_military/battle/BattlesHeader.tsx:26
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:134
 #: src/components/_military/mercenaryContract/MercenaryContractList.tsx:85
-#: src/pages/events/index.tsx:94 src/utils/translations.tsx:269
+#: src/pages/events/index.tsx:94
+#: src/utils/translations.tsx:269
 msgid "Active"
 msgstr "Meow"
 
@@ -1388,8 +1390,8 @@ msgstr "Meow Meow"
 msgid "Additional cost"
 msgstr "Meow meow"
 
-#: src/components/_layout/LayoutRightIcons.tsx:147
-#: src/components/_layout/MoreButtonNav.tsx:65
+#: src/components/_layout/LayoutRightIcons.tsx:146
+#: src/components/_layout/MoreButtonNav.tsx:67
 msgid "Admin"
 msgstr "Meow"
 
@@ -1474,7 +1476,7 @@ msgstr "Meow Meow"
 msgid "All rounds"
 msgstr "Meow meow"
 
-#: src/components/_other/shop/SkinPackModal.tsx:285
+#: src/components/_other/shop/SkinPackModal.tsx:270
 msgid "All skins owned"
 msgstr "Meow meow meow"
 
@@ -1547,7 +1549,8 @@ msgstr "Meow meow..."
 msgid "Alpha Tester"
 msgstr "Meow Meow"
 
-#: src/components/_user/UserEquipments.tsx:130 src/utils/translations.tsx:35
+#: src/components/_user/UserEquipments.tsx:130
+#: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Meow"
 
@@ -1637,7 +1640,7 @@ msgstr "Meow Meow"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "Meow meow meow meow meow meow meow meow Meow meow meow meow. Meow meow meow meow meow <0>Meow-Meow-Meow</0> meow. Meow meow meow meow meow meow meow 200 meow meow meow."
 
-#: src/components/_layout/LayoutOptions.tsx:242
+#: src/components/_layout/LayoutOptions.tsx:252
 msgid "App pattern"
 msgstr "Meow meow"
 
@@ -1658,7 +1661,7 @@ msgstr "Meow"
 msgid "Arcane Boots"
 msgstr "Meow Meow"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:222
+#: src/components/_economy/inventory/ConsumeItems.tsx:233
 msgid "Are you sure you want to consume pill?"
 msgstr "Meow meow meow meow meow meow meow meow?"
 
@@ -1682,7 +1685,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow?"
 msgid "Are you sure you want to leave the government?"
 msgstr "Meow meow meow meow meow meow meow meow meow?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:134
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:138
 msgid "Are you sure you want to place this bid?"
 msgstr "Meow meow meow meow meow meow meow meow?"
 
@@ -1702,7 +1705,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow?"
 msgid "Are you sure you want to remove this announcement?"
 msgstr "Meow meow meow meow meow meow meow meow meow?"
 
-#: src/components/_user/mission/MissionItem.tsx:115
+#: src/components/_user/mission/MissionItem.tsx:105
 msgid "Are you sure you want to reroll this mission? Your current progress will be lost."
 msgstr "Meow meow meow meow meow meow meow meow meow? Meow meow meow meow meow meow."
 
@@ -1814,7 +1817,7 @@ msgstr "Meow Meow Meow"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Meow meow meow meow meow meow <0>{actualTickPoints}</0> meow meow meow meow meow meow meow meow meow meow."
 
-#: src/components/_military/hit/HitButton.tsx:466
+#: src/components/_military/hit/HitButton.tsx:467
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
@@ -1855,7 +1858,7 @@ msgstr "Meow meow. Meow meow meow."
 msgid "Auto approval"
 msgstr "Meow meow"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:185
 #: src/components/_user/kits/KitsPopover.tsx:227
 msgid "Auto-equip when item breaks"
 msgstr "Meow-meow meow meow meow"
@@ -1864,7 +1867,7 @@ msgstr "Meow-meow meow meow meow"
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Meow-meow <0>Meow Meow</0> meow meow, meow meow meow meow meow."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:275
+#: src/components/_economy/inventory/ConsumeItems.tsx:290
 msgid "Autobuy when empty"
 msgstr "Meow meow meow"
 
@@ -2026,18 +2029,19 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow meow."
 msgid "Battle orders to defend your core regions and revolts cost <0>{0}</0> less."
 msgstr "Meow meow meow meow meow meow meow meow meow <0>{0}</0> meow."
 
-#: src/components/_layout/LayoutMenu.tsx:154
+#: src/components/_layout/LayoutMenu.tsx:157
 #: src/components/_military/battle/BattlesHeader.tsx:21
 #: src/components/_military/war/WarHeader.tsx:84
-#: src/pages/region/[regionId]/index.tsx:132 src/pages/war/[warId]/index.tsx:75
+#: src/pages/region/[regionId]/index.tsx:132
+#: src/pages/war/[warId]/index.tsx:75
 msgid "Battles"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:118
+#: src/components/_layout/LayoutOptions.tsx:120
 msgid "Battles on layout"
 msgstr "Meow meow meow"
 
-#: src/components/_layout/LayoutOptions.tsx:113
+#: src/components/_layout/LayoutOptions.tsx:115
 msgid "Battles on map"
 msgstr "Meow meow meow"
 
@@ -2054,7 +2058,7 @@ msgstr "Meow Meow"
 msgid "Become a Candidate"
 msgstr "Meow meow Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:195
+#: src/components/_layout/LayoutOptions.tsx:205
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr "Meow"
@@ -2063,7 +2067,7 @@ msgstr "Meow"
 msgid "Better than nothing, right?"
 msgstr "Meow meow meow, meow?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:292
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:296
 msgid "Bid"
 msgstr "Meow"
 
@@ -2079,7 +2083,7 @@ msgstr "Meow (meow meow)"
 msgid "Blue Staff"
 msgstr "Meow Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:149
+#: src/components/_layout/LayoutOptions.tsx:151
 msgid "Blur"
 msgstr "Meow"
 
@@ -2096,7 +2100,8 @@ msgstr "Meow meow"
 msgid "Boost your production!"
 msgstr "Meow meow meow!"
 
-#: src/components/_user/UserEquipments.tsx:200 src/utils/translations.tsx:202
+#: src/components/_user/UserEquipments.tsx:200
+#: src/utils/translations.tsx:202
 msgid "Boots"
 msgstr "Meow"
 
@@ -2162,7 +2167,7 @@ msgstr "Meow:"
 msgid "Bug finder"
 msgstr "Meow meow"
 
-#: src/components/_economy/company/CompanyList.tsx:152
+#: src/components/_economy/company/CompanyList.tsx:153
 msgid "Build a company"
 msgstr "Meow meow meow"
 
@@ -2187,11 +2192,11 @@ msgstr "Meow <0/>"
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Meow <0/> meow <1/> meow <2>{0}</2>"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:168
+#: src/components/_user/mission/mission.frontConfig.tsx:179
 msgid "Buy for <0>{count}</0> money on market"
 msgstr "Meow meow <0>{count}</0> meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:166
+#: src/components/_user/mission/mission.frontConfig.tsx:177
 msgid "Buy Items"
 msgstr "Meow Meow"
 
@@ -2398,7 +2403,8 @@ msgstr "Meow meow meow meow {0} meow"
 msgid "Check your loot!"
 msgstr "Meow meow meow!"
 
-#: src/components/_user/UserEquipments.tsx:166 src/utils/translations.tsx:193
+#: src/components/_user/UserEquipments.tsx:166
+#: src/utils/translations.tsx:193
 msgid "Chest"
 msgstr "Meow"
 
@@ -2418,7 +2424,7 @@ msgstr "Meow meow meow"
 msgid "Choose your side and click to deal <0>Damages</0>! Keep hitting to help your team win."
 msgstr "Meow meow meow meow meow meow meow <0>Meow</0>! Meow meow meow meow meow meow meow."
 
-#: src/components/_economy/inventory/CraftModal.tsx:358
+#: src/components/_economy/inventory/CraftModal.tsx:361
 msgid "Choosing a specific item costs ×2 steel:"
 msgstr "Meow meow meow meow meow ×2 meow:"
 
@@ -2446,7 +2452,7 @@ msgstr "Meow Meow"
 msgid "Civil war"
 msgstr "Meow meow"
 
-#: src/components/_user/mission/MissionItem.tsx:235
+#: src/components/_user/mission/MissionItem.tsx:238
 #: src/components/_user/mission/MissionsFinishedProgress.tsx:128
 msgid "Claim"
 msgstr "Meow"
@@ -2455,7 +2461,7 @@ msgstr "Meow"
 msgid "Claim your rewards!"
 msgstr "Meow meow meow!"
 
-#: src/components/_user/mission/MissionItem.tsx:235
+#: src/components/_user/mission/MissionItem.tsx:238
 #: src/components/_user/mission/MissionsFinishedProgress.tsx:105
 msgid "Claimed"
 msgstr "Meow"
@@ -2480,7 +2486,7 @@ msgstr "Meow meow meow meow'meow meow meow meow meow meow meow."
 msgid "Click to apply and start earning money right away."
 msgstr "Meow meow meow meow meow meow meow meow meow."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:166
+#: src/components/_economy/inventory/ConsumeItems.tsx:176
 msgid "Click to consume."
 msgstr "Meow meow meow."
 
@@ -2521,6 +2527,10 @@ msgstr "Meow"
 msgid "Color scheme"
 msgstr "Meow meow"
 
+#: src/components/_layout/LayoutOptions.tsx:167
+msgid "Colorblind mode"
+msgstr ""
+
 #: src/components/_military/mu/MuMemberList.tsx:327
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:155
 msgid "Commander"
@@ -2539,10 +2549,11 @@ msgstr "Meow"
 msgid "Community"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutMenu.tsx:184
+#: src/components/_layout/LayoutMenu.tsx:199
 #: src/components/_user/user/MyAvatar.tsx:48
 #: src/components/_user/user/UserHeader.tsx:206
-#: src/components/_user/user/WealthPanel.tsx:42 src/pages/companies.tsx:96
+#: src/components/_user/user/WealthPanel.tsx:42
+#: src/pages/companies.tsx:96
 msgid "Companies"
 msgstr "Meow"
 
@@ -2551,7 +2562,7 @@ msgstr "Meow"
 msgid "Companies limit"
 msgstr "Meow meow"
 
-#: src/components/_economy/company/CompanyList.tsx:74
+#: src/components/_economy/company/CompanyList.tsx:75
 msgid "Companies limit reached"
 msgstr "Meow meow meow"
 
@@ -2571,7 +2582,7 @@ msgstr "Meow meow!"
 msgid "Company enabled!"
 msgstr "Meow meow!"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:54
+#: src/components/_economy/company/MoveCompanyForm.tsx:55
 msgid "Company moved"
 msgstr "Meow meow"
 
@@ -2693,7 +2704,7 @@ msgstr "Meow"
 msgid "Consider giving it to your local moderator"
 msgstr "Meow meow meow meow meow meow meow"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:163
+#: src/components/_economy/inventory/ConsumeItems.tsx:173
 msgid "Consume items"
 msgstr "Meow meow"
 
@@ -2707,7 +2718,7 @@ msgstr "Meow meow meow meow meow"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Meow meow meow meow <0>Meow</0> meow {0} meow.<1/> Meow meow meow meow meow meow {1} meow"
 
-#: src/components/_layout/LayoutOptions.tsx:123
+#: src/components/_layout/LayoutOptions.tsx:125
 msgid "Contextual borders"
 msgstr "Meow meow"
 
@@ -2798,7 +2809,7 @@ msgid "Countries"
 msgstr "Meow"
 
 #: src/components/_layout/LayoutRightIcons.tsx:215
-#: src/components/_layout/MoreButtonNav.tsx:131
+#: src/components/_layout/MoreButtonNav.tsx:133
 #: src/components/_military/battle/BattleCountrySide.tsx:73
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
 #: src/components/_political/country/CountryHeader.tsx:56
@@ -2854,12 +2865,12 @@ msgstr "Meow Meow Meow"
 msgid "Country wars"
 msgstr "Meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:186
-#: src/pages/user/[userId]/inventory.tsx:40
+#: src/components/_user/mission/mission.frontConfig.tsx:197
+#: src/pages/user/[userId]/inventory.tsx:41
 msgid "Craft"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:188
+#: src/components/_user/mission/mission.frontConfig.tsx:199
 msgid "Craft <0>{count}</0> items"
 msgstr "Meow <0>{count}</0> meow"
 
@@ -2872,7 +2883,7 @@ msgstr "Meow Meow"
 msgid "Create"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:355
+#: src/components/_user/mission/mission.frontConfig.tsx:366
 msgid "Create a Company"
 msgstr "Meow meow Meow"
 
@@ -2882,7 +2893,7 @@ msgstr "Meow meow Meow"
 msgid "Create a new alliance named <0>{0}</0> with <1>{1}</1> color scheme."
 msgstr "Meow meow meow meow meow <0>{0}</0> meow <1>{1}</1> meow meow."
 
-#: src/components/_user/mission/mission.frontConfig.tsx:356
+#: src/components/_user/mission/mission.frontConfig.tsx:367
 msgid "Create a new company"
 msgstr "Meow meow meow meow"
 
@@ -2939,7 +2950,7 @@ msgstr "Meow. meow"
 msgid "Crit. damages"
 msgstr "Meow. meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:260
+#: src/components/_user/mission/mission.frontConfig.tsx:271
 msgid "Critical Hit"
 msgstr "Meow Meow"
 
@@ -2975,7 +2986,7 @@ msgstr "Meow meow meow"
 msgid "d. Any form of discrimination, racism, xenophobia, antisemitism, homophobia, transphobia and hate speech"
 msgstr ""
 
-#: src/components/_user/mission/MissionsList.tsx:190
+#: src/components/_user/mission/MissionsList.tsx:180
 msgid "Daily"
 msgstr "Meow"
 
@@ -3001,7 +3012,7 @@ msgid "Damage ranking"
 msgstr "Meow meow"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:160
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:164
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
 #: src/components/_military/war/WarComparison.tsx:90
 msgid "Damages"
 msgstr "Meow"
@@ -3035,19 +3046,19 @@ msgstr "Meow Meow"
 msgid "Dark Era Pack"
 msgstr "Meow Meow Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:140
+#: src/components/_layout/LayoutOptions.tsx:142
 msgid "Dark map"
 msgstr "Meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:122
+#: src/components/_user/mission/mission.frontConfig.tsx:133
 msgid "Deal <0>{count}</0> for allies or your country"
 msgstr "Meow <0>{count}</0> meow meow meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:102
+#: src/components/_user/mission/mission.frontConfig.tsx:113
 msgid "Deal <0>{count}</0> in battles"
 msgstr "Meow <0>{count}</0> meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:112
+#: src/components/_user/mission/mission.frontConfig.tsx:123
 msgid "Deal <0>{count}</0> on country/mu orders"
 msgstr "Meow <0>{count}</0> meow meow/meow meow"
 
@@ -3059,15 +3070,15 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow meow."
 msgid "Deal damage in battles with your MU members to level up each month and earn rewards. Resets on the 1st of each month."
 msgstr "Meow meow meow meow meow meow Meow meow meow meow meow meow meow meow meow meow. Meow meow meow 1meow meow meow meow."
 
-#: src/components/_user/mission/mission.frontConfig.tsx:100
+#: src/components/_user/mission/mission.frontConfig.tsx:111
 msgid "Deal Damages"
 msgstr "Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:120
+#: src/components/_user/mission/mission.frontConfig.tsx:131
 msgid "Deal Damages for Allies or Country"
 msgstr "Meow Meow meow Meow meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:110
+#: src/components/_user/mission/mission.frontConfig.tsx:121
 msgid "Deal Damages on Orders"
 msgstr "Meow Meow meow Meow"
 
@@ -3126,7 +3137,7 @@ msgstr "Meow"
 msgid "Decrease unrest"
 msgstr "Meow meow"
 
-#: src/components/_military/hit/HitButton.tsx:469
+#: src/components/_military/hit/HitButton.tsx:470
 msgid "Defend"
 msgstr "Meow"
 
@@ -3188,7 +3199,8 @@ msgstr "Meow meow"
 msgid "Delete contract"
 msgstr "Meow meow"
 
-#: src/pages/index.tsx:146 src/pages/rules.tsx:40
+#: src/pages/index.tsx:146
+#: src/pages/rules.tsx:40
 msgid "Delete your account"
 msgstr "Meow meow meow"
 
@@ -3264,11 +3276,11 @@ msgstr "Meow"
 msgid "Development"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:290
+#: src/components/_user/mission/mission.frontConfig.tsx:301
 msgid "Diminish <0/> received damages with <1>Armor</1> in battles"
 msgstr "Meow <0/> meow meow meow <1>Meow</1> meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:288
+#: src/components/_user/mission/mission.frontConfig.tsx:299
 msgid "Diminish Received Damages"
 msgstr "Meow Meow Meow"
 
@@ -3298,12 +3310,12 @@ msgstr "Meow"
 msgid "Disbanded <0/>"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:176
-#: src/pages/user/[userId]/inventory.tsx:49
+#: src/components/_user/mission/mission.frontConfig.tsx:187
+#: src/pages/user/[userId]/inventory.tsx:51
 msgid "Dismantle"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:178
+#: src/components/_user/mission/mission.frontConfig.tsx:189
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Meow <0>{count}</0> meow"
 
@@ -3332,13 +3344,13 @@ msgstr "Meow"
 msgid "Do you even know what luck is?"
 msgstr "Meow meow meow meow meow meow meow?"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:274
+#: src/components/_user/mission/mission.frontConfig.tsx:285
 #: src/components/_user/user/skills.frontConfig.tsx:144
 #: src/components/_user/user/skills.frontConfig.tsx:145
 msgid "Dodge"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:276
+#: src/components/_user/mission/mission.frontConfig.tsx:287
 msgid "Dodge <0>{count}</0> attacks"
 msgstr "Meow <0>{count}</0> meow"
 
@@ -3354,11 +3366,11 @@ msgstr "Meow meow meow meow meow meow meow."
 msgid "Don't quit now, your luck is buffering"
 msgstr "Meow meow meow, meow meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:461
+#: src/components/_user/mission/mission.frontConfig.tsx:472
 msgid "Donate"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:463
+#: src/components/_user/mission/mission.frontConfig.tsx:474
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Meow <0>{count}</0> meow Meow meow Meow"
 
@@ -3389,24 +3401,24 @@ msgstr "Meow"
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
 msgstr ""
 
-#: src/components/_user/mission/mission.frontConfig.tsx:130
+#: src/components/_user/mission/mission.frontConfig.tsx:141
 msgid "Eat"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:142
-#: src/components/_user/mission/mission.frontConfig.tsx:155
+#: src/components/_user/mission/mission.frontConfig.tsx:153
+#: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Eat <0>{count}</0>"
 msgstr "Meow <0>{count}</0>"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:132
+#: src/components/_user/mission/mission.frontConfig.tsx:143
 msgid "Eat <0>{count}</0> food items"
 msgstr "Meow <0>{count}</0> meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:140
+#: src/components/_user/mission/mission.frontConfig.tsx:151
 msgid "Eat Cooked Fish"
 msgstr "Meow Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:153
+#: src/components/_user/mission/mission.frontConfig.tsx:164
 msgid "Eat Steak"
 msgstr "Meow Meow"
 
@@ -3562,10 +3574,11 @@ msgid "Entrepreneurship"
 msgstr "Meow"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:172
-#: src/components/_user/user/WealthPanel.tsx:56 src/pages/market/index.tsx:71
+#: src/components/_layout/LayoutOptions.tsx:182
+#: src/components/_user/user/WealthPanel.tsx:56
+#: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
-#: src/pages/user/[userId]/inventory.tsx:58
+#: src/pages/user/[userId]/inventory.tsx:61
 msgid "Equipment"
 msgstr "Meow"
 
@@ -3609,7 +3622,7 @@ msgid "Ethics Points:"
 msgstr "Meow Meow:"
 
 #: src/components/_layout/LayoutRightIcons.tsx:245
-#: src/components/_layout/MoreButtonNav.tsx:94
+#: src/components/_layout/MoreButtonNav.tsx:96
 #: src/pages/country/[countryId]/index.tsx:266
 msgid "Events"
 msgstr "Meow"
@@ -3623,21 +3636,21 @@ msgstr "Meow meow meow"
 msgid "Expansionist"
 msgstr "Meow"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:69
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:73
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:236
 #: src/utils/translations.tsx:268
 msgid "Expired"
 msgstr "Meow"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:66
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:70
 msgid "Expired: battle ended"
 msgstr "Meow: meow meow"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:64
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:68
 msgid "Expired: no bids"
 msgstr "Meow: meow meow"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:68
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:72
 msgid "Expired: round ended"
 msgstr "Meow: meow meow"
 
@@ -3781,13 +3794,13 @@ msgstr "Meow Meow"
 msgid "Favorites"
 msgstr "Meow"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:234
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:238
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
 msgid "Fee"
 msgstr "Meow"
 
 #: src/components/_layout/LayoutRightIcons.tsx:255
-#: src/components/_layout/MoreButtonNav.tsx:86
+#: src/components/_layout/MoreButtonNav.tsx:88
 msgid "Feed"
 msgstr "Meow"
 
@@ -3799,7 +3812,7 @@ msgstr "Meow Meow"
 msgid "Fidelity bonus:"
 msgstr "Meow meow:"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:155
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:159
 msgid "Fight for <0/> in <1/>"
 msgstr "Meow meow <0/> meow <1/>"
 
@@ -3856,15 +3869,16 @@ msgstr "Meow meow meow"
 msgid "Finance resistance in <0/>"
 msgstr "Meow meow meow <0/>"
 
-#: src/pages/companies.tsx:59 src/pages/user/[userId]/companies.tsx:73
+#: src/pages/companies.tsx:59
+#: src/pages/user/[userId]/companies.tsx:73
 msgid "Find a job"
 msgstr "Meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:429
+#: src/components/_user/mission/mission.frontConfig.tsx:440
 msgid "Find a Job"
 msgstr "Meow meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:430
+#: src/components/_user/mission/mission.frontConfig.tsx:441
 msgid "Find a job at a company"
 msgstr "Meow meow meow meow meow meow"
 
@@ -3897,7 +3911,7 @@ msgstr "Meow meow meow"
 msgid "Fish"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:135
+#: src/components/_layout/LayoutOptions.tsx:137
 msgid "Flags"
 msgstr "Meow"
 
@@ -3905,11 +3919,11 @@ msgstr "Meow"
 msgid "Flail"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:212
+#: src/components/_layout/LayoutOptions.tsx:222
 msgid "Font"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:224
+#: src/components/_layout/LayoutOptions.tsx:234
 msgid "Font size"
 msgstr "Meow meow"
 
@@ -3930,7 +3944,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow"
 msgid "Founding Father"
 msgstr "Meow Meow"
 
-#: src/pages/shop/index.tsx:129
+#: src/pages/shop/index.tsx:131
 msgid "Free daily reward"
 msgstr "Meow meow meow"
 
@@ -3966,11 +3980,11 @@ msgstr "Meow <0>Meow</0> meow meow meow meow!"
 msgid "Game supporter"
 msgstr "Meow meow"
 
-#: src/pages/shop/index.tsx:139
+#: src/pages/shop/index.tsx:141
 msgid "Gems"
 msgstr "Meow"
 
-#: src/pages/shop/index.tsx:136
+#: src/pages/shop/index.tsx:138
 msgid "Gems are used to buy assets in the shop and to gift supporter months to other players"
 msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow"
 
@@ -3978,7 +3992,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow me
 msgid "General"
 msgstr "Meow"
 
-#: src/components/_user/mission/MissionsList.tsx:242
+#: src/components/_user/mission/MissionsList.tsx:232
 msgid "Generate Missions"
 msgstr "Meow Meow"
 
@@ -3995,7 +4009,7 @@ msgstr "Meow meow meow <0>meow meow</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Meow meow meow meow meow meow meow 30% meow!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:219
+#: src/components/_economy/inventory/DismantleModal.tsx:221
 msgid "Get supporter plan"
 msgstr "Meow meow meow"
 
@@ -4011,7 +4025,7 @@ msgstr "Meow meow Meow, meow meow meow"
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "Meow meow! Meow meow meow meow meow!"
 
-#: src/pages/shop/index.tsx:55
+#: src/pages/shop/index.tsx:57
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Meow meow! Meow meow meow meow meow <3"
 
@@ -4023,7 +4037,7 @@ msgstr "Meow Meow Meow"
 msgid "Gift this pack to someone"
 msgstr "Meow meow meow meow meow"
 
-#: src/pages/shop/index.tsx:101
+#: src/pages/shop/index.tsx:103
 msgid "gifted"
 msgstr "meow"
 
@@ -4048,11 +4062,12 @@ msgstr "Meow Meow!"
 msgid "Gives <0>{0}</0>"
 msgstr "Meow <0>{0}</0>"
 
-#: src/components/_layout/LayoutOptions.tsx:101
+#: src/components/_layout/LayoutOptions.tsx:103
 msgid "Globe (experimental)"
 msgstr "Meow (meow)"
 
-#: src/components/_user/UserEquipments.tsx:217 src/utils/translations.tsx:211
+#: src/components/_user/UserEquipments.tsx:217
+#: src/utils/translations.tsx:211
 msgid "Gloves"
 msgstr "Meow"
 
@@ -4064,7 +4079,7 @@ msgstr "Meow meow meow meow meow"
 msgid "Go to job market"
 msgstr "Meow meow meow meow"
 
-#: src/components/_economy/company/CompanyList.tsx:88
+#: src/components/_economy/company/CompanyList.tsx:89
 msgid "Go to skills"
 msgstr "Meow meow meow"
 
@@ -4097,7 +4112,7 @@ msgstr "Meow meow"
 msgid "Grain"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:108
+#: src/components/_layout/LayoutOptions.tsx:110
 msgid "Graticule"
 msgstr "Meow"
 
@@ -4262,11 +4277,12 @@ msgstr "Meow"
 msgid "Heavy Ammo"
 msgstr "Meow Meow"
 
-#: src/components/_user/UserEquipments.tsx:151 src/utils/translations.tsx:184
+#: src/components/_user/UserEquipments.tsx:151
+#: src/utils/translations.tsx:184
 msgid "Helmet"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:252
+#: src/components/_user/mission/mission.frontConfig.tsx:263
 msgid "Help <0>{count}</0> MU members"
 msgstr "Meow <0>{count}</0> Meow meow"
 
@@ -4274,7 +4290,7 @@ msgstr "Meow <0>{count}</0> Meow meow"
 msgid "Help for Mu"
 msgstr "Meow meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:250
+#: src/components/_user/mission/mission.frontConfig.tsx:261
 msgid "Help MU Members"
 msgstr "Meow Meow Meow"
 
@@ -4290,11 +4306,11 @@ msgstr "Meow Meow"
 msgid "History"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:90
+#: src/components/_user/mission/mission.frontConfig.tsx:101
 msgid "Hit"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:92
+#: src/components/_user/mission/mission.frontConfig.tsx:103
 msgid "Hit <0>{count}</0> times in battles"
 msgstr "Meow <0>{count}</0> meow meow meow"
 
@@ -4452,14 +4468,16 @@ msgstr "Meow"
 msgid "Intentional or repeated violations of this policy will result in a permanent ban."
 msgstr ""
 
-#: src/components/_layout/LayoutMenu.tsx:125
+#: src/components/_layout/LayoutMenu.tsx:126
 #: src/components/_user/user/MyAvatar.tsx:35
-#: src/components/_user/user/UserHeader.tsx:159 src/pages/companies.tsx:83
-#: src/pages/country/[countryId]/account.tsx:25 src/pages/market/index.tsx:49
+#: src/components/_user/user/UserHeader.tsx:159
+#: src/pages/companies.tsx:83
+#: src/pages/country/[countryId]/account.tsx:25
+#: src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
-#: src/pages/user/[userId]/inventory.tsx:30
+#: src/pages/user/[userId]/inventory.tsx:31
 msgid "Inventory"
 msgstr "Meow"
 
@@ -4525,7 +4543,8 @@ msgstr "Meow"
 msgid "j. Spam and repeated messages"
 msgstr ""
 
-#: src/pages/companies.tsx:32 src/pages/user/[userId]/companies.tsx:56
+#: src/pages/companies.tsx:32
+#: src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
 msgstr "Meow"
 
@@ -4550,7 +4569,7 @@ msgstr "Meow"
 msgid "Join <0/>"
 msgstr "Meow<0/>"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:368
+#: src/components/_user/mission/mission.frontConfig.tsx:379
 msgid "Join a Military Unit"
 msgstr "Meow meow Meow Meow"
 
@@ -4559,7 +4578,7 @@ msgstr "Meow meow Meow Meow"
 msgid "Join alliance"
 msgstr "Meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:367
+#: src/components/_user/mission/mission.frontConfig.tsx:378
 msgid "Join MU"
 msgstr "Meow Meow"
 
@@ -4636,11 +4655,11 @@ msgstr "Meow"
 msgid "Knives do not accept ammo"
 msgstr "Meow meow meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:262
+#: src/components/_user/mission/mission.frontConfig.tsx:273
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Meow <0>{count}</0> meow meow"
 
-#: src/components/_layout/LayoutOptions.tsx:165
+#: src/components/_layout/LayoutOptions.tsx:175
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Language"
 msgstr "Meow"
@@ -4653,7 +4672,7 @@ msgstr "Meow"
 msgid "Last earned: <0/>"
 msgstr "Meow meow: <0/>"
 
-#: src/pages/shop/index.tsx:89
+#: src/pages/shop/index.tsx:91
 msgid "Last gifts"
 msgstr "Meow meow"
 
@@ -4671,7 +4690,7 @@ msgstr "Meow meow:"
 msgid "Later"
 msgstr "Meow"
 
-#: src/pages/shop/index.tsx:149
+#: src/pages/shop/index.tsx:155
 msgid "Latest Pack"
 msgstr "Meow Meow"
 
@@ -4819,19 +4838,19 @@ msgstr "Meow"
 msgid "Light Ammo"
 msgstr "Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:329
+#: src/components/_user/mission/mission.frontConfig.tsx:340
 msgid "Like <0>{count}</0> articles"
 msgstr "Meow <0>{count}</0> meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:400
+#: src/components/_user/mission/mission.frontConfig.tsx:411
 msgid "Like <0>{count}</0> messages"
 msgstr "Meow <0>{count}</0> meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:327
+#: src/components/_user/mission/mission.frontConfig.tsx:338
 msgid "Like Article"
 msgstr "Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:398
+#: src/components/_user/mission/mission.frontConfig.tsx:409
 msgid "Like Message"
 msgstr "Meow Meow"
 
@@ -4847,7 +4866,7 @@ msgstr "Meow meow meow meow"
 msgid "Limited:"
 msgstr "Meow:"
 
-#: src/components/_layout/LayoutOptions.tsx:254
+#: src/components/_layout/LayoutOptions.tsx:264
 msgid "Line"
 msgstr "Meow"
 
@@ -4891,11 +4910,11 @@ msgstr "Meow"
 msgid "Long Sword"
 msgstr "Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:315
+#: src/components/_user/mission/mission.frontConfig.tsx:326
 msgid "Loot <0>{count}</0> from battles"
 msgstr "Meow <0>{count}</0> meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:313
+#: src/components/_user/mission/mission.frontConfig.tsx:324
 msgid "Loot Cases"
 msgstr "Meow Meow"
 
@@ -4958,7 +4977,7 @@ msgid "map"
 msgstr "meow"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:108
-#: src/components/_layout/LayoutOptions.tsx:98
+#: src/components/_layout/LayoutOptions.tsx:100
 msgid "Map"
 msgstr "Meow"
 
@@ -4968,7 +4987,7 @@ msgid "Map Accent"
 msgstr "Meow Meow"
 
 #: src/components/_economy/market/MarketHeader.tsx:44
-#: src/components/_layout/LayoutMenu.tsx:165
+#: src/components/_layout/LayoutMenu.tsx:179
 #: src/pages/country/[countryId]/account.tsx:31
 #: src/pages/party/[partyId]/account.tsx:24
 #: src/pages/user/[userId]/account.tsx:26
@@ -5163,7 +5182,7 @@ msgstr "Meow meow:"
 msgid "Military Ranks"
 msgstr "Meow Meow"
 
-#: src/components/_layout/MoreButtonNav.tsx:150
+#: src/components/_layout/MoreButtonNav.tsx:152
 #: src/components/_user/notification/notificationPrefs.categories.ts:159
 msgid "Military Unit"
 msgstr "Meow Meow"
@@ -5180,7 +5199,7 @@ msgstr "Meow meow"
 msgid "Military Units"
 msgstr "Meow Meow"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:293
 msgid "Min reached"
 msgstr "Meow meow"
 
@@ -5203,13 +5222,13 @@ msgstr "Meow meow Meow"
 msgid "Minister of Foreign Affairs"
 msgstr "Meow meow Meow Meow"
 
-#: src/components/_layout/LayoutRightIcons.tsx:174
-#: src/components/_layout/MoreButtonNav.tsx:103
-#: src/components/_user/mission/MissionsList.tsx:169
+#: src/components/_layout/LayoutRightIcons.tsx:173
+#: src/components/_layout/MoreButtonNav.tsx:105
+#: src/components/_user/mission/MissionsList.tsx:159
 msgid "Missions"
 msgstr "Meow"
 
-#: src/components/_user/modals/PhoneVerificationModal.tsx:123
+#: src/components/_user/modals/PhoneVerificationModal.tsx:128
 msgid "Mobile phone number"
 msgstr "Meow meow meow"
 
@@ -5250,7 +5269,7 @@ msgstr "Meow meow: <0>{monthlyDamages}</0>"
 msgid "Monthly:"
 msgstr "Meow:"
 
-#: src/components/_layout/MoreButtonNav.tsx:194
+#: src/components/_layout/MoreButtonNav.tsx:196
 msgid "More"
 msgstr "Meow"
 
@@ -5271,20 +5290,20 @@ msgstr "Meow meow"
 msgid "Motions"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:446
+#: src/components/_user/mission/mission.frontConfig.tsx:457
 msgid "Move a company to another region"
 msgstr "Meow meow meow meow meow meow"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:144
-#: src/components/_economy/company/MoveCompanyForm.tsx:63
+#: src/components/_economy/company/MoveCompanyForm.tsx:64
 msgid "Move company"
 msgstr "Meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:445
+#: src/components/_user/mission/mission.frontConfig.tsx:456
 msgid "Move Company"
 msgstr "Meow Meow"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:88
+#: src/components/_economy/company/MoveCompanyForm.tsx:89
 msgid "Move the company"
 msgstr "Meow meow meow"
 
@@ -5296,7 +5315,7 @@ msgstr "Meow meow meow"
 msgid "Moved to a new company"
 msgstr "Meow meow meow meow meow"
 
-#: src/components/_layout/LayoutMenu.tsx:137
+#: src/components/_layout/LayoutMenu.tsx:139
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:135
 msgid "MU"
 msgstr "Meow"
@@ -5415,8 +5434,7 @@ msgstr "Meow meow meow!"
 msgid "Never stop gambling"
 msgstr "Meow meow meow"
 
-#: src/components/_other/shop/SkinItem.tsx:124
-#: src/components/_other/shop/SkinPackItem.tsx:89
+#: src/components/_other/shop/SkinPackItem.tsx:91
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "Meow"
@@ -5460,7 +5478,7 @@ msgstr "Meow meow meow"
 msgid "New leader"
 msgstr "Meow meow"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:77
+#: src/components/_economy/company/MoveCompanyForm.tsx:78
 msgid "New location"
 msgstr "Meow meow"
 
@@ -5509,7 +5527,7 @@ msgstr "Meow meow"
 msgid "New subscriber"
 msgstr "Meow meow"
 
-#: src/pages/shop/index.tsx:112
+#: src/pages/shop/index.tsx:114
 msgid "New supporters"
 msgstr "Meow meow"
 
@@ -5521,8 +5539,8 @@ msgstr "Meow meow"
 msgid "Newest"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutRightIcons.tsx:200
-#: src/components/_layout/MoreButtonNav.tsx:112
+#: src/components/_layout/LayoutRightIcons.tsx:199
+#: src/components/_layout/MoreButtonNav.tsx:114
 msgid "News"
 msgstr "Meow"
 
@@ -5650,7 +5668,7 @@ msgstr "Meow meow meow"
 msgid "No military units found"
 msgstr "Meow meow meow meow"
 
-#: src/components/_user/mission/MissionsList.tsx:232
+#: src/components/_user/mission/MissionsList.tsx:222
 msgid "No missions available"
 msgstr "Meow meow meow"
 
@@ -5766,7 +5784,8 @@ msgstr "Meow meow, meow meow meow"
 msgid "Not in any alliance"
 msgstr "Meow meow meow meow"
 
-#: src/pages/notifications.tsx:38 src/pages/user/[userId]/settings.tsx:79
+#: src/pages/notifications.tsx:38
+#: src/pages/user/[userId]/settings.tsx:79
 msgid "Notification preferences"
 msgstr "Meow meow"
 
@@ -5839,16 +5858,16 @@ msgstr "Meow meow meow meow meow meow meow meow meow."
 msgid "Only your core regions generate development income."
 msgstr "Meow meow meow meow meow meow meow."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:524
 msgid "Open"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:208
+#: src/components/_user/mission/mission.frontConfig.tsx:219
 msgid "Open <0>{count}</0>"
 msgstr "Meow <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:103
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:544
 msgid "Open case"
 msgstr "Meow meow"
 
@@ -5856,11 +5875,11 @@ msgstr "Meow meow"
 msgid "Open Case"
 msgstr "Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:206
+#: src/components/_user/mission/mission.frontConfig.tsx:217
 msgid "Open Cases"
 msgstr "Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:361
+#: src/components/_user/mission/mission.frontConfig.tsx:372
 msgid "Open Chat"
 msgstr "Meow Meow"
 
@@ -5880,7 +5899,7 @@ msgstr "Meow meow meow meow meow meow meow"
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "Meow meow <0>Meow</0> meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:362
+#: src/components/_user/mission/mission.frontConfig.tsx:373
 msgid "Open the chat"
 msgstr "Meow meow meow"
 
@@ -5896,7 +5915,7 @@ msgstr "Meow meow meow!"
 msgid "Operative"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:151
+#: src/components/_layout/LayoutLeftIcons.tsx:159
 msgid "Options"
 msgstr "Meow"
 
@@ -5939,8 +5958,7 @@ msgstr "Meow:"
 msgid "Overview"
 msgstr "Meow"
 
-#: src/components/_other/shop/SkinPackItem.tsx:104
-#: src/components/_other/shop/SkinPackModal.tsx:264
+#: src/components/_other/shop/SkinPackItem.tsx:106
 msgid "Owned"
 msgstr "Meow"
 
@@ -5982,7 +6000,8 @@ msgstr "Meow: meow meow meow meow meow meow meow meow {orderDiscountPercent}% me
 msgid "Packs"
 msgstr "Meow"
 
-#: src/components/_user/UserEquipments.tsx:183 src/utils/translations.tsx:220
+#: src/components/_user/UserEquipments.tsx:183
+#: src/utils/translations.tsx:220
 msgid "Pants"
 msgstr "Meow"
 
@@ -5990,11 +6009,11 @@ msgstr "Meow"
 msgid "Paper"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:222
+#: src/components/_user/mission/mission.frontConfig.tsx:233
 msgid "Participate in <0>{count}</0> battles"
 msgstr "Meow meow <0>{count}</0> meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:220
+#: src/components/_user/mission/mission.frontConfig.tsx:231
 msgid "Participate in Battle"
 msgstr "Meow meow Meow"
 
@@ -6003,7 +6022,7 @@ msgid "Parties"
 msgstr "Meow"
 
 #: src/components/_layout/LayoutRightIcons.tsx:223
-#: src/components/_layout/MoreButtonNav.tsx:140
+#: src/components/_layout/MoreButtonNav.tsx:142
 #: src/components/_user/notification/notificationPrefs.categories.ts:157
 #: src/pages/user/[userId]/index.tsx:176
 msgid "Party"
@@ -6081,11 +6100,11 @@ msgstr "Meow Meow meow meow meow meow meow meow <0/>"
 msgid "Paste a link to your campaign article, or leave empty."
 msgstr "Meow meow meow meow meow meow meow, meow meow meow."
 
-#: src/pages/shop/index.tsx:43
+#: src/pages/shop/index.tsx:45
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Meow meow! Meow meow meow meow meow <3"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:182
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:186
 msgid "Payout"
 msgstr "Meow"
 
@@ -6121,7 +6140,7 @@ msgstr "Meow Meow"
 msgid "Phone number verified!"
 msgstr "Meow meow meow!"
 
-#: src/components/_user/modals/PhoneVerificationModal.tsx:99
+#: src/components/_user/modals/PhoneVerificationModal.tsx:102
 msgid "Phone Verification"
 msgstr "Meow Meow"
 
@@ -6129,7 +6148,7 @@ msgstr "Meow Meow"
 msgid "Phone verification requested"
 msgstr "Meow meow meow"
 
-#: src/components/_user/modals/PhoneVerificationModal.tsx:105
+#: src/components/_user/modals/PhoneVerificationModal.tsx:110
 msgid "Phone verification required"
 msgstr "Meow meow meow"
 
@@ -6202,7 +6221,7 @@ msgstr "Meow"
 msgid "Prehistoric Pack"
 msgstr "Meow Meow"
 
-#: src/pages/shop/index.tsx:165
+#: src/pages/shop/index.tsx:171
 msgid "Premium"
 msgstr "Meow"
 
@@ -6267,7 +6286,8 @@ msgstr "Meow meow"
 msgid "Primary Election Ended"
 msgstr "Meow Meow Meow"
 
-#: src/pages/index.tsx:142 src/pages/rules.tsx:36
+#: src/pages/index.tsx:142
+#: src/pages/rules.tsx:36
 msgid "Privacy"
 msgstr "Meow"
 
@@ -6275,7 +6295,7 @@ msgstr "Meow"
 msgid "Private"
 msgstr "Meow"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:208
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:212
 msgid "Pro Only"
 msgstr "Meow Meow"
 
@@ -6283,8 +6303,8 @@ msgstr "Meow Meow"
 msgid "Probability of landing a critical hit"
 msgstr "Meow meow meow meow meow meow"
 
-#: src/components/_economy/company/ProduceButton.tsx:139
-#: src/components/_user/mission/mission.frontConfig.tsx:435
+#: src/components/_economy/company/ProduceButton.tsx:140
+#: src/components/_user/mission/mission.frontConfig.tsx:446
 msgid "Produce"
 msgstr "Meow"
 
@@ -6292,7 +6312,7 @@ msgstr "Meow"
 msgid "Produce All"
 msgstr "Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:437
+#: src/components/_user/mission/mission.frontConfig.tsx:448
 msgid "Produce items <0>{count}</0> times"
 msgstr "Meow meow <0>{count}</0> meow"
 
@@ -6438,8 +6458,8 @@ msgstr "Meow Meow"
 msgid "Put yourself to work!"
 msgstr "Meow meow meow meow!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:196
-#: src/components/_economy/inventory/DismantleModal.tsx:286
+#: src/components/_economy/inventory/DismantleModal.tsx:198
+#: src/components/_economy/inventory/DismantleModal.tsx:288
 msgid "Quick dismantle"
 msgstr "Meow meow"
 
@@ -6459,7 +6479,7 @@ msgstr "Meow"
 msgid "Ranking reward"
 msgstr "Meow meow"
 
-#: src/components/_layout/MoreButtonNav.tsx:120
+#: src/components/_layout/MoreButtonNav.tsx:122
 #: src/pages/alliance/[allianceId]/index.tsx:48
 #: src/pages/country/[countryId]/index.tsx:167
 #: src/pages/user/[userId]/index.tsx:123
@@ -6470,7 +6490,7 @@ msgstr "Meow"
 msgid "Ranks"
 msgstr "Meow"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:171
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:175
 msgid "Rate"
 msgstr "Meow"
 
@@ -6482,35 +6502,35 @@ msgstr "Meow meow 1K meow"
 msgid "Raw materials:"
 msgstr "Meow meow:"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:394
+#: src/components/_user/mission/mission.frontConfig.tsx:405
 msgid "Reach level 10"
 msgstr "Meow meow 10"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:393
+#: src/components/_user/mission/mission.frontConfig.tsx:404
 msgid "Reach Level 10"
 msgstr "Meow Meow 10"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:389
+#: src/components/_user/mission/mission.frontConfig.tsx:400
 msgid "Reach level 5"
 msgstr "Meow meow 5"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:388
+#: src/components/_user/mission/mission.frontConfig.tsx:399
 msgid "Reach Level 5"
 msgstr "Meow Meow 5"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:425
+#: src/components/_user/mission/mission.frontConfig.tsx:436
 msgid "Reach military rank 10"
 msgstr "Meow meow meow 10"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:424
+#: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "Reach Military Rank 10"
 msgstr "Meow Meow Meow 10"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:420
+#: src/components/_user/mission/mission.frontConfig.tsx:431
 msgid "Reach military rank 5"
 msgstr "Meow meow meow 5"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:419
+#: src/components/_user/mission/mission.frontConfig.tsx:430
 msgid "Reach Military Rank 5"
 msgstr "Meow Meow Meow 5"
 
@@ -6519,11 +6539,11 @@ msgstr "Meow Meow Meow 5"
 msgid "Reaching level {0} will give you <0>{nextLevelSkillPoints} Skill Points</0>."
 msgstr "Meow meow {0} meow meow meow <0>{nextLevelSkillPoints} Meow Meow</0>."
 
-#: src/components/_user/mission/mission.frontConfig.tsx:343
+#: src/components/_user/mission/mission.frontConfig.tsx:354
 msgid "Read <0>{count}</0> articles"
 msgstr "Meow <0>{count}</0> meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:341
+#: src/components/_user/mission/mission.frontConfig.tsx:352
 msgid "Read Article"
 msgstr "Meow Meow"
 
@@ -6605,7 +6625,8 @@ msgstr "Meow meow..."
 #. placeholder {0}: staticGameConfig.items.bread.flatStats?.healthRegenPercent
 #. placeholder {0}: staticGameConfig.items.cookedFish.flatStats?.healthRegenPercent
 #. placeholder {0}: staticGameConfig.items.steak.flatStats?.healthRegenPercent
-#: src/utils/translations.tsx:45 src/utils/translations.tsx:61
+#: src/utils/translations.tsx:45
+#: src/utils/translations.tsx:61
 #: src/utils/translations.tsx:74
 msgid "Regens <0>{0}</0> when consumed"
 msgstr "Meow <0>{0}</0> meow meow"
@@ -6713,7 +6734,8 @@ msgstr "Meow meow meow meow meow meow meow."
 msgid "Remove a member from the party council"
 msgstr "Meow meow meow meow meow meow meow"
 
-#: src/pages/market/index.tsx:178 src/pages/market/index.tsx:240
+#: src/pages/market/index.tsx:178
+#: src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr "Meow meow"
 
@@ -6829,11 +6851,11 @@ msgstr "Meow Meow Meow"
 msgid "Requests:"
 msgstr "Meow:"
 
-#: src/components/_user/mission/MissionItem.tsx:114
+#: src/components/_user/mission/MissionItem.tsx:104
 msgid "Reroll Mission"
 msgstr "Meow Meow"
 
-#: src/pages/user/[userId]/skills.tsx:166
+#: src/pages/user/[userId]/skills.tsx:167
 msgid "Reset"
 msgstr "Meow"
 
@@ -6857,7 +6879,7 @@ msgstr "Meow Meow"
 msgid "Reshuffle in"
 msgstr "Meow meow"
 
-#: src/components/_military/hit/HitButton.tsx:464
+#: src/components/_military/hit/HitButton.tsx:465
 msgid "Resist"
 msgstr "Meow"
 
@@ -6948,7 +6970,7 @@ msgstr "Meow"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:217
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:221
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
 msgstr "Meow {0}"
@@ -7001,7 +7023,7 @@ msgstr "Meow meow"
 msgid "Rounds Won"
 msgstr "Meow Meow"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:161
+#: src/components/_layout/LayoutLeftIcons.tsx:169
 #: src/components/_user/auth/WelcomeModal.tsx:170
 msgid "Rules"
 msgstr "Meow"
@@ -7016,7 +7038,7 @@ msgstr "Meow meow meow meow?"
 
 #: src/components/_political/party/PartyDescriptionModal.tsx:72
 #: src/components/_user/auth/WelcomeModal.tsx:182
-#: src/pages/user/[userId]/skills.tsx:210
+#: src/pages/user/[userId]/skills.tsx:211
 msgid "Save"
 msgstr "Meow"
 
@@ -7076,7 +7098,7 @@ msgstr "Meow meow meow"
 msgid "Select a region"
 msgstr "Meow meow meow"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:245
+#: src/components/_economy/inventory/DismantleModal.tsx:247
 msgid "Select all"
 msgstr "Meow meow"
 
@@ -7107,11 +7129,11 @@ msgid "Select skin"
 msgstr "Meow meow"
 
 #: src/components/_economy/work/WorkChart.tsx:224
-#: src/components/_user/mission/mission.frontConfig.tsx:62
+#: src/components/_user/mission/mission.frontConfig.tsx:73
 msgid "Self Work"
 msgstr "Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:64
+#: src/components/_user/mission/mission.frontConfig.tsx:75
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Meow meow <0>{count}</0> meow meow meow meow"
 
@@ -7119,7 +7141,7 @@ msgstr "Meow meow <0>{count}</0> meow meow meow meow"
 msgid "Sell company?"
 msgstr "Meow meow?"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:198
+#: src/components/_user/mission/mission.frontConfig.tsx:209
 msgid "Sell for <0>{count}</0> money on market"
 msgstr "Meow meow <0>{count}</0> meow meow meow"
 
@@ -7127,7 +7149,7 @@ msgstr "Meow meow <0>{count}</0> meow meow meow"
 msgid "Sell it, you need to buy more cases to gamble!"
 msgstr "Meow meow, meow meow meow meow meow meow meow meow!"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:196
+#: src/components/_user/mission/mission.frontConfig.tsx:207
 msgid "Sell Items"
 msgstr "Meow Meow"
 
@@ -7148,7 +7170,7 @@ msgstr "meow"
 msgid "Send <0/> to <1/>"
 msgstr "Meow <0/> meow <1/>"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:375
+#: src/components/_user/mission/mission.frontConfig.tsx:386
 msgid "Send <0>{count}</0> messages"
 msgstr "Meow <0>{count}</0> meow"
 
@@ -7160,15 +7182,15 @@ msgstr "Meow meow meow"
 msgid "Send a message to complete the tutorial. Welcome to the community!"
 msgstr "Meow meow meow meow meow meow meow. Meow meow meow meow!"
 
-#: src/components/_user/modals/PhoneVerificationModal.tsx:135
+#: src/components/_user/modals/PhoneVerificationModal.tsx:140
 msgid "Send Code"
 msgstr "Meow Meow"
 
-#: src/components/_other/shop/SkinPackModal.tsx:300
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "Send Gift"
 msgstr "Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:373
+#: src/components/_user/mission/mission.frontConfig.tsx:384
 msgid "Send Message"
 msgstr "Meow Meow"
 
@@ -7224,7 +7246,7 @@ msgstr "Meow meow"
 msgid "Set party ethics"
 msgstr "Meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:413
+#: src/components/_user/mission/mission.frontConfig.tsx:424
 msgid "Set Profile Picture"
 msgstr "Meow Meow Meow"
 
@@ -7242,7 +7264,7 @@ msgstr "Meow meow meow'meow meow meow meow <0>{0}</0>.<1/>Meow meow meow meow <2
 msgid "Set the country's specialized production item"
 msgstr "Meow meow meow'meow meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:407
+#: src/components/_user/mission/mission.frontConfig.tsx:418
 msgid "Set Username"
 msgstr "Meow Meow"
 
@@ -7251,11 +7273,11 @@ msgstr "Meow Meow"
 msgid "Set welcome article"
 msgstr "Meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:414
+#: src/components/_user/mission/mission.frontConfig.tsx:425
 msgid "Set your profile picture"
 msgstr "Meow meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:408
+#: src/components/_user/mission/mission.frontConfig.tsx:419
 msgid "Set your username"
 msgstr "Meow meow meow"
 
@@ -7264,8 +7286,8 @@ msgstr "Meow meow meow"
 msgid "Settings"
 msgstr "Meow"
 
-#: src/components/_layout/LayoutRightIcons.tsx:187
-#: src/components/_layout/MoreButtonNav.tsx:73
+#: src/components/_layout/LayoutRightIcons.tsx:186
+#: src/components/_layout/MoreButtonNav.tsx:75
 #: src/components/_other/shop/ShopHeader.tsx:52
 msgid "Shop"
 msgstr "Meow"
@@ -7276,7 +7298,7 @@ msgid "Show {0} more ({remaining} remaining)"
 msgstr "Meow {0} meow ({remaining} meow)"
 
 #. placeholder {0}: auction.bids.length
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:277
 msgid "Show all {0} bids"
 msgstr "Meow meow {0} meow"
 
@@ -7331,7 +7353,7 @@ msgstr "Meow"
 msgid "Skills make you stronger. Let's boost your abilities!"
 msgstr "Meow meow meow meow. Meow'meow meow meow meow!"
 
-#: src/pages/user/[userId]/skills.tsx:55
+#: src/pages/user/[userId]/skills.tsx:56
 msgid "Skills saved!"
 msgstr "Meow meow!"
 
@@ -7360,6 +7382,7 @@ msgid "Skin Reward"
 msgstr "Meow Meow"
 
 #: src/components/_other/shop/ShopHeader.tsx:22
+#: src/pages/shop/index.tsx:145
 #: src/pages/user/[userId]/index.tsx:93
 msgid "Skins"
 msgstr "Meow"
@@ -7384,11 +7407,11 @@ msgstr "Meow"
 msgid "Social & Messages"
 msgstr "Meow & Meow"
 
-#: src/components/_economy/company/CompanyList.tsx:79
+#: src/components/_economy/company/CompanyList.tsx:80
 msgid "Some of your companies are disabled."
 msgstr "Meow meow meow meow meow meow."
 
-#: src/components/_layout/LayoutOptions.tsx:157
+#: src/components/_layout/LayoutOptions.tsx:159
 msgid "Sound effects"
 msgstr "Meow meow"
 
@@ -7473,7 +7496,7 @@ msgstr "Meow <0/>"
 msgid "Started<0/><1/>"
 msgstr "Meow<0/><1/>"
 
-#: src/components/_user/mission/MissionsList.tsx:215
+#: src/components/_user/mission/MissionsList.tsx:205
 msgid "Starting"
 msgstr "Meow"
 
@@ -7568,7 +7591,7 @@ msgstr "Meow Meow"
 msgid "Support the game"
 msgstr "Meow meow meow"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:207
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "Support the game and quickly dismantle items!"
 msgstr "Meow meow meow meow meow meow meow!"
 
@@ -7687,7 +7710,8 @@ msgstr "Meow"
 msgid "Terminated"
 msgstr "Meow"
 
-#: src/pages/index.tsx:138 src/pages/rules.tsx:32
+#: src/pages/index.tsx:138
+#: src/pages/rules.tsx:32
 msgid "Terms"
 msgstr "Meow"
 
@@ -7695,7 +7719,7 @@ msgstr "Meow"
 msgid "Terms of Service"
 msgstr "Meow meow Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:265
+#: src/components/_layout/LayoutOptions.tsx:275
 msgid "Texture"
 msgstr "Meow"
 
@@ -7787,7 +7811,7 @@ msgstr "Meow meow meow meow meow meow"
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
 msgstr ""
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:135
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:139
 msgid "This action will submit your MU bid for this contract."
 msgstr "Meow meow meow meow meow Meow meow meow meow meow."
 
@@ -7856,7 +7880,7 @@ msgstr "Meow meow meow"
 msgid "This user is not part of any family group"
 msgstr "Meow meow meow meow meow meow meow meow meow"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:223
+#: src/components/_economy/inventory/ConsumeItems.tsx:234
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "Meow meow meow meow meow meow meow {cocainBuffHours} meow meow meow meow meow meow {cocainDebuffHours} meow"
 
@@ -7932,11 +7956,11 @@ msgstr "Meow Meow Meow"
 msgid "Tiny Pixel Tank"
 msgstr "Meow Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:301
+#: src/components/_user/mission/mission.frontConfig.tsx:312
 msgid "Tip <0>{count}</0> articles"
 msgstr "Meow <0>{count}</0> meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:299
+#: src/components/_user/mission/mission.frontConfig.tsx:310
 msgid "Tip Article"
 msgstr "Meow Meow"
 
@@ -8001,7 +8025,7 @@ msgstr "Meow Meow"
 msgid "Top eligible offer:"
 msgstr "Meow meow meow:"
 
-#: src/pages/shop/index.tsx:85
+#: src/pages/shop/index.tsx:87
 msgid "Top gift givers of the month"
 msgstr "Meow meow meow meow meow meow"
 
@@ -8022,12 +8046,13 @@ msgstr "meow"
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/alliance/[allianceId]/index.tsx:59 src/pages/market/index.tsx:139
+#: src/pages/alliance/[allianceId]/index.tsx:59
+#: src/pages/market/index.tsx:139
 #: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "Meow"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:482
 msgid "Total cases opened"
 msgstr "Meow meow meow"
 
@@ -8113,7 +8138,8 @@ msgid "Transac."
 msgstr "Meow."
 
 #: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:83 src/pages/user/[userId]/index.tsx:230
+#: src/pages/market/index.tsx:83
+#: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "Meow"
 
@@ -8158,7 +8184,7 @@ msgstr "Meow meow meow meow"
 msgid "Tyrannosaurus Rex"
 msgstr "Meow Meow"
 
-#: src/components/_layout/LayoutOptions.tsx:146
+#: src/components/_layout/LayoutOptions.tsx:148
 msgid "UI"
 msgstr "Meow"
 
@@ -8196,13 +8222,13 @@ msgstr "Meow"
 msgid "Unlinked to capital"
 msgstr "Meow meow meow"
 
-#: src/components/_other/shop/SkinPackModal.tsx:307
+#: src/components/_other/shop/SkinPackModal.tsx:292
 msgid "Unlock"
 msgstr "Meow"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:302
+#: src/components/_other/shop/SkinPackModal.tsx:287
 msgid "Unlock {0} skin{1}"
 msgstr "Meow {0} meow{1}"
 
@@ -8238,7 +8264,7 @@ msgstr "Meow"
 msgid "Unrest Contributors"
 msgstr "Meow Meow"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:245
+#: src/components/_economy/inventory/DismantleModal.tsx:247
 msgid "Unselect all"
 msgstr "Meow meow"
 
@@ -8251,7 +8277,7 @@ msgstr "Meow meow meow meow meow"
 msgid "Upcoming Tournament"
 msgstr "Meow Meow"
 
-#: src/components/_user/user/UserForm.tsx:52
+#: src/components/_user/user/UserForm.tsx:53
 msgid "Update"
 msgstr "Meow"
 
@@ -8263,27 +8289,27 @@ msgstr "Meow meow"
 msgid "Update worker"
 msgstr "Meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:383
+#: src/components/_user/mission/mission.frontConfig.tsx:394
 msgid "Upgrade a company"
 msgstr "Meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:382
+#: src/components/_user/mission/mission.frontConfig.tsx:393
 msgid "Upgrade Company"
 msgstr "Meow Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:451
+#: src/components/_user/mission/mission.frontConfig.tsx:462
 msgid "Upgrade Skills"
 msgstr "Meow Meow"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:203
+#: src/components/_economy/inventory/DismantleModal.tsx:205
 msgid "Upgrade to supporter"
 msgstr "Meow meow meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:453
+#: src/components/_user/mission/mission.frontConfig.tsx:464
 msgid "Upgrade your skills <0>{count}</0> times"
 msgstr "Meow meow meow <0>{count}</0> meow"
 
-#: src/pages/user/[userId]/skills.tsx:148
+#: src/pages/user/[userId]/skills.tsx:149
 msgid "Upgrade your skills!"
 msgstr "Meow meow meow!"
 
@@ -8300,7 +8326,8 @@ msgstr "Meow meow <0>Meow</0> meow meow meow meow meow meow meow meow meow meow 
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr "Meow meow <0>Meow</0> meow meow meow meow meow meow <1>Meow</1>. Meow meow meow meow meow!"
 
-#: src/utils/translations.tsx:94 src/utils/translations.tsx:100
+#: src/utils/translations.tsx:94
+#: src/utils/translations.tsx:100
 #: src/utils/translations.tsx:105
 msgid "Used for shooting guns. Increases your <0>Attack</0>"
 msgstr "Meow meow meow meow. Meow meow <0>Meow</0>"
@@ -8369,7 +8396,7 @@ msgstr "meow"
 msgid "User & Progression"
 msgstr "Meow & Meow"
 
-#: src/components/_other/shop/SkinPackModal.tsx:283
+#: src/components/_other/shop/SkinPackModal.tsx:268
 msgid "User already owns all skins"
 msgstr "Meow meow meow meow meow"
 
@@ -8391,8 +8418,8 @@ msgstr "Meow meow"
 
 #: src/components/_political/government/NominateForm.tsx:50
 #: src/components/_user/auth/WelcomeModal.tsx:163
-#: src/components/_user/user/UserForm.tsx:45
 #: src/components/_user/user/UserForm.tsx:46
+#: src/components/_user/user/UserForm.tsx:47
 #: src/pages/user/[userId]/referrals.tsx:147
 msgid "Username"
 msgstr "Meow"
@@ -8494,7 +8521,7 @@ msgid "Verification code sent!"
 msgstr "Meow meow meow!"
 
 #: src/components/_user/auth/LoginFormModal.tsx:149
-#: src/components/_user/modals/PhoneVerificationModal.tsx:181
+#: src/components/_user/modals/PhoneVerificationModal.tsx:186
 msgid "Verify"
 msgstr "Meow"
 
@@ -8614,7 +8641,7 @@ msgid "Weapons"
 msgstr "Meow"
 
 #: src/components/_military/mu/MuMemberList.tsx:192
-#: src/components/_user/mission/MissionsList.tsx:203
+#: src/components/_user/mission/MissionsList.tsx:193
 msgid "Weekly"
 msgstr "Meow"
 
@@ -8710,12 +8737,12 @@ msgstr "Meow Meow Meow"
 msgid "Woolly Mammoth"
 msgstr "Meow Meow"
 
-#: src/components/_economy/company/WorkButton.tsx:244
-#: src/components/_user/mission/mission.frontConfig.tsx:76
+#: src/components/_economy/company/WorkButton.tsx:245
+#: src/components/_user/mission/mission.frontConfig.tsx:87
 msgid "Work"
 msgstr "Meow"
 
-#: src/components/_user/mission/mission.frontConfig.tsx:78
+#: src/components/_user/mission/mission.frontConfig.tsx:89
 msgid "Work <0>{count}</0> times for an employer"
 msgstr "Meow <0>{count}</0> meow meow meow meow"
 
@@ -8748,7 +8775,11 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow meow."
 msgid "World <0/>"
 msgstr "Meow <0/>"
 
-#: src/components/_layout/LayoutOptions.tsx:207
+#: src/components/_other/shop/skin.frontConfig.tsx:359
+msgid "World Cup Ball"
+msgstr ""
+
+#: src/components/_layout/LayoutOptions.tsx:217
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr "Meow"
@@ -8803,7 +8834,8 @@ msgstr "Meow meow meow meow meow meow meow. Meow meow."
 msgid "You are already vice president of another country. Resign first."
 msgstr "Meow meow meow meow meow meow meow meow. Meow meow."
 
-#: src/pages/companies.tsx:45 src/pages/user/[userId]/companies.tsx:64
+#: src/pages/companies.tsx:45
+#: src/pages/user/[userId]/companies.tsx:64
 msgid "You are jobless"
 msgstr "Meow meow meow"
 
@@ -8844,7 +8876,7 @@ msgstr "Meow meow meow meow"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Meow meow 10 meow meow meow meow (>= meow {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:209
+#: src/components/_economy/inventory/DismantleModal.tsx:211
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Meow meow meow meow meow meow meow meow meow meow meow."
 
@@ -9255,7 +9287,7 @@ msgstr "Meow meow meow meow"
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
 msgstr "Meow meow <0/> meow meow meow meow meow meow meow. Meow meow meow meow meow (1 meow meow)"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:230
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "Meow Meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow, meow meow meow meow meow meow."
 
