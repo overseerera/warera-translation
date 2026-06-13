@@ -300,7 +300,7 @@ msgstr "<0/> ti јe poklonio skin \"{skinTitle}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1816
 msgid "<0/> gifted you the skin pack \"{skinPackTitle}\"!"
-msgstr ""
+msgstr "<0/> ti je poklonio skin paket \"{skinPackTitle}\"!"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:227
 msgid "<0/> got fee back"
@@ -2360,7 +2360,7 @@ msgstr "Promijeni boju u <0>{0}</0>"
 
 #: src/components/_military/mu/MuSettings.tsx:89
 msgid "Change nationality"
-msgstr ""
+msgstr "Promijeni nacionalnost"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:67
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:82
@@ -2534,7 +2534,7 @@ msgstr "Šema boјa"
 
 #: src/components/_layout/LayoutOptions.tsx:167
 msgid "Colorblind mode"
-msgstr ""
+msgstr "Način rada za daltoniste"
 
 #: src/components/_military/mu/MuMemberList.tsx:327
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:155
@@ -2977,7 +2977,7 @@ msgstr "Trenutna Voјna Jedinica"
 
 #: src/components/_military/mu/MuSettings.tsx:63
 msgid "Current nationality"
-msgstr ""
+msgstr "Trenutna nacionalnost"
 
 #: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
@@ -5233,7 +5233,7 @@ msgstr "Ministar Vanjskih Poslova"
 
 #: src/components/_layout/LayoutOptions.tsx:175
 msgid "Mission tags"
-msgstr ""
+msgstr "Oznake misija"
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -5429,7 +5429,7 @@ msgstr "Državna nagrada"
 
 #: src/components/_military/mu/MuSettings.tsx:31
 msgid "Nationality updated"
-msgstr ""
+msgstr "Nacionalnost promijenjena"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:56
 msgid "Need a job?"
@@ -5521,7 +5521,7 @@ msgstr "Novo ime"
 
 #: src/components/_military/mu/MuSettings.tsx:76
 msgid "New nationality"
-msgstr ""
+msgstr "Nova nacionalnost"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "New Party Application"
@@ -5761,7 +5761,7 @@ msgstr "Nominiraj"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:100
 msgid "Nominate <0/> as leader"
-msgstr "Nominiraj <0/> za lidera"
+msgstr "Imenuj <0/> liderom saveza"
 
 #: src/components/_political/government/Government.tsx:282
 msgid "Nominate a {title}"
@@ -5769,12 +5769,12 @@ msgstr "Nominiraj {title}"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:93
 msgid "Nominate a citizen of a member country as the alliance leader."
-msgstr "Nominiraj građana države članice kao lidera saveza"
+msgstr "Imenuj građana države članice liderom saveza"
 
 #: src/components/_political/alliance/alliance.frontConfig.tsx:17
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:91
 msgid "Nominate leader"
-msgstr "Nominiraj lidera"
+msgstr "Imenuj lidera"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1994
 msgid "Nominated at government"
@@ -5807,7 +5807,7 @@ msgstr "Nije ni u jednom savezu"
 
 #: src/components/_military/mu/MuSettings.tsx:69
 msgid "Not set"
-msgstr ""
+msgstr "Nije postavljeno"
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:79
@@ -5881,7 +5881,7 @@ msgstr "Samo podržavaoci mogu vidjeti pregled njihove zarade i potrošnje."
 
 #: src/components/_military/mu/MuSettings.tsx:104
 msgid "Only the owner and commanders can change the nationality."
-msgstr ""
+msgstr "Samo vlasnik ili zapovjednik mogu mijenjati nacionalnost vojne jedinice."
 
 #: src/components/_political/party/party.frontConfig.tsx:264
 msgid "Only your core regions generate development income."
@@ -7121,7 +7121,7 @@ msgstr "Pregledajte listu svoјih troškova i prihoda"
 
 #: src/components/_military/mu/MuSettings.tsx:79
 msgid "Select a country"
-msgstr ""
+msgstr "Izaberi državu"
 
 #: src/components/_military/mu/MuFormModal.tsx:114
 msgid "Select a location"
@@ -8810,7 +8810,7 @@ msgstr "Globalni razvoj: <0/>"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:359
 msgid "World Cup Ball"
-msgstr ""
+msgstr "World Cup Lopta"
 
 #: src/components/_layout/LayoutOptions.tsx:222
 #: src/components/_user/kits/KitsPopover.tsx:259
@@ -9097,7 +9097,7 @@ msgstr "Uspješno si poklonio premium pretplatu korisniku <0/>!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1781
 msgid "You successfully gifted the skin pack \"{skinPackTitle}\" to <0/>!"
-msgstr ""
+msgstr "Uspješno si poklonio \"{skinPackTitle}\" <0/>!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:130
 msgid "You survived the big reset"
@@ -9318,7 +9318,7 @@ msgstr "Ime tvoјe voјne јedinice"
 
 #: src/components/_military/mu/MuSettings.tsx:55
 msgid "Your military unit nationality is the country it represents. Changing it costs concrete and can only be done once every {cooldownDays} days."
-msgstr ""
+msgstr "Nacionalnost definira državu koju vojna jedinica predstavlja. Promjena je moguća jednom, svakih {cooldownDays} dana."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
