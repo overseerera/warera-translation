@@ -788,7 +788,7 @@ msgstr "<0>Fiecare <1/> daune totale adaugă o <2>{0}</2> la prada luptei.</0><3
 #. placeholder {0}: 1
 #. placeholder {1}: worker.fidelity
 #. placeholder {2}: 10
-#: src/components/_user/worker/WorkerItem.tsx:121
+#: src/components/_user/worker/WorkerItem.tsx:122
 msgid "<0>Everyday passed working for same employer, the fidelity bonus increases by <1>{0}</1>.</0><2>It increase by <3>{1}</3> the production bonus until <4>{2}</4>.</2><5>This bonus is applied after work. So it is not counted in wage.</5>"
 msgstr "<0>În fiecare zi lucrată pentru același angajator, bonusul de fidelitate crește cu <1>{0}</1>.</0><2>Crește bonusul de producție cu <3>{1}</3> până la <4>{2}</4>.</2><5>Acest bonus se aplică după muncă, deci nu este inclus în salariu.</5>"
 
@@ -1547,7 +1547,7 @@ msgstr "Aproape gata..."
 msgid "Alpha Tester"
 msgstr "Alpha Tester"
 
-#: src/components/_user/UserEquipments.tsx:130
+#: src/components/_user/UserEquipments.tsx:144
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Muniție"
@@ -1659,7 +1659,7 @@ msgstr "Aprobat"
 msgid "Arcane Boots"
 msgstr ""
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:231
+#: src/components/_economy/inventory/ConsumeItems.tsx:243
 msgid "Are you sure you want to consume pill?"
 msgstr ""
 
@@ -1865,7 +1865,7 @@ msgstr ""
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Generează automat <0>Puncte de Producție</0> de-a lungul timpului, fără să lucrezi."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:288
+#: src/components/_economy/inventory/ConsumeItems.tsx:300
 msgid "Autobuy when empty"
 msgstr ""
 
@@ -2098,7 +2098,7 @@ msgstr "Daune bonus"
 msgid "Boost your production!"
 msgstr "Îmbunătățește-ți producția!"
 
-#: src/components/_user/UserEquipments.tsx:200
+#: src/components/_user/UserEquipments.tsx:215
 #: src/utils/translations.tsx:202
 msgid "Boots"
 msgstr "Cizme"
@@ -2406,7 +2406,7 @@ msgstr "Schimbă taxa {0} la"
 msgid "Check your loot!"
 msgstr "Vezi ce ai primit!"
 
-#: src/components/_user/UserEquipments.tsx:166
+#: src/components/_user/UserEquipments.tsx:181
 #: src/utils/translations.tsx:193
 msgid "Chest"
 msgstr "Vestă"
@@ -2489,7 +2489,7 @@ msgstr "Apasă pe conversația țării tale pentru a discuta cu alți cetățeni
 msgid "Click to apply and start earning money right away."
 msgstr "Apasă să aplici și începe să câștigi bani."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:175
+#: src/components/_economy/inventory/ConsumeItems.tsx:187
 msgid "Click to consume."
 msgstr ""
 
@@ -2711,7 +2711,7 @@ msgstr "Cuceritor"
 msgid "Consider giving it to your local moderator"
 msgstr "Consideră să-l dăruiești moderatorului tău local"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:172
+#: src/components/_economy/inventory/ConsumeItems.tsx:184
 msgid "Consume items"
 msgstr ""
 
@@ -3815,7 +3815,7 @@ msgstr "Taxă"
 msgid "Feed"
 msgstr "Feed"
 
-#: src/components/_user/worker/WorkerItem.tsx:119
+#: src/components/_user/worker/WorkerItem.tsx:120
 msgid "Fidelity Bonus"
 msgstr "Bonus de fidelitate"
 
@@ -4073,7 +4073,7 @@ msgstr "Oferă <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Glob (experimental)"
 
-#: src/components/_user/UserEquipments.tsx:217
+#: src/components/_user/UserEquipments.tsx:232
 #: src/utils/translations.tsx:211
 msgid "Gloves"
 msgstr "Mănuși"
@@ -4284,7 +4284,7 @@ msgstr "Viață"
 msgid "Heavy Ammo"
 msgstr "Muniție grea"
 
-#: src/components/_user/UserEquipments.tsx:151
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:184
 msgid "Helmet"
 msgstr "Cască"
@@ -4601,7 +4601,7 @@ msgstr "Alătură-te chat-ului țării tale!"
 msgid "Joinable"
 msgstr ""
 
-#: src/components/_user/worker/WorkerItem.tsx:159
+#: src/components/_user/worker/WorkerItem.tsx:160
 msgid "Joined"
 msgstr "S-a alăturat"
 
@@ -4658,7 +4658,7 @@ msgstr ""
 msgid "Knife"
 msgstr "Cuțit"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:154
 msgid "Knives do not accept ammo"
 msgstr "Cuțitele nu acceptă muniție"
 
@@ -6036,7 +6036,7 @@ msgstr ""
 msgid "Packs"
 msgstr "Pachete"
 
-#: src/components/_user/UserEquipments.tsx:183
+#: src/components/_user/UserEquipments.tsx:198
 #: src/utils/translations.tsx:220
 msgid "Pants"
 msgstr "Pantaloni"
@@ -7916,7 +7916,7 @@ msgstr "Doar runda curentă"
 msgid "This user is not part of any family group"
 msgstr "Acest utilizator nu face parte din niciun grup de familie"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:232
+#: src/components/_economy/inventory/ConsumeItems.tsx:244
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
@@ -8224,7 +8224,7 @@ msgstr ""
 msgid "Unblock (show content)"
 msgstr "Deblochează (arată conținut)"
 
-#: src/components/_user/UserEquipments.tsx:103
+#: src/components/_user/UserEquipments.tsx:117
 msgid "Unequip all"
 msgstr "Dezechipează tot"
 
@@ -8668,7 +8668,7 @@ msgid "Wealth"
 msgstr "Avere"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:49
-#: src/components/_user/UserEquipments.tsx:120
+#: src/components/_user/UserEquipments.tsx:134
 msgid "Weapon"
 msgstr "Armă"
 
@@ -9058,7 +9058,7 @@ msgstr "Trebuie să fii pe web pentru a te abona"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Trebuie să consumi toate cele 3 puncte (mai ai {pointsRemaining})"
 
-#: src/components/_user/UserEquipments.tsx:141
+#: src/components/_user/UserEquipments.tsx:156
 msgid "You need to equip a weapon first"
 msgstr "Echipează întâi o armă"
 

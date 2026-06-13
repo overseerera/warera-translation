@@ -790,7 +790,7 @@ msgstr "<0>Varje <1/> total skada som delas ut av båda sidor lägger till en <2
 #. placeholder {0}: 1
 #. placeholder {1}: worker.fidelity
 #. placeholder {2}: 10
-#: src/components/_user/worker/WorkerItem.tsx:121
+#: src/components/_user/worker/WorkerItem.tsx:122
 msgid "<0>Everyday passed working for same employer, the fidelity bonus increases by <1>{0}</1>.</0><2>It increase by <3>{1}</3> the production bonus until <4>{2}</4>.</2><5>This bonus is applied after work. So it is not counted in wage.</5>"
 msgstr "<0>För varje dag hos samma arbetsgivare ökar trohetsbonusen med <1>{0}</1>.</0><2>Detta ökar produktionsbonusen med <3>{1}</3> upp till <4>{2}</4>.</2><5>Bonusen tillämpas efter arbetet och räknas inte in i grundlönen.</5>"
 
@@ -1549,7 +1549,7 @@ msgstr "Nästan klar..."
 msgid "Alpha Tester"
 msgstr "Alfatestare"
 
-#: src/components/_user/UserEquipments.tsx:130
+#: src/components/_user/UserEquipments.tsx:144
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Ammunition"
@@ -1661,7 +1661,7 @@ msgstr "Beviljad"
 msgid "Arcane Boots"
 msgstr "Magiska Kängor"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:231
+#: src/components/_economy/inventory/ConsumeItems.tsx:243
 msgid "Are you sure you want to consume pill?"
 msgstr ""
 
@@ -1867,7 +1867,7 @@ msgstr ""
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Genererar <0>produktionspoäng</0> automatiskt över tid, utan behov av manuellt arbete."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:288
+#: src/components/_economy/inventory/ConsumeItems.tsx:300
 msgid "Autobuy when empty"
 msgstr ""
 
@@ -2100,7 +2100,7 @@ msgstr "Bonusskada"
 msgid "Boost your production!"
 msgstr "Öka din produktion!"
 
-#: src/components/_user/UserEquipments.tsx:200
+#: src/components/_user/UserEquipments.tsx:215
 #: src/utils/translations.tsx:202
 msgid "Boots"
 msgstr "Kängor"
@@ -2408,7 +2408,7 @@ msgstr "Ändra skatten för {0} till"
 msgid "Check your loot!"
 msgstr "Inventera krigsbytet!"
 
-#: src/components/_user/UserEquipments.tsx:166
+#: src/components/_user/UserEquipments.tsx:181
 #: src/utils/translations.tsx:193
 msgid "Chest"
 msgstr "Kroppsskydd"
@@ -2491,7 +2491,7 @@ msgstr "Klicka på ditt lands konversation för att kommunicera med andra medbor
 msgid "Click to apply and start earning money right away."
 msgstr "Klicka för att söka tjänsten och börja tjäna valuta omedelbart."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:175
+#: src/components/_economy/inventory/ConsumeItems.tsx:187
 msgid "Click to consume."
 msgstr ""
 
@@ -2713,7 +2713,7 @@ msgstr "Erövrare"
 msgid "Consider giving it to your local moderator"
 msgstr "Överväg att skänka det till din lokala moderator"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:172
+#: src/components/_economy/inventory/ConsumeItems.tsx:184
 msgid "Consume items"
 msgstr ""
 
@@ -3817,7 +3817,7 @@ msgstr "Avgift"
 msgid "Feed"
 msgstr "Flöde"
 
-#: src/components/_user/worker/WorkerItem.tsx:119
+#: src/components/_user/worker/WorkerItem.tsx:120
 msgid "Fidelity Bonus"
 msgstr "Trohetsbonus"
 
@@ -4075,7 +4075,7 @@ msgstr "Ger <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Jordglobskarta (experimentell)"
 
-#: src/components/_user/UserEquipments.tsx:217
+#: src/components/_user/UserEquipments.tsx:232
 #: src/utils/translations.tsx:211
 msgid "Gloves"
 msgstr "Handskar"
@@ -4286,7 +4286,7 @@ msgstr "Hälsa"
 msgid "Heavy Ammo"
 msgstr "Tung ammunition"
 
-#: src/components/_user/UserEquipments.tsx:151
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:184
 msgid "Helmet"
 msgstr "Hjälm"
@@ -4603,7 +4603,7 @@ msgstr "Gå med i ditt lands chatt!"
 msgid "Joinable"
 msgstr ""
 
-#: src/components/_user/worker/WorkerItem.tsx:159
+#: src/components/_user/worker/WorkerItem.tsx:160
 msgid "Joined"
 msgstr "Gick med"
 
@@ -4660,7 +4660,7 @@ msgstr ""
 msgid "Knife"
 msgstr "Morakniv 2000"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:154
 msgid "Knives do not accept ammo"
 msgstr "Knivar kan inte laddas med ammunition"
 
@@ -6038,7 +6038,7 @@ msgstr ""
 msgid "Packs"
 msgstr "Paket"
 
-#: src/components/_user/UserEquipments.tsx:183
+#: src/components/_user/UserEquipments.tsx:198
 #: src/utils/translations.tsx:220
 msgid "Pants"
 msgstr "Byxor"
@@ -7918,7 +7918,7 @@ msgstr "Endast denna rond"
 msgid "This user is not part of any family group"
 msgstr "Denna användare ingår inte i någon familjegrupp"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:232
+#: src/components/_economy/inventory/ConsumeItems.tsx:244
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
@@ -8226,7 +8226,7 @@ msgstr ""
 msgid "Unblock (show content)"
 msgstr "Avblockera (visa innehåll)"
 
-#: src/components/_user/UserEquipments.tsx:103
+#: src/components/_user/UserEquipments.tsx:117
 msgid "Unequip all"
 msgstr "Ta av allt"
 
@@ -8670,7 +8670,7 @@ msgid "Wealth"
 msgstr "Förmögenhet"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:49
-#: src/components/_user/UserEquipments.tsx:120
+#: src/components/_user/UserEquipments.tsx:134
 msgid "Weapon"
 msgstr "Vapen"
 
@@ -9060,7 +9060,7 @@ msgstr "Du måste använda webbversionen för att prenumerera"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Du måste spendera alla 3 ideologipoäng ({pointsRemaining} återstår)."
 
-#: src/components/_user/UserEquipments.tsx:141
+#: src/components/_user/UserEquipments.tsx:156
 msgid "You need to equip a weapon first"
 msgstr "Du måste utrusta ett vapen först"
 

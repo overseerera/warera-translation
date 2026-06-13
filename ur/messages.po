@@ -790,7 +790,7 @@ msgstr ""
 #. placeholder {0}: 1
 #. placeholder {1}: worker.fidelity
 #. placeholder {2}: 10
-#: src/components/_user/worker/WorkerItem.tsx:121
+#: src/components/_user/worker/WorkerItem.tsx:122
 msgid "<0>Everyday passed working for same employer, the fidelity bonus increases by <1>{0}</1>.</0><2>It increase by <3>{1}</3> the production bonus until <4>{2}</4>.</2><5>This bonus is applied after work. So it is not counted in wage.</5>"
 msgstr ""
 
@@ -1549,7 +1549,7 @@ msgstr "تقریبآ تیار۔۔۔"
 msgid "Alpha Tester"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:130
+#: src/components/_user/UserEquipments.tsx:144
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "گولہ بارود"
@@ -1661,7 +1661,7 @@ msgstr ""
 msgid "Arcane Boots"
 msgstr "Arcane Boots"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:231
+#: src/components/_economy/inventory/ConsumeItems.tsx:243
 msgid "Are you sure you want to consume pill?"
 msgstr ""
 
@@ -1867,7 +1867,7 @@ msgstr ""
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Auto-generates <0>Production Points</0> over time, without the need to work."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:288
+#: src/components/_economy/inventory/ConsumeItems.tsx:300
 msgid "Autobuy when empty"
 msgstr ""
 
@@ -2100,7 +2100,7 @@ msgstr ""
 msgid "Boost your production!"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:200
+#: src/components/_user/UserEquipments.tsx:215
 #: src/utils/translations.tsx:202
 msgid "Boots"
 msgstr ""
@@ -2408,7 +2408,7 @@ msgstr ""
 msgid "Check your loot!"
 msgstr "اپنی لوٹ دیکھیں!"
 
-#: src/components/_user/UserEquipments.tsx:166
+#: src/components/_user/UserEquipments.tsx:181
 #: src/utils/translations.tsx:193
 msgid "Chest"
 msgstr ""
@@ -2491,7 +2491,7 @@ msgstr ""
 msgid "Click to apply and start earning money right away."
 msgstr ""
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:175
+#: src/components/_economy/inventory/ConsumeItems.tsx:187
 msgid "Click to consume."
 msgstr ""
 
@@ -2713,7 +2713,7 @@ msgstr ""
 msgid "Consider giving it to your local moderator"
 msgstr ""
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:172
+#: src/components/_economy/inventory/ConsumeItems.tsx:184
 msgid "Consume items"
 msgstr ""
 
@@ -3817,7 +3817,7 @@ msgstr ""
 msgid "Feed"
 msgstr ""
 
-#: src/components/_user/worker/WorkerItem.tsx:119
+#: src/components/_user/worker/WorkerItem.tsx:120
 msgid "Fidelity Bonus"
 msgstr ""
 
@@ -4075,7 +4075,7 @@ msgstr ""
 msgid "Globe (experimental)"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:217
+#: src/components/_user/UserEquipments.tsx:232
 #: src/utils/translations.tsx:211
 msgid "Gloves"
 msgstr ""
@@ -4286,7 +4286,7 @@ msgstr ""
 msgid "Heavy Ammo"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:151
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:184
 msgid "Helmet"
 msgstr ""
@@ -4603,7 +4603,7 @@ msgstr ""
 msgid "Joinable"
 msgstr ""
 
-#: src/components/_user/worker/WorkerItem.tsx:159
+#: src/components/_user/worker/WorkerItem.tsx:160
 msgid "Joined"
 msgstr ""
 
@@ -4660,7 +4660,7 @@ msgstr ""
 msgid "Knife"
 msgstr "چھرا"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:154
 msgid "Knives do not accept ammo"
 msgstr "چھروں میں گولہ بارود نہیں ڈلتا"
 
@@ -6038,7 +6038,7 @@ msgstr ""
 msgid "Packs"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:183
+#: src/components/_user/UserEquipments.tsx:198
 #: src/utils/translations.tsx:220
 msgid "Pants"
 msgstr ""
@@ -7918,7 +7918,7 @@ msgstr ""
 msgid "This user is not part of any family group"
 msgstr "This user is not part of any family group"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:232
+#: src/components/_economy/inventory/ConsumeItems.tsx:244
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
@@ -8226,7 +8226,7 @@ msgstr ""
 msgid "Unblock (show content)"
 msgstr "غیر مسدود کرین (مواد دکھائیں)"
 
-#: src/components/_user/UserEquipments.tsx:103
+#: src/components/_user/UserEquipments.tsx:117
 msgid "Unequip all"
 msgstr "سب کچھ نہتا کر دیں"
 
@@ -8670,7 +8670,7 @@ msgid "Wealth"
 msgstr "دولت"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:49
-#: src/components/_user/UserEquipments.tsx:120
+#: src/components/_user/UserEquipments.tsx:134
 msgid "Weapon"
 msgstr "ہتھیار"
 
@@ -9060,7 +9060,7 @@ msgstr ""
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:141
+#: src/components/_user/UserEquipments.tsx:156
 msgid "You need to equip a weapon first"
 msgstr "آپ کو پہلے ہتھیار مسلح کرنا ہو گا"
 

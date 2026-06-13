@@ -790,7 +790,7 @@ msgstr "<0>Elke <1/> totale schade toegebracht aan beide kanten rolt een <2>{0}<
 #. placeholder {0}: 1
 #. placeholder {1}: worker.fidelity
 #. placeholder {2}: 10
-#: src/components/_user/worker/WorkerItem.tsx:121
+#: src/components/_user/worker/WorkerItem.tsx:122
 msgid "<0>Everyday passed working for same employer, the fidelity bonus increases by <1>{0}</1>.</0><2>It increase by <3>{1}</3> the production bonus until <4>{2}</4>.</2><5>This bonus is applied after work. So it is not counted in wage.</5>"
 msgstr "<0>Elke dag dat je voor dezelfde werkgever werkt, stijgt de loyaliteitsbonus met <1>{0}</1>.</0><2>Het verhoogt de productiebonus met <3>{1}</3> tot een maximum van <4>{2}</4>.</2><5>Deze bonus wordt na het werk toegepast. Het wordt dus niet meegeteld in het loon.</5>"
 
@@ -1549,7 +1549,7 @@ msgstr "Bijna klaar..."
 msgid "Alpha Tester"
 msgstr "Alfa-tester"
 
-#: src/components/_user/UserEquipments.tsx:130
+#: src/components/_user/UserEquipments.tsx:144
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Munitie"
@@ -1661,7 +1661,7 @@ msgstr "Goedgekeurd"
 msgid "Arcane Boots"
 msgstr "Arcane laarzen"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:231
+#: src/components/_economy/inventory/ConsumeItems.tsx:243
 msgid "Are you sure you want to consume pill?"
 msgstr "Weet je zeker dat je een pil wilt gebruiken?"
 
@@ -1867,7 +1867,7 @@ msgstr "Automatisch uitrusten wanneer item breekt"
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Genereert automatisch <0>Productiepunten</0> in de loop van de tijd, zonder dat er gewerkt hoeft te worden."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:288
+#: src/components/_economy/inventory/ConsumeItems.tsx:300
 msgid "Autobuy when empty"
 msgstr "Automatisch kopen wanneer leeg"
 
@@ -2100,7 +2100,7 @@ msgstr "Bonusschade"
 msgid "Boost your production!"
 msgstr "Verhoog je productie!"
 
-#: src/components/_user/UserEquipments.tsx:200
+#: src/components/_user/UserEquipments.tsx:215
 #: src/utils/translations.tsx:202
 msgid "Boots"
 msgstr "Laarzen"
@@ -2408,7 +2408,7 @@ msgstr "Verander de belasting van {0} naar"
 msgid "Check your loot!"
 msgstr "Controleer je buit!"
 
-#: src/components/_user/UserEquipments.tsx:166
+#: src/components/_user/UserEquipments.tsx:181
 #: src/utils/translations.tsx:193
 msgid "Chest"
 msgstr "Borst"
@@ -2491,7 +2491,7 @@ msgstr "Klik op het gesprek van je land om met medeburgers te praten."
 msgid "Click to apply and start earning money right away."
 msgstr "Klik om te solliciteren en begin direct geld te verdienen."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:175
+#: src/components/_economy/inventory/ConsumeItems.tsx:187
 msgid "Click to consume."
 msgstr "Klik om te consumeren."
 
@@ -2713,7 +2713,7 @@ msgstr "Veroveraar"
 msgid "Consider giving it to your local moderator"
 msgstr "Overweeg het aan je lokale moderator te geven"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:172
+#: src/components/_economy/inventory/ConsumeItems.tsx:184
 msgid "Consume items"
 msgstr "Items consumeren"
 
@@ -3817,7 +3817,7 @@ msgstr "Vergoeding"
 msgid "Feed"
 msgstr "Feed"
 
-#: src/components/_user/worker/WorkerItem.tsx:119
+#: src/components/_user/worker/WorkerItem.tsx:120
 msgid "Fidelity Bonus"
 msgstr "Loyaliteitsbonus"
 
@@ -4075,7 +4075,7 @@ msgstr "Geeft <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Wereldbol (experimenteel)"
 
-#: src/components/_user/UserEquipments.tsx:217
+#: src/components/_user/UserEquipments.tsx:232
 #: src/utils/translations.tsx:211
 msgid "Gloves"
 msgstr "Handschoenen"
@@ -4286,7 +4286,7 @@ msgstr "Gezondheid"
 msgid "Heavy Ammo"
 msgstr "Zware munitie"
 
-#: src/components/_user/UserEquipments.tsx:151
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:184
 msgid "Helmet"
 msgstr "Helm"
@@ -4603,7 +4603,7 @@ msgstr "Sluit je aan bij de chat van je land!"
 msgid "Joinable"
 msgstr ""
 
-#: src/components/_user/worker/WorkerItem.tsx:159
+#: src/components/_user/worker/WorkerItem.tsx:160
 msgid "Joined"
 msgstr "Aangesloten"
 
@@ -4660,7 +4660,7 @@ msgstr ""
 msgid "Knife"
 msgstr "Mes"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:154
 msgid "Knives do not accept ammo"
 msgstr "Messen accepteren geen munitie"
 
@@ -6038,7 +6038,7 @@ msgstr ""
 msgid "Packs"
 msgstr "Pakketten"
 
-#: src/components/_user/UserEquipments.tsx:183
+#: src/components/_user/UserEquipments.tsx:198
 #: src/utils/translations.tsx:220
 msgid "Pants"
 msgstr "Broek"
@@ -7918,7 +7918,7 @@ msgstr "Alleen deze ronde"
 msgid "This user is not part of any family group"
 msgstr "Deze gebruiker maakt geen deel uit van een familiegroep"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:232
+#: src/components/_economy/inventory/ConsumeItems.tsx:244
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "Dit geeft je een buff voor {cocainBuffHours}h en veroorzaakt daarna een malus voor {cocainDebuffHours}h"
 
@@ -8226,7 +8226,7 @@ msgstr ""
 msgid "Unblock (show content)"
 msgstr "Deblokkeren (inhoud tonen)"
 
-#: src/components/_user/UserEquipments.tsx:103
+#: src/components/_user/UserEquipments.tsx:117
 msgid "Unequip all"
 msgstr "Doe alle uitrusting uit"
 
@@ -8670,7 +8670,7 @@ msgid "Wealth"
 msgstr "Rijkdom"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:49
-#: src/components/_user/UserEquipments.tsx:120
+#: src/components/_user/UserEquipments.tsx:134
 msgid "Weapon"
 msgstr "Wapen"
 
@@ -9060,7 +9060,7 @@ msgstr "Je moet op de webversie zijn om je te abonneren"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Je moet alle 3 ethiekpunten ({pointsRemaining}) uitgeven"
 
-#: src/components/_user/UserEquipments.tsx:141
+#: src/components/_user/UserEquipments.tsx:156
 msgid "You need to equip a weapon first"
 msgstr "Je moet jezelf eerst uitrusten met een wapen"
 
