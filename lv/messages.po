@@ -8687,7 +8687,7 @@ msgstr "Aizstāvoties pret sacelšanos, gūsti papildu <0>{0}</0> kaujas bonusu 
 
 #: src/components/_political/party/party.frontConfig.tsx:63
 msgid "When revolting, you copy the enemy's defensive battle bonus from Bunker region upgrades."
-msgstr "Rīkojot sacelšanos, tu kopē ienaidnieka bunkura bojājumu bonusu."
+msgstr "Rīkojot sacelšanos, tu kopē ienaidnieka aizsardzības bonusu atbilstoši reģiona Bunkura līmenim."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:156
 msgid "When your <0>Health</0> runs out, open this menu to restore it with food."
