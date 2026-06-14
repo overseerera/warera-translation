@@ -8794,7 +8794,7 @@ msgstr "Strādāt"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:89
 msgid "Work <0>{count}</0> times for an employer"
-msgstr "Nostrādā pie darba devēja <0>{count}</0> reizes"
+msgstr "Strādā pie darba devēja <0>{count}</0> reizes"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:72
 msgid "Work and earn!"
@@ -9180,7 +9180,7 @@ msgstr "Tu uzvarēji militāro vienību turnīrā"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:86
 msgid "You worked 100 times"
-msgstr "Tu nostrādāji uzņēmumā 100 reizes"
+msgstr "Tu nostrādāji uzņēmumos 100 reizes"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:220
 msgid "You're all set!"
