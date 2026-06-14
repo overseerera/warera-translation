@@ -4026,10 +4026,6 @@ msgstr "Gaukite kelias išvaizdas vienu metu su 30 % nuolaida!"
 msgid "Get supporter plan"
 msgstr "Įsigyk rėmėjo planą"
 
-#: src/components/_user/kits/KitsPopover.tsx:209
-msgid "Get Supporter Plan"
-msgstr "Įsigyti rėmėjo planą"
-
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "Dovana nuo Vatou, niekam nesakyk"
@@ -8106,6 +8102,10 @@ msgstr "Bendra žala"
 msgid "Total Donated:"
 msgstr "Iš viso paaukota:"
 
+#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:409
+msgid "Total of <0/>"
+msgstr ""
+
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
 msgstr "Iš viso <0>{totalMaintenanceCostPerDay}</0> per dieną"
@@ -8777,7 +8777,7 @@ msgstr "Mediena"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:251
 msgid "Wooden Self Bow"
-msgstr "Medinis lankas
+msgstr "Medinis lankas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:254
 msgid "Woolly Mammoth"

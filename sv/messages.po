@@ -8102,6 +8102,10 @@ msgstr "Total skada"
 msgid "Total Donated:"
 msgstr "Totalt donerat:"
 
+#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:409
+msgid "Total of <0/>"
+msgstr ""
+
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
 msgstr ""

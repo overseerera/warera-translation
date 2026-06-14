@@ -8103,6 +8103,10 @@ msgstr "Kokonaisvahingot"
 msgid "Total Donated:"
 msgstr "Lahjoitetut yhteensä:"
 
+#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:409
+msgid "Total of <0/>"
+msgstr ""
+
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
 msgstr ""
