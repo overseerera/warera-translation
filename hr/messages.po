@@ -472,7 +472,7 @@ msgstr "<0/> Prioritet ističe za <1/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:296
 msgid "<0/> proposed a mutual defensive pact to your country."
-msgstr "<0/> je predložio/la uzajamni obrambeni pakt s tvojom državi."
+msgstr "<0/> je predložio/la uzajamni obrambeni pakt s tvojom državom."
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:145
 msgid "<0/> proposed a new alliance law: <1/>"
@@ -3963,7 +3963,7 @@ msgstr "Besplatna dnevna nagrada"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
-msgstr "Zanimljivost: Kuća uvijek pobjeđuje."
+msgstr "Gubiš pare brže nego što misliš."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
@@ -4082,7 +4082,7 @@ msgstr "Rukavice"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:95
 msgid "Go play lottery right now"
-msgstr "Ide te sreća, ajmo ju sada testirati na voćkice."
+msgstr "Upala ti sjekira u med."
 
 #: src/components/_economy/company/CompanyProduce.tsx:117
 msgid "Go to job market"
@@ -7893,7 +7893,7 @@ msgstr "Ovo јe centar tvoјe kompaniјe. Ovdje možeš proizvoditi predmete i g
 
 #: src/components/_political/law/LawTypeSelect.tsx:200
 msgid "This law can be abusive and requires 5+ possible voters in the country."
-msgstr "Ovaј zakon može biti zloupotrebljen stoga zahtjeva 5+ mogućih glasača u državi."
+msgstr "Ovaј zakon može biti zloupotrebljen i stoga zahtjeva kvorum od barem 5+ državnih dužnosnika."
 
 #: src/components/_political/law/LawTypeSelect.tsx:194
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:138
