@@ -5442,6 +5442,10 @@ msgstr ""
 msgid "Need a job?"
 msgstr "Cauți un loc de muncă?"
 
+#: src/components/_economy/inventory/ItemRecipe.tsx:59
+msgid "Needs more <0/> to produce"
+msgstr ""
+
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
 msgstr ""

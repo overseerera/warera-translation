@@ -300,7 +300,7 @@ msgstr "<0/> подарував вам скін \"{skinTitle}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1816
 msgid "<0/> gifted you the skin pack \"{skinPackTitle}\"!"
-msgstr "<0/> подарував вам набір скінів \"{skinPackTitle}"!"
+msgstr "<0/> подарував вам набір скінів \"{skinPackTitle}\"!"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:227
 msgid "<0/> got fee back"
@@ -5443,6 +5443,10 @@ msgstr "Національність оновлено"
 #: src/components/_other/tour/tuto.frontConfig.tsx:56
 msgid "Need a job?"
 msgstr "Потрібна робота?"
+
+#: src/components/_economy/inventory/ItemRecipe.tsx:59
+msgid "Needs more <0/> to produce"
+msgstr ""
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"

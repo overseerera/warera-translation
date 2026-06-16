@@ -5444,6 +5444,10 @@ msgstr "Nationality updated"
 msgid "Need a job?"
 msgstr "Need a job?"
 
+#: src/components/_economy/inventory/ItemRecipe.tsx:59
+msgid "Needs more <0/> to produce"
+msgstr "Needs more <0/> to produce"
+
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
 msgstr "Negative mercenary reputation"
