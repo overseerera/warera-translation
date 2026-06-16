@@ -1920,7 +1920,7 @@ msgstr "Équilibré - Sans modificateurs"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:359
 msgid "Ball"
-msgstr ""
+msgstr "Ballon"
 
 #: src/components/_political/event/EventList.tsx:73
 msgid "Bankruptcy"
@@ -2364,7 +2364,7 @@ msgstr "Changer la couleur en <0>{0}</0>"
 
 #: src/components/_military/mu/MuSettings.tsx:89
 msgid "Change nationality"
-msgstr ""
+msgstr "Changer la nationalité"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:67
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:82
@@ -2538,7 +2538,7 @@ msgstr "Palette de couleurs"
 
 #: src/components/_layout/LayoutOptions.tsx:167
 msgid "Colorblind mode"
-msgstr ""
+msgstr "Mode daltonien"
 
 #: src/components/_military/mu/MuMemberList.tsx:327
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:155
@@ -2605,7 +2605,7 @@ msgstr "Entreprise renommée !"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:143
 msgid "Company upgraded!"
-msgstr ""
+msgstr "Entreprise améliorée"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:194
 msgid "Complete missions daily to earn XP and level up faster. Click to claim!"
@@ -2985,7 +2985,7 @@ msgstr "Unité militaire actuelle"
 
 #: src/components/_military/mu/MuSettings.tsx:63
 msgid "Current nationality"
-msgstr ""
+msgstr "Nationalité actuelle"
 
 #: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
@@ -5023,7 +5023,7 @@ msgstr "Niveau maximum atteint !"
 #: src/components/_economy/company/CompanyDropdown.tsx:214
 #: src/components/_economy/company/CompanyDropdown.tsx:232
 msgid "Maxed!"
-msgstr ""
+msgstr "Au maximum !"
 
 #. placeholder {0}: levelConfig.stats.members
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:109
@@ -5242,7 +5242,7 @@ msgstr "Ministre des Affaires étrangères"
 
 #: src/components/_layout/LayoutOptions.tsx:175
 msgid "Mission tags"
-msgstr ""
+msgstr "Etiquettes de mission"
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -5438,7 +5438,7 @@ msgstr "Prime nationale"
 
 #: src/components/_military/mu/MuSettings.tsx:31
 msgid "Nationality updated"
-msgstr ""
+msgstr "Nationalité mise à jour"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:56
 msgid "Need a job?"
@@ -5530,7 +5530,7 @@ msgstr "Nouveau nom"
 
 #: src/components/_military/mu/MuSettings.tsx:76
 msgid "New nationality"
-msgstr ""
+msgstr "Nouvelle nationalité"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "New Party Application"
@@ -5676,7 +5676,7 @@ msgstr "Pas encore de classement de terrain."
 
 #: src/components/_user/kits/KitsPopover.tsx:130
 msgid "No kits yet - add one to quick-equip a full loadout."
-msgstr ""
+msgstr "Aucun kit pour le moment - ajoute-en un pour équiper rapidement un ensemble complet"
 
 #: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
@@ -5820,7 +5820,7 @@ msgstr "Pas dans une alliance"
 
 #: src/components/_military/mu/MuSettings.tsx:69
 msgid "Not set"
-msgstr ""
+msgstr "Non défini"
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:79
@@ -5894,7 +5894,7 @@ msgstr "Seuls les supporters peuvent voir la répartition de leurs dépenses et 
 
 #: src/components/_military/mu/MuSettings.tsx:104
 msgid "Only the owner and commanders can change the nationality."
-msgstr ""
+msgstr "Seuls le propriétaire et les commandants peuvent changer la nationalité."
 
 #: src/components/_political/party/party.frontConfig.tsx:264
 msgid "Only your core regions generate development income."
@@ -7130,7 +7130,7 @@ msgstr "Voir le détail de tes dépenses et revenus"
 
 #: src/components/_military/mu/MuSettings.tsx:79
 msgid "Select a country"
-msgstr ""
+msgstr "Sélectionner un pays"
 
 #: src/components/_military/mu/MuFormModal.tsx:114
 msgid "Select a location"
@@ -7676,7 +7676,7 @@ msgstr "Plan Supporter"
 
 #: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Supporter Plan: up to {premiumMax} kits"
-msgstr ""
+msgstr "Plan Supporter : jusqu'à {premiumMax} kits"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
@@ -7940,63 +7940,63 @@ msgstr "C'est l'heure de produire !"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
-msgstr "Tiny Pixel"
+msgstr "Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:98
 msgid "Tiny Pixel Ammo"
-msgstr "Munitions Tiny Pixel"
+msgstr "Munitions Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:110
 msgid "Tiny Pixel Boots"
-msgstr "Bottes Tiny Pixel"
+msgstr "Bottes Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:107
 msgid "Tiny Pixel Chest"
-msgstr "Gilet Tiny Pixel"
+msgstr "Gilet Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:116
 msgid "Tiny Pixel Gloves"
-msgstr "Gants Tiny Pixel"
+msgstr "Gants Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:119
 msgid "Tiny Pixel Gun"
-msgstr "Pistolet Tiny Pixel"
+msgstr "Pistolet Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:101
 msgid "Tiny Pixel Heavy Ammo"
-msgstr "Munitions Lourdes Tiny Pixel"
+msgstr "Munitions Lourdes Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:104
 msgid "Tiny Pixel Helmet"
-msgstr "Casque Tiny Pixel"
+msgstr "Casque Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:131
 msgid "Tiny Pixel Jet"
-msgstr "Chasseur Tiny Pixel"
+msgstr "Chasseur Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:134
 msgid "Tiny Pixel Light Ammo"
-msgstr "Munitions Légères Tiny Pixel"
+msgstr "Munitions Légères Petit pixel"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:16
 msgid "Tiny Pixel Pack"
-msgstr "Pack Tiny Pixel"
+msgstr "Pack Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:113
 msgid "Tiny Pixel Pants"
-msgstr "Pantalons Tiny Pixel"
+msgstr "Pantalon Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:122
 msgid "Tiny Pixel Rifle"
-msgstr "Fusil Tiny Pixel"
+msgstr "Fusil Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:125
 msgid "Tiny Pixel Sniper"
-msgstr "Tiny Pixel Sniper"
+msgstr "Sniper Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:128
 msgid "Tiny Pixel Tank"
-msgstr "Tiny Pixel Tank"
+msgstr "Tank Petit pixel"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:312
 msgid "Tip <0>{count}</0> articles"
@@ -8108,7 +8108,7 @@ msgstr "Total donné :"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:467
 msgid "Total of <0/>"
-msgstr ""
+msgstr "Total de <0/>"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
@@ -8337,7 +8337,7 @@ msgstr "Améliore une entreprise"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:200
 msgid "Upgrade automated engine"
-msgstr ""
+msgstr "Améliorer la machine automatisée"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:393
 msgid "Upgrade Company"
@@ -8349,7 +8349,7 @@ msgstr "Améliorer les compétences"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:218
 msgid "Upgrade storage"
-msgstr ""
+msgstr "Améliorer l'entrepôt"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:205
 msgid "Upgrade to supporter"
@@ -9331,7 +9331,7 @@ msgstr "Le nom de ton unité militaire"
 
 #: src/components/_military/mu/MuSettings.tsx:55
 msgid "Your military unit nationality is the country it represents. Changing it costs concrete and can only be done once every {cooldownDays} days."
-msgstr ""
+msgstr "La nationalité de ton unité militaire est le pays qu'elle représente. La modifier coûte du béton et ne peut se faire qu'une seule fois tous les {cooldownDays} jours."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
