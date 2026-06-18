@@ -8,7 +8,7 @@ msgstr ""
 "Language: lv\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-06-18 00:07+0300\n"
+"PO-Revision-Date: 2026-06-18 07:29+0300\n"
 "Last-Translator: LV translator team\n"
 "Language-Team: Patriots, EriksR, AriDev, Sindar\n"
 "Plural-Forms: nplurals=3; plural=(n%10==0 || (n%100>=11 && n%100<=19) ? 0 : n%10==1 && n%100!=11 ? 1 : 2);\n"
@@ -123,7 +123,7 @@ msgstr "{0} ierosināja jaunu likumu <0/>"
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:55
 msgid "{0} rounds are needed to win the battle."
-msgstr "Vajag {0} raundus, lai uzvarētu kaujā."
+msgstr "Vajadzīgi {0} raundi, lai uzvarētu kaujā."
 
 #. placeholder {0}: user.data?.username
 #: src/pages/user/[userId]/companies.tsx:85
@@ -806,7 +806,7 @@ msgstr "<0>Piepildās ar <1>Ražošanas Punktiem</1> strādājot, kā arī no au
 #. placeholder {5}: gameConfig?.unrest.contributionCooldownAfterRevolutionHours
 #: src/components/_political/unrest/UnrestBar.tsx:25
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can <3>increase</3> or <4>decrease</4> unrest by spending <5>{0}</5> or <6>{1}</6> to change the bar by <7>{2}</7>.<8/><9/>When the bar is full, any party can vote via motion to start a <10>Civil war</10> (cost: <11>development × 10</11>, cooldown: {3}h). The battle takes place in the capital region, and <12>only citizens</12> can fight.<13/><14/>If revolutionaries win:<15/>- Government is impeached<16/>- Borders are opened for {4} days<17/>- Presidential elections begin<18/><19/>After a revolution, contributions are disabled for {5}h."
-msgstr "<0>Nemieri</0> atspoguļo iekšējo spriedzi valstī.<1/><2/>Pilsoņi var <3>palielināt</3> vai <4>samazināt</4> nemierus par <7>{2}</7>, iztērējot <5>{0}</5> vai <6>{1}</6>.<8/><9/>Kad stabiņš ir pilns, jebkura partija var balsot priekšlikumā, lai uzsāktu <10>Civilo karu</10> (maksa: <11>attīstība × 10</11>, atdzišanas laiks: {3}h). Kauja notiek valsts galvaspilsētas reģionā, un <12>tikai tās valsts pilsoņi</12> var piedalīties kaujā.<13/><14/>Ja revolucionāri uzvar:<15/>- Valdība tiek gāzta<16/>- Robežas tiek atvērtas uz {4} dienām<17/>- Tiek uzsāktas prezidenta vēlēšanas<18/><19/>Pēc revolūcijas, nevar atbalstīt nemierus {5}h."
+msgstr "<0>Nemieri</0> atspoguļo iekšējo spriedzi valstī.<1/><2/>Pilsoņi var <3>palielināt</3> vai <4>samazināt</4> nemierus par <7>{2}</7>, izmantojot <5>{0}</5> vai <6>{1}</6>.<8/><9/>Kad stabiņš ir pilns, jebkura partija var balsot priekšlikumā par <10>pilsoņu kara</10> uzsākšanu (maksa: <11>attīstība × 10</11>, atdzišanas laiks: {3}h). Kauja notiek valsts galvaspilsētas reģionā, un <12>tikai tās valsts pilsoņi</12> var piedalīties kaujā.<13/><14/>Ja revolucionāri uzvar:<15/>- Valdība tiek gāzta<16/>- Robežas tiek atvērtas uz {4} dienām<17/>- Tiek uzsāktas prezidenta vēlēšanas<18/><19/>Pēc revolūcijas, nevar atbalstīt nemierus {5}h."
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:113
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
@@ -1545,7 +1545,7 @@ msgstr "Gandrīz gatavs..."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:115
 msgid "Alpha Tester"
-msgstr "Alfa Testētājs"
+msgstr "Alfa testētājs"
 
 #: src/components/_user/UserEquipments.tsx:144
 #: src/utils/translations.tsx:35
@@ -1571,7 +1571,7 @@ msgstr "<0>Strādnieku</0> skaits, kurus vari pārvaldīt. Kā arī dienas nolī
 
 #: src/components/_user/user/skills.frontConfig.tsx:109
 msgid "Amount of companies you can own"
-msgstr "Uzņēmumu skaits, kas var darboties vienlaicīgi"
+msgstr "Uzņēmumu skaits, kas var darboties vienlaicīgi."
 
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1587
@@ -1994,7 +1994,7 @@ msgstr "Kauja par {regionName} {score}"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
-msgstr "Kaujas Varonis"
+msgstr "Kaujas varonis"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:60
 msgid "Battle loot"
@@ -2331,11 +2331,11 @@ msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:152
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
-msgstr "Iespēja vienā sitienā nekavējoties iegūt:<0/>Katrs <1>1%</1> dod<2>1%</2> un <3>0.01%</3> iespēju iegūt to katrā sitienā."
+msgstr "Iespēja nekavējoties gūt laupījumu no katra sitiena:<0/>Katrs <1>1%</1> sniedz attiecīgi <2>1%</2> un <3>0.01%</3> iespēju laupījumam katrā sitienā."
 
 #: src/components/_user/user/skills.frontConfig.tsx:138
 msgid "Chance to dodge all incoming damage when fighting in battles.<0/>Dodging also prevents equipment durability from being consumed."
-msgstr "Iespēja izvairīties no visiem saņemtiem bojājumiem, sitot kaujās.<0/>Izvairīšanās arī novērš ekipējuma izturības samazināšanos (izņemot ieročus)."
+msgstr "Iespēja izvairīties no dzīvību zaudējumiem, sitot kaujās.<0/>Sekmīga izvairīšanās novērš arī ekipējuma izturības samazināšanos (izņemot ieročus)."
 
 #: src/components/_user/user/skills.frontConfig.tsx:124
 msgid "Chance to hit the target.<0/>Misses cannot crit, and deal half damage."
@@ -2721,7 +2721,7 @@ msgstr "Patērēt preces"
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
-msgstr "Tiek patērētas piedaloties kaujās"
+msgstr "Tiek patērētas piedaloties kaujās."
 
 #. placeholder {0}: staticGameConfig.items.cocain.flatStats?.buffDurationHours
 #. placeholder {1}: staticGameConfig.items.cocain.flatStats?.debuffDurationHours
@@ -2849,7 +2849,7 @@ msgstr "Valsts naudas pārskaitījums"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:62
 msgid "Country Orders"
-msgstr "Valsts Rīkojumi"
+msgstr "Valsts rīkojumi"
 
 #. placeholder {0}: data.partialPayout
 #: src/components/_user/notification/notification.frontConfig.tsx:1601
@@ -2858,7 +2858,7 @@ msgstr "Valsts izmaksāja <0>{0}</0> par nodarītiem bojājumiem."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:51
 msgid "Country President"
-msgstr "Valsts Prezidents"
+msgstr "Valsts prezidents"
 
 #: src/pages/country/[countryId]/index.tsx:346
 msgid "Country production bonus"
@@ -2870,7 +2870,7 @@ msgstr "Ielūdzamā valsts"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:181
 msgid "Country Tournament Winner"
-msgstr "Valsts turnīra uzvarētājs"
+msgstr "Valstu turnīra uzvarētājs"
 
 #: src/pages/country/[countryId]/wars.tsx:29
 msgid "Country wars"
@@ -3293,7 +3293,7 @@ msgstr "Attīstība"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:301
 msgid "Diminish <0/> received damages with <1>Armor</1> in battles"
-msgstr "Samazini kaujās saņemtos <0/> bojājumus, izmantojot <1>Bruņas</1>"
+msgstr "Samazini kaujās saņemtos <0/> bojājumus, izmantojot <1>bruņas</1>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:299
 msgid "Diminish Received Damages"
@@ -3955,7 +3955,7 @@ msgstr "Izveidot jaunu aliansi kā dibinātājvalsts"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:45
 msgid "Founding Father"
-msgstr "Viens no Pirmajiem"
+msgstr "Viens no pirmajiem"
 
 #: src/pages/shop/index.tsx:131
 msgid "Free daily reward"
@@ -4679,7 +4679,7 @@ msgstr "Pēdējais"
 
 #: src/components/_user/badgeCollection/Badge.tsx:63
 msgid "Last earned: <0/>"
-msgstr "Pēdējoreiz saņemts: <0/>"
+msgstr "Pēdējoreiz saņemta: <0/>"
 
 #: src/pages/shop/index.tsx:91
 msgid "Last gifts"
@@ -4869,7 +4869,7 @@ msgstr "Kaļkakmens"
 
 #: src/components/_user/user/skills.frontConfig.tsx:116
 msgid "Limit of food consumption"
-msgstr "Ēšanas limits"
+msgstr "Limits, kas ierobežo ēdiena patēriņu."
 
 #: src/components/_user/user/SkillValue.tsx:88
 msgid "Limited:"
@@ -5155,7 +5155,7 @@ msgstr "Algotņu peļņa"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:15
 msgid "Mercenary Reputation"
-msgstr "Algotņa Reputācija"
+msgstr "Algotņa reputācija"
 
 #: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
@@ -5167,7 +5167,7 @@ msgstr "Ziņa patika"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:158
 msgid "Military & Battles"
-msgstr "Militārās un Kaujas"
+msgstr "Militārās un kaujas"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:46
 msgid "Military base"
@@ -6351,7 +6351,7 @@ msgstr "Tikai Pro"
 
 #: src/components/_user/user/skills.frontConfig.tsx:50
 msgid "Probability of landing a critical hit"
-msgstr "Kritiskā trieciena iespēja"
+msgstr "Varbūtība realizēt sekmīgu kritisko triecienu."
 
 #: src/components/_economy/company/ProduceButton.tsx:140
 #: src/components/_user/mission/mission.frontConfig.tsx:446
@@ -6393,7 +6393,7 @@ msgstr "Ražošanas bonuss"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:156
 msgid "Production bonus:"
-msgstr "Ražosānas bonuss:"
+msgstr "Ražošanas bonuss:"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:577
 msgid "Production in<0/> is full, you should start production!"
@@ -6418,11 +6418,11 @@ msgstr "Profils"
 #: src/components/_military/mu/MuMemberList.tsx:146
 #: src/components/_military/mu/MuMemberList.tsx:434
 msgid "Promote to Commander"
-msgstr "Paaugstināt par Komandieri"
+msgstr "Paaugstināt par komandieri"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2075
 msgid "Promoted to Commander"
-msgstr "Paaugstināts Komandiera amatā"
+msgstr "Paaugstināts komandiera amatā"
 
 #: src/components/_political/law/law.frontConfig.tsx:259
 msgid "Propose a defensive pact with <0/>"
@@ -6638,7 +6638,7 @@ msgstr "Sarkanā Nūja"
 
 #: src/components/_user/user/skills.frontConfig.tsx:70
 msgid "Reduces health lost when fighting in battles"
-msgstr "Samazina dzīvību zudumu, karojot kaujās"
+msgstr "Samazina dzīvību zudumu, karojot kaujās."
 
 #: src/pages/user/[userId]/referrals.tsx:87
 msgid "Referral link copied to clipboard"
@@ -6893,7 +6893,7 @@ msgstr "Reputācija nopirkta!"
 
 #: src/components/_user/user/UserDropdown.tsx:349
 msgid "Request Phone Verification"
-msgstr "Pieprasīt Tālruņa Verifikāciju"
+msgstr "Pieprasīt tālruņa verifikāciju"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:197
 msgid "Requests:"
@@ -6913,7 +6913,7 @@ msgstr "Pāriestatīt CAPTCHA"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:129
 msgid "Reset Survivor"
-msgstr "Pāriestatīšanas Izdzīvotājs"
+msgstr "Pāriestatīšanas izdzīvotājs"
 
 #: src/pages/user/[userId]/settings.tsx:74
 msgid "Reset tutorials"
@@ -6921,7 +6921,7 @@ msgstr "Pāriestatīt pamācību"
 
 #: src/components/_user/user/UserDropdown.tsx:420
 msgid "Reset Username"
-msgstr "Pāriestatīt Lietotājvārdu"
+msgstr "Pāriestatīt lietotājvārdu"
 
 #: src/pages/region/[regionId]/index.tsx:109
 msgid "Reshuffle in"
@@ -7781,11 +7781,11 @@ msgstr "Tas ir satriecoši!"
 
 #: src/components/_user/user/skills.frontConfig.tsx:98
 msgid "The <0>Production Points</0> you generate each time you work"
-msgstr "<0>Ražošanas punkti</0>, kurus tu saražo ar katru strādāšanas reizi"
+msgstr "<0>Ražošanas punkti</0>, kurus tu saražo ar katru strādāšanas reizi."
 
 #: src/components/_user/user/skills.frontConfig.tsx:40
 msgid "The base value for <0>Damages</0> calculation."
-msgstr "Bāzes vērtība <0>Bojājumu</0> aprēķināšanai."
+msgstr "Pamata vērtība <0>bojājumu</0> aprēķināšanai."
 
 #: src/components/_political/event/event.frontConfig.tsx:510
 msgid "The civil war started by <0/> in <1/> has been suppressed"
@@ -7811,7 +7811,7 @@ msgstr "Izmaksas tiek aprēķinātas no likuma pamata maksas un koriģētas atbi
 
 #: src/components/_user/user/skills.frontConfig.tsx:59
 msgid "The damage factor increase of critical hits over normal hits"
-msgstr "Par cik palielinās tavi kritiskie bojājumi"
+msgstr "Apjoms par kādu palielinās tavi bojājumi kritisko triecienu gadījumā."
 
 #: src/pages/region/[regionId]/index.tsx:70
 msgid "The deposit gives a production bonus of the following percentage."
@@ -8390,11 +8390,11 @@ msgstr "Ieroču šaušanai. Palielina tavu <0>Uzbrukumu</0>"
 
 #: src/components/_user/user/skills.frontConfig.tsx:174
 msgid "Used to <0>Self Work</0> in your own companies"
-msgstr "Lai varētu <0>Strādāt</0> savos uzņēmumos"
+msgstr "Izmanto lai <0>strādātu</0> savos uzņēmumos."
 
 #: src/components/_user/user/skills.frontConfig.tsx:86
 msgid "Used to <0>Work</0>"
-msgstr "Lai varētu <0>Strādāt</0> pie citiem"
+msgstr "Izmanto lai <0>strādātu</0> pie citiem."
 
 #: src/utils/translations.tsx:71
 msgid "Used to build companies and MUs"
@@ -8622,7 +8622,7 @@ msgstr "Alga mainīta"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:119
 msgid "Wage cost ({productionPoints} pts):"
-msgstr "Algas izmaksa ({productionPoints} raž. punkti):"
+msgstr "Algas izmaksa ({productionPoints} raž. punkts):"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:183
 msgid "Wage per production"
@@ -8905,7 +8905,7 @@ msgstr "Ļoti prasmīgi pastrādāts!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:225
 msgid "You are/were a council member, sharing ideas and feedback to improve the game <3"
-msgstr "Tu esi/biji spēles padomes biedrs, daloties ar idejām un atsauksmēm, lai uzlabotu spēli <3"
+msgstr "Tu esi/biji spēles izstrādes padomes biedrs, daloties ar idejām un atsauksmēm, lai uzlabotu spēli <3"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:143
 msgid "You are/were a part of the staff and helped the game to grow <3"
@@ -9035,7 +9035,7 @@ msgstr "Tu palīdzēji pārtulkot spēli citā valodā"
 #. placeholder {1}: staticGameConfig.referral.lifeTimeBadgeMoneySharePercent
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:34
 msgid "You invited a friend or spammed forum posts. After they reach level {0}, you will get the badge + {1}% of all your referrals' badge rewards"
-msgstr "Tu uzaicināji draugu vai spamoji forumus. Pēc tam, kad viņi sasniedz {0} līmeni, tu saņemsi medaļu + {1}% visu uzaicināto medaļu balvas"
+msgstr "Tu uzaicināji draugu vai spamoji forumos. Pēc tam, kad viņi sasniegs {0} līmeni, tu saņemsi medaļu + {1}% visu uzaicināto spēlētāju medaļu balvas"
 
 #: src/components/_user/worker/WageReductionAlert.tsx:44
 msgid "You left the company."
@@ -9072,7 +9072,7 @@ msgstr "Paņem rokās ieroci vispirms"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:161
 msgid "You paid the dev's bills <3 (top 3 in monthly supporter gifts ranking)"
-msgstr "Tu izmaksāji izstrādātājiem algu <3 (top 3 mēneša dāvinātāju topā)"
+msgstr "Tu apmaksāji izstrādātāju rēķinus <3 (top 3 mēneša dāvinātāju topā)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1052
 msgid "You premium gift from <0/> has expired! Would you consider subscribing and supporting the game? 👉👈"
@@ -9132,7 +9132,7 @@ msgstr "<0/> atlaida tevi no amata ministru kabinetā"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:117
 msgid "You were an alpha tester (user before 20 march 2025)"
-msgstr "Tu biji alpha versijas testētājs (lietotājs pirms 2025. gada 20. marta)"
+msgstr "Tu biji spēles alpha versijas testētājs (lietotājs pirms 2025. gada 20. marta)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1991
 #: src/components/_user/notification/notification.frontConfig.tsx:2008
@@ -9149,7 +9149,7 @@ msgstr "Tu tiki ievēlēts par valsts prezidentu"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:46
 msgid "You were here at the beginning of War Era"
-msgstr "Tu esi ar War Era kopš paša sākuma"
+msgstr "Tu esi ar „War Era“ kopš paša sākuma"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:236
 msgid "You were nominated as a government member of a country"
