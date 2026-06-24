@@ -5446,7 +5446,7 @@ msgstr "Treba ti posao?"
 
 #: src/components/_economy/inventory/ItemRecipe.tsx:59
 msgid "Needs more <0/> to produce"
-msgstr ""
+msgstr "Za proizvodnju potrebno je <0/>"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
