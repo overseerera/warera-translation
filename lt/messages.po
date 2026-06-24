@@ -40,7 +40,7 @@ msgstr " - Priežastis: {0}"
 
 #: src/components/_common/GameRules.tsx:133
 msgid " - Repeated donations of resources or money to a military unit or country."
-msgstr " - Daugkartinis išteklių ar pinigų aukojimas kariniam vienetui ar šaliai."
+msgstr " - Daugkartinis išteklių ar pinigų aukojimas kariniam daliniui ar šaliai."
 
 #: src/components/_common/GameRules.tsx:131
 msgid " - Repeatedly tipping articles"
@@ -258,7 +258,7 @@ msgstr "<0/> gynėsi <1/>"
 #. placeholder {0}: data.amount
 #: src/components/_user/notification/notification.frontConfig.tsx:1168
 msgid "<0/> donated <1>{0}</1> to <2/>"
-msgstr "<0/> paaukojo <1>{0}</1> žaidėjui <2/>"
+msgstr "<0/> paaukojo <1>{0}</1> <2/>"
 
 #. placeholder {0}: ts[data.caseCode]
 #: src/components/_political/message/systemMessage.frontConfig.tsx:124
@@ -573,11 +573,11 @@ msgstr "<0/> laimėjo <2/> <1>#{0}</1> raundą!"
 
 #: src/components/_user/user/UserHeader.tsx:289
 msgid "<0/><1>Buff</1> ends <2/>"
-msgstr "<0/><1>Pastiprinimas</1> baigiasi <2/>"
+msgstr "<0/><1>Buff'as</1> baigiasi <2/>"
 
 #: src/components/_user/user/UserHeader.tsx:298
 msgid "<0/><1>Debuff</1> ends <2/>"
-msgstr "<0/><1>Debufas</1> baigiasi <2/>"
+msgstr "<0/><1>Debuff'as</1> baigiasi <2/>"
 
 #: src/components/_user/user/UserHeader.tsx:361
 msgid "<0/>Last connection was <1><2/></1>"
@@ -759,7 +759,7 @@ msgstr "<0>Vidutinis išsivystymas</0> yra <1>Pagrindinio išsivystymo</1> ir <2
 
 #: src/components/_user/user/UserTooltip.tsx:131
 msgid "<0>Buff</0> ends <1/>"
-msgstr "<0>Pastiprinimas</0> baigsis <1/>"
+msgstr "<0>Buff'as</0> baigsis <1/>"
 
 #: src/components/_political/country/CountryHeader.tsx:171
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
@@ -771,7 +771,7 @@ msgstr "<0>Dabartinis išsivystymas</0> yra bendras visų šalies šiuo metu kon
 
 #: src/components/_user/user/UserTooltip.tsx:140
 msgid "<0>Debuff</0> ends <1/>"
-msgstr "<0>Silpninimas</0> baigsis <1/>"
+msgstr "<0>Debuff'as</0> baigsis <1/>"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
@@ -1661,7 +1661,7 @@ msgstr "Arcane Batai"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:236
 msgid "Are you sure you want to consume pill?"
-msgstr "Ar tikrai nori suvartoti piliulę?"
+msgstr "Ar tikrai nori suvartoti tabletę?"
 
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
@@ -2109,16 +2109,16 @@ msgstr "Batai"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:103
 msgid "Bounty"
-msgstr "Atlygis"
+msgstr "Premija"
 
 #: src/components/_military/battle/BattleSystem.tsx:850
 #: src/components/_military/battle/BattleSystem.tsx:860
 msgid "Bounty cooldown"
-msgstr "Atlygio laukimo laikas"
+msgstr "Premijos laukimo laikas"
 
 #: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
-msgstr "Atlygis bus prieinamas po"
+msgstr "Premija bus prieinamas po"
 
 #: src/utils/translations.tsx:31
 msgid "Bread"
@@ -2151,19 +2151,19 @@ msgstr "Biudžetas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2106
 msgid "Buff ended"
-msgstr "Pastiprinimas baigėsi"
+msgstr "Buff'as baigėsi"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2104
 msgid "Buff expiring soon"
-msgstr "Pastiprinimas netrukus baigs galioti"
+msgstr "Buff'as netrukus baigs galioti"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2102
 msgid "Buff started"
-msgstr "Pastiprinimas prasidėjo"
+msgstr "Buff'as prasidėjo"
 
 #: src/components/_user/user/SkillValue.tsx:168
 msgid "Buffs:"
-msgstr "Pastiprinimai:"
+msgstr "Buff'ai:"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:123
 msgid "Bug finder"
@@ -3119,11 +3119,11 @@ msgstr "Padaro žalos"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2107
 msgid "Debuff ended"
-msgstr "Neigiamas efektas baigėsi"
+msgstr "Debuff'as baigėsi"
 
 #: src/components/_user/user/SkillValue.tsx:200
 msgid "Debuffs:"
-msgstr "Neigiami efektai:"
+msgstr "Debuff'ai:"
 
 #: src/components/_political/law/law.frontConfig.tsx:114
 #: src/components/_political/law/lawNames.tsx:14
@@ -3867,7 +3867,7 @@ msgstr "Finansuoti pasipriešinimą okupuotam regionui išlaisvinti"
 
 #: src/components/_political/law/law.frontConfig.tsx:627
 msgid "Finance a revolt to liberate <0/>"
-msgstr "Finansuoti sukilimą, kad išlaisvintumėte <0/>"
+msgstr "Finansuoti sukilimą, kad išlaisvintum <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:613
 #: src/components/_political/law/lawNames.tsx:38
@@ -4893,7 +4893,7 @@ msgstr "Įkelti daugiau"
 
 #: src/components/_military/mu/MuList.tsx:120
 msgid "Load More Military Units"
-msgstr "Įkelti daugiau karinių vienetų"
+msgstr "Įkelti daugiau karinių dalinių"
 
 #: src/components/_political/party/PartyList.tsx:122
 msgid "Load more parties"
@@ -5211,11 +5211,11 @@ msgstr "Karinis dalinys sukurtas"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:105
 msgid "Military units"
-msgstr "Kariniai vienetai"
+msgstr "Kariniai daliniai"
 
 #: src/components/_military/battle/BattleCountrySide.tsx:93
 msgid "Military Units"
-msgstr "Kariniai vienetai"
+msgstr "Kariniai Daliniai"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:293
 msgid "Min reached"
@@ -5882,7 +5882,7 @@ msgstr "Vos vienas žingsnis iki legendinio..."
 #: src/components/_political/party/party.frontConfig.tsx:345
 #: src/components/_political/party/party.frontConfig.tsx:366
 msgid "Only buffs and food deposits spawn in your borders (coca, grain, livestock and fish)."
-msgstr "Tavo teritorijoje atsiranda tik pastiprinimai ir maisto telkiniai (koka, grūdai, gyvuliai ir žuvis)."
+msgstr "Tavo teritorijoje atsiranda tik Buff'ai ir maisto telkiniai (koka, grūdai, gyvuliai ir žuvis)."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:156
 msgid "Only MU owners/commanders can register their MU"
@@ -6397,7 +6397,7 @@ msgstr "Gamybos bonusas:"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:577
 msgid "Production in<0/> is full, you should start production!"
-msgstr "Gamyba įmonėje <0/> pilna, turėtum ją pradėti!"
+msgstr "Gamyba įmonėje <0/> pilna, laikas ją paleisti!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1972
 msgid "Production is full"
@@ -6538,7 +6538,7 @@ msgstr "Reitingai"
 
 #: src/components/_layout/LayoutRightIcons.tsx:233
 msgid "Ranks"
-msgstr "Laipsniai"
+msgstr "Reitingai"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:175
 msgid "Rate"
@@ -6756,11 +6756,11 @@ msgstr "Atmestas"
 
 #: src/components/_layout/LayoutUserMenu.tsx:219
 msgid "Remaining buff duration"
-msgstr "Likęs pastiprinimo laikas"
+msgstr "Likęs Buff'o laikas"
 
 #: src/components/_layout/LayoutUserMenu.tsx:232
 msgid "Remaining debuff duration"
-msgstr "Likęs susilpninimo trukmės laikas"
+msgstr "Likęs Debuff'o laikas"
 
 #: src/components/_political/law/law.frontConfig.tsx:201
 msgid "Remove <0/> from congress due to inactivity"
@@ -6802,7 +6802,7 @@ msgstr "Pašalinti avatarą"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:116
 msgid "Remove bounty"
-msgstr "Pašalinti atlygį"
+msgstr "Pašalinti premiją"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:31
 msgid "Remove council member"
@@ -7823,7 +7823,7 @@ msgstr "Telkinys baigs galioti po nurodyto laiko."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:715
 msgid "The effect of your consumed buffs has ended. The debuff phase has begun and will last <0>{debuffDuration}h</0>."
-msgstr "Suvartotų pastiprinimų poveikis baigėsi. Prasidėjo neigiamo poveikio fazė, kuri truks <0>{debuffDuration} val</0>."
+msgstr "Suvartotų Buff'ų poveikis baigėsi. Prasidėjo Debuff'o fazė, kuri truks <0>{debuffDuration} val.</0>."
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
@@ -7865,7 +7865,7 @@ msgstr "Šis veiksmas pateiks tavo MU statymą šiai sutarčiai."
 
 #: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
-msgstr "Šis atlygis skirtas tik šalies piliečiams."
+msgstr "Ši premija skirta tik šalies piliečiams."
 
 #: src/components/_economy/company/CompanyTags.tsx:66
 msgid "This company is disabled because the owner reached the company limit."
@@ -7930,7 +7930,7 @@ msgstr "Šis naudotojas nepriklauso jokiai šeimos grupei"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:237
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
-msgstr "Tai suteiks jums pastiprinimą (buff) {cocainBuffHours} val., o po to sukels neigiamą efektą (debuff) {cocainDebuffHours} val."
+msgstr "Tai suteiks tau Buff'ą {cocainBuffHours} val., o po to sukels Debuff'ą {cocainDebuffHours} val."
 
 #: src/components/_user/user/UserDropdown.tsx:350
 msgid "This will require the user to verify their mobile phone number."
@@ -8442,7 +8442,7 @@ msgstr "Naudojama plienui gaminti"
 
 #: src/utils/translations.tsx:125
 msgid "Used to upgrade companies, MUs and fortifications"
-msgstr "Naudojama įmonėms, MUs ir įtvirtinimams tobulinti"
+msgstr "Naudojama įmonėms, MU ir įtvirtinimams tobulinti"
 
 #: src/components/_layout/LoadingScreenContent.tsx:22
 msgid "user"
@@ -8962,7 +8962,7 @@ msgstr "Gavai brangakmenių už skinų rinkinio pardavimą!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:729
 msgid "You feel healthy, the debuff effect no longer affects you."
-msgstr "Jautiesi sveikas, neigiamas efektas tavęs nebeveikia."
+msgstr "Jautiesi sveikas, Debuff'as tavęs nebeveikia."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:153
 msgid "You gifted a supporter plan subscription to someone <3"
@@ -9087,7 +9087,7 @@ msgstr "Gavai grobį už <0>#{0}</0> vietą <1/>"
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
 #: src/components/_user/notification/notification.frontConfig.tsx:1392
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
-msgstr "Gavai atlygį už {0} {1} <0/>reitingo <1/> pakopoje"
+msgstr "Gautas atlygis: {0} {1} <1/> reitingo <0/> pakopoje."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "You received the skin \"{skinTitle}\"!"
@@ -9252,7 +9252,7 @@ msgstr "Tavo reklamjuostė \"{0}\" buvo patvirtinta ir dabar ją galima rasti pa
 
 #: src/components/_user/notification/notification.frontConfig.tsx:698
 msgid "Your buff(s) will expire in less than 1 hour. The debuff phase will begin soon."
-msgstr "Tavo pastiprinimai baigs galioti greičiau nei po 1 valandos. Netrukus prasidės susilpninimo etapas."
+msgstr "Tavo Buff'ai baigs galioti greičiau nei po 1 valandos. Netrukus prasidės Debuff'o fazė."
 
 #: src/pages/country/[countryId]/index.tsx:142
 msgid "Your citizenship is going to change"
@@ -9333,7 +9333,7 @@ msgstr "Tavo karinio dalinio pavadinimas"
 
 #: src/components/_military/mu/MuSettings.tsx:53
 msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
-msgstr "Tavo karinio vieneto pilietybė yra šalis, kuriai jis atstovauja. Jos pakeitimas yra nemokamas ir gali būti atliktas tik kartą per {cooldownDays} dienų."
+msgstr "Tavo karinio dalinio pilietybė yra šalis, kuriai jis atstovauja. Jos pakeitimas yra nemokamas ir gali būti atliktas tik kartą per {cooldownDays} dienų."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
