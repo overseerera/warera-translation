@@ -6998,7 +6998,7 @@ msgstr "Puška"
 
 #: src/components/_political/government/Government.tsx:179
 msgid "Rights"
-msgstr "Prava"
+msgstr "Nadležnost"
 
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:51
 msgid "Rollback money (take back all payments from MU/users and refund full pool to country)"
