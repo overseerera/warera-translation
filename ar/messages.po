@@ -3328,7 +3328,7 @@ msgstr "تم حلّه <0/>"
 #: src/components/_user/mission/mission.frontConfig.tsx:187
 #: src/pages/user/[userId]/inventory.tsx:52
 msgid "Dismantle"
-msgstr "تفكيك"
+msgstr "تفكيك متعدد"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:189
 msgid "Dismantle <0>{count}</0> items"
