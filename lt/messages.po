@@ -1537,7 +1537,7 @@ msgstr "Leidžiamas atlyginimo intervalas:"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:73
 msgid "Almost feels like cheating"
-msgstr "Beveik kaip sukčiavimas"
+msgstr "Jausmas lyg čytintum"
 
 #: src/components/_layout/LoadingScreenContent.tsx:55
 msgid "Almost ready..."
@@ -2620,7 +2620,7 @@ msgstr "Betonas"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:41
 msgid "Congrats"
-msgstr "Sveikiname"
+msgstr "Sveikinu!"
 
 #. placeholder {0}: data.level
 #: src/components/_user/notification/notification.frontConfig.tsx:396
@@ -4530,7 +4530,7 @@ msgstr "Izoliacionistas: šis prisiekęs priešas prasideda nuo {start}% bonuso 
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:9
 msgid "It only gets better… maybe"
-msgstr "Tik geriau... galbūt"
+msgstr "Bus tik geriau... galbūt"
 
 #: src/components/_economy/company/CompanyTags.tsx:72
 msgid "It will not gain any production and its workers will not be able to work."
@@ -4954,7 +4954,7 @@ msgstr "Generolas Leitenantas"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:59
 msgid "Luck is finally on payroll"
-msgstr "Sėkmė pagaliau atlyginimų sąraše"
+msgstr "Sėkmė pagaliau dirba tau"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:191
 msgid "Mage Robe"
@@ -5600,7 +5600,7 @@ msgstr "Šaunu"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:66
 msgid "Nice one"
-msgstr "Šaunuolis"
+msgstr "Geras šitas"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:192
 msgid "Nice work!"
@@ -7100,7 +7100,7 @@ msgstr "Pasisveikink!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:14
 msgid "Scammed"
-msgstr "Apgavystė"
+msgstr "Scamas"
 
 #: src/utils/translations.tsx:40
 msgid "Scraps"
@@ -7108,11 +7108,11 @@ msgstr "Metalo laužas"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:75
 msgid "Screenshot or it didn't happen"
-msgstr "Nuotrauka, kitaip neįrodyta"
+msgstr "Screenshotas arba to nebuvo"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:64
 msgid "Screenshot this or no one will believe you"
-msgstr "Nusifotografuok, kitaip niekas nepatikės"
+msgstr "Pasidaryk screenshotą, kitaip niekas nepatikės"
 
 #: src/components/_political/country/CountrySelectV2.tsx:233
 msgid "Search countries..."
@@ -7563,7 +7563,7 @@ msgstr "Netrukus prasidės..."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:11
 msgid "Statistically impossible to stay this unlucky"
-msgstr "Statistiškai neįmanoma būti tokiam nelaimėliui"
+msgstr "Statistiškai neįmanoma, kad taip nesisektų"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:92
 msgid "Statistically rigged"
@@ -7881,7 +7881,7 @@ msgstr "Ši šalis yra Fanatiška imperialistė: ji negali turėti ministrų, ti
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:42
 msgid "This equipment is green and so is grass"
-msgstr "Ši įranga žalia kaip žolė"
+msgstr "Ši įranga žalia, kaip ir žolė"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:62
 msgid "This feels good, huh?"
@@ -8851,7 +8851,7 @@ msgstr "Kas per velnias"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:79
 msgid "Wtf is this possible?"
-msgstr "Kaip čia išvis įmanoma?"
+msgstr "WTF, čia išvis įmanoma?"
 
 #: src/components/_common/GameRules.tsx:283
 msgid "X. Punishments and Appeals"
@@ -8921,7 +8921,7 @@ msgstr "Nusipirkai daiktų."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:77
 msgid "You broke the rng"
-msgstr "Sugadinai RNG"
+msgstr "Sulaužei RNG"
 
 #. placeholder {0}: staticGameConfig.referral.levelNeededForBadge
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:172
@@ -9161,7 +9161,7 @@ msgstr "Buvai paskirtas savo šalies viceprezidentu"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:21
 msgid "You were so close"
-msgstr "Tau beveik pavyko"
+msgstr "Buvai taip arti"
 
 #. placeholder {0}: gameConfig?.referral.lifeTimeBadgeMoneySharePercent
 #: src/components/_user/referral/ReferralList.tsx:117
@@ -9202,7 +9202,7 @@ msgstr "Būsi legenda kokius 100 smūgių!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:49
 msgid "You're literally one case away from greatness"
-msgstr "Tave nuo didybės skiria vos viena dėžė"
+msgstr "Tave nuo sėkmės skiria vos viena dėžė"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:47
 msgid "You're officially better than 80% of players"
@@ -9226,7 +9226,7 @@ msgstr "Tavo <0>gamybos</0> juosta pilna! Spustelėk, kad pagamintum daiktus ir 
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:96
 msgid "Your account has been automatically reported for cheating"
-msgstr "Tavo paskyra buvo automatiškai pranešta dėl sukčiavimo"
+msgstr "Tavo paskyra buvo automatiškai pranešta dėl čytinimo"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:74
 msgid "Your ancestors are proud"
@@ -9325,7 +9325,7 @@ msgstr "Tavo sėkmė tik įsibėgėja, nepasiduok"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:24
 msgid "Your luck is on vacation"
-msgstr "Sėkmė atostogauja"
+msgstr "Tavo sėkmė išėjo atostogų"
 
 #: src/components/_military/mu/MuFormModal.tsx:108
 msgid "Your military unit name"
