@@ -197,7 +197,7 @@ msgstr "<0/> з зарплатою <1>{0}</1>.{1}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:54
 msgid "<0/> banned <1/> from the conversation"
-msgstr ""
+msgstr "<0/> заблокував <1/> у цій розмові"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1863
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
@@ -763,7 +763,7 @@ msgstr "<0>Підсилення</0> закінчується <1/>"
 
 #: src/components/_political/country/CountryHeader.tsx:171
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
-msgstr ""
+msgstr "<0>Початковий розвиток</0> розраховується через <1>Населення</1> держави та його середній <2>Рівень</2>. Після цього рівномірно розподіляється з-поміж <3>Національних регіонів</3> держави."
 
 #: src/components/_political/country/CountryHeader.tsx:235
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
@@ -1777,39 +1777,39 @@ msgstr "Ну, ти спробував"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:302
 msgid "AT Light Ammo"
-msgstr ""
+msgstr "Легкі набої АТ"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:287
 msgid "AT Pistol"
-msgstr ""
+msgstr "Пістолет АТ"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:293
 msgid "AT Sniper Rifle"
-msgstr ""
+msgstr "Снайперка АТ"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:317
 msgid "AT Tactical Boots"
-msgstr ""
+msgstr "Тактичні чоботи АТ"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:323
 msgid "AT Tactical Gloves"
-msgstr ""
+msgstr "Тактичні рукавиці АТ"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:311
 msgid "AT Tactical Helmet"
-msgstr ""
+msgstr "Тактичний шолом АТ"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:320
 msgid "AT Tactical Pants"
-msgstr ""
+msgstr "Тактичні штани АТ"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:284
 msgid "AT Tactical Shield"
-msgstr ""
+msgstr "Тактичний щит АТ"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:314
 msgid "AT Tactical Vest"
-msgstr ""
+msgstr "Тактичний жилет АТ"
 
 #: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
@@ -5680,7 +5680,7 @@ msgstr "Рейтингу за балами контролю ще немає."
 
 #: src/components/_user/kits/KitsPopover.tsx:130
 msgid "No kits yet - add one to quick-equip a full loadout."
-msgstr ""
+msgstr "Наборів поки нема - додайте якийсь, щоб швидко одягнути повний боєкомплект."
 
 #: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
@@ -8733,7 +8733,7 @@ msgstr "Ласкаво просимо до вашої економіки!"
 #. placeholder {0}: formatPercent( ethicsBonuses.militarism[2].pacificationDefenseBonusPerLevel, )
 #: src/components/_political/party/party.frontConfig.tsx:116
 msgid "When defending a revolt, gain an additional <0>{0}</0> battle bonus per Pacification Center level."
-msgstr "Захищаючись у повстаннях отримуэ додтакові <0>{0}</0> бойового бонусу за кожен рівень центру умиротворення."
+msgstr "Захищаючись у повстаннях, отримує додаткові <0>{0}</0> бойового бонусу за кожен рівень центру умиротворення."
 
 #: src/components/_political/party/party.frontConfig.tsx:63
 msgid "When revolting, you copy the enemy's defensive battle bonus from Bunker region upgrades."
@@ -8855,7 +8855,7 @@ msgstr "WTF, це взагалі можливо?"
 
 #: src/components/_common/GameRules.tsx:283
 msgid "X. Punishments and Appeals"
-msgstr ""
+msgstr "X. Покарання та апеляції"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:44
 msgid "XP"
