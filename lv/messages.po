@@ -2954,7 +2954,7 @@ msgstr "Izveidots:"
 #: src/components/_user/user/skills.frontConfig.tsx:51
 #: src/components/_user/user/skills.frontConfig.tsx:52
 msgid "Crit. chance"
-msgstr "Krit. iespēja"
+msgstr "Krit. iespējamība"
 
 #: src/components/_user/user/skills.frontConfig.tsx:63
 #: src/components/_user/user/skills.frontConfig.tsx:64
