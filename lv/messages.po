@@ -8202,7 +8202,7 @@ msgstr "Pārskaitīt naudu"
 
 #: src/components/_military/mu/MuMemberList.tsx:161
 msgid "Transfer Ownership"
-msgstr "Mainīt īpašumtiesības"
+msgstr "Nodot īpašumtiesības"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:199
 msgid "Transfer to company (optional)"
