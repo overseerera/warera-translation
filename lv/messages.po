@@ -2054,7 +2054,7 @@ msgstr "Uzvarētas kaujas"
 
 #: src/components/_military/war/WarComparison.tsx:66
 msgid "Battles Won"
-msgstr "Uzvarētās kaujas"
+msgstr "Uzvarētas kaujas"
 
 #: src/components/_political/election/CandidateFormModal.tsx:55
 msgid "Become a Candidate"
