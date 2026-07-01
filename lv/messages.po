@@ -3677,7 +3677,7 @@ msgstr "Problēmu atradējs"
 
 #: src/components/_common/GameRules.tsx:146
 msgid "Exploited accounts will be permanently banned and the boosted account will receive a temporary ban, fine, or permanent ban if repeated."
-msgstr "Ļaunprātīgi izmantotie konti tiks pastāvīgi bloķēti, bet kontam, kuram sniegta palīdzība, tiks piemērots pagaidu bloķējums, naudas sods vai pastāvīgs bloķējums, ja tas atkārtosies."
+msgstr "Ļaunprātīgi izmantotie konti tiks neatgriezeniski nobloķēti, bet kontam, kuram sniegta palīdzība, tiks piemērots pagaidu bloķējums, naudas sods vai pastāvīgs bloķējums, ja tas atkārtosies."
 
 #: src/components/_common/GameRules.tsx:93
 msgid "Exploiting or ignoring bugs for personal gain is forbidden. All players are expected to report any discovered bugs and avoid taking advantage of them."
