@@ -1363,7 +1363,7 @@ msgstr "Aktīvie pilsoņi"
 
 #: src/pages/region/[regionId]/index.tsx:212
 msgid "Active construction"
-msgstr "Aktīvā būvēšana"
+msgstr "Notiek būvdarbi"
 
 #: src/pages/war/[warId]/index.tsx:45
 msgid "Active War"
