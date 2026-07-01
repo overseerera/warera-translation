@@ -3297,7 +3297,7 @@ msgstr "Samazini <0/> dzīvību zudumu kaujās, izmantojot <1>bruņas</1>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:299
 msgid "Diminish Received Damages"
-msgstr "Samazini saņemtos bojājumus"
+msgstr "Samazināt dzīvību zudumu"
 
 #: src/pages/country/[countryId]/index.tsx:196
 msgid "Diplomacy"
