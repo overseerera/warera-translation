@@ -3293,7 +3293,7 @@ msgstr "Attīstība"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:301
 msgid "Diminish <0/> received damages with <1>Armor</1> in battles"
-msgstr "Samazini kaujās saņemtos <0/> bojājumus, izmantojot <1>bruņas</1>"
+msgstr "Samazini <0/> dzīvību zudumu kaujās, izmantojot <1>bruņas</1>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:299
 msgid "Diminish Received Damages"
