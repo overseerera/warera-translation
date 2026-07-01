@@ -8724,7 +8724,7 @@ msgstr "Ar atgriešanos, {username}!"
 
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Welcome to War Era!"
-msgstr "Laipni lūgdzam spēlē „War Era“ (Kara laikmetā)!"
+msgstr "Laipni lūdzam spēlē „War Era“ (Kara laikmets)!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:25
 msgid "Welcome to your economy!"
