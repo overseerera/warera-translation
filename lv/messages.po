@@ -5664,7 +5664,7 @@ msgstr "Nav neviena dumpinieka"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:170
 msgid "No damages ranking yet."
-msgstr "Nav bojājumu reitingā"
+msgstr "Nav bojājumu kopvērtējumā"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:393
 msgid "No defensive pact"
