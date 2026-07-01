@@ -7065,7 +7065,7 @@ msgstr "Raundu vēsture"
 #: src/components/_military/war/WarItem.tsx:56
 #: src/components/_military/war/WarItem.tsx:90
 msgid "Rounds won"
-msgstr "Uzvarētie raundi"
+msgstr "Uzvarēti raundi"
 
 #: src/components/_military/war/WarComparison.tsx:78
 msgid "Rounds Won"
