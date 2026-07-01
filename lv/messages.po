@@ -7613,7 +7613,7 @@ msgstr "Stratēģiskie resursi"
 
 #: src/components/_political/event/event.frontConfig.tsx:436
 msgid "Strategic resources have been reshuffled across the whole map."
-msgstr "Uz kartes notikusi stratēģisko resursu pārdale."
+msgstr "Uz kartes notikusi jauna stratēģisko resursu pārdale."
 
 #: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
