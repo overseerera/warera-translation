@@ -6523,7 +6523,7 @@ msgstr "Ātri izjauc vairākus ekipējumus vienlaicīgi"
 
 #: src/components/_military/battle/BattleHeader.tsx:299
 msgid "Ranking"
-msgstr "Reitings"
+msgstr "Kopvērtējums"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2022
 msgid "Ranking reward"
