@@ -7069,7 +7069,7 @@ msgstr "Uzvarēti raundi"
 
 #: src/components/_military/war/WarComparison.tsx:78
 msgid "Rounds Won"
-msgstr "Uzvarētie raundi"
+msgstr "Uzvarēti raundi"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:169
 #: src/components/_user/auth/WelcomeModal.tsx:170
