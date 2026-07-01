@@ -5264,7 +5264,7 @@ msgstr "Nopelnītā nauda no algotņu līgumiem."
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:134
 msgid "Money ranking"
-msgstr "Nopelnītās naudas reitingi"
+msgstr "Atlīdzību kopvērtējums"
 
 #: src/components/_political/event/EventList.tsx:69
 msgid "Money transfer"
