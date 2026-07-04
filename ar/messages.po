@@ -814,7 +814,7 @@ msgstr "<0>يتطلب حسابك إجراء تحقق إضافي. يرجى الت
 
 #: src/components/_layout/LayoutOptions.tsx:97
 msgid "= consumes more power"
-msgstr "= يستهلك طاقة أكثر"
+msgstr "= يستهلك طاقة أكثر من جهازك"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -2335,7 +2335,7 @@ msgstr "فرصة الغنائم الفورية لكل ضربة:<0/>كل <1>1%</1
 
 #: src/components/_user/user/skills.frontConfig.tsx:138
 msgid "Chance to dodge all incoming damage when fighting in battles.<0/>Dodging also prevents equipment durability from being consumed."
-msgstr "فرصة لتفادي جميع الأضرار القادمة عند القتال في المعارك.<0/>التفادي يمنع أيضاً استهلاك متانة المعدات."
+msgstr "فرصة لتفادي جميع الأضرار القادمة عند القتال في المعارك.<0/>التفادي يمنع أيضاً استهلاك المعدات."
 
 #: src/components/_user/user/skills.frontConfig.tsx:124
 msgid "Chance to hit the target.<0/>Misses cannot crit, and deal half damage."
@@ -3926,7 +3926,7 @@ msgstr "سمك"
 
 #: src/components/_layout/LayoutOptions.tsx:137
 msgid "Flags"
-msgstr "أعلام"
+msgstr "الأعلام"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:158
 msgid "Flail"
@@ -4865,7 +4865,7 @@ msgstr "الإعجاب برسالة"
 
 #: src/utils/translations.tsx:30
 msgid "Limestone"
-msgstr "حجر جيري"
+msgstr "حجر"
 
 #: src/components/_user/user/skills.frontConfig.tsx:116
 msgid "Limit of food consumption"
@@ -5963,7 +5963,7 @@ msgstr "عميل"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:159
 msgid "Options"
-msgstr "خيارات"
+msgstr "الإعدادات"
 
 #: src/components/_military/order/BattleOrderTags.tsx:25
 msgid "Order"
@@ -6905,7 +6905,7 @@ msgstr "إعادة سحب المهمة"
 
 #: src/pages/user/[userId]/skills.tsx:167
 msgid "Reset"
-msgstr "إعادة تعيين"
+msgstr "إعادة تعيين المهارات"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:290
 msgid "Reset CAPTCHA"
@@ -8664,7 +8664,7 @@ msgstr "انتهت الحرب"
 
 #: src/components/_user/modals/PremiumModal.tsx:39
 msgid "War Era is 100% free to play and has no <0>ads</0> or <1>pay-to-win</1>, If you enjoy the game, you can support its development by subscribing to the Supporter Plan <3"
-msgstr "لعبة War Era مجانية للعب بنسبة 100% ولا تحتوي على <0>إعلانات</0> أو <1>دفع للفوز</1>، إذا استمتعت باللعبة، يمكنك دعم تطويرها من خلال الاشتراك في خطة الداعم <3"
+msgstr "لعبة عصر الحرب مجانية للعب بنسبة 100% ولا تحتوي على <0>إعلانات</0> أو <1>دفع للفوز</1>، إذا استمتعت باللعبة، يمكنك دعم تطويرها من خلال الاشتراك في خطة الداعم <3"
 
 #: src/components/_user/userReports/ReportFormModal.tsx:83
 msgid "Warning"
@@ -8825,7 +8825,7 @@ msgstr "العمال"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
-msgstr "العمل لدى الآخرين طريقة رائعة لكسب المال في البداية."
+msgstr "العمل لدى الآخرين طريقة رائعة لكسب المال في البداية في بدايتك للعبة."
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:64
 msgid "World <0/>"
@@ -9312,7 +9312,7 @@ msgstr "تم حفظ معلوماتك."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:85
 msgid "Your inventory holds all your items. Let's see what you've got!"
-msgstr "مخزونك يحتوي على جميع عناصرك. لنرى ما لديك!"
+msgstr "مخزونك يحتوي على جميع عناصرك, لنرى ما لديك!"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:62
 #: src/components/_military/battle/LootSummaryCard.tsx:66
