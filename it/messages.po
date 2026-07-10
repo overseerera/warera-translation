@@ -300,7 +300,7 @@ msgstr "<0/> ti ha regalato la skin \"{skinTitle}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1816
 msgid "<0/> gifted you the skin pack \"{skinPackTitle}\"!"
-msgstr ""
+msgstr "<0/> ti ha regalato il pacchetto skin \"{skinPackTitle}\"!"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:227
 msgid "<0/> got fee back"
@@ -623,7 +623,7 @@ msgstr "<0>{0}</0> contro il nemico di <1/>"
 #. placeholder {0}: levelConfig.stats.attackBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:49
 msgid "<0>{0}</0> Attack bonus when attacking from this region.<1/>Citizens get the full bonus, allied countries get half."
-msgstr "<0>{0}<0> Bonus di attacco da questa regione. <1/>I cittadini ottengono l'intero bonus, le nazioni alleate solo metà"
+msgstr "<0>{0}</0> Bonus di attacco da questa regione. <1/>I cittadini ottengono l'intero bonus, le nazioni alleate solo metà"
 
 #. placeholder {0}: sideBonus.regionNotLinkedToCapitalMalusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:209
@@ -806,7 +806,7 @@ msgstr "<0>Riempito con <1>Punti Produzione</1> dai dipendenti che lavorano e da
 #. placeholder {5}: gameConfig?.unrest.contributionCooldownAfterRevolutionHours
 #: src/components/_political/unrest/UnrestBar.tsx:25
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can <3>increase</3> or <4>decrease</4> unrest by spending <5>{0}</5> or <6>{1}</6> to change the bar by <7>{2}</7>.<8/><9/>When the bar is full, any party can vote via motion to start a <10>Civil war</10> (cost: <11>development × 10</11>, cooldown: {3}h). The battle takes place in the capital region, and <12>only citizens</12> can fight.<13/><14/>If revolutionaries win:<15/>- Government is impeached<16/>- Borders are opened for {4} days<17/>- Presidential elections begin<18/><19/>After a revolution, contributions are disabled for {5}h."
-msgstr "<0>Il <0>Malcontento</0> rappresenta la tensione interna nel paese.<1/><2/>I cittadini possono <3>aumentare</3> o <4>diminuire</4> il malcontento spendendo <5>{0}</5> o <6>{1}</6> per cambiare la barra di <7>{2}</7>.<8/><9/>Quando la barra è piena, qualsiasi partito può votare tramite mozione per avviare una <10>Guerra civile</10> (costo: <11>sviluppo × 10</11>, cooldown: {3}h). La battaglia si svolge nella regione capitale e <12>solo i cittadini</12> possono combattere.<13/><14/>Se i rivoluzionari vincono:<15/>- Il governo viene destituito<16/>- I confini vengono aperti per {4} giorni<17/>- Iniziano le elezioni presidenziali<18/><19/>Dopo una rivoluzione, i contributi sono disabilitati per {5}h."
+msgstr "Il <0>Malcontento</0> rappresenta la tensione interna nel paese.<1/><2/>I cittadini possono <3>aumentare</3> o <4>diminuire</4> il malcontento spendendo <5>{0}</5> o <6>{1}</6> per cambiare la barra di <7>{2}</7>.<8/><9/>Quando la barra è piena, qualsiasi partito può votare tramite mozione per avviare una <10>Guerra civile</10> (costo: <11>sviluppo × 10</11>, cooldown: {3}h). La battaglia si svolge nella regione capitale e <12>solo i cittadini</12> possono combattere.<13/><14/>Se i rivoluzionari vincono:<15/>- Il governo viene destituito<16/>- I confini vengono aperti per {4} giorni<17/>- Iniziano le elezioni presidenziali<18/><19/>Dopo una rivoluzione, i contributi sono disabilitati per {5}h."
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:113
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
@@ -1612,7 +1612,7 @@ msgstr "Un altro paese ha proposto un accordo difensivo alla tua"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:40
 msgid "Anti Terrorist Pack"
-msgstr ""
+msgstr "Pacchetto Squadra Speciale"
 
 #: src/components/_common/GameRules.tsx:61
 msgid "Any attempts to bypass these rules can result in the removal of sharing status, fines and temporary or permanent bans."
@@ -1753,23 +1753,23 @@ msgstr "Articoli di <0/>"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:305
 msgid "AT Ammo"
-msgstr ""
+msgstr "Munizioni Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:296
 msgid "AT Armored Tank"
-msgstr ""
+msgstr "Carro Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:290
 msgid "AT Assault Rifle"
-msgstr ""
+msgstr "Fucile d'assalto Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:299
 msgid "AT Combat Helicopter"
-msgstr ""
+msgstr "Elicottero Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:308
 msgid "AT Heavy Ammo"
-msgstr ""
+msgstr "Munizioni pesanti Squadra Speciale"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:8
 msgid "At least you tried"
@@ -1777,39 +1777,39 @@ msgstr "Almeno ci hai provato"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:302
 msgid "AT Light Ammo"
-msgstr ""
+msgstr "Munizioni leggere Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:287
 msgid "AT Pistol"
-msgstr ""
+msgstr "Pistola Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:293
 msgid "AT Sniper Rifle"
-msgstr ""
+msgstr "Fucile da cecchino Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:317
 msgid "AT Tactical Boots"
-msgstr ""
+msgstr "Stivali Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:323
 msgid "AT Tactical Gloves"
-msgstr ""
+msgstr "Guanti Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:311
 msgid "AT Tactical Helmet"
-msgstr ""
+msgstr "Elmetto Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:320
 msgid "AT Tactical Pants"
-msgstr ""
+msgstr "Pantaloni Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:284
 msgid "AT Tactical Shield"
-msgstr ""
+msgstr "Scudo Squadra Speciale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:314
 msgid "AT Tactical Vest"
-msgstr ""
+msgstr "Pettorina Squadra Speciale"
 
 #: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
@@ -1918,7 +1918,7 @@ msgstr "Bilanciato - Nessun modificatore"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:359
 msgid "Ball"
-msgstr ""
+msgstr "Palla"
 
 #: src/components/_political/event/EventList.tsx:73
 msgid "Bankruptcy"
@@ -2362,7 +2362,7 @@ msgstr "Cambia il colore in <0>{0}</0>"
 
 #: src/components/_military/mu/MuSettings.tsx:87
 msgid "Change nationality"
-msgstr ""
+msgstr "Cambia nazionalità"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:67
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:82
@@ -2536,7 +2536,7 @@ msgstr "Combinazione colori"
 
 #: src/components/_layout/LayoutOptions.tsx:172
 msgid "Colorblind mode"
-msgstr ""
+msgstr "Modalità per daltonici"
 
 #: src/components/_military/mu/MuMemberList.tsx:327
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:155
@@ -2603,7 +2603,7 @@ msgstr "Azienda rinominata!"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:148
 msgid "Company upgraded!"
-msgstr ""
+msgstr "Azienda migliorata!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:194
 msgid "Complete missions daily to earn XP and level up faster. Click to claim!"
@@ -2983,7 +2983,7 @@ msgstr "Unità militare attuale"
 
 #: src/components/_military/mu/MuSettings.tsx:61
 msgid "Current nationality"
-msgstr ""
+msgstr "Nazionalità attuale"
 
 #: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
@@ -3502,7 +3502,7 @@ msgstr "Corazza élite"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:45
 msgid "Elite counter-terrorism unit"
-msgstr ""
+msgstr "Unità speciale anti terrorismo"
 
 #: src/utils/translations.tsx:215
 msgid "Elite Gloves"
@@ -4211,51 +4211,51 @@ msgstr "Punti terreno"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:338
 msgid "GSG9 Armored Tank"
-msgstr ""
+msgstr "Carro GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:332
 msgid "GSG9 Assault Rifle"
-msgstr ""
+msgstr "Fucile d'assalto GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:341
 msgid "GSG9 Combat Helicopter"
-msgstr ""
+msgstr "Elicottero GSG9"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:44
 msgid "GSG9 Pack"
-msgstr ""
+msgstr "Pacchetto GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:329
 msgid "GSG9 Pistol"
-msgstr ""
+msgstr "Pistola GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:335
 msgid "GSG9 Sniper Rifle"
-msgstr ""
+msgstr "Fucile da cecchino GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:350
 msgid "GSG9 Tactical Boots"
-msgstr ""
+msgstr "Stivali GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:356
 msgid "GSG9 Tactical Gloves"
-msgstr ""
+msgstr "Guanti GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:344
 msgid "GSG9 Tactical Helmet"
-msgstr ""
+msgstr "Elmetto GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:353
 msgid "GSG9 Tactical Pants"
-msgstr ""
+msgstr "Pantaloni GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:326
 msgid "GSG9 Tactical Shield"
-msgstr ""
+msgstr "Scudo tattico GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:347
 msgid "GSG9 Tactical Vest"
-msgstr ""
+msgstr "Pettorina GSG9"
 
 #: src/utils/translations.tsx:23
 msgid "Gun"
@@ -4997,7 +4997,7 @@ msgstr "Accento mappa"
 
 #: src/components/_layout/LayoutOptions.tsx:142
 msgid "Map icons"
-msgstr ""
+msgstr "Icone mappa"
 
 #: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
@@ -5023,7 +5023,7 @@ msgstr "Livello massimo raggiunto!"
 #: src/components/_economy/company/CompanyDropdown.tsx:221
 #: src/components/_economy/company/CompanyDropdown.tsx:239
 msgid "Maxed!"
-msgstr ""
+msgstr "Al massimo!"
 
 #. placeholder {0}: levelConfig.stats.members
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:109
@@ -5242,7 +5242,7 @@ msgstr "Ministro degli Esteri"
 
 #: src/components/_layout/LayoutOptions.tsx:180
 msgid "Mission tags"
-msgstr ""
+msgstr "Etichette missioni"
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -5438,7 +5438,7 @@ msgstr "Taglia nazionale"
 
 #: src/components/_military/mu/MuSettings.tsx:30
 msgid "Nationality updated"
-msgstr ""
+msgstr "Nazionalità aggiornata"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:56
 msgid "Need a job?"
@@ -5446,7 +5446,7 @@ msgstr "Ti serve un lavoro?"
 
 #: src/components/_economy/inventory/ItemRecipe.tsx:59
 msgid "Needs more <0/> to produce"
-msgstr ""
+msgstr "Te ne servono altre <0/> per produrre"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
@@ -5534,7 +5534,7 @@ msgstr "Nuovo nome"
 
 #: src/components/_military/mu/MuSettings.tsx:74
 msgid "New nationality"
-msgstr ""
+msgstr "Nuova nazionalità"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "New Party Application"
@@ -5680,7 +5680,7 @@ msgstr "Nessuna classifica terreno ancora."
 
 #: src/components/_user/kits/KitsPopover.tsx:130
 msgid "No kits yet - add one to quick-equip a full loadout."
-msgstr ""
+msgstr "Nessun kit - aggiungine uno per equipaggiare un intero set"
 
 #: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
@@ -5824,7 +5824,7 @@ msgstr "In nessuna alleanza"
 
 #: src/components/_military/mu/MuSettings.tsx:67
 msgid "Not set"
-msgstr ""
+msgstr "Non impostato"
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:79
@@ -5898,7 +5898,7 @@ msgstr "Solo i supporter possono vedere la suddivisione di spese e entrate."
 
 #: src/components/_military/mu/MuSettings.tsx:97
 msgid "Only the owner and commanders can change the nationality."
-msgstr ""
+msgstr "Solo il proprietario ed i comandanti possono cambiare la nazionalità"
 
 #: src/components/_political/party/party.frontConfig.tsx:264
 msgid "Only your core regions generate development income."
@@ -6326,7 +6326,7 @@ msgstr "Elezioni presidenziali"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:430
 msgid "Price auto-matches existing orders"
-msgstr ""
+msgstr "Adatta agli ordini esistenti"
 
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
@@ -7136,7 +7136,7 @@ msgstr "Vedi la ripartizione di spese e entrate"
 
 #: src/components/_military/mu/MuSettings.tsx:77
 msgid "Select a country"
-msgstr ""
+msgstr "Seleziona una nazione"
 
 #: src/components/_military/mu/MuFormModal.tsx:114
 msgid "Select a location"
@@ -7682,7 +7682,7 @@ msgstr "Piano supporter"
 
 #: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Supporter Plan: up to {premiumMax} kits"
-msgstr ""
+msgstr "Piano supporter: fino a {premiumMax} kit"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
@@ -8114,7 +8114,7 @@ msgstr "Totale donato:"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:484
 msgid "Total of <0/>"
-msgstr ""
+msgstr "Totale di <0/>"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
@@ -8343,7 +8343,7 @@ msgstr "Potenzia un'azienda"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:207
 msgid "Upgrade automated engine"
-msgstr ""
+msgstr "Migliora il motore automatico"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:393
 msgid "Upgrade Company"
@@ -8355,7 +8355,7 @@ msgstr "Potenzia abilità"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:225
 msgid "Upgrade storage"
-msgstr ""
+msgstr "Migliora il magazzino"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:205
 msgid "Upgrade to supporter"
@@ -8758,7 +8758,7 @@ msgstr "Perché vuoi proporre questa legge?"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:36
 msgid "Winter Soldier Pack"
-msgstr ""
+msgstr "Pacchetto Soldato d'Inverno"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:185
 msgid "with bonus"
@@ -9112,7 +9112,7 @@ msgstr "Hai regalato con successo un abbonamento premium a <0/>!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1781
 msgid "You successfully gifted the skin pack \"{skinPackTitle}\" to <0/>!"
-msgstr ""
+msgstr "Hai regalato con successo il pacchetto skin \"{skinPackTitle}\" a <0/>!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:130
 msgid "You survived the big reset"
@@ -9333,7 +9333,7 @@ msgstr "Nome della tua unità militare"
 
 #: src/components/_military/mu/MuSettings.tsx:53
 msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
-msgstr ""
+msgstr "La nazionalità della tua unità militare è la nazione che essa rappresenta. Cambiarla è gratuito e può essere fatto ogni {cooldownDays} giorni."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
@@ -9404,8 +9404,8 @@ msgstr "Tuo"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:85
 msgid "Zoom in"
-msgstr ""
+msgstr "Ingrandisci"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:93
 msgid "Zoom out"
-msgstr ""
+msgstr "Rimpicciolisci"

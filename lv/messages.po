@@ -1,29 +1,29 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-16 20:49+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Patriots\n"
-"Language-Team: Patriots, EriksR, AriDev, Sindar\n"
-"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==0 || (n%100>=11 && n%100<=19) ? 0 : n%10==1 && n%100!=11 ? 1 : 2);\n"
 "X-Generator: Poedit 3.8\n"
+"Language: lv\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-06-29 21:09+0300\n"
+"Last-Translator: LV translator team\n"
+"Language-Team: Patriots, EriksR, AriDev, Sindar\n"
+"Plural-Forms: nplurals=3; plural=(n%10==0 || (n%100>=11 && n%100<=19) ? 0 : n%10==1 && n%100!=11 ? 1 : 2);\n"
 
 #: src/components/_common/GameRules.tsx:55
 msgid "  a. Trading equipment"
-msgstr ""
+msgstr "  a. Tirgoties ar ekipējumu"
 
 #: src/components/_common/GameRules.tsx:57
 msgid "  b. Working for each other"
-msgstr ""
+msgstr "  b. Strādāt vienam otra uzņēmumos"
 
 #: src/components/_common/GameRules.tsx:129
 msgid " - Funneling assets without proper exchange"
-msgstr ""
+msgstr " - Līdzekļu pārsūtīšanu bez pamatota seguma"
 
 #: src/components/_common/GameRules.tsx:127
 msgid " - Gear merging schemes *"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:117
 msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
-msgstr ""
+msgstr " - Zemas algas darbaspēku (zemāku par 0,8x un augstāku par 1,2x no standarta algas apjoma)"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:422
@@ -40,15 +40,15 @@ msgstr " - Iemesls: {0}"
 
 #: src/components/_common/GameRules.tsx:133
 msgid " - Repeated donations of resources or money to a military unit or country."
-msgstr ""
+msgstr " - Atkārtotiem resursu vai naudas ziedojumiem militārajai vienībai vai valstij."
 
 #: src/components/_common/GameRules.tsx:131
 msgid " - Repeatedly tipping articles"
-msgstr ""
+msgstr " - Atkārtotu dzeramnaudas atstāšanu spēles rakstiem"
 
 #: src/components/_common/GameRules.tsx:123
 msgid " - Using outside market standards or manipulated trade prices"
-msgstr ""
+msgstr " - Ārējo tirgus standartu izmantošanu vai tirgus cenu manipulēšanu"
 
 #: src/components/_user/premium/PremiumActions.tsx:74
 msgid " Gift a sub"
@@ -67,7 +67,7 @@ msgstr "- Attīstības ienākumi samazināti par 50%:<0>{0}</0>."
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:236
 msgid "(average member development)"
-msgstr ""
+msgstr "(vidējā alianses dalībvalstu attīstība)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
@@ -113,7 +113,7 @@ msgstr "{0} stundas"
 #. placeholder {1}: data.newPerK
 #: src/components/_user/notification/notification.frontConfig.tsx:1674
 msgid "{0} outbid you at ${1}/K"
-msgstr "{0} pārsita tevi ar ${1}/K"
+msgstr "{0} pārsolīja tevi ar ${1}/K"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:510
@@ -123,7 +123,7 @@ msgstr "{0} ierosināja jaunu likumu <0/>"
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:55
 msgid "{0} rounds are needed to win the battle."
-msgstr "Vajag {0} raundus, lai uzvarētu kaujā."
+msgstr "Vajadzīgi {0} raundi, lai uzvarētu kaujā."
 
 #. placeholder {0}: user.data?.username
 #: src/pages/user/[userId]/companies.tsx:85
@@ -178,7 +178,7 @@ msgstr "*Ja lietotājam jau ir dažas lietas no komplekta, cena būs mazāka"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:155
 msgid "*May burn"
-msgstr "*Var aizdegties"
+msgstr "*var aizdegties"
 
 #: src/components/_political/government/Government.tsx:222
 msgid "/day"
@@ -267,7 +267,7 @@ msgstr "<0/> izkrita <1/> no <2>{0}</2>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:172
 msgid "<0/> ended <1/>"
-msgstr "<0/> izbeidza <1/>"
+msgstr "<0/> beidzās <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:148
 msgid "<0/> financed a resistance war for <1/> in <2/>"
@@ -308,7 +308,7 @@ msgstr "<0/> saņēma iemaksu atpakaļ"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1331
 msgid "<0/> has been created, it gonna start soon!"
-msgstr "<0/> tika izveidots, tas drīz sāksies!"
+msgstr "Tika izveidots <0/>, tas drīz sāksies!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:213
 msgid "<0/> has been elected president of <1/>"
@@ -402,7 +402,7 @@ msgstr "<0/> uzbrūk tavai valstij <1/> reģionā"
 
 #: src/components/_political/event/event.frontConfig.tsx:304
 msgid "<0/> is in bankruptcy. Removing all alliances and disabling every region upgrades."
-msgstr "<0/> ir bankrotējusi. Visas alianses tiek atceltas un visi reģionu uzlabojumi - izslēgti."
+msgstr "<0/> ir bankrotējusi. Visi aizsardzības pakti tiek atcelti un visi reģionu uzlabojumi - izslēgti."
 
 #: src/components/_political/event/event.frontConfig.tsx:161
 msgid "<0/> is revolting in <1/>"
@@ -573,15 +573,15 @@ msgstr "<0/> uzvarēja <1>{0}.</1> raundu <2/>!"
 
 #: src/components/_user/user/UserHeader.tsx:289
 msgid "<0/><1>Buff</1> ends <2/>"
-msgstr "<0/><1>Pastiprinājums</1> beigsies <2/>"
+msgstr "<0/><1>Pastiprinājums</1> beigsies: <2/>"
 
 #: src/components/_user/user/UserHeader.tsx:298
 msgid "<0/><1>Debuff</1> ends <2/>"
-msgstr "<0/><1>Paģiras</1> beigsies <2/>"
+msgstr "<0/><1>Paģiras</1> beigsies: <2/>"
 
 #: src/components/_user/user/UserHeader.tsx:361
 msgid "<0/>Last connection was <1><2/></1>"
-msgstr "<0/>Pēdējā pieslēgšanās bija <1><2/></1>"
+msgstr "<0/>Pēdējoreiz tiešsaistē: <1><2/></1>"
 
 #: src/pages/war/[warId]/index.tsx:55
 msgid "<0/>Priority ends in <1/>"
@@ -643,7 +643,7 @@ msgstr "<0>{0}</0> jo <1/> okupē vismaz vienu no <2/> reģioniem"
 #. placeholder {0}: levelConfig.stats.defenseBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:34
 msgid "<0>{0}</0> Defense bonus when defending this region.<1/>Citizens get the full bonus, allied countries get half. Defensive pact partners don't benefit."
-msgstr "<0>{0}</0> Aizsardzības bonuss, auzsargājot šo reģionu.<1/>Pilsoņi gūst pilnu bonusu, sabiedrotās valstis - pusi. Aizsardzības pakta dalībvalstis negūst labumu."
+msgstr "<0>{0}</0> aizsardzības bonuss, aizsargājot šo reģionu.<1/>Pilsoņi gūst pilnu bonusu, sabiedrotās valstis - pusi. Aizsardzības pakta dalībvalstis negūst labumu."
 
 #. placeholder {0}: data.acceptanceFeeReturned
 #: src/components/_user/notification/notification.frontConfig.tsx:1615
@@ -675,7 +675,7 @@ msgstr "<0>{0}</0> no aizsardzības pakta ar <1/>"
 #. placeholder {0}: region.ethicDepositBonus
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:134
 msgid "<0>{0}</0> from agrarian ethics deposit bonus."
-msgstr "<0>{0}</0> no agrāriešu atradņu bonusa."
+msgstr "<0>{0}</0> no agrārisma atradņu bonusa."
 
 #. placeholder {0}: region.depositBonus
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:124
@@ -685,7 +685,7 @@ msgstr "<0>{0}</0> no resursu atradnēm."
 #. placeholder {0}: sideBonus.pacificationDefenseBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:273
 msgid "<0>{0}</0> from Fanatic Expansionist ethics (Pacification Center)"
-msgstr "<0>{0}</0> no Fanātiskā Ekspansionisma vērtībām (Pāraudzināsanas Centrs)"
+msgstr "<0>{0}</0> no Fanātiskā Ekspansionisma vērtībām (pāraudzināsanas centrs)"
 
 #. placeholder {0}: sideBonus.revoltBunkerCopyBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:263
@@ -700,7 +700,7 @@ msgstr "<0>{0}</0> kaujoties par savu valsti"
 #. placeholder {0}: region.ethicSpecializationBonus
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:114
 msgid "<0>{0}</0> from industrialist ethics specialization bonus."
-msgstr "<0>{0}</0> no industriālistu specializācijas bonusa."
+msgstr "<0>{0}</0> no industriālisma specializācijas bonusa."
 
 #. placeholder {0}: sideBonus.countryOrderBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:136
@@ -755,15 +755,15 @@ msgstr "<0>#{key}</0> katra tipa resurss = <1>{value}</1>"
 
 #: src/components/_political/country/CountryHeader.tsx:207
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
-msgstr "<0>Vidējā attīstība</0> ir vidējā vērtība starp <1>Pamata attīstību</1> un <2>Pašreizējo attīstību</2>."
+msgstr "<0>Vidējā attīstība</0> ir vidējā vērtība starp <1>pamata attīstību</1> un <2>pašreizējo attīstību</2>."
 
 #: src/components/_user/user/UserTooltip.tsx:131
 msgid "<0>Buff</0> ends <1/>"
-msgstr "<0>Pastiprinājums</0> beigsies <1/>"
+msgstr "<0>Pastiprinājums</0> beigsies: <1/>"
 
 #: src/components/_political/country/CountryHeader.tsx:171
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
-msgstr "<0>Pamata attīstība</0> tiek aprēķināta atkarībā no valsts <1>Iedzīvotāju skaita</1> un to vidējā <2>Līmeņa</2>. Tad sadalīta vienlīdzīgi starp valsts <3>Pamatreģioniem</3>."
+msgstr "<0>Pamata attīstība</0> tiek aprēķināta atkarībā no valsts <1>iedzīvotāju skaita</1> un to vidējā <2>līmeņa</2>. Tad sadalīta vienlīdzīgi starp valsts <3>pamatreģioniem</3>."
 
 #: src/components/_political/country/CountryHeader.tsx:235
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
@@ -771,7 +771,7 @@ msgstr "<0>Pašreizējā attīstība</0> ir kopējā attīstība valsts kontrol�
 
 #: src/components/_user/user/UserTooltip.tsx:140
 msgid "<0>Debuff</0> ends <1/>"
-msgstr "<0>Paģiras</0> beigsies <1/>"
+msgstr "<0>Paģiras</0> beigsies: <1/>"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
@@ -806,7 +806,7 @@ msgstr "<0>Piepildās ar <1>Ražošanas Punktiem</1> strādājot, kā arī no au
 #. placeholder {5}: gameConfig?.unrest.contributionCooldownAfterRevolutionHours
 #: src/components/_political/unrest/UnrestBar.tsx:25
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can <3>increase</3> or <4>decrease</4> unrest by spending <5>{0}</5> or <6>{1}</6> to change the bar by <7>{2}</7>.<8/><9/>When the bar is full, any party can vote via motion to start a <10>Civil war</10> (cost: <11>development × 10</11>, cooldown: {3}h). The battle takes place in the capital region, and <12>only citizens</12> can fight.<13/><14/>If revolutionaries win:<15/>- Government is impeached<16/>- Borders are opened for {4} days<17/>- Presidential elections begin<18/><19/>After a revolution, contributions are disabled for {5}h."
-msgstr "<0>Nemieri</0> atspoguļo iekšējo spriedzi valstī.<1/><2/>Pilsoņi var <3>palielināt</3> vai <4>samazināt</4> nemierus par <7>{2}</7>, iztērējot <5>{0}</5> vai <6>{1}</6>.<8/><9/>Kad stabiņš ir pilns, jebkura partija var balsot priekšlikumā, lai uzsāktu <10>Civilo karu</10> (maksa: <11>attīstība × 10</11>, atdzišanas laiks: {3}h). Kauja notiek valsts galvaspilsētas reģionā, un <12>tikai tās valsts pilsoņi</12> var piedalīties kaujā.<13/><14/>Ja revolucionāri uzvar:<15/>- Valdība tiek gāzta<16/>- Robežas tiek atvērtas uz {4} dienām<17/>- Tiek uzsāktas prezidenta vēlēšanas<18/><19/>Pēc revolūcijas, nevar atbalstīt nemierus {5}h."
+msgstr "<0>Nemieri</0> atspoguļo iekšējo spriedzi valstī.<1/><2/>Pilsoņi var <3>palielināt</3> vai <4>samazināt</4> nemierus par <7>{2}</7>, izmantojot <5>{0}</5> vai <6>{1}</6>.<8/><9/>Kad stabiņš ir pilns, jebkura partija var balsot priekšlikumā par <10>pilsoņu kara</10> uzsākšanu (maksa: <11>attīstība × 10</11>, atdzišanas laiks: {3}h). Kauja notiek valsts galvaspilsētas reģionā, un <12>tikai tās valsts pilsoņi</12> var piedalīties kaujā.<13/><14/>Ja revolucionāri uzvar:<15/>- Valdība tiek gāzta<16/>- Robežas tiek atvērtas uz {4} dienām<17/>- Tiek uzsāktas prezidenta vēlēšanas<18/><19/>Pēc revolūcijas, nevar atbalstīt nemierus {5}h."
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:113
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
@@ -822,11 +822,11 @@ msgstr "1 leģendārais jau ir. Vēl vajag 5, lai dabūtu pilnu komplektu - turp
 
 #: src/components/_common/GameRules.tsx:182
 msgid "1. English is the only allowed language in World/Global chat"
-msgstr ""
+msgstr "1. Pasaules/globālajā tērzēšanā ir atļauta tikai angļu valoda"
 
 #: src/components/_common/GameRules.tsx:28
 msgid "1. One-Account Policy"
-msgstr ""
+msgstr "1. Viena konta politika"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:137
 msgid "1★ Admiral"
@@ -894,11 +894,11 @@ msgstr "1★ Maršals"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:62
 msgid "1★ Operative"
-msgstr "1★ Štāba Virsseržants"
+msgstr "1★ Štāba virsseržants"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:67
 msgid "1★ Petty Officer"
-msgstr "1★ Galvenais Virsseržants"
+msgstr "1★ Galvenais virsseržants"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:32
 msgid "1★ Private"
@@ -938,7 +938,7 @@ msgstr "1★ Viceadmirālis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:77
 msgid "1★ Warrant Officer"
-msgstr "1★ Vecākais Apakšvirsnieks"
+msgstr "1★ Vecākais apakšvirsnieks"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:33
 msgid "100% historically accurate"
@@ -946,11 +946,11 @@ msgstr "100% vēsturiski precīzs"
 
 #: src/components/_common/GameRules.tsx:46
 msgid "2. IP and Device Sharing"
-msgstr ""
+msgstr "2. IP adrešu un ierīču koplietošana"
 
 #: src/components/_common/GameRules.tsx:187
 msgid "2. The report tool must be used fairly"
-msgstr ""
+msgstr "2. Pārkāpumu ziņošanas rīks ir jāizmanto godīgi"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:138
 msgid "2★ Admiral"
@@ -986,7 +986,7 @@ msgstr "2★ Kaprālis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:83
 msgid "2★ Ensign"
-msgstr "2★ Jaunākais Leitnants"
+msgstr "2★ Jaunākais leitnants"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:150
 msgid "2★ General"
@@ -1018,11 +1018,11 @@ msgstr "2★ Maršals"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:63
 msgid "2★ Operative"
-msgstr "2★ Štāba Virsseržants"
+msgstr "2★ Štāba virsseržants"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:68
 msgid "2★ Petty Officer"
-msgstr "2★ Galvenais Virsseržants"
+msgstr "2★ Galvenais virsseržants"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:33
 msgid "2★ Private"
@@ -1062,15 +1062,15 @@ msgstr "2★ Viceadmirālis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:78
 msgid "2★ Warrant Officer"
-msgstr "2★ Vecākais Apakšvirsnieks"
+msgstr "2★ Vecākais apakšvirsnieks"
 
 #: src/components/_common/GameRules.tsx:70
 msgid "3. Bots and Automation"
-msgstr ""
+msgstr "3. Boti un automatizācija"
 
 #: src/components/_common/GameRules.tsx:190
 msgid "3. The following content, directly or implied, is strictly prohibited:"
-msgstr ""
+msgstr "3. Sekojošs saturs, tiešs vai netiešs, ir stingri aizliegts:"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:139
 msgid "3★ Admiral"
@@ -1106,7 +1106,7 @@ msgstr "3★ Kaprālis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:84
 msgid "3★ Ensign"
-msgstr "3★ Jaunākais Leitnants"
+msgstr "3★ Jaunākais leitnants"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:151
 msgid "3★ General"
@@ -1138,11 +1138,11 @@ msgstr "3★ Maršals"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:64
 msgid "3★ Operative"
-msgstr "3★ Štāba Virsseržants"
+msgstr "3★ Štāba virsseržants"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:69
 msgid "3★ Petty Officer"
-msgstr "3★ Galvenais Virsseržants"
+msgstr "3★ Galvenais virsseržants"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:34
 msgid "3★ Private"
@@ -1182,15 +1182,15 @@ msgstr "3★ Viceadmirālis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:79
 msgid "3★ Warrant Officer"
-msgstr "3★ Vecākais Apakšvirsnieks"
+msgstr "3★ Vecākais apakšvirsnieks"
 
 #: src/components/_common/GameRules.tsx:90
 msgid "4. Bug Exploits"
-msgstr ""
+msgstr "4. Kļūdu izmantošana"
 
 #: src/components/_common/GameRules.tsx:256
 msgid "4. Community Behavior rules apply to every possible place within the game where people can write text and post content, as well as everywhere within the War Era Discord server"
-msgstr ""
+msgstr "4. Kopienas uzvedības noteikumi attiecas uz visām iespējamām vietām spēlē, kur lietotāji var rakstīt tekstu un publicēt saturu, kā arī visur „War Era“ Discord serverī"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:152
 msgid "4★ General"
@@ -1202,11 +1202,11 @@ msgstr "4★ Ģenerālleitnants"
 
 #: src/components/_common/GameRules.tsx:108
 msgid "5. Boosting and Exploitation"
-msgstr ""
+msgstr "5. Kontu manipulācijas un ļaunprātīga izmantošana"
 
 #: src/components/_common/GameRules.tsx:263
 msgid "5. Prohibited content will be removed, and offenders will be muted and/or banned for increasing periods of time, depending on the level and/or frequency of abuse. Highly problematic individuals with a heavy history of abuse will be permanently muted or banned."
-msgstr ""
+msgstr "5. Aizliegtais saturs tiks dzēsts, un pārkāpējiem tiks piemērots apklusināšanas un/vai konta bloķēšanas sods uz arvien ilgāku laiku atkarībā no pārkāpuma smaguma un/vai biežuma. Īpaši problemātiskām personām ar ievērojamu pārkāpumu vēsturi tiks piemērots pastāvīgs apklusināšanas vai konta bloķēšanas sods."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:153
 msgid "5★ General"
@@ -1218,11 +1218,11 @@ msgstr "5★ Ģenerālleitnants"
 
 #: src/components/_common/GameRules.tsx:163
 msgid "6. Taking Over and Misuse of State/Military unit assets"
-msgstr ""
+msgstr "6. Valsts/militārās vienības aktīvu pārņemšana un ļaunprātīga izmantošana"
 
 #: src/components/_common/GameRules.tsx:178
 msgid "7. Community Behavior"
-msgstr ""
+msgstr "7. Uzvedība kopienā"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
@@ -1230,7 +1230,7 @@ msgstr "<0>Atbalstītāja medaļa</0>"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
-msgstr "Smuks, krāsains lietotājvārds, kas padarīs tevi ļoti populāru"
+msgstr "Smuks, krāsains lietotājvārds, kas tevi padarīs ļoti populāru"
 
 #: src/components/_political/event/event.frontConfig.tsx:478
 msgid "A civil war has started by <0/> in <1/>"
@@ -1271,7 +1271,7 @@ msgstr "Verifikācijas kods tika nosūtīts uz {phoneNumber}"
 
 #: src/components/_common/GameRules.tsx:197
 msgid "a. Insults, slurs and targeted harassment"
-msgstr ""
+msgstr "a. Aizvainojumi, apvainojumi un mērķtiecīga uzmākšanās"
 
 #: src/components/_political/allianceLaw/AllianceLaw.tsx:142
 #: src/components/_political/law/Law.tsx:199
@@ -1335,7 +1335,7 @@ msgstr "Konts"
 
 #: src/components/_common/GameRules.tsx:111
 msgid "Accounts created solely to benefit a player, group, military unit or country are not permitted. Exploited accounts can take many forms. This includes, but is not limited to:"
-msgstr ""
+msgstr "Nav atļauts izveidot spēlētāju kontus, kuru vienīgais mērķis ir gūt labumu kādam spēlētājam, grupai, militārajai vienībai vai valstij. Ļaunprātīgi izmantoti konti var izpausties dažādās formās. Tas ietver, bet neaprobežojas ar:"
 
 #: src/pages/country/[countryId]/government.tsx:84
 msgid "Actions"
@@ -1351,7 +1351,7 @@ msgstr "Aktīvi"
 
 #: src/pages/region/[regionId]/index.tsx:206
 msgid "Active battle"
-msgstr "Aktīva kauja"
+msgstr "Aktīvā kauja"
 
 #: src/pages/country/[countryId]/index.tsx:203
 msgid "Active battles"
@@ -1359,19 +1359,19 @@ msgstr "Aktīvās kaujas"
 
 #: src/pages/country/[countryId]/citizens.tsx:35
 msgid "Active Citizens"
-msgstr "Aktīvi Pilsoņi"
+msgstr "Aktīvie pilsoņi"
 
 #: src/pages/region/[regionId]/index.tsx:212
 msgid "Active construction"
-msgstr "Aktīva būvēšana"
+msgstr "Notiek būvdarbi"
 
 #: src/pages/war/[warId]/index.tsx:45
 msgid "Active War"
-msgstr "Aktīvs Karš"
+msgstr "Aktīvs karš"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:259
 msgid "Active wars"
-msgstr "Aktīvi kari"
+msgstr "Aktīvie kari"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:179
 msgid "Activity"
@@ -1379,7 +1379,7 @@ msgstr "Aktivitāte"
 
 #: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
-msgstr "Pievienot Lietotāju"
+msgstr "Pievienot lietotāju"
 
 #: src/components/_political/law/Law.tsx:110
 #: src/components/_political/law/LawFormModal.tsx:328
@@ -1403,23 +1403,23 @@ msgstr "Admirālis"
 
 #: src/utils/translations.tsx:205
 msgid "Advanced Boots"
-msgstr "Zilie Zābaki"
+msgstr "Zilie zābaki"
 
 #: src/utils/translations.tsx:196
 msgid "Advanced Chest"
-msgstr "Zilā Bruņuveste"
+msgstr "Zilā bruņuveste"
 
 #: src/utils/translations.tsx:214
 msgid "Advanced Gloves"
-msgstr "Zilie Cimdi"
+msgstr "Zilie cimdi"
 
 #: src/utils/translations.tsx:187
 msgid "Advanced Helmet"
-msgstr "Zilā Ķivere"
+msgstr "Zilā ķivere"
 
 #: src/utils/translations.tsx:223
 msgid "Advanced Pants"
-msgstr "Zilās Bikses"
+msgstr "Zilās bikses"
 
 #: src/components/_political/party/party.frontConfig.tsx:355
 #: src/components/_political/party/party.frontConfig.tsx:372
@@ -1456,7 +1456,7 @@ msgstr "Visi notikumi"
 
 #: src/components/_user/notification/NotificationPrefsPanel.tsx:188
 msgid "All Ingame"
-msgstr "Visas Spēles"
+msgstr "Visas spēles"
 
 #: src/components/_social/ArticleList.tsx:120
 msgid "All languages"
@@ -1464,11 +1464,11 @@ msgstr "Visas valodas"
 
 #: src/components/_user/notification/NotificationPrefsPanel.tsx:168
 msgid "All Mobile"
-msgstr "Visas Telefona"
+msgstr "Visas telefona"
 
 #: src/pages/party/[partyId]/index.tsx:113
 msgid "All Parties"
-msgstr "Visas Partijas"
+msgstr "Visas partijas"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:204
 msgid "All rounds"
@@ -1480,12 +1480,12 @@ msgstr "Visi piederošie veidoli"
 
 #: src/components/_common/GameRules.tsx:59
 msgid "All transactions must stay fair and balanced."
-msgstr ""
+msgstr "Visiem darījumiem jābūt godīgiem un līdzsvarotiem."
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism['-2'].treatyMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:161
 msgid "All treaty maintenance costs are increased by <0>{0}</0>."
-msgstr "Visas līgumu uzturēšanas izmaksas tiek palielinātas par <0>{0}</0>."
+msgstr "Visas starptautisko līgumu uzturēšanas izmaksas tiek palielinātas par <0>{0}</0>."
 
 #: src/components/_economy/transaction/TransactionList.tsx:70
 msgid "All types"
@@ -1545,7 +1545,7 @@ msgstr "Gandrīz gatavs..."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:115
 msgid "Alpha Tester"
-msgstr "Alfa Testētājs"
+msgstr "Alfa testētājs"
 
 #: src/components/_user/UserEquipments.tsx:144
 #: src/utils/translations.tsx:35
@@ -1571,7 +1571,7 @@ msgstr "<0>Strādnieku</0> skaits, kurus vari pārvaldīt. Kā arī dienas nolī
 
 #: src/components/_user/user/skills.frontConfig.tsx:109
 msgid "Amount of companies you can own"
-msgstr "Uzņēmumu skaits, kas var darboties vienlaicīgi"
+msgstr "Uzņēmumu skaits, kas var darboties vienlaicīgi."
 
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1587
@@ -1616,7 +1616,7 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:61
 msgid "Any attempts to bypass these rules can result in the removal of sharing status, fines and temporary or permanent bans."
-msgstr ""
+msgstr "Jebkādi mēģinājumi apiet šos noteikumus var izraisīt koplietošanas statusa atņemšanu, naudas sodus un pagaidu vai pastāvīgu konta bloķēšanu."
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:40
 msgid "API token created"
@@ -1632,7 +1632,7 @@ msgstr "API žetons atsaukts"
 
 #: src/pages/user/[userId]/settings.tsx:85
 msgid "API Tokens"
-msgstr "API Žetons"
+msgstr "API žetons"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:101
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
@@ -1677,7 +1677,7 @@ msgstr "Vai esi pārliecināts, ka gribi izraidīt šo biedru?"
 
 #: src/pages/country/[countryId]/government.tsx:112
 msgid "Are you sure you want to leave the congress?"
-msgstr "Vai esi pārliecināts, ka gribi pamest kongresu?"
+msgstr "Vai esi pārliecināts, ka gribi pamest Saeimu?"
 
 #: src/pages/country/[countryId]/government.tsx:96
 msgid "Are you sure you want to leave the government?"
@@ -1689,7 +1689,7 @@ msgstr "Vai esi pārliecināts, ka gribi pieņemt šo izsoles piedāvājumu?"
 
 #: src/components/_military/mu/MuMemberList.tsx:147
 msgid "Are you sure you want to promote this member to commander?"
-msgstr "Vai esi pārliecināts, ka vēlies paaugstināt par komandieri šo biedru?"
+msgstr "Vai esi pārliecināts, ka vēlies paaugstināt šo biedru par komandieri?"
 
 #: src/pages/market/index.tsx:196
 msgid "Are you sure you want to remove all buy orders?"
@@ -1836,7 +1836,7 @@ msgstr "Izsoles ilgums (minūtes)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2101
 msgid "Auction Outbid"
-msgstr "Pārsists izsolē"
+msgstr "Pārsolīts izsolē"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:218
 msgid "Auction Won"
@@ -1876,7 +1876,7 @@ msgstr "Automatizētais dzinējs"
 #: src/components/_economy/work/WorkChart.tsx:235
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:74
 msgid "Automated Engine"
-msgstr "Automatizētais Dzinējs"
+msgstr "Automatizētais dzinējs"
 
 #: src/components/_user/user/UserDropdown.tsx:151
 msgid "Avatar removed"
@@ -1889,19 +1889,19 @@ msgstr "Vidējā attīstība"
 
 #: src/components/_common/GameRules.tsx:200
 msgid "b. Revealing personal information or doxxing (such as names or addresses), without explicit consent"
-msgstr ""
+msgstr "b. Personas datu atklāšana vai doksings (piemēram, vārdi vai adreses) bez skaidras personas piekrišanas"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:170
 msgid "Baby Boomer"
-msgstr "Bēbju Spridzinātājs"
+msgstr "Bēbju spridzinātājs"
 
 #: src/components/_user/referral/ReferralList.tsx:111
 msgid "Badge won"
-msgstr "Medaļa dabūta"
+msgstr "Medaļa iegūta"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1929
 msgid "Badge Won"
-msgstr "Dabūta medaļa"
+msgstr "Iegūta medaļa"
 
 #: src/pages/country/[countryId]/index.tsx:260
 #: src/pages/user/[userId]/index.tsx:135
@@ -1914,11 +1914,11 @@ msgstr "Centrisms"
 
 #: src/components/_political/party/party.frontConfig.tsx:438
 msgid "Balanced - No modifiers"
-msgstr "Centrisms - Nav modifikātoru"
+msgstr "Centrisms - nav modifikātoru"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:359
 msgid "Ball"
-msgstr ""
+msgstr "Futbolbumba"
 
 #: src/components/_political/event/EventList.tsx:73
 msgid "Bankruptcy"
@@ -1994,7 +1994,7 @@ msgstr "Kauja par {regionName} {score}"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
-msgstr "Kaujas Varonis"
+msgstr "Kaujas varonis"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:60
 msgid "Battle loot"
@@ -2010,7 +2010,7 @@ msgstr "Kauja sākās"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:103
 msgid "Battle Orders"
-msgstr "Kaujas Rīkojumi"
+msgstr "Kaujas rīkojumi"
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism['-2'].enemyBattleOrderMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:152
@@ -2050,11 +2050,11 @@ msgstr "Kauju lodziņi kartē"
 #: src/components/_military/war/WarItem.tsx:46
 #: src/components/_military/war/WarItem.tsx:80
 msgid "Battles won"
-msgstr "Kaujas uzvarētas"
+msgstr "Uzvarētas kaujas"
 
 #: src/components/_military/war/WarComparison.tsx:66
 msgid "Battles Won"
-msgstr "Kaujas uzvarētas"
+msgstr "Uzvarētas kaujas"
 
 #: src/components/_political/election/CandidateFormModal.tsx:55
 msgid "Become a Candidate"
@@ -2083,7 +2083,7 @@ msgstr "Bloķēt (noslēpt saturu)"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
-msgstr "Zilā Nūja"
+msgstr "Zilā nūja"
 
 #: src/components/_layout/LayoutOptions.tsx:156
 msgid "Blur"
@@ -2091,7 +2091,7 @@ msgstr "Izpludināšanas efekts"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:242
 msgid "Bone Club"
-msgstr ""
+msgstr "Kaula vāle"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:62
 #: src/components/_political/law/law.frontConfig.tsx:235
@@ -2143,7 +2143,7 @@ msgstr "Brigadieris"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:103
 msgid "Browse Packs"
-msgstr "Apskatīt Komplektus"
+msgstr "Apskatīt komplektus"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:153
 msgid "Budget"
@@ -2223,7 +2223,7 @@ msgstr "Pēc puses"
 
 #: src/components/_common/GameRules.tsx:206
 msgid "c. Sexual, explicit or suggestive remarks, comments, images or content"
-msgstr ""
+msgstr "c. Seksuālas, atklātas vai provokatīvas piezīmes, komentāri, attēli vai saturs"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:26
 msgid "Cadet"
@@ -2243,18 +2243,18 @@ msgstr "Atcelt kā valdība"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:162
 msgid "Cancel at any time"
-msgstr "Atcel jebkurā laikā"
+msgstr "Iespējams atcelt jebkurā laikā"
 
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:43
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:64
 msgid "Cancel Contract"
-msgstr "Atcelt Līgumu"
+msgstr "Atcelt līgumu"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:84
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:63
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:75
 msgid "Cancel Mercenary Contract"
-msgstr "Atcelt Algotņu Līgumu"
+msgstr "Atcelt algotņu līgumu"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:232
 #: src/utils/translations.tsx:264
@@ -2283,7 +2283,7 @@ msgstr "Valdībā nevar būt viceprezidents vai ministri."
 
 #: src/components/_political/party/party.frontConfig.tsx:426
 msgid "Cannot have any treaty (sworn enemy, defensive pact or alliance)."
-msgstr "Valstij nevar būt nekādu līgumu (zvērētā ienaidnieka, aizsardzības paktu vai alianšu)."
+msgstr "Valstij nevar būt nekādu starptautisko līgumu (zvērētā ienaidnieka, aizsardzības paktu vai alianšu)."
 
 #: src/components/_political/party/party.frontConfig.tsx:67
 msgid "Cannot have sworn enemies."
@@ -2331,11 +2331,11 @@ msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:152
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
-msgstr "Iespēja vienā sitienā nekavējoties iegūt:<0/>Katrs <1>1%</1> dod<2>1%</2> un <3>0.01%</3> iespēju iegūt to katrā sitienā."
+msgstr "Iespēja nekavējoties gūt laupījumu no katra sitiena:<0/>Katrs <1>1%</1> sniedz attiecīgi <2>1%</2> un <3>0.01%</3> iespēju laupījumam katrā sitienā."
 
 #: src/components/_user/user/skills.frontConfig.tsx:138
 msgid "Chance to dodge all incoming damage when fighting in battles.<0/>Dodging also prevents equipment durability from being consumed."
-msgstr "Iespēja izvairīties no visiem saņemtiem bojājumiem, sitot kaujās.<0/>Izvairīšanās arī novērš ekipējuma izturības samazināšanos (izņemot ieročus)."
+msgstr "Iespēja izvairīties no dzīvību zaudējumiem, sitot kaujās.<0/>Sekmīga izvairīšanās novērš arī ekipējuma izturības samazināšanos (izņemot ieročus)."
 
 #: src/components/_user/user/skills.frontConfig.tsx:124
 msgid "Chance to hit the target.<0/>Misses cannot crit, and deal half damage."
@@ -2408,7 +2408,7 @@ msgstr "Pamainīt {0} nodokli uz"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:83
 msgid "Check your loot!"
-msgstr "Apskati savu salaupīto!"
+msgstr "Apskati savu laupījumu!"
 
 #: src/components/_user/UserEquipments.tsx:181
 #: src/utils/translations.tsx:193
@@ -2421,7 +2421,7 @@ msgstr "Virsnieks"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:159
 msgid "Chief Commander"
-msgstr "Galvenais Komandieris"
+msgstr "Galvenais komandieris"
 
 #: src/components/_user/auth/WelcomeModal.tsx:145
 msgid "Choose your country"
@@ -2433,11 +2433,11 @@ msgstr "Izvēlies savu pusi un spied, lai nodarītu <0>Bojājumus</0>! Turpini s
 
 #: src/components/_economy/inventory/CraftModal.tsx:363
 msgid "Choosing a specific item costs ×2 steel:"
-msgstr "Izvēlēties konkrētu mantu maksā x2 tērauda:"
+msgstr "Izvēloties konkrētu mantu maksās ×2 tērauda:"
 
 #: src/components/_user/user/UserHeader.tsx:282
 msgid "Citizen since <0><1/></0>"
-msgstr "Pilsonis kopš <0><1/></0>"
+msgstr "War Era pilsonis: <0><1/></0>"
 
 #: src/components/_political/country/CountryHeader.tsx:126
 msgid "Citizens"
@@ -2445,7 +2445,7 @@ msgstr "Pilsoņi"
 
 #: src/pages/country/[countryId]/index.tsx:190
 msgid "Citizens get a bonus when fighting for allies, or against the sworn enemy"
-msgstr "Pilsoņi gūst bonusu cīnoties par sabiedrotajiem, var arī pret zvērēto ienaidnieku"
+msgstr "Pilsoņi gūst kaujas bonusus cīnoties par sabiedrotajiem un par aizsardzības paktu partnervalstīm, kā arī pret zvērēto ienaidnieku"
 
 #: src/components/_political/country/CountryHeader.tsx:113
 msgid "Citizenship"
@@ -2453,7 +2453,7 @@ msgstr "Pilsonība"
 
 #: src/pages/country/[countryId]/citizenship.tsx:72
 msgid "Citizenship Applications"
-msgstr "Pilsonības Pietekumi"
+msgstr "Pilsonības pietekumi"
 
 #: src/components/_military/battle/BattleSystem.tsx:347
 msgid "Civil war"
@@ -2524,7 +2524,7 @@ msgstr ""
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:37
 msgid "Cold af"
-msgstr ""
+msgstr "Sasodīti auksts"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:106
 msgid "Colonel"
@@ -2630,7 +2630,7 @@ msgstr "Apsveicam, tu esi sasniedzis {0}. līmeni!"
 #. placeholder {0}: data.countryName
 #: src/components/_user/notification/notification.frontConfig.tsx:200
 msgid "Congratulations! You have been elected as the new congress member of {0}"
-msgstr "Apsveicam! Tu tiki ievēlēts par jauno {0} kongresa deputātu"
+msgstr "Apsveicam! Tu tiki ievēlēts par jauno {0} Saeimas deputātu"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:304
 msgid "Congratulations! You have been elected as the new leader of <0/>"
@@ -2643,7 +2643,7 @@ msgstr "Apsveicam! Tu tiki ievēlēts par jauno {0} valsts prezidentu"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:309
 msgid "Congratulations! You have been elected to the council of <0/>"
-msgstr "Apsveicam! Tu tiki ievēlēts par <0/> padomes locekli"
+msgstr "Apsveicam! Tu tiki ievēlēts par <0/> padomes biedru"
 
 #. placeholder {0}: militaryRankingConfig[data.rank].percentDamages
 #: src/components/_user/notification/notification.frontConfig.tsx:1244
@@ -2657,7 +2657,7 @@ msgstr "Apsveicam! Tu laimēji izlozē un dabūji kastes!"
 #: src/components/_user/notification/notification.frontConfig.tsx:353
 #: src/components/_user/notification/notification.frontConfig.tsx:1080
 msgid "Congratulations! Your application to <0/> has been accepted"
-msgstr "Apsveicam! Tavs pieteikums uz <0/> tika pieņemts"
+msgstr "Apsveicam! Tavs pieteikums <0/> tika pieņemts"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1312
 msgid "Congratulations! Your team <0/> won the tournament <1/>!"
@@ -2665,31 +2665,31 @@ msgstr "Apsveicam! Tava komanda <0/> uzvarēja turnīrā <1/>!"
 
 #: src/components/_political/election/election.frontConfig.tsx:28
 msgid "Congress election"
-msgstr "Kongresa vēlēšanas"
+msgstr "Saeimas vēlēšanas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:140
 msgid "Congress election candidacy is now open in <0/>"
-msgstr "Kandidēšana <0/> kongresa vēlēšanām ir sākusies"
+msgstr "Kandidēšana <0/> Saeimas vēlēšanām ir sākusies"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:180
 msgid "Congress election has ended in <0/>. Check the results!"
-msgstr "<0/> kongresa vēlēšanas noslēdzās. Apskaties rezultātus!"
+msgstr "<0/> Saeimas vēlēšanas ir noslēgušās. Apskaties rezultātus!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:160
 msgid "Congress election voting is now open in <0/>"
-msgstr "<0/> kongresa vēlēšanas ir sākušās"
+msgstr "<0/> Saeimas vēlēšanas ir sākušās"
 
 #: src/pages/country/[countryId]/elections.tsx:65
 msgid "Congress elections"
-msgstr "Kongresa vēlēšanas"
+msgstr "Saeimas vēlēšanas"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:57
 msgid "Congress Member"
-msgstr "Kongresa Biedrs"
+msgstr "Deputāts"
 
 #: src/pages/country/[countryId]/government.tsx:75
 msgid "Congress members"
-msgstr "Kongresa deputāti"
+msgstr "Deputāti"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:324
 msgid "Connect with Discord"
@@ -2721,7 +2721,7 @@ msgstr "Patērēt preces"
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
-msgstr "Tiek patērētas piedaloties kaujās"
+msgstr "Tiek patērētas piedaloties kaujās."
 
 #. placeholder {0}: staticGameConfig.items.cocain.flatStats?.buffDurationHours
 #. placeholder {1}: staticGameConfig.items.cocain.flatStats?.debuffDurationHours
@@ -2759,11 +2759,11 @@ msgstr "Līgumi"
 
 #: src/components/_military/battle/BattleSideContractsModal.tsx:29
 msgid "Contracts & Auctions"
-msgstr "Līgumi & Izsoles"
+msgstr "Līgumi & izsoles"
 
 #: src/utils/translations.tsx:39
 msgid "Cooked Fish"
-msgstr "Cepta Zivs"
+msgstr "Cepta zivs"
 
 #: src/components/_political/law/Law.tsx:136
 #: src/components/_political/partyMotion/PartyMotion.tsx:127
@@ -2801,11 +2801,11 @@ msgstr "Kaprālis"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:223
 msgid "Council Member"
-msgstr "Padomes Biedrs"
+msgstr "Padomes biedrs"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:134
 msgid "Council member to remove"
-msgstr "Padomes loceklis, kuru atstādināt"
+msgstr "Padomes biedrs, kuru atstādināt"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:41
 msgid "Counter-strike the enemy"
@@ -2849,7 +2849,7 @@ msgstr "Valsts naudas pārskaitījums"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:62
 msgid "Country Orders"
-msgstr "Valsts Rīkojumi"
+msgstr "Valsts rīkojumi"
 
 #. placeholder {0}: data.partialPayout
 #: src/components/_user/notification/notification.frontConfig.tsx:1601
@@ -2858,7 +2858,7 @@ msgstr "Valsts izmaksāja <0>{0}</0> par nodarītiem bojājumiem."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:51
 msgid "Country President"
-msgstr "Valsts Prezidents"
+msgstr "Valsts prezidents"
 
 #: src/pages/country/[countryId]/index.tsx:346
 msgid "Country production bonus"
@@ -2870,7 +2870,7 @@ msgstr "Ielūdzamā valsts"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:181
 msgid "Country Tournament Winner"
-msgstr "Valsts Turnīra Uzvarētājs"
+msgstr "Valstu turnīra uzvarētājs"
 
 #: src/pages/country/[countryId]/wars.tsx:29
 msgid "Country wars"
@@ -2887,7 +2887,7 @@ msgstr "Izveido <0>{count}</0> mantas"
 
 #: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
-msgstr "Izveidots Ekipējums"
+msgstr "Izveidots ekipējums"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
@@ -2896,7 +2896,7 @@ msgstr "Izveidot"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:366
 msgid "Create a Company"
-msgstr "Dibini Uzņēmumu"
+msgstr "Dibini uzņēmumu"
 
 #. placeholder {0}: law.data.name
 #. placeholder {1}: law.data.scheme
@@ -2954,7 +2954,7 @@ msgstr "Izveidots:"
 #: src/components/_user/user/skills.frontConfig.tsx:51
 #: src/components/_user/user/skills.frontConfig.tsx:52
 msgid "Crit. chance"
-msgstr "Krit. iespēja"
+msgstr "Krit. iespējamība"
 
 #: src/components/_user/user/skills.frontConfig.tsx:63
 #: src/components/_user/user/skills.frontConfig.tsx:64
@@ -2963,7 +2963,7 @@ msgstr "Krit. bojājumi"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:271
 msgid "Critical Hit"
-msgstr "Kritiskais Trieciens"
+msgstr "Kritiskais trieciens"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:89
 msgid "Crossbow"
@@ -2979,7 +2979,7 @@ msgstr "Pašreizējā attīstība"
 
 #: src/pages/user/[userId]/index.tsx:163
 msgid "Current Military Unit"
-msgstr "Pašreizējā Militārā Vienība"
+msgstr "Pašreizējā militārā vienība"
 
 #: src/components/_military/mu/MuSettings.tsx:61
 msgid "Current nationality"
@@ -2999,7 +2999,7 @@ msgstr "Pielāgots lietotājvārda fonts"
 
 #: src/components/_common/GameRules.tsx:212
 msgid "d. Any form of discrimination, racism, xenophobia, antisemitism, homophobia, transphobia and hate speech"
-msgstr ""
+msgstr "d. Jebkāda veida diskriminācija, rasisms, ksenofobija, antisemītisms, homofobija, transfobija un naida runa"
 
 #: src/components/_user/mission/MissionsList.tsx:180
 msgid "Daily"
@@ -3167,7 +3167,7 @@ msgstr "Aizstāvji"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:334
 msgid "Defensive pact"
-msgstr "Aizsardzības pakts"
+msgstr "Aizsardzības pakti"
 
 #: src/components/_political/event/EventList.tsx:94
 msgid "Defensive pact broken"
@@ -3221,15 +3221,15 @@ msgstr "Izdzēst savu profilu"
 
 #: src/components/_military/mu/MuMemberList.tsx:153
 msgid "Demote Commander"
-msgstr "Pazemināt Komandieri"
+msgstr "Pazemināt komandieri"
 
 #: src/components/_military/mu/MuMemberList.tsx:440
 msgid "Demote from Commander"
-msgstr "Pazemināt Komandieri"
+msgstr "Pazemināt komandieri"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2078
 msgid "Demoted from Commander"
-msgstr "Pazemināts no Komandiera amata"
+msgstr "Pazemināts no komandiera amata"
 
 #: src/pages/region/[regionId]/index.tsx:60
 msgid "Deposit"
@@ -3293,11 +3293,11 @@ msgstr "Attīstība"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:301
 msgid "Diminish <0/> received damages with <1>Armor</1> in battles"
-msgstr "Atsit kaujās saņemtos <0/> bojājumus, izmantojot <1>Bruņas</1>"
+msgstr "Samazini <0/> dzīvību zudumu kaujās, izmantojot <1>bruņas</1>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:299
 msgid "Diminish Received Damages"
-msgstr "Atsist Saņemtos Bojājumus"
+msgstr "Samazināt dzīvību zudumu"
 
 #: src/pages/country/[countryId]/index.tsx:196
 msgid "Diplomacy"
@@ -3336,7 +3336,7 @@ msgstr "Izjauc <0>{count}</0> mantas"
 
 #: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
-msgstr "Izjaukts Ekipējums"
+msgstr "Izjaukts ekipējums"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:153
 msgid "Dismiss"
@@ -3387,7 +3387,7 @@ msgstr "Ziedot"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:474
 msgid "Donate <0>{count}</0> to MU or Country"
-msgstr "Noziedo <0>{count}</0> MV vai Valstij"
+msgstr "Noziedo <0>{count}</0> MV vai valstij"
 
 #: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
@@ -3395,7 +3395,7 @@ msgstr "Ziedojums"
 
 #: src/components/_economy/donation/DonationList.tsx:60
 msgid "Donation Summary"
-msgstr "Ziedojumu Kopsavilkums"
+msgstr "Ziedojumu kopsavilkums"
 
 #: src/components/_political/country/CountryHeader.tsx:88
 #: src/pages/country/[countryId]/donations.tsx:17
@@ -3414,7 +3414,7 @@ msgstr "Pūķis"
 
 #: src/components/_common/GameRules.tsx:218
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
-msgstr ""
+msgstr "e. Saturs par pašlaik notiekošajiem reālās pasaules kariem un bruņotajiem konfliktiem (jo īpaši Krievijas–Ukrainas karu un Izraēlas–Palestīnas konfliktu)"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:141
 msgid "Eat"
@@ -3431,15 +3431,15 @@ msgstr "Apēd <0>{count}</0> ēdiena"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:151
 msgid "Eat Cooked Fish"
-msgstr "Apēst Ceptu Zivi"
+msgstr "Apēst ceptu zivi"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:164
 msgid "Eat Steak"
-msgstr "Apēst Steiku"
+msgstr "Apēst steiku"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:20
 msgid "Eco Mode"
-msgstr "Ekonomiskais Režīms"
+msgstr "Ekonomiskais režīms"
 
 #: src/components/_political/law/LawTypeSelect.tsx:111
 msgid "Economic laws"
@@ -3459,7 +3459,7 @@ msgstr "Labot aprakstu"
 
 #: src/components/_political/party/PartyDescriptionModal.tsx:55
 msgid "Edit Description"
-msgstr "Labot Aprakstu"
+msgstr "Labot aprakstu"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:154
 msgid "Edit worker"
@@ -3490,15 +3490,15 @@ msgstr "Vēlēšanās"
 
 #: src/utils/translations.tsx:206
 msgid "Elite Boots"
-msgstr "Violetie Zābaki"
+msgstr "Violetie zābaki"
 
 #: src/utils/translations.tsx:111
 msgid "Elite Case"
-msgstr "Lielā Kaste"
+msgstr "Lielā kaste"
 
 #: src/utils/translations.tsx:197
 msgid "Elite Chest"
-msgstr "Violetā Bruņuveste"
+msgstr "Violetā bruņuveste"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:45
 msgid "Elite counter-terrorism unit"
@@ -3506,15 +3506,15 @@ msgstr ""
 
 #: src/utils/translations.tsx:215
 msgid "Elite Gloves"
-msgstr "Violetie Cimdi"
+msgstr "Violetie cimdi"
 
 #: src/utils/translations.tsx:188
 msgid "Elite Helmet"
-msgstr "Violetā Ķivere"
+msgstr "Violetā ķivere"
 
 #: src/utils/translations.tsx:224
 msgid "Elite Pants"
-msgstr "Violetās Bikses"
+msgstr "Violetās bikses"
 
 #: src/components/_economy/work/WorkChart.tsx:214
 msgid "Employee Production"
@@ -3572,7 +3572,7 @@ msgstr "Enerģija"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:81
 msgid "Ensign"
-msgstr "Jaunākais Leitnants"
+msgstr "Jaunākais leitnants"
 
 #: src/components/_political/law/LawFormModal.tsx:245
 msgid "Enter article ID"
@@ -3632,7 +3632,7 @@ msgstr "Vērtību priekšlikumi"
 
 #: src/components/_political/government/PoliticalEthics.tsx:533
 msgid "Ethics Points:"
-msgstr "Vērtību Punkti:"
+msgstr "Vērtību punkti:"
 
 #: src/components/_layout/LayoutRightIcons.tsx:245
 #: src/components/_layout/MoreButtonNav.tsx:96
@@ -3673,19 +3673,19 @@ msgstr "Tiks izsmelts pēc"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:217
 msgid "Exploit Finder"
-msgstr "Problēmu Meklētājs"
+msgstr "Problēmu atradējs"
 
 #: src/components/_common/GameRules.tsx:146
 msgid "Exploited accounts will be permanently banned and the boosted account will receive a temporary ban, fine, or permanent ban if repeated."
-msgstr ""
+msgstr "Ļaunprātīgi izmantotie konti tiks neatgriezeniski nobloķēti, bet kontam, kuram sniegta palīdzība, tiks piemērots pagaidu bloķējums, naudas sods vai pastāvīgs bloķējums, ja tas atkārtosies."
 
 #: src/components/_common/GameRules.tsx:93
 msgid "Exploiting or ignoring bugs for personal gain is forbidden. All players are expected to report any discovered bugs and avoid taking advantage of them."
-msgstr ""
+msgstr "Kļūdu izmantošana vai ignorēšana personīgā labuma gūšanai ir aizliegta. No visiem spēlētājiem tiek sagaidīts, ka viņi ziņos par jebkurām atklātajām kļūdām un izvairīsies no to ļaunprātīgas izmantošanas."
 
 #: src/components/_common/GameRules.tsx:225
 msgid "f. Glorification/apology of hateful ideologies such as nazism, neo-nazism, fascism, terrorism and terrorist groups and movements (considered as such by the United Nations, the European Union or France), genocide denial, war crimes, or crimes against humanity, Putinism and communism"
-msgstr ""
+msgstr "f. Naidpilnu ideoloģiju, piemēram, nacisma, neonacisma, fašisma, terorisma un teroristu grupu un kustību (kuras par tādām uzskata Apvienoto Nāciju Organizācija, Eiropas Savienība vai Francija), genocīda nolieguma, kara noziegumu vai noziegumu pret cilvēci, putinisma un komunisma, glorificēšana vai attaisnošana"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:92
 msgid "Failed to copy"
@@ -3713,66 +3713,66 @@ msgstr "Neizdevās pieslēgties caur Google. Lūdzu, pamēģini atkārtot CAPTCH
 
 #: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
-msgstr "Ģimenes Grupa"
+msgstr "Ģimenes grupa"
 
 #: src/components/_political/party/party.frontConfig.tsx:334
 msgid "Fanatic Agrarian"
-msgstr "Fanātiskais Agrārisms"
+msgstr "Fanātiskais agrārisms"
 
 #: src/components/_political/law/LawEthicEffects.tsx:58
 msgid "Fanatic Agrarian countries cannot pick a specialization — this law cannot be enacted."
-msgstr "Fanātiskā Agrārisma valstis nevar izvēlēties specializāciju — šis likums nevar tikt ierosināts."
+msgstr "Fanātiskā agrārisma valstis nevar izvēlēties specializāciju — šis likums nevar tikt ierosināts."
 
 #: src/components/_political/party/party.frontConfig.tsx:211
 msgid "Fanatic Diplomatic"
-msgstr "Fanātiskā Diplomātija"
+msgstr "Fanātiskā diplomātija"
 
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:160
 msgid "Fanatic Diplomatic: defensive pact maintenance costs {less}% less <0>{0}</0>."
-msgstr "Fanātiskais Diplomātisms: aizsardzības paktu uzturēšana izmaksā par {less}% mazāk <0>{0}</0>."
+msgstr "Fanātiskais diplomātisms: aizsardzības paktu uzturēšana izmaksā par {less}% mazāk <0>{0}</0>."
 
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:143
 msgid "Fanatic Diplomatic: sworn enemy maintenance costs {more}% more <0>{0}</0>."
-msgstr "Fanātiskā Diplomātija: zvērēto ienaidnieku uzturēšana izmaksā par {more}% vairāk <0>{0}</0>."
+msgstr "Fanātiskā diplomātija: zvērētā ienaidnieka likuma uzturēšana izmaksā par {more}% vairāk <0>{0}</0>."
 
 #: src/components/_political/party/party.frontConfig.tsx:105
 msgid "Fanatic Expansionist"
-msgstr "Fanātiskais Ekspansionisms"
+msgstr "Fanātiskais ekspansionisms"
 
 #: src/components/_political/party/party.frontConfig.tsx:304
 msgid "Fanatic Imperialist"
-msgstr "Fanātiskais Imperiālisms"
+msgstr "Fanātiskais imperiālisms"
 
 #: src/components/_political/party/party.frontConfig.tsx:391
 msgid "Fanatic Industrialist"
-msgstr "Fanātiskais Industriālisms"
+msgstr "Fanātiskais industriālisms"
 
 #: src/components/_political/party/party.frontConfig.tsx:137
 msgid "Fanatic Isolationist"
-msgstr "Fanātiskais Izolacionisms"
+msgstr "Fanātiskais izolacionisms"
 
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:188
 msgid "Fanatic Isolationist: all treaty maintenance costs {more}% more <0>{0}</0>."
-msgstr "Fanātiskais Izolacionisms: visu likumu uzturēšana izmaksā par {more}% vairāk <0>{0}</0>."
+msgstr "Fanātiskais izolacionisms: visu starptautisko līgumu uzturēšana izmaksā par {more}% vairāk <0>{0}</0>."
 
 #: src/components/_political/law/LawEthicEffects.tsx:114
 msgid "Fanatic Isolationist: this sworn enemy starts at {start}% bonus and grows +{perDay}% per day."
-msgstr "Fanātiskais Izolacionisms: zvērētā ienaidnieka bonuss sākas ar {start}% un pieaug par +{perDay}% dienā."
+msgstr "Fanātiskais izolacionisms: zvērētā ienaidnieka bonuss sākas ar {start}% un pieaug par +{perDay}% dienā."
 
 #: src/components/_political/party/party.frontConfig.tsx:56
 msgid "Fanatic Pacifist"
-msgstr "Fanātiskais Pacifisms"
+msgstr "Fanātiskais pacifisms"
 
 #: src/components/_political/law/LawEthicEffects.tsx:94
 msgid "Fanatic Pacifist countries cannot have sworn enemies — this law cannot be enacted."
-msgstr "Fanātiskā Pacifisma valstīm nevar būt zvērētu ienaidnieku — šis likums nevar tikt ierosināts."
+msgstr "Fanātiskā pacifisma valstīm nevar būt zvērētu ienaidnieku — šis likums nevar tikt ierosināts."
 
 #: src/components/_political/party/party.frontConfig.tsx:251
 msgid "Fanatic Republican"
-msgstr "Fanātiskais Republikānisms"
+msgstr "Fanātiskais republikānisms"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:21
 msgid "Farmer"
@@ -3955,7 +3955,7 @@ msgstr "Izveidot jaunu aliansi kā dibinātājvalsts"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:45
 msgid "Founding Father"
-msgstr "Viens no Pirmajiem"
+msgstr "Viens no pirmajiem"
 
 #: src/pages/shop/index.tsx:131
 msgid "Free daily reward"
@@ -3967,27 +3967,27 @@ msgstr "Jautrais fakts: Feņka nekad nepaliek mīnusos"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
-msgstr ""
+msgstr "Kažokādas zābaki"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:278
 msgid "Fur Loincloth"
-msgstr ""
+msgstr "Kažokādas gurnauts"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:281
 msgid "Fur Mittens"
-msgstr ""
+msgstr "Kažokādas cimdi"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:272
 msgid "Fur Tunic"
-msgstr ""
+msgstr "Kažokādas tunika"
 
 #: src/components/_common/GameRules.tsx:234
 msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
-msgstr ""
+msgstr "g. Ar iepriekš minētajām ideoloģijām un kustībām saistītu profilu (attēlu, aprakstu, vārdu) izmantošana, kā arī ar pašlaik notiekošajiem reālās pasaules kariem un bruņotajiem konfliktiem saistītu politisko personu izmantošana. Humoristiski vārdi, apraksti un attēli tiek pieļauti, izņemot jebkādu saturu, kas saistīts ar nacismu un neonacismu."
 
 #: src/components/_user/user/Level.tsx:91
 msgid "Gain <0>Xp</0> by finishing your missions!"
-msgstr "Izpildot uzdevumus, tu iegūsti <0>Pieredzes punktus</0>!"
+msgstr "Izpildot uzdevumus, tu iegūsti <0>pieredzes punktus</0>!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:109
 msgid "Game supporter"
@@ -4007,7 +4007,7 @@ msgstr "Ģenerālis"
 
 #: src/components/_user/mission/MissionsList.tsx:232
 msgid "Generate Missions"
-msgstr "Ģenerēt Uzdevumus"
+msgstr "Ģenerēt uzdevumus"
 
 #. placeholder {0}: levelConfig.stats.dailyProd
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:77
@@ -4103,15 +4103,15 @@ msgstr "Valdība"
 
 #: src/components/_political/government/GovernmentAnnouncementModal.tsx:47
 msgid "Government announcement"
-msgstr "Valdības paziņojums"
+msgstr "Valdības šūnapraides paziņojums"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:234
 msgid "Government Member"
-msgstr "Valdības Biedrs"
+msgstr "Valdības biedrs"
 
 #: src/components/_military/battle/BattleSystem.tsx:810
 msgid "Government penalty"
-msgstr "Valdības sods"
+msgstr "Valdības ierobežojums"
 
 #: src/components/_political/government/Government.tsx:210
 msgid "Government wage"
@@ -4263,7 +4263,7 @@ msgstr "Pistole"
 
 #: src/components/_common/GameRules.tsx:243
 msgid "h. Glorification, promotion or encouragement of rule-breaking or cheating"
-msgstr ""
+msgstr "h. Noteikumu pārkāpumu vai krāpšanās glorificēšana, popularizēšana vai veicināšana"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:239
 msgid "Hamster Tank"
@@ -4284,7 +4284,7 @@ msgstr "Dzīvības"
 
 #: src/utils/translations.tsx:98
 msgid "Heavy Ammo"
-msgstr "Smagā Munīcija"
+msgstr "Smagā munīcija"
 
 #: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:184
@@ -4309,7 +4309,7 @@ msgstr "Palīdzi spēlei attīstīties"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:157
 msgid "High Commander"
-msgstr "Vecākais Komandieris"
+msgstr "Vecākais komandieris"
 
 #: src/components/_military/battle/BattlesHeader.tsx:32
 msgid "History"
@@ -4321,12 +4321,12 @@ msgstr "Sist"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:103
 msgid "Hit <0>{count}</0> times in battles"
-msgstr "Kaujās iesit <0>{count}</0> reizes"
+msgstr "Sit kaujās <0>{count}</0> reizes"
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
 #: src/components/_military/battle/BattleSystem.tsx:812
 msgid "Hitting for your own country while in government gives {0}% bounty efficiency."
-msgstr "Sitot par savu valsti, kamēr esi valdībā, dod {0}% no atlīdzības."
+msgstr "Sitot par savu valsti, kamēr esi valdībā, saņemsi {0}% no atlīdzības."
 
 #: src/components/_other/shop/ShopHeader.tsx:16
 #: src/components/_political/country/CountryHeader.tsx:63
@@ -4353,7 +4353,7 @@ msgstr "Es dzirdēju, ka premium nopirkšana palielina izredzes :3"
 
 #: src/components/_common/GameRules.tsx:249
 msgid "i. Promotion of other games, products, or services"
-msgstr ""
+msgstr "i. Citu spēļu, produktu vai pakalpojumu popularizēšana/reklamēšana"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:81
 msgid "I'm proud of you"
@@ -4425,7 +4425,7 @@ msgstr "Ienākumi"
 
 #: src/pages/country/[countryId]/index.tsx:418
 msgid "income from <0>Development</0> in <1/>."
-msgstr "ienākumi no <0>Attīstības</0> <1/>."
+msgstr "ienākumi no <0>attīstības</0> <1/>."
 
 #. placeholder {0}: formatPercent( ethicsBonuses.imperialism['-1'].developmentIncomeBonus, )
 #. placeholder {0}: formatPercent( ethicsBonuses.imperialism['-2'].developmentIncomeBonus, )
@@ -4449,7 +4449,7 @@ msgstr "Ienākuma nodoklis"
 #: src/components/_economy/company/CompanyTags.tsx:49
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:150
 msgid "Income Tax"
-msgstr "Ienākuma Nodoklis"
+msgstr "Ienākuma nodoklis"
 
 #: src/components/_political/unrest/UnrestPanel.tsx:143
 #: src/components/_political/unrest/UnrestPanel.tsx:179
@@ -4475,7 +4475,7 @@ msgstr "Iesauktais"
 
 #: src/components/_common/GameRules.tsx:37
 msgid "Intentional or repeated violations of this policy will result in a permanent ban."
-msgstr ""
+msgstr "Tīšs vai atkārtots šo noteikumu pārkāpums rezultēsies pastāvīgā konta bloķēšanā."
 
 #: src/components/_layout/LayoutMenu.tsx:127
 #: src/components/_user/user/MyAvatar.tsx:35
@@ -4550,7 +4550,7 @@ msgstr "Resursi"
 
 #: src/components/_common/GameRules.tsx:252
 msgid "j. Spam and repeated messages"
-msgstr ""
+msgstr "j. Spams un atkārtotas ziņas"
 
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
@@ -4580,7 +4580,7 @@ msgstr "Pievienoties <0/>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:379
 msgid "Join a Military Unit"
-msgstr "Pievienojies Militārajai Vienībai"
+msgstr "Pievienojies militārajai vienībai"
 
 #: src/components/_political/law/law.frontConfig.tsx:378
 #: src/components/_political/law/lawNames.tsx:27
@@ -4617,7 +4617,7 @@ msgstr "Vēl tik vienu…"
 
 #: src/components/_common/GameRules.tsx:274
 msgid "Just because something isn't explicitly stated in the rules does not mean you can abuse it. Attempts to bypass rules or exploit loopholes will still be punished."
-msgstr ""
+msgstr "Tas, ka kaut kas nav skaidri norādīts noteikumos, nenozīmē, ka to aļauts ļaunprātīgi izmantot. Mēģinājumi apiet noteikumus vai izmantot to nepilnības joprojām tiks sodīti."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:50
 msgid "Just one more… what could go wrong?"
@@ -4650,7 +4650,7 @@ msgstr "Izraidīt valsti"
 
 #: src/components/_military/mu/MuMemberList.tsx:139
 msgid "Kick Member"
-msgstr "Izraidīt Biedru"
+msgstr "Izraidīt biedru"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:263
 msgid "Knapped Flints"
@@ -4679,7 +4679,7 @@ msgstr "Pēdējais"
 
 #: src/components/_user/badgeCollection/Badge.tsx:63
 msgid "Last earned: <0/>"
-msgstr "Pēdējoreiz saņemts: <0/>"
+msgstr "Pēdējoreiz saņemta: <0/>"
 
 #: src/pages/shop/index.tsx:91
 msgid "Last gifts"
@@ -4738,7 +4738,7 @@ msgstr "Svins"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:248
 msgid "Leather Sling"
-msgstr ""
+msgstr "Linga"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:299
 msgid "Leave"
@@ -4764,7 +4764,7 @@ msgstr "Pamest uzņēmumu?"
 #: src/pages/country/[countryId]/government.tsx:111
 #: src/pages/country/[countryId]/government.tsx:116
 msgid "Leave congress"
-msgstr "Pamest kongresu"
+msgstr "Pamest Saeimu"
 
 #: src/pages/country/[countryId]/government.tsx:95
 #: src/pages/country/[countryId]/government.tsx:100
@@ -4777,7 +4777,7 @@ msgstr "Pamest tavas valsts aliansi"
 
 #: src/components/_political/alliance/AllianceHeader.tsx:80
 msgid "Led by <0/>."
-msgstr "Vada <0/>."
+msgstr "Vada  <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:78
 msgid "Legend spotted!"
@@ -4785,28 +4785,28 @@ msgstr "Vai tas ir Lāčplēsis?"
 
 #: src/utils/translations.tsx:207
 msgid "Legendary Boots"
-msgstr "Dzeltenie Zābaki"
+msgstr "Dzeltenie zābaki"
 
 #: src/utils/translations.tsx:198
 msgid "Legendary Chest"
-msgstr "Dzeltenā Bruņuveste"
+msgstr "Dzeltenā bruņuveste"
 
 #: src/utils/translations.tsx:216
 msgid "Legendary Gloves"
-msgstr "Dzeltenie Cimdi"
+msgstr "Dzeltenie cimdi"
 
 #: src/utils/translations.tsx:189
 msgid "Legendary Helmet"
-msgstr "Dzeltenā Ķivere"
+msgstr "Dzeltenā ķivere"
 
 #: src/utils/translations.tsx:225
 msgid "Legendary Pants"
-msgstr "Dzeltanās Bikses"
+msgstr "Dzeltanās bikses"
 
 #: src/components/_military/mu/MuLevel.tsx:64
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:89
 msgid "Level {level}"
-msgstr "{level} Līmenis"
+msgstr "{level} līmenis"
 
 #: src/components/_political/election/Election.tsx:132
 #: src/components/_political/election/Election.tsx:224
@@ -4869,7 +4869,7 @@ msgstr "Kaļkakmens"
 
 #: src/components/_user/user/skills.frontConfig.tsx:116
 msgid "Limit of food consumption"
-msgstr "Ēšanas limits"
+msgstr "Limits, kas ierobežo ēdiena patēriņu."
 
 #: src/components/_user/user/SkillValue.tsx:88
 msgid "Limited:"
@@ -4893,7 +4893,7 @@ msgstr "Ielādēt vēl"
 
 #: src/components/_military/mu/MuList.tsx:120
 msgid "Load More Military Units"
-msgstr "Ielādēt vairāk Militāro Vienību"
+msgstr "Ielādēt vairāk militāro vienību"
 
 #: src/components/_political/party/PartyList.tsx:122
 msgid "Load more parties"
@@ -4925,7 +4925,7 @@ msgstr "Kaujās nolaupi <0>{count}</0>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:324
 msgid "Loot Cases"
-msgstr "Nolaupīt Kastes"
+msgstr "Nolaupīt kastes"
 
 #: src/components/_user/user/skills.frontConfig.tsx:166
 #: src/components/_user/user/skills.frontConfig.tsx:167
@@ -4942,7 +4942,7 @@ msgstr "Laupījumi"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:23
 msgid "Love Paper Jet"
-msgstr "Papīra Lidmašīna"
+msgstr "Papīra lidmašīna"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:101
 msgid "Lt. Colonel"
@@ -4958,7 +4958,7 @@ msgstr "Veiksme beidzot tavā pusē"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:191
 msgid "Mage Robe"
-msgstr "Burvja Mantija"
+msgstr "Burvja mantija"
 
 #: src/components/_political/law/Law.tsx:121
 msgid "Maintenance cost"
@@ -4993,7 +4993,11 @@ msgstr "Karte"
 #: src/components/_political/law/LawFormModal.tsx:214
 #: src/components/_political/law/LawFormModal.tsx:292
 msgid "Map Accent"
-msgstr "Krāsas Tonis"
+msgstr "Krāsas tonis"
+
+#: src/components/_layout/LayoutOptions.tsx:142
+msgid "Map icons"
+msgstr "Ikonas uz kartes"
 
 #: src/components/_layout/LayoutOptions.tsx:142
 msgid "Map icons"
@@ -5094,7 +5098,7 @@ msgstr "Satiec citus spēlētājus čatā. Nekautrējies, iepazīstini sevi!"
 
 #: src/pages/party/[partyId]/applications.tsx:39
 msgid "Member Applications"
-msgstr "Biedru Pieteikumi"
+msgstr "Biedru pieteikumi"
 
 #: src/pages/alliance/[allianceId]/index.tsx:68
 msgid "Member countries"
@@ -5155,7 +5159,7 @@ msgstr "Algotņu peļņa"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:15
 msgid "Mercenary Reputation"
-msgstr "Algotņa Reputācija"
+msgstr "Algotņa reputācija"
 
 #: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
@@ -5167,7 +5171,7 @@ msgstr "Ziņa patika"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:158
 msgid "Military & Battles"
-msgstr "Militārās un Kaujas"
+msgstr "Militārās un kaujas"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:46
 msgid "Military base"
@@ -5186,7 +5190,7 @@ msgstr "Militārie likumi"
 
 #: src/pages/user/[userId]/index.tsx:142
 msgid "Military Rank"
-msgstr "Dienesta Pakāpe"
+msgstr "Dienesta pakāpe"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2025
 msgid "Military Rank Up!"
@@ -5198,12 +5202,12 @@ msgstr "Dienesta pakāpe:"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:88
 msgid "Military Ranks"
-msgstr "Dienesta Pakāpes"
+msgstr "Dienesta pakāpes"
 
 #: src/components/_layout/MoreButtonNav.tsx:152
 #: src/components/_user/notification/notificationPrefs.categories.ts:159
 msgid "Military Unit"
-msgstr "Militārā Vienība"
+msgstr "Militārā vienība"
 
 #: src/components/_military/mu/MuFormModal.tsx:46
 msgid "Military unit created"
@@ -5215,7 +5219,7 @@ msgstr "Militārās vienības"
 
 #: src/components/_military/battle/BattleCountrySide.tsx:93
 msgid "Military Units"
-msgstr "Militārās Vienības"
+msgstr "Militārās vienības"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:293
 msgid "Min reached"
@@ -5228,17 +5232,17 @@ msgstr "Min. aktīvi pilsoņi"
 #: src/components/_political/government/Government.tsx:100
 #: src/components/_political/government/GovernmentScroll.tsx:54
 msgid "Minister of Defense"
-msgstr "Aizsardzības Ministrs"
+msgstr "Aizsardzības ministrs"
 
 #: src/components/_political/government/Government.tsx:109
 #: src/components/_political/government/GovernmentScroll.tsx:61
 msgid "Minister of Economy"
-msgstr "Ekonomikas Ministrs"
+msgstr "Ekonomikas ministrs"
 
 #: src/components/_political/government/Government.tsx:118
 #: src/components/_political/government/GovernmentScroll.tsx:68
 msgid "Minister of Foreign Affairs"
-msgstr "Ārlietu Ministrs"
+msgstr "Ārlietu ministrs"
 
 #: src/components/_layout/LayoutOptions.tsx:180
 msgid "Mission tags"
@@ -5264,7 +5268,7 @@ msgstr "Nopelnītā nauda no algotņu līgumiem."
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:134
 msgid "Money ranking"
-msgstr "Nopelnītās naudas kopvērtējums"
+msgstr "Atlīdzību kopvērtējums"
 
 #: src/components/_political/event/EventList.tsx:69
 msgid "Money transfer"
@@ -5276,7 +5280,7 @@ msgstr "Iegūta nauda"
 
 #: src/components/_user/referral/ReferralList.tsx:79
 msgid "Money Won"
-msgstr "Iegūta Nauda"
+msgstr "Iegūta nauda"
 
 #: src/components/_military/mu/MuMemberList.tsx:191
 msgid "Monthly"
@@ -5323,7 +5327,7 @@ msgstr "Pārvietot uzņēmumu"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:456
 msgid "Move Company"
-msgstr "Pārvietot Uzņēmumu"
+msgstr "Pārvietot uzņēmumu"
 
 #: src/components/_economy/company/MoveCompanyForm.tsx:92
 msgid "Move the company"
@@ -5360,11 +5364,11 @@ msgstr "Jauns MV līmenis!"
 
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:112
 msgid "MU Monthly Levels"
-msgstr "MV Ikmēneša Līmeņi"
+msgstr "MV ikmēneša līmeņi"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:72
 msgid "MU Orders"
-msgstr "MV Rīkojumi"
+msgstr "MV rīkojumi"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2081
 msgid "MU Ownership Transferred"
@@ -5377,7 +5381,7 @@ msgstr "MV sasniedza {0} līmeni! Balva: {rewardDisplay}"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:187
 msgid "MU Tournament Winner"
-msgstr "MV Turnīra Uzvarētājs"
+msgstr "MV turnīra uzvarētājs"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:122
 msgid "My battle loot"
@@ -5385,35 +5389,35 @@ msgstr "Mans kaujas laupījums"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:247
 msgid "My Bot, Script, etc."
-msgstr "Mans Bots, Skripts, utt."
+msgstr "Mans bots, skripts, utt."
 
 #: src/pages/user/[userId]/companies.tsx:84
 msgid "My Companies"
-msgstr "Mani Uzņēmumi"
+msgstr "Mani uzņēmumi"
 
 #: src/utils/translations.tsx:114
 msgid "Mysterious Plant"
-msgstr "Noslēpumains Augs"
+msgstr "Noslēpumains augs"
 
 #: src/utils/translations.tsx:208
 msgid "Mythic Boots"
-msgstr "Sarkanie Zabāki"
+msgstr "Sarkanie zabāki"
 
 #: src/utils/translations.tsx:199
 msgid "Mythic Chest"
-msgstr "Sarkanā Bruņuveste"
+msgstr "Sarkanā bruņuveste"
 
 #: src/utils/translations.tsx:217
 msgid "Mythic Gloves"
-msgstr "Sarkanie Cimdi"
+msgstr "Sarkanie cimdi"
 
 #: src/utils/translations.tsx:190
 msgid "Mythic Helmet"
-msgstr "Sarkanā Ķivere"
+msgstr "Sarkanā ķivere"
 
 #: src/utils/translations.tsx:226
 msgid "Mythic Pants"
-msgstr "Sarkanās Bikses"
+msgstr "Sarkanās bikses"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:91
 msgid "Mythic?! Your account is blessed"
@@ -5446,7 +5450,7 @@ msgstr "Vajag darbu?"
 
 #: src/components/_economy/inventory/ItemRecipe.tsx:59
 msgid "Needs more <0/> to produce"
-msgstr ""
+msgstr "Trūkst <0/>, lai ražotu"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
@@ -5462,7 +5466,7 @@ msgstr "Nekad nepadodies!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:16
 msgid "Never stop gambling"
-msgstr "Nekad neatmet spēlēt azartspēles"
+msgstr "Nekad neatmet azartspēles"
 
 #: src/components/_other/shop/SkinPackItem.tsx:91
 #: src/components/_social/ArticleList.tsx:161
@@ -5476,7 +5480,7 @@ msgstr "Jauns alianses nosaukums"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:122
 msgid "New API Token Created"
-msgstr "Jauns API Žetons izveidots"
+msgstr "Jauns API žetons izveidots"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1977
 msgid "New article"
@@ -5612,7 +5616,7 @@ msgstr "Nav aktīvu kauju"
 
 #: src/components/_political/government/PoliticalEthics.tsx:563
 msgid "No active ethics - Balanced"
-msgstr "Nav aktīvu vērtību - Centrisms"
+msgstr "Nav aktīvu vērtību - centrisms"
 
 #: src/pages/company/[companyId]/index.tsx:78
 msgid "No active job offer"
@@ -5656,7 +5660,7 @@ msgstr "Nav pilsoņu"
 
 #: src/pages/country/[countryId]/government.tsx:200
 msgid "No congress members"
-msgstr "Nav kongresa deputātu"
+msgstr "Nav deputātu"
 
 #: src/components/_political/contribution/ContributionList.tsx:225
 msgid "No contributions yet"
@@ -5664,7 +5668,7 @@ msgstr "Nav neviena dumpinieka"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:170
 msgid "No damages ranking yet."
-msgstr "Nav bojājumu kopvērtējumā."
+msgstr "Nav bojājumu kopvērtējumā"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:393
 msgid "No defensive pact"
@@ -5676,7 +5680,7 @@ msgstr "Vēl nav ziedojumu"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:172
 msgid "No ground ranking yet."
-msgstr "Nav ieņemšanas punktu kopvērtējumā."
+msgstr "Nav ieņemšanas punktu kopvērtējumā"
 
 #: src/components/_user/kits/KitsPopover.tsx:130
 msgid "No kits yet - add one to quick-equip a full loadout."
@@ -5712,7 +5716,7 @@ msgstr "Nav neviena uzdevuma"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:173
 msgid "No money ranking yet."
-msgstr "Vēl nav atlīdzības kopvērtējuma"
+msgstr "Vēl nav atlīdzību kopvērtējuma"
 
 #: src/components/_political/partyMotion/PartyMotionList.tsx:62
 msgid "No motions yet"
@@ -5804,7 +5808,7 @@ msgstr "Parasts"
 
 #: src/components/_common/GameRules.tsx:140
 msgid "Not all forms of helping are treated as boosting or exploiting; the intent will be assessed in line with the list provided above."
-msgstr ""
+msgstr "Ne visas palīdzības formas tiek uzskatītas par palīdzības sniegšanu vai ļaunprātīgu izmantošanu; nolūks tiks izvērtēts saskaņā ar iepriekš sniegto sarakstu."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:40
 msgid "Not bad!"
@@ -5919,15 +5923,15 @@ msgstr "Atvērt kasti"
 
 #: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
-msgstr "Atvērtas Kastes"
+msgstr "Atvērtas kastes"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:217
 msgid "Open Cases"
-msgstr "Atvērt Kastes"
+msgstr "Atvērt kastes"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:372
 msgid "Open Chat"
-msgstr "Atvērt Čatu"
+msgstr "Atvērt čatu"
 
 #: src/components/_user/auth/LoginFormModal.tsx:111
 msgid "Open Email"
@@ -5943,7 +5947,7 @@ msgstr "Atver, lai dabūtu kādu ekipējumu"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
-msgstr "Atver vairākas <0>Kastes</0> vienlaicīgi"
+msgstr "Atver vairākas <0>kastes</0> vienlaicīgi"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:373
 msgid "Open the chat"
@@ -5959,7 +5963,7 @@ msgstr "Atver savu kasti!"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:61
 msgid "Operative"
-msgstr "Štāba Virsseržants"
+msgstr "Štāba virsseržants"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:159
 msgid "Options"
@@ -6010,7 +6014,7 @@ msgstr "Piederošie"
 
 #: src/pages/user/[userId]/index.tsx:169
 msgid "Owned Military Units"
-msgstr "Piederošās Militārās Vienības"
+msgstr "Piederošās militārās vienības"
 
 #: src/components/_military/mu/MuMemberList.tsx:321
 msgid "Owner"
@@ -6018,7 +6022,7 @@ msgstr "Īpašnieks"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1150
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
-msgstr "Īpašumtiesības <0/> tika nodotas no <1/> uz <2/>"
+msgstr "<1/> <0/> īpašumtiesības tika nodotas <2/>"
 
 #: src/components/_military/mu/MuMemberList.tsx:120
 msgid "Ownership transferred successfully"
@@ -6026,7 +6030,7 @@ msgstr "Īpašumtiesības veiksmīgi nodotas"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:60
 msgid "Pacification Center"
-msgstr "Pāraudzināšanas Centrs"
+msgstr "Pāraudzināšanas centrs"
 
 #: src/components/_political/party/party.frontConfig.tsx:88
 msgid "Pacifism vs Expansionism"
@@ -6061,7 +6065,7 @@ msgstr "Piedalies <0>{count}</0> kaujās"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:231
 msgid "Participate in Battle"
-msgstr "Piedalīties Kaujā"
+msgstr "Piedalīties kaujā"
 
 #: src/pages/parties.tsx:13
 msgid "Parties"
@@ -6084,19 +6088,19 @@ msgstr "Pieteikums partijai noraidīts"
 
 #: src/components/_political/election/election.frontConfig.tsx:38
 msgid "Party Council election"
-msgstr "Partijas Padomes vēlēšanas"
+msgstr "Partijas padomes vēlēšanas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:239
 msgid "Party Council election candidacy is now open in <0/>"
-msgstr "Kandidēšana <0/> Partijas Padomes vēlēšanām ir sākusies"
+msgstr "Kandidēšana <0/> partijas padomes vēlēšanām ir sākusies"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:289
 msgid "Party Council election has ended in <0/>. Check the results!"
-msgstr "<0/> Partijas Padomes vēlēšanas ir beigušās. Apskaties rezultātus!"
+msgstr "<0/> partijas padomes vēlēšanas ir beigušās. Apskaties rezultātus!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:264
 msgid "Party Council election voting is now open in <0/>"
-msgstr "<0/> Partijas Padomes vēlēšanas ir sākušās"
+msgstr "<0/> partijas padomes vēlēšanas ir sākušās"
 
 #: src/components/_political/party/PartyFormModal.tsx:36
 msgid "Party created"
@@ -6116,35 +6120,35 @@ msgstr "Partijas vēlēšanu balsošana ir atvērta"
 
 #: src/components/_political/election/election.frontConfig.tsx:33
 msgid "Party Leader election"
-msgstr "Partijas Līdera vēlēšanas"
+msgstr "Partijas līdera vēlēšanas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:229
 msgid "Party Leader election candidacy is now open in <0/>"
-msgstr "Kandidēšana <0/> Partijas Līdera vēlēšanām ir sākusies"
+msgstr "Kandidēšana <0/> partijas līdera vēlēšanām ir sākusies"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:279
 msgid "Party Leader election has ended in <0/>. Check the results!"
-msgstr "<0/> Partijas Līdera vēlēšanas ir beigušās. Apskaties rezultātus!"
+msgstr "<0/> partijas līdera vēlēšanas ir beigušās. Apskaties rezultātus!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:254
 msgid "Party Leader election voting is now open in <0/>"
-msgstr "<0/> Partijas Līdera vēlešanas ir sākušās"
+msgstr "<0/> partijas līdera vēlešanas ir sākušās"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:234
 msgid "Party Primary election candidacy is now open in <0/>"
-msgstr "Partijas Priekšvēlēšanu kandidēšana ir pieejama pēc <0/>"
+msgstr "Ir atvērta kandidēšana <0/> partijas priekšvēlēšanās"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:284
 msgid "Party Primary election has ended in <0/>. Check the results!"
-msgstr "Partijas Priekšvēlēšanas beidzās <0/>. Apskaties rezultātus!"
+msgstr "<0/> partijas priekšvēlēšanas beidzās. Apskaties rezultātus!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:259
 msgid "Party Primary election voting is now open in <0/>"
-msgstr "Partijas Priekšvēlēšanu balsošana sāksies pēc <0/>"
+msgstr "Ir atvērta balsošana <0/> partijas priekšvēlēšanās"
 
 #: src/components/_political/election/CandidateFormModal.tsx:71
 msgid "Paste a link to your campaign article, or leave empty."
-msgstr "Ielīmē saiti uz savu kampaņas rakstu, vai atstāj tukšu."
+msgstr "Pievieno saiti uz savu kampaņas rakstu, vai atstāj tukšu."
 
 #: src/pages/shop/index.tsx:45
 msgid "Payment successful! Thanks for supporting the game <3"
@@ -6168,7 +6172,7 @@ msgstr "Gaidāmā algas samazināšana"
 
 #: src/components/_political/event/event.frontConfig.tsx:422
 msgid "People are angry, an auto revolt has started in <0/>"
-msgstr "Cilvēki ir dusmīgi, ir sākusies automātiskā sacelšanās <0/>"
+msgstr "Cilvēki ir sadusmoti, <0/> ir sākusies automātiskā sacelšanās"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:169
 msgid "Permanently dissolve the alliance."
@@ -6180,7 +6184,7 @@ msgstr "Nafta"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:66
 msgid "Petty Officer"
-msgstr "Galvenais Virsseržants"
+msgstr "Galvenais virsseržants"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:60
 msgid "Phone number verified!"
@@ -6188,7 +6192,7 @@ msgstr "Tālruņa numurs verificēts!"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:102
 msgid "Phone Verification"
-msgstr "Tālruņa Verifikācija"
+msgstr "Tālruņa verifikācija"
 
 #: src/components/_user/user/UserDropdown.tsx:187
 msgid "Phone verification requested"
@@ -6212,11 +6216,11 @@ msgstr "Iestādi koku datu centrā"
 
 #: src/components/_common/GameRules.tsx:31
 msgid "Players are limited to a single account. Creating multiple accounts or using someone else's account for any reason is strictly prohibited."
-msgstr ""
+msgstr "Spēlētājiem ir atļauts izmantot tikai vienu spēlētāja kontu. Vairāku kontu izveide vai cita cilvēka konta izmantošana jebkāda iemesla dēļ ir stingri aizliegta."
 
 #: src/components/_common/GameRules.tsx:49
 msgid "Players can share an IP address if they have been registered as a \"Family Group\". This status must be requested in advance to an admin on our Discord. Group members are prohibited from:"
-msgstr ""
+msgstr "Spēlētāji var koplietot IP adresi, ja ir reģistrēti kā „Ģimenes grupa”. Šis statuss ir jāpieprasa iepriekš spēles administratoriem izmantojot Discord spēles kanālu. Grupas dalībniekiem savstarpēji ir aizliegts:"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:93
 #: src/components/_user/auth/ConnectFromModal.tsx:113
@@ -6243,15 +6247,15 @@ msgstr "Politiskie priekšlikumi"
 
 #: src/components/_common/GameRules.tsx:166
 msgid "Political Take Overs (PTOs) are permitted, but misusing it to extract a country's resources for personal/another country's gain, to damage the country or to intentionally distort market conditions is a punishable offense, which will include fines, bans, and removal from government roles. This goes for Military Units as well."
-msgstr ""
+msgstr "Politiskās pārņemšanas ir atļautas, taču to ļaunprātīga izmantošana, lai iegūtu valsts resursus personīgai vai citas valsts labuma gūšanai, lai nodarītu kaitējumu valstij vai apzināti izkropļotu tirgus apstākļus, ir sodāms pārkāpums, par ko tiks piemēroti naudas sodi, kontu bloķēšana un atcelšana no valdības amatiem. Tas attiecas arī uz militārajām vienībām."
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:156
 msgid "Politics & Government"
-msgstr "Politika un Valdība"
+msgstr "Politika un valdība"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:199
 msgid "Popular Article"
-msgstr "Populārs Raksts"
+msgstr "Populārs raksts"
 
 #: src/components/_political/government/AnnouncementForm.tsx:17
 #: src/pages/country/[countryId]/government.tsx:177
@@ -6326,7 +6330,7 @@ msgstr "Prezidenta vēlēšanas"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:430
 msgid "Price auto-matches existing orders"
-msgstr ""
+msgstr "Automātiska cenas pielīdzināšana rīkojumiem"
 
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
@@ -6351,7 +6355,7 @@ msgstr "Tikai Pro"
 
 #: src/components/_user/user/skills.frontConfig.tsx:50
 msgid "Probability of landing a critical hit"
-msgstr "Kritiskā trieciena iespēja"
+msgstr "Iespējamība veikt kritisko triecienu."
 
 #: src/components/_economy/company/ProduceButton.tsx:140
 #: src/components/_user/mission/mission.frontConfig.tsx:446
@@ -6393,7 +6397,7 @@ msgstr "Ražošanas bonuss"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:156
 msgid "Production bonus:"
-msgstr "Ražosānas bonuss:"
+msgstr "Ražošanas bonuss:"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:577
 msgid "Production in<0/> is full, you should start production!"
@@ -6418,11 +6422,11 @@ msgstr "Profils"
 #: src/components/_military/mu/MuMemberList.tsx:146
 #: src/components/_military/mu/MuMemberList.tsx:434
 msgid "Promote to Commander"
-msgstr "Paaugstināt par Komandieri"
+msgstr "Paaugstināt par komandieri"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2075
 msgid "Promoted to Commander"
-msgstr "Paaugstināts Komandiera amatā"
+msgstr "Paaugstināts komandiera amatā"
 
 #: src/components/_political/law/law.frontConfig.tsx:259
 msgid "Propose a defensive pact with <0/>"
@@ -6498,11 +6502,11 @@ msgstr "Priekšlikumi"
 
 #: src/components/_common/GameRules.tsx:286
 msgid "Punishments, along with their reasoning, are visible on user profiles. Players may appeal through the official Discord server, where detailed explanations and evidence will be provided. Rule violations can be reported with supporting evidence."
-msgstr ""
+msgstr "Sankcijas kopā ar to pamatojumu ir redzamas lietotāju profilos. Spēlētāji var iesniegt apelāciju, izmantojot spēles oficiālo Discord serveri, kur jāiesniedz detalizēti paskaidrojumi un pierādījumi. Par noteikumu pārkāpumiem var ziņot, pievienojot atbilstošus pierādījumus."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
-msgstr "Violetā Nūja"
+msgstr "Violetais zizlis"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:35
 msgid "Put yourself to work!"
@@ -6515,11 +6519,11 @@ msgstr "Ātrā izjaukšana"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:45
 msgid "Quick equip best items of any tier"
-msgstr "Atrī apvilkt jebkura līmeņa labākās mantas"
+msgstr "Ātri apvelc jebkura līmeņa labākās mantas"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
-msgstr "Ātri izjauc ekipējumu"
+msgstr "Ātri izjauc vairākus ekipējumus vienlaicīgi"
 
 #: src/components/_military/battle/BattleHeader.tsx:299
 msgid "Ranking"
@@ -6527,18 +6531,18 @@ msgstr "Kopvērtējums"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2022
 msgid "Ranking reward"
-msgstr "Kopvērtējuma balvas"
+msgstr "Reitingu balvas"
 
 #: src/components/_layout/MoreButtonNav.tsx:122
 #: src/pages/alliance/[allianceId]/index.tsx:48
 #: src/pages/country/[countryId]/index.tsx:167
 #: src/pages/user/[userId]/index.tsx:123
 msgid "Rankings"
-msgstr "Kopvērtējums"
+msgstr "Reitingi"
 
 #: src/components/_layout/LayoutRightIcons.tsx:233
 msgid "Ranks"
-msgstr "Kopvērtējumi"
+msgstr "Rangi"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:175
 msgid "Rate"
@@ -6558,7 +6562,7 @@ msgstr "Sasniedz 10-to līmeni"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:404
 msgid "Reach Level 10"
-msgstr "Sasniegt 10-to Līmeni"
+msgstr "Sasniegt 10-to līmeni"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:400
 msgid "Reach level 5"
@@ -6566,7 +6570,7 @@ msgstr "Sasniedz 5-to līmeni"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:399
 msgid "Reach Level 5"
-msgstr "Sasniegt 5-to Līmeni"
+msgstr "Sasniegt 5-to līmeni"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:436
 msgid "Reach military rank 10"
@@ -6574,7 +6578,7 @@ msgstr "Sasniedz 10-to dienesta pakāpi"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "Reach Military Rank 10"
-msgstr "Sasniegt 10-to Dienesta Pakāpi"
+msgstr "Sasniegt 10-to dienesta pakāpi"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:431
 msgid "Reach military rank 5"
@@ -6582,12 +6586,12 @@ msgstr "Sasniedz 5-to dienesta pakāpi"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:430
 msgid "Reach Military Rank 5"
-msgstr "Sasniegt 5-to Dienesta Pakāpi"
+msgstr "Sasniegt 5-to dienesta pakāpi"
 
 #. placeholder {0}: leveling.level + 1
 #: src/components/_user/user/Level.tsx:111
 msgid "Reaching level {0} will give you <0>{nextLevelSkillPoints} Skill Points</0>."
-msgstr "{0} līmeņa sasniegšana tev iedos <0>{nextLevelSkillPoints} Prasmes Punktus</0>."
+msgstr "{0} līmeņa sasniegšana tev dos <0>{nextLevelSkillPoints} prasmju punktus</0>."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:354
 msgid "Read <0>{count}</0> articles"
@@ -6595,7 +6599,7 @@ msgstr "Izlasi <0>{count}</0> rakstus"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:352
 msgid "Read Article"
-msgstr "Lasīt Rakstu"
+msgstr "Lasīt rakstu"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:130
 msgid "Ready for battle!"
@@ -6614,7 +6618,7 @@ msgstr "Iemesls"
 
 #: src/pages/party/[partyId]/index.tsx:86
 msgid "Recent Applications"
-msgstr "Pēdejie Pieteikumi"
+msgstr "Pēdejie pieteikumi"
 
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
@@ -6638,7 +6642,7 @@ msgstr "Sarkanā Nūja"
 
 #: src/components/_user/user/skills.frontConfig.tsx:70
 msgid "Reduces health lost when fighting in battles"
-msgstr "Samazina dzīvību zudumu, karojot kaujās"
+msgstr "Samazina dzīvību zudumu, karojot kaujās."
 
 #: src/pages/user/[userId]/referrals.tsx:87
 msgid "Referral link copied to clipboard"
@@ -6725,23 +6729,23 @@ msgstr "Reģistrēties"
 
 #: src/utils/translations.tsx:204
 msgid "Reinforced Boots"
-msgstr "Zaļās Kurpes"
+msgstr "Zaļās kurpes"
 
 #: src/utils/translations.tsx:195
 msgid "Reinforced Chest"
-msgstr "Zaļā Bruņuveste"
+msgstr "Zaļā bruņuveste"
 
 #: src/utils/translations.tsx:213
 msgid "Reinforced Gloves"
-msgstr "Zaļie Cimdi"
+msgstr "Zaļie cimdi"
 
 #: src/utils/translations.tsx:186
 msgid "Reinforced Helmet"
-msgstr "Zaļā Ķivere"
+msgstr "Zaļā ķivere"
 
 #: src/utils/translations.tsx:222
 msgid "Reinforced Pants"
-msgstr "Zaļās Bikses"
+msgstr "Zaļās bikses"
 
 #: src/components/_political/allianceLaw/AllianceLaw.tsx:153
 #: src/components/_political/law/Law.tsx:210
@@ -6764,7 +6768,7 @@ msgstr "Atlikušais paģiru ilgums"
 
 #: src/components/_political/law/law.frontConfig.tsx:201
 msgid "Remove <0/> from congress due to inactivity"
-msgstr "Atlaist <0/> no kongresa neaktivitātes dēļ"
+msgstr "Atlaist <0/> no Saeimas neaktivitātes dēļ"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:82
 msgid "Remove <0/> from the alliance immediately on acceptance."
@@ -6789,7 +6793,7 @@ msgstr "Atcelt visus"
 
 #: src/components/_political/law/law.frontConfig.tsx:185
 msgid "Remove an inactive congress member from its position"
-msgstr "Atlaist neaktīvu kongresa deputātu"
+msgstr "Atlaist neaktīvu Saeimas deputātu"
 
 #: src/pages/country/[countryId]/government.tsx:164
 #: src/pages/country/[countryId]/government.tsx:169
@@ -6824,7 +6828,7 @@ msgstr "Atlaist pašreizējo partijas līderi no sava amata"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2072
 msgid "Removed from Military Unit"
-msgstr "Izraidīts no Militārās Vienības"
+msgstr "Izraidīts no militārās vienības"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:289
 msgid "Rename"
@@ -6893,7 +6897,7 @@ msgstr "Reputācija nopirkta!"
 
 #: src/components/_user/user/UserDropdown.tsx:349
 msgid "Request Phone Verification"
-msgstr "Pieprasīt Tālruņa Verifikāciju"
+msgstr "Pieprasīt tālruņa verifikāciju"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:197
 msgid "Requests:"
@@ -6913,7 +6917,7 @@ msgstr "Pāriestatīt CAPTCHA"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:129
 msgid "Reset Survivor"
-msgstr "Pāriestatīšanas Izdzīvotājs"
+msgstr "Pasaules gala izdzīvotājs"
 
 #: src/pages/user/[userId]/settings.tsx:74
 msgid "Reset tutorials"
@@ -6921,7 +6925,7 @@ msgstr "Pāriestatīt pamācību"
 
 #: src/components/_user/user/UserDropdown.tsx:420
 msgid "Reset Username"
-msgstr "Pāriestatīt Lietotājvārdu"
+msgstr "Pāriestatīt lietotājvārdu"
 
 #: src/pages/region/[regionId]/index.tsx:109
 msgid "Reshuffle in"
@@ -6941,7 +6945,7 @@ msgstr "Dumpinieki"
 
 #: src/components/_military/battle/BattleName.tsx:152
 msgid "Resistance for {regionName} {score}"
-msgstr "Sacelšanās pret {regionName} {score}"
+msgstr "Sacelšanās {regionName} {score}"
 
 #: src/pages/country/[countryId]/index.tsx:226
 #: src/pages/region/[regionId]/index.tsx:49
@@ -7048,11 +7052,11 @@ msgstr "Raunds beidzās"
 #: src/components/_military/battle/BattleSystem.tsx:465
 #: src/components/_military/battle/BattleSystem.tsx:502
 msgid "Round ETA"
-msgstr "Raunda beigas"
+msgstr "Aptuvenās raunda beigas"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:79
 msgid "Round Hero"
-msgstr "Raunda Varonis"
+msgstr "Raunda varonis"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:60
 msgid "Round loot"
@@ -7065,11 +7069,11 @@ msgstr "Raundu vēsture"
 #: src/components/_military/war/WarItem.tsx:56
 #: src/components/_military/war/WarItem.tsx:90
 msgid "Rounds won"
-msgstr "Raundi uzvarēti"
+msgstr "Uzvarēti raundi"
 
 #: src/components/_military/war/WarComparison.tsx:78
 msgid "Rounds Won"
-msgstr "Raundi uzvarēti"
+msgstr "Uzvarēti raundi"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:169
 #: src/components/_user/auth/WelcomeModal.tsx:170
@@ -7078,7 +7082,7 @@ msgstr "Noteikumi"
 
 #: src/pages/country/[countryId]/index.tsx:234
 msgid "Ruling Party"
-msgstr "Vadošā Partija"
+msgstr "Valdošā partija"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:154
 msgid "Running low on health?"
@@ -7128,11 +7132,11 @@ msgstr "Meklēt lietotāju, kuru nominēt..."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
-msgstr "Vari aplūkot visu savu strādnieku un uzņēmumu statistiku"
+msgstr "Pieejama savu strādnieku un uzņēmumu statistika"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
-msgstr "Vari aplūkot savu tēriņu un ienākumu sadalījumu"
+msgstr "Pieejams savu tēriņu un ienākumu pārskats"
 
 #: src/components/_military/mu/MuSettings.tsx:77
 msgid "Select a country"
@@ -7254,7 +7258,7 @@ msgstr "Seržants"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:143
 msgid "Set a <0>description</0>"
-msgstr "Iestatīt <0>aprakstu</0>"
+msgstr "Personificēts <0>apraksts</0> spēlētāja profilā"
 
 #: src/pages/user/[userId]/referrals.tsx:153
 msgid "Set a referrer"
@@ -7343,7 +7347,7 @@ msgstr "Veikals"
 #. placeholder {0}: Math.min(step, remaining)
 #: src/components/_political/party/PartyMembers.tsx:217
 msgid "Show {0} more ({remaining} remaining)"
-msgstr "Parādīt vēl {0} (atlika {remaining})"
+msgstr "Parādīt vēl {0} (atlikuši {remaining})"
 
 #. placeholder {0}: auction.bids.length
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:277
@@ -7423,7 +7427,7 @@ msgstr "Veidolu komplekts iegūts! Visi veidoli ir nomainīti!"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:91
 msgid "Skin Packs"
-msgstr "Veidolu Komplekti"
+msgstr "Veidolu komplekti"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2126
 msgid "Skin Reward"
@@ -7441,11 +7445,11 @@ msgstr "Veidoli šajā komplektā"
 
 #: src/components/_other/tour/TutorialStep.tsx:185
 msgid "Skip Tutorial"
-msgstr "Izlaist Pamācību"
+msgstr "Izlaist pamācību"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
-msgstr ""
+msgstr "Lingas akmeņi"
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
@@ -7453,7 +7457,7 @@ msgstr "Snaiperis"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:155
 msgid "Social & Messages"
-msgstr "Sociālie un Ziņas"
+msgstr "Sociālie un ziņas"
 
 #: src/components/_economy/company/CompanyList.tsx:80
 msgid "Some of your companies are disabled."
@@ -7477,7 +7481,7 @@ msgstr "Izvēlies resursu"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:194
 msgid "Spellcaster Gloves"
-msgstr "Burvja Cimdi"
+msgstr "Burvja cimdi"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:74
 msgid "Spend your <0>Energy</0> working here to earn <1>Money</1>. Keep clicking to work more!"
@@ -7494,7 +7498,7 @@ msgstr "Stabils, iekarojuma-noturīgs spēks. Joprojām izmantots priekš nemier
 #: src/components/_political/law/law.frontConfig.tsx:169
 #: src/components/_political/law/law.frontConfig.tsx:171
 msgid "Start a congress election, now"
-msgstr "Nekavējoties uzsākt kongresa vēlēšanas"
+msgstr "Nekavējoties uzsākt Saeimas vēlēšanas"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:51
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:53
@@ -7524,7 +7528,7 @@ msgstr "Uzsākt revolūciju, lai gāztu esošo valdību"
 #: src/components/_political/law/law.frontConfig.tsx:168
 #: src/components/_political/law/lawNames.tsx:19
 msgid "Start congress election"
-msgstr "Ierosināt kongresa vēlēšanas"
+msgstr "Ierosināt Saeimas vēlēšanas"
 
 #: src/components/_political/law/law.frontConfig.tsx:160
 #: src/components/_political/law/lawNames.tsx:17
@@ -7538,7 +7542,7 @@ msgstr "Uzsākt revolūciju"
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
-msgstr "Uzsākts <0/>"
+msgstr "Uzsākts pirms <0/>"
 
 #: src/components/_military/battle/BattleHeader.tsx:195
 msgid "Started<0/><1/>"
@@ -7613,7 +7617,7 @@ msgstr "Stratēģiskie resursi"
 
 #: src/components/_political/event/event.frontConfig.tsx:436
 msgid "Strategic resources have been reshuffled across the whole map."
-msgstr "Stratēģiskie resursi ir no jauna pārdalīti pa visu karti."
+msgstr "Uz kartes notikusi jauna stratēģisko resursu pārdale."
 
 #: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
@@ -7641,7 +7645,7 @@ msgstr "Atbalsti spēli"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "Support the game and quickly dismantle items!"
-msgstr "Atbalsti spēli un spēsi ātri izjaukt ekipējumus!"
+msgstr "Atbalsti spēli un iegūsti funkciju ātri izjaukt vairākus ekipējumus vienlaicīgi!"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:60
 msgid "Support us"
@@ -7662,7 +7666,7 @@ msgstr "Atbalstītāju funkcija"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:151
 msgid "Supporter Gift"
-msgstr "Atbalstītāja Dāvana"
+msgstr "Atbalstītāja dāvana"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:68
 msgid "Supporter gifts"
@@ -7678,11 +7682,11 @@ msgstr "Atbalstītāja plāns"
 
 #: src/components/_user/modals/PremiumModal.tsx:31
 msgid "Supporter Plan"
-msgstr "Atbalstītāja Plāns"
+msgstr "Atbalstītāja plāns"
 
 #: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Supporter Plan: up to {premiumMax} kits"
-msgstr "Atbalstītāja Plāns: līdz {premiumMax} komplektiem"
+msgstr "Atbalstītāja plāns: līdz {premiumMax} komplektiem"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
@@ -7690,12 +7694,12 @@ msgstr "Virspavēlnieks"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:276
 msgid "Sworn enemy"
-msgstr "Zvērēts ienaidnieks"
+msgstr "Zvērētais ienaidnieks"
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[2].enemyMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:233
 msgid "Sworn enemy maintenance costs are increased by <0>{0}</0>."
-msgstr "Zvērētā ienaidnieka uzturēšanas maksa tiek palielināta par <0>{0}</0>."
+msgstr "Zvērētā ienaidnieka likuma uzturēšanas maksa tiek palielināta par <0>{0}</0>."
 
 #. placeholder {0}: ethicsBonuses.isolationism['-1'].enemyFidelityStart
 #. placeholder {0}: ethicsBonuses.isolationism['-2'].enemyFidelityStart
@@ -7781,11 +7785,11 @@ msgstr "Tas ir satriecoši!"
 
 #: src/components/_user/user/skills.frontConfig.tsx:98
 msgid "The <0>Production Points</0> you generate each time you work"
-msgstr "<0>Ražošanas Punkti</0>, kurus tu saražo par katru darba reizi"
+msgstr "<0>Ražošanas punkti</0>, kurus tu saražo ar katru strādāšanas reizi."
 
 #: src/components/_user/user/skills.frontConfig.tsx:40
 msgid "The base value for <0>Damages</0> calculation."
-msgstr "Bāzes vērtība <0>Bojājumu</0> aprēķināšanai."
+msgstr "Pamata vērtība <0>bojājumu</0> aprēķināšanai."
 
 #: src/components/_political/event/event.frontConfig.tsx:510
 msgid "The civil war started by <0/> in <1/> has been suppressed"
@@ -7811,7 +7815,7 @@ msgstr "Izmaksas tiek aprēķinātas no likuma pamata maksas un koriģētas atbi
 
 #: src/components/_user/user/skills.frontConfig.tsx:59
 msgid "The damage factor increase of critical hits over normal hits"
-msgstr "Par cik palielinās tavi kritiskie bojājumi"
+msgstr "Apjoms par kādu palielinās tavi bojājumi kritisko triecienu gadījumā."
 
 #: src/pages/region/[regionId]/index.tsx:70
 msgid "The deposit gives a production bonus of the following percentage."
@@ -7849,7 +7853,7 @@ msgstr "Stratēģiskie resursi tiks pārdalīti pēc šī laika perioda."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1357
 msgid "The tournament has ended for your team <0/>. Check the results!"
-msgstr "Tavai komandai <0/> šis turnīrs ir beidzies. Vari aplūkot rezultātus!"
+msgstr "Tavai komandai <0/> šis turnīrs ir beidzies. Apskaties rezultātus!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:12
 msgid "The universe owes you something big"
@@ -7857,7 +7861,7 @@ msgstr "Visums tev ir parādā kaut ko lielu"
 
 #: src/components/_common/GameRules.tsx:73
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
-msgstr ""
+msgstr "Botu, skriptu vai jebkāda veida automatizācijas izmantošana, lai iegūtu priekšrocības pār citiem spēlētājiem, ir stingri aizliegta. Tas ietver, bet neaprobežojas ar, tīmekļa datu ieguvi un skriptu izveidi, kas apiet spēles paredzēto funkcionalitāti vai ierobežojumus."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:139
 msgid "This action will submit your MU bid for this contract."
@@ -7873,11 +7877,11 @@ msgstr "Šis uzņēmums ir izslēgts, jo īpašnieks ir sasniedzis uzņēmumu li
 
 #: src/pages/country/[countryId]/index.tsx:121
 msgid "This country has no president or active congress member, you can take control of it."
-msgstr "Šai valstij nav prezidenta vai aktīva kongresa deputāta, tu vari pārņemt tās kontroli."
+msgstr "Šai valstij nav prezidenta vai aktīva deputāta, tu vari pārņemt tās kontroli."
 
 #: src/components/_political/government/Government.tsx:72
 msgid "This country is Fanatic Imperialist: it cannot have ministers, only a president and vice president. Minister nominations will be rejected."
-msgstr "Šai valstij ir Fanātiskā Imperialisma politikas: tai nevar būt ministru, tikai prezidents un viceprezidents. Ministru nominācijas tiks noraidītas."
+msgstr "Šai valstij ir Fanātiskā imperiālisma politikas: tai nevar būt ministru, tikai prezidents un viceprezidents. Ministru nominācijas tiks noraidītas."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:42
 msgid "This equipment is green and so is grass"
@@ -7930,7 +7934,7 @@ msgstr "Šis lietotājs nav nevienas ģimenes grupas dalībnieks"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:237
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
-msgstr "Tas dos tev pastiprinājumu uz {cocainBuffHours}h, tad izraisīs paģiras uz {cocainDebuffHours}h"
+msgstr "Tas tev dos pastiprinājumu uz {cocainBuffHours}h, tad izraisīs paģiras uz {cocainDebuffHours}h"
 
 #: src/components/_user/user/UserDropdown.tsx:350
 msgid "This will require the user to verify their mobile phone number."
@@ -8114,7 +8118,7 @@ msgstr "Kopā noziedots:"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:484
 msgid "Total of <0/>"
-msgstr "Kopā <0/>"
+msgstr "Kopējā vērtība <0/>"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
@@ -8202,7 +8206,7 @@ msgstr "Pārskaitīt naudu"
 
 #: src/components/_military/mu/MuMemberList.tsx:161
 msgid "Transfer Ownership"
-msgstr "Mainīt Īpašumtiesības"
+msgstr "Nodot īpašumtiesības"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:199
 msgid "Transfer to company (optional)"
@@ -8250,7 +8254,7 @@ msgstr "Neētisks"
 
 #: src/components/_political/law/LawEthicEffects.tsx:79
 msgid "Unethical countries cannot hold any treaty — this law cannot be enacted."
-msgstr "Neētiskās valstis nevar noslēgt nekādus starptautiskus līgumus — šis likums nevar tikt ierosināts."
+msgstr "Neētiskās valstis nevar noslēgt nekādus starptautiskos līgumus — šis likums nevar tikt ierosināts."
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:457
@@ -8282,11 +8286,11 @@ msgstr "Iegūt {0} veidolu{1}"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
-msgstr "Iegūsti \"Palīdzēt visiem\" pogu"
+msgstr "Pieejama \"Palīdzēt visiem\" poga MV lapā"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
-msgstr "Iegūsti \"Ražot visu\" pogu"
+msgstr "Pieejama \"Ražot visu\" poga uzņēmumu lapā"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1958
 msgid "Unlocked pack"
@@ -8310,11 +8314,11 @@ msgstr "Nemieri"
 
 #: src/components/_political/contribution/ContributionList.tsx:200
 msgid "Unrest Contributors"
-msgstr "Nemieru Dalībnieki"
+msgstr "Nemieru dalībnieki"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:247
 msgid "Unselect all"
-msgstr "Noņemt visu atlasi"
+msgstr "Atcelt visu atlasi"
 
 #: src/components/_political/law/law.frontConfig.tsx:429
 #: src/components/_political/law/law.frontConfig.tsx:431
@@ -8347,11 +8351,11 @@ msgstr "Uzlabot automatizēto dzinēju"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:393
 msgid "Upgrade Company"
-msgstr "Uzlabot Uzņēmumu"
+msgstr "Uzlabot uzņēmumu"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:462
 msgid "Upgrade Skills"
-msgstr "Uzlabot Prasmes"
+msgstr "Uzlabot prasmes"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:225
 msgid "Upgrade storage"
@@ -8359,7 +8363,7 @@ msgstr "Uzlabot noliktavu"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:205
 msgid "Upgrade to supporter"
-msgstr "Kļūt par atbalstītāju"
+msgstr "Kļūsti par atbalstītāju"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:464
 msgid "Upgrade your skills <0>{count}</0> times"
@@ -8390,11 +8394,11 @@ msgstr "Ieroču šaušanai. Palielina tavu <0>Uzbrukumu</0>"
 
 #: src/components/_user/user/skills.frontConfig.tsx:174
 msgid "Used to <0>Self Work</0> in your own companies"
-msgstr "Lai varētu <0>Strādāt</0> savos uzņēmumos"
+msgstr "Izmanto lai <0>strādātu</0> savos uzņēmumos."
 
 #: src/components/_user/user/skills.frontConfig.tsx:86
 msgid "Used to <0>Work</0>"
-msgstr "Lai varētu <0>Strādāt</0> pie citiem"
+msgstr "Izmanto lai <0>strādātu</0> pie citiem."
 
 #: src/utils/translations.tsx:71
 msgid "Used to build companies and MUs"
@@ -8450,7 +8454,7 @@ msgstr "lietotāju"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:152
 msgid "User & Progression"
-msgstr "Lietotājs un Attīstība"
+msgstr "Lietotājs un attīstība"
 
 #: src/components/_other/shop/SkinPackModal.tsx:268
 msgid "User already owns all skins"
@@ -8622,7 +8626,7 @@ msgstr "Alga mainīta"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:119
 msgid "Wage cost ({productionPoints} pts):"
-msgstr "Algas izmaksa ({productionPoints} raž. punkti):"
+msgstr "Algas izmaksa ({productionPoints} raž. punkts):"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:183
 msgid "Wage per production"
@@ -8639,7 +8643,7 @@ msgstr "Algas samazināšana iesniegta"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:86
 msgid "Wage reduction proposed! Waiting for worker to accept or reject."
-msgstr "Algas samazināšana iesniegta! Gaidām, kad strādnieks piekritīs vai noraīdīs to."
+msgstr "Algas samazināšana iesniegta! Gaidām, kad strādnieks piekritīs vai noraidīs to."
 
 #. placeholder {0}: gameConfig?.referral.levelNeededForBadge
 #: src/components/_user/referral/ReferralList.tsx:112
@@ -8664,7 +8668,7 @@ msgstr "Karš beidzies"
 
 #: src/components/_user/modals/PremiumModal.tsx:39
 msgid "War Era is 100% free to play and has no <0>ads</0> or <1>pay-to-win</1>, If you enjoy the game, you can support its development by subscribing to the Supporter Plan <3"
-msgstr "Kara Laikmets ir 100% bezmaksas un tam nav <0>reklāmu</0> vai <1>maksā-lai-uzvarētu</1> elementu. Ja tu izbaudi šo spēli, tev ir iespēja atbalstīt tās izstrādi abonējot Atbalstītāja Plānu <3"
+msgstr "„War Era“ (Kara laikmets) ir 100% bezmaksas spēle un tai nav <0>reklāmu</0> vai <1>maksā-lai-uzvarētu</1> elementu. Ja izbaudi šo spēli, tev ir iespēja atbalstīt tās izstrādi abonējot atbalstītāja plānu <3"
 
 #: src/components/_user/userReports/ReportFormModal.tsx:83
 msgid "Warning"
@@ -8672,7 +8676,7 @@ msgstr "Brīdinājums"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:76
 msgid "Warrant Officer"
-msgstr "Vecākais Apakšvirsnieks"
+msgstr "Vecākais apakšvirsnieks"
 
 #: src/components/_political/country/CountryHeader.tsx:100
 msgid "Wars"
@@ -8724,7 +8728,7 @@ msgstr "Ar atgriešanos, {username}!"
 
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Welcome to War Era!"
-msgstr "Laipni lūgts Kara Laikmetā!"
+msgstr "Laipni lūdzam spēlē „War Era“ (Kara laikmets)!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:25
 msgid "Welcome to your economy!"
@@ -8733,7 +8737,7 @@ msgstr "Laipni lūgts savā ekonomikā!"
 #. placeholder {0}: formatPercent( ethicsBonuses.militarism[2].pacificationDefenseBonusPerLevel, )
 #: src/components/_political/party/party.frontConfig.tsx:116
 msgid "When defending a revolt, gain an additional <0>{0}</0> battle bonus per Pacification Center level."
-msgstr "Aizstāvoties pret sacelšanos, gūsti papildu <0>{0}</0> kaujas bonusu par katru Pāraudzināšanas Centra līmeni."
+msgstr "Aizstāvoties pret sacelšanos, gūsti papildu <0>{0}</0> kaujas bonusu par katru pāraudzināšanas centra līmeni."
 
 #: src/components/_political/party/party.frontConfig.tsx:63
 msgid "When revolting, you copy the enemy's defensive battle bonus from Bunker region upgrades."
@@ -8741,11 +8745,11 @@ msgstr "Rīkojot sacelšanos, tu kopē ienaidnieka bunkura bojājumu bonusu."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:156
 msgid "When your <0>Health</0> runs out, open this menu to restore it with food."
-msgstr "Kad tev vairs nav <0>Dzīvību</0>, atver šo izvēlni, lai atjaunotu tās ar ēdienu."
+msgstr "Kad tev vairs nav <0>dzīvību</0>, atver šo izvēlni, lai tās atjaunotu, izmantojot ēdienu."
 
 #: src/components/_common/GameRules.tsx:80
 msgid "While data collection and display tools that use the official public API are allowed, for any other development or data access, please contact the staff team directly."
-msgstr ""
+msgstr "Lai gan datu vākšanas un attēlošanas rīki, kas izmanto oficiālo publisko API, ir atļauti, par jebkādu citu izstrādi vai piekļuvi spēles datiem lūdzu sazināties tieši ar spēles izstrādātāju komandu."
 
 #: src/pages/companies.tsx:102
 msgid "Whole Production"
@@ -8775,7 +8779,7 @@ msgstr "Ar atlīdzību"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:185
 msgid "Wizard Hat"
-msgstr "Burvja Cepure"
+msgstr "Burvja cepure"
 
 #: src/pages/events/index.tsx:138
 msgid "Won by"
@@ -8855,7 +8859,7 @@ msgstr "Kāda velna pēc tas ir iespējams?"
 
 #: src/components/_common/GameRules.tsx:283
 msgid "X. Punishments and Appeals"
-msgstr ""
+msgstr "X. Sankcijas un apelācijas"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:44
 msgid "XP"
@@ -8864,7 +8868,7 @@ msgstr "Pieredze"
 #. placeholder {0}: companiesLimit ?? 1
 #: src/components/_economy/company/CompanyDropdown.tsx:275
 msgid "You already have {0} active companies. Disable one first."
-msgstr "Tev jau ir {0} aktīvi uzņēmumi. Izslēdz vienu vispirms."
+msgstr "Tev jau ir {0} aktīvi uzņēmumi. Vispirms izslēdz vienu."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:25
 msgid "You are a beautiful person"
@@ -8876,15 +8880,15 @@ msgstr "Tu nu gan esi veiksminieks"
 
 #: src/pages/country/[countryId]/index.tsx:111
 msgid "You are already congress member of another country. Resign first."
-msgstr "Tu jau esi deputāts citā valstī. Atkāpies no tā amata vispirms."
+msgstr "Tu jau esi deputāts citā valstī. Vispirms atkāpies no tā amata."
 
 #: src/pages/country/[countryId]/index.tsx:107
 msgid "You are already president of another country. Resign first."
-msgstr "Tu jau esi prezidents citā valstī. Atkāpies no tā amata vispirms."
+msgstr "Tu jau esi prezidents citā valstī. Vispirms atkāpies no tā amata."
 
 #: src/pages/country/[countryId]/index.tsx:109
 msgid "You are already vice president of another country. Resign first."
-msgstr "Tu jau esi viceprezidents citā valstī. Atkāpies no tā amata vispirms."
+msgstr "Tu jau esi viceprezidents citā valstī. Vispirms atkāpies no tā amata."
 
 #: src/pages/companies.tsx:45
 #: src/pages/user/[userId]/companies.tsx:64
@@ -8905,7 +8909,7 @@ msgstr "Ļoti prasmīgi pastrādāts!"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:225
 msgid "You are/were a council member, sharing ideas and feedback to improve the game <3"
-msgstr "Tu esi/biji spēles padomes biedrs, daloties ar idejām un atsauksmēm, lai uzlabotu spēli <3"
+msgstr "Tu esi/biji spēles izstrādes padomes biedrs, daloties ar idejām un atsauksmēm, lai uzlabotu spēli <3"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:143
 msgid "You are/were a part of the staff and helped the game to grow <3"
@@ -8930,7 +8934,7 @@ msgstr "Tu laidi pasaulē 10 mazuļus (>= lvl {0})"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:211
 msgid "You can dismantle items from your inventory by selecting an item."
-msgstr "Tu vari izjaukt ekipējumus, atlasot tos savā inventārā."
+msgstr "Tu vari izjaukt vairākus ekipējumus vienlaicīgi, atlasot tos savā inventārā."
 
 #: src/components/_political/election/CandidateFormModal.tsx:61
 msgid "You can optionally link a campaign article to your candidacy."
@@ -8942,7 +8946,7 @@ msgstr "Tu vari uzlabot savas prasmes!"
 
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
-msgstr "Tu nevari mainīt pilsonību, ja tev ir amats ministru kabinetā vai kongresā"
+msgstr "Tu nevari mainīt pilsonību, ja tev ir amats valdībā vai deputāta mandāts"
 
 #: src/pages/party/[partyId]/applications.tsx:28
 msgid "You don't have permission to view applications."
@@ -8962,11 +8966,11 @@ msgstr "Tu saņēmi dārgakmeņus, jo kāds nopirka tavu komplektu!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:729
 msgid "You feel healthy, the debuff effect no longer affects you."
-msgstr "Tu jūties kā jauns, paģiras tevi vairs neietekmē."
+msgstr "Paģiras beigušās, tu jūties svaigs kā gurķītis."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:153
 msgid "You gifted a supporter plan subscription to someone <3"
-msgstr "Tu uzdāvināji atbalstītāja plāna abonamentu kādam <3"
+msgstr "Tu uzdāvināji kādam atbalstītāja plāna abonementu <3"
 
 #: src/pages/country/[countryId]/citizenship.tsx:48
 msgid "You gonna be automatically approved because the country population is below"
@@ -9003,11 +9007,11 @@ msgstr "Tu iedzēri <0>{0}</0>. Tās darbība sākas tagad un beigsies pēc <1>{
 
 #: src/pages/country/[countryId]/government.tsx:46
 msgid "You have resigned from the congress"
-msgstr "Tu noliki savu kongresa mandātu"
+msgstr "Tu noliki savu deputāta mandātu"
 
 #: src/pages/country/[countryId]/government.tsx:38
 msgid "You have resigned from the government"
-msgstr "Tu atkāpies no sava ministru kabineta amata"
+msgstr "Tu atkāpies no sava valdības amata"
 
 #. placeholder {0}: gameConfig?.user.canTakeControlAtLevel
 #: src/pages/country/[countryId]/index.tsx:103
@@ -9035,7 +9039,7 @@ msgstr "Tu palīdzēji pārtulkot spēli citā valodā"
 #. placeholder {1}: staticGameConfig.referral.lifeTimeBadgeMoneySharePercent
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:34
 msgid "You invited a friend or spammed forum posts. After they reach level {0}, you will get the badge + {1}% of all your referrals' badge rewards"
-msgstr "Tu uzaicināji draugu vai spamoji forumus. Pēc tam, kad viņi sasniedz {0} līmeni, tu saņemsi medaļu + {1}% visu uzaicināto medaļu balvas"
+msgstr "Tu uzaicināji draugu vai spamoji forumos. Pēc tam, kad viņi sasniegs {0} līmeni, tu saņemsi medaļu + {1}% visu uzaicināto spēlētāju medaļu balvas"
 
 #: src/components/_user/worker/WageReductionAlert.tsx:44
 msgid "You left the company."
@@ -9068,11 +9072,11 @@ msgstr "Tev jāizmanto visi 3 vērtību punkti (atlikuši {pointsRemaining})"
 
 #: src/components/_user/UserEquipments.tsx:156
 msgid "You need to equip a weapon first"
-msgstr "Paņem rokās ieroci vispirms"
+msgstr "Vispirms paņem rokās ieroci"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:161
 msgid "You paid the dev's bills <3 (top 3 in monthly supporter gifts ranking)"
-msgstr "Tu izmaksāji izstrādātājiem algu <3 (top 3 mēneša dāvinātāju topā)"
+msgstr "Tu apmaksāji izstrādātāju rēķinus <3 (top 3 mēneša dāvinātāju topā)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1052
 msgid "You premium gift from <0/> has expired! Would you consider subscribing and supporting the game? 👉👈"
@@ -9087,7 +9091,7 @@ msgstr "Tu saņēmi laupījumu par <0>#{0}</0> vietu <1/>"
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
 #: src/components/_user/notification/notification.frontConfig.tsx:1392
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
-msgstr "Tu saņēmi balvu par {0} {1} sasniedzot<0/> līmeni kopvērtējumā <1/>"
+msgstr "Tu saņēmi balvu par {0} {1} sasniedzot<0/> līmeni reitingā <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "You received the skin \"{skinTitle}\"!"
@@ -9132,7 +9136,7 @@ msgstr "<0/> atlaida tevi no amata ministru kabinetā"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:117
 msgid "You were an alpha tester (user before 20 march 2025)"
-msgstr "Tu biji alpha versijas testētājs (lietotājs pirms 2025. gada 20. marta)"
+msgstr "Tu biji spēles alpha versijas testētājs (lietotājs pirms 2025. gada 20. marta)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1991
 #: src/components/_user/notification/notification.frontConfig.tsx:2008
@@ -9141,7 +9145,7 @@ msgstr "Tevi ievēlēja"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:59
 msgid "You were elected as a congress member of your country"
-msgstr "Tu tiki ievēlēts par savas valsts saeimas deputātu"
+msgstr "Tu tiki ievēlēts par savas valsts deputātu"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:52
 msgid "You were elected as president of your country"
@@ -9149,11 +9153,11 @@ msgstr "Tu tiki ievēlēts par valsts prezidentu"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:46
 msgid "You were here at the beginning of War Era"
-msgstr "Tu esi ar War Era kopš paša sākuma"
+msgstr "Tu esi ar „War Era“ kopš paša sākuma"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:236
 msgid "You were nominated as a government member of a country"
-msgstr "Tu tiki nominēts par valdības biedru valstij"
+msgstr "Tu tiki nominēts par valsts valdības biedru"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:67
 msgid "You were nominated as vice president of your country"
@@ -9239,7 +9243,7 @@ msgstr "Tavs šūnapraides paziņojums valstij..."
 #: src/components/_user/notification/notification.frontConfig.tsx:367
 #: src/components/_user/notification/notification.frontConfig.tsx:1067
 msgid "Your application to <0/> has been rejected"
-msgstr "Tavs pieteikums uz <0/> tika noraidīts"
+msgstr "Tavs pieteikums <0/> tika noraidīts"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:201
 msgid "Your article reached 2% of the active population in score (min 10)"
@@ -9252,7 +9256,7 @@ msgstr "Tavs baneris \"{0}\" tika pieņemts un tagad ir pieejams veikalā! Tas i
 
 #: src/components/_user/notification/notification.frontConfig.tsx:698
 msgid "Your buff(s) will expire in less than 1 hour. The debuff phase will begin soon."
-msgstr "Tavs pastiprinājums(i) beigsies pēc mazāk kā stundas. Drīz sāksies paģiru laiks."
+msgstr "Tavs pastiprinājums beigsies pēc mazāk kā stundas. Tad sāksies paģiras."
 
 #: src/pages/country/[countryId]/index.tsx:142
 msgid "Your citizenship is going to change"
@@ -9280,7 +9284,7 @@ msgstr "Tava darba vieta"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:149
 msgid "Your current order"
-msgstr "Tavs pašreizējais sludinājums"
+msgstr "Tavs jaunais rīkojums"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1687
 msgid "Your daily missions have been reset! Complete them to earn rewards."
@@ -9361,7 +9365,7 @@ msgstr "Tavs premium abonements ir beidzies!"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:195
 msgid "Your rank"
-msgstr "Tava vieta kopvērtējumā"
+msgstr "Tava vieta reitingā"
 
 #: src/pages/user/[userId]/referrals.tsx:94
 msgid "Your referral link"
