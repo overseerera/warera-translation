@@ -253,7 +253,7 @@ msgstr "<0/> paskelbė karą <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:661
 msgid "<0/> defended in <1/>"
-msgstr "<0/> gynėsi <1/>"
+msgstr "<0/> apsigynė <1/>"
 
 #. placeholder {0}: data.amount
 #: src/components/_user/notification/notification.frontConfig.tsx:1168
@@ -2879,15 +2879,15 @@ msgstr "Šalies karai"
 #: src/components/_user/mission/mission.frontConfig.tsx:197
 #: src/pages/user/[userId]/inventory.tsx:41
 msgid "Craft"
-msgstr "Gaminti"
+msgstr "Gaminti įrangą"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:199
 msgid "Craft <0>{count}</0> items"
-msgstr "Pagamink <0>{count}</0> daiktus"
+msgstr "Pagamink <0>{count}</0> vnt. įrangos"
 
 #: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
-msgstr "Daikto gamyba"
+msgstr "Įrangos gamyba"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
@@ -6364,7 +6364,7 @@ msgstr "Gaminti viską"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:448
 msgid "Produce items <0>{count}</0> times"
-msgstr "Pagamink daiktus <0>{count}</0> kartų"
+msgstr "Atlikti daiktų gamybą <0>{count}</0> k."
 
 #: src/utils/translations.tsx:91
 msgid "Produced from Wood"
