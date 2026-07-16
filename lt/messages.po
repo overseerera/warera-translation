@@ -7546,7 +7546,7 @@ msgstr "Prasidėjo<0/><1/>"
 
 #: src/components/_user/mission/MissionsList.tsx:205
 msgid "Starting"
-msgstr "Prasideda"
+msgstr "Pradinės"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:31
 msgid "Starting from the bottom..."
@@ -8699,7 +8699,7 @@ msgstr "Ginklai"
 #: src/components/_military/mu/MuMemberList.tsx:192
 #: src/components/_user/mission/MissionsList.tsx:193
 msgid "Weekly"
-msgstr "Savaitinis"
+msgstr "Savaitinės"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:172
 msgid "Weekly balance"
