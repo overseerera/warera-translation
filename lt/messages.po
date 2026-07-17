@@ -3075,7 +3075,7 @@ msgstr "Padaryk <0>{count}</0> žalos mūšiuose"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:123
 msgid "Deal <0>{count}</0> on country/mu orders"
-msgstr "Įvykdyk <0>{count}</0> sandorių pagal šalies / karinio vieneto užsakymus"
+msgstr "Padaryk <0>{count}</0> žalos vykdant šalies / karinio vieneto įsakymus"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:94
 msgid "Deal damage in battles to increase your military rank and unlock attack bonuses."
@@ -5364,7 +5364,7 @@ msgstr "Mėnesiniai MU lygiai"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:72
 msgid "MU Orders"
-msgstr "Karinio būrio įsakymai"
+msgstr "Karinio vieneto įsakymai"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2081
 msgid "MU Ownership Transferred"
@@ -7546,7 +7546,7 @@ msgstr "Prasidėjo<0/><1/>"
 
 #: src/components/_user/mission/MissionsList.tsx:205
 msgid "Starting"
-msgstr "Prasideda"
+msgstr "Pradinės"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:31
 msgid "Starting from the bottom..."
@@ -8699,7 +8699,7 @@ msgstr "Ginklai"
 #: src/components/_military/mu/MuMemberList.tsx:192
 #: src/components/_user/mission/MissionsList.tsx:193
 msgid "Weekly"
-msgstr "Savaitinis"
+msgstr "Savaitinės"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:172
 msgid "Weekly balance"
