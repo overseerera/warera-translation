@@ -8294,7 +8294,7 @@ msgstr "Pacchetto sbloccato"
 
 #: src/components/_user/user/UserHeader.tsx:418
 msgid "Unmuted <0/>"
-msgstr "Audio riattivato per <0/>"
+msgstr "Audio riattivato <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
